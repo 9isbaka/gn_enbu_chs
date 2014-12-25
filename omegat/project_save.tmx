@@ -36344,6 +36344,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>開放後名前</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145906Z" creationid="UUZ" creationdate="20141225T145906Z">
+        <seg>开放后名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>開花前線</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T094512Z" creationid="UUZ" creationdate="20140906T094512Z">
