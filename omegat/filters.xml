@@ -6,7 +6,8 @@
         <files sourceFilenameMask="*.sdlxliff" targetFilenamePattern="${filename}"/>
     </filter>
     <filter className="org.omegat.filters2.text.TextFilter" enabled="true">
-        <files sourceFilenameMask="*.txt" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS"/>
+        <files sourceFilenameMask="*.txt" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS"
+		targetEncoding="GBK"/>
         <files sourceFilenameMask="*.txt1" targetFilenamePattern="${filename}" sourceEncoding="ISO-8859-1" targetEncoding="ISO-8859-1"/>
         <files sourceFilenameMask="*.txt2" targetFilenamePattern="${filename}" sourceEncoding="ISO-8859-2" targetEncoding="ISO-8859-2"/>
         <files sourceFilenameMask="*.utf8" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
@@ -39,7 +40,7 @@
         <files sourceFilenameMask="*.xtg" targetFilenamePattern="${filename}" sourceEncoding="UTF-16LE" targetEncoding="UTF-16LE"/>
     </filter>
     <filter className="org.omegat.filters2.text.magento.MagentoFilter" enabled="true">
-        <files sourceFilenameMask="*.csv" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS" targetEncoding="GB2312"/>
+        <files sourceFilenameMask="*.csv" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS" targetEncoding="GBK"/>
     </filter>
     <filter className="org.omegat.filters2.pdf.PdfFilter" enabled="true">
         <files sourceFilenameMask="*.pdf" targetFilenamePattern="${nameOnly}.txt"/>
