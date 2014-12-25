@@ -26448,6 +26448,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>マップページ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145808Z" creationid="UUZ" creationdate="20141225T145808Z">
+        <seg>マップページ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>マナの恵み</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095034Z" creationid="UUZ" creationdate="20140906T095034Z">
@@ -31116,6 +31124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151843Z" creationid="UUZ" creationdate="20140904T151843Z">
         <seg>底力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>座標ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145836Z" creationid="UUZ" creationdate="20141225T145812Z">
+        <seg>坐标ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -36300,6 +36316,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133046Z" creationid="UUZ" creationdate="20140906T133046Z">
         <seg>闪光弹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>開放前</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145841Z" creationid="UUZ" creationdate="20141225T145841Z">
+        <seg>开放前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>開放前名前</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145854Z" creationid="UUZ" creationdate="20141225T145854Z">
+        <seg>开放前名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>開放後</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145849Z" creationid="UUZ" creationdate="20141225T145849Z">
+        <seg>开放后</seg>
       </tuv>
     </tu>
     <tu>
