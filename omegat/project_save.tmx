@@ -28224,6 +28224,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形説明</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T150316Z" creationid="UUZ" creationdate="20141225T150316Z">
+        <seg>人形説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人気のない道は気をつけなよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T121227Z" creationid="UUZ" creationdate="20140908T163203Z">
@@ -29164,6 +29172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T064822Z" creationid="UUZ" creationdate="20140824T160417Z">
         <seg>博丽神社后山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>博麗神社裏山の洞窟</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T150335Z" creationid="UUZ" creationdate="20141225T150335Z">
+        <seg>博丽神社后山洞穴</seg>
       </tuv>
     </tu>
     <tu>
