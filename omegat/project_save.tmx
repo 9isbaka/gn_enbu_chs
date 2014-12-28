@@ -21198,6 +21198,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T122157Z" creationid="UUZ" creationdate="20141228T122157Z">
+        <seg>index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>×</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T135434Z" creationid="UUZ" creationdate="20141209T135434Z">
