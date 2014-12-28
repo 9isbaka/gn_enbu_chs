@@ -20184,8 +20184,8 @@
       <tuv lang="JA">
         <seg>\cアヤカシの類いも・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T063350Z">
-        <seg>\c例如妖怪之类的・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100307Z" creationid="UUZ" creationdate="20140908T063350Z">
+        <seg>\c例如妖怪之类的・・・\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -20232,8 +20232,8 @@
       <tuv lang="JA">
         <seg>\c・・・そんなことを訊いて どうするのかって？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T064850Z">
-        <seg>\c・听了这个消息后你要怎么办？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100310Z" creationid="UUZ" creationdate="20140908T064850Z">
+        <seg>\c・・・听了这个消息后你要怎么办？</seg>
       </tuv>
     </tu>
     <tu>
@@ -21056,8 +21056,8 @@
       <tuv lang="JA">
         <seg>\pの手元には もう戦える人形がいない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T055228Z">
-        <seg>\p的手上已经没有可以战斗的人形了・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100241Z" creationid="UUZ" creationdate="20140908T055228Z">
+        <seg>\p的手上已经没有可以战斗的人形了・・・</seg>
       </tuv>
     </tu>
     <tu>
@@ -21144,8 +21144,8 @@
       <tuv lang="JA">
         <seg>\tは 持ち物がいっぱいで持てない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T054914Z">
-        <seg>\t 因为拿着的东西太多放不下了・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100238Z" creationid="UUZ" creationdate="20140908T054914Z">
+        <seg>\t 因为拿着的东西太多放不下了・・・</seg>
       </tuv>
     </tu>
     <tu>
@@ -22430,6 +22430,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お前 確か・・・\fが好きなやつだっけ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100313Z" creationid="UUZ" creationdate="20141228T100313Z">
+        <seg>お前 確か・・・\fが好きなやつだっけ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お前も人形遣いだな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132658Z" creationid="UUZ" creationdate="20140908T132658Z">
@@ -22664,8 +22672,8 @@
       <tuv lang="JA">
         <seg>ここで使うことはできない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T042851Z">
-        <seg>这里不能使用这个・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100229Z" creationid="UUZ" creationdate="20140908T042851Z">
+        <seg>这里不能使用这个・・・</seg>
       </tuv>
     </tu>
     <tu>
@@ -23520,8 +23528,8 @@
       <tuv lang="JA">
         <seg>どうすれば勝てたんだろう・・・？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140909T141226Z">
-        <seg>怎样才能赢呢・？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100045Z" creationid="UUZ" creationdate="20140909T141226Z">
+        <seg>怎样才能赢呢・・・？</seg>
       </tuv>
     </tu>
     <tu>
@@ -24426,8 +24434,8 @@
       <tuv lang="JA">
         <seg>わたしが負けるなんて・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140909T141209Z">
-        <seg>我竟然会输掉・。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100049Z" creationid="UUZ" creationdate="20140909T141209Z">
+        <seg>我竟然会输掉・・・。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25148,6 +25156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T135756Z" creationid="UUZ" creationdate="20140910T135756Z">
         <seg>浩一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>コチラ側の世界へ・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100317Z" creationid="UUZ" creationdate="20141228T100317Z">
+        <seg>コチラ側の世界へ・・・\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -27152,6 +27168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100214Z" creationid="UUZ" creationdate="20141228T100214Z">
+        <seg>・・・</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162342Z" creationid="UUZ" creationdate="20140909T162342Z">
@@ -27194,8 +27218,8 @@
       <tuv lang="JA">
         <seg>・・・・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T062132Z">
-        <seg>・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100252Z" creationid="UUZ" creationdate="20140908T062132Z">
+        <seg>・・・・・・\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -27210,8 +27234,8 @@
       <tuv lang="JA">
         <seg>・・・知らないかしら？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T062740Z">
-        <seg>・难道不知道吗？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100301Z" creationid="UUZ" creationdate="20140908T062740Z">
+        <seg>・・・难道不知道吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -33282,8 +33306,8 @@
       <tuv lang="JA">
         <seg>水面は静かに揺らめいている・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T042712Z">
-        <seg>水面静静的摇曳・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100225Z" creationid="UUZ" creationdate="20140908T042712Z">
+        <seg>水面静静的摇曳・・・\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -35738,8 +35762,8 @@
       <tuv lang="JA">
         <seg>負けたわ・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T060642Z">
-        <seg>输了啊・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100246Z" creationid="UUZ" creationdate="20140908T060642Z">
+        <seg>输了啊・・・</seg>
       </tuv>
     </tu>
     <tu>
@@ -36338,8 +36362,8 @@
       <tuv lang="JA">
         <seg>鍵が掛かっていて入れない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T042533Z">
-        <seg>请按住按键・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100219Z" creationid="UUZ" creationdate="20140908T042533Z">
+        <seg>请按住按键・・・</seg>
       </tuv>
     </tu>
     <tu>
