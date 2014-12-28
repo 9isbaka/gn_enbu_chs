@@ -23624,6 +23624,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なし。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T123730Z" creationid="UUZ" creationdate="20141228T123730Z">
+        <seg>无。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なにか 欲しい物があるのかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060915Z" creationid="UUZ" creationdate="20140908T060915Z">
@@ -33836,6 +33844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T132139Z" creationid="UUZ" creationdate="20140904T131644Z">
         <seg>燃烧舞动之朱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>燃え滾る朱(Trial)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T123751Z" creationid="UUZ" creationdate="20141228T123751Z">
+        <seg>燃え滾る朱(Trial)</seg>
       </tuv>
     </tu>
     <tu>
