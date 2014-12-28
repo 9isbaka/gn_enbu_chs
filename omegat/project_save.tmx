@@ -21216,8 +21216,8 @@
       <tuv lang="JA">
         <seg>……あら 人形を持っているじゃない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155010Z" creationid="UUZ" creationdate="20140909T154902Z">
-        <seg>……啊啦，没有带着人形呢。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100834Z" creationid="UUZ" creationdate="20140909T154902Z">
+        <seg>……啊啦，人形没有集齐呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23858,8 +23858,8 @@
       <tuv lang="JA">
         <seg>ふーん・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140909T154140Z">
-        <seg>呼~・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100723Z" creationid="UUZ" creationdate="20140909T154140Z">
+        <seg>呼~・・・\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -33306,8 +33306,8 @@
       <tuv lang="JA">
         <seg>水面は静かに揺らめいている・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140908T042758Z">
-        <seg>水面正在静静的摇曳・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100730Z" creationid="UUZ" creationdate="20140908T042758Z">
+        <seg>水面正在静静的摇曳・・・</seg>
       </tuv>
     </tu>
     <tu>
