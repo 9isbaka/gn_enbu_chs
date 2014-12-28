@@ -12966,6 +12966,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Item001</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125233Z" creationid="UUZ" creationdate="20141228T125233Z">
+        <seg>Item001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>Item001。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T154346Z" creationid="UUZ" creationdate="20140907T154346Z">
@@ -12974,10 +12982,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Item002</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125233Z" creationid="UUZ" creationdate="20141228T125233Z">
+        <seg>Item002</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>Item002。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T154346Z" creationid="UUZ" creationdate="20140907T154346Z">
         <seg>Item002。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item003</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125234Z" creationid="UUZ" creationdate="20141228T125234Z">
+        <seg>Item003</seg>
       </tuv>
     </tu>
     <tu>
@@ -12990,10 +13014,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Item004</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125235Z" creationid="UUZ" creationdate="20141228T125235Z">
+        <seg>Item004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>Item004。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T154348Z" creationid="UUZ" creationdate="20140907T154348Z">
         <seg>Item004。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item005</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125236Z" creationid="UUZ" creationdate="20141228T125236Z">
+        <seg>Item005</seg>
       </tuv>
     </tu>
     <tu>
@@ -13006,6 +13046,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Item006</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125236Z" creationid="UUZ" creationdate="20141228T125236Z">
+        <seg>Item006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>Item006。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T154348Z" creationid="UUZ" creationdate="20140907T154348Z">
@@ -13014,10 +13062,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Item007</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125236Z" creationid="UUZ" creationdate="20141228T125236Z">
+        <seg>Item007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>Item007。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T154348Z" creationid="UUZ" creationdate="20140907T154348Z">
         <seg>Item007。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item008</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125237Z" creationid="UUZ" creationdate="20141228T125237Z">
+        <seg>Item008</seg>
       </tuv>
     </tu>
     <tu>
@@ -13026,6 +13090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T154349Z" creationid="UUZ" creationdate="20140907T154349Z">
         <seg>Item008。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item009</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125237Z" creationid="UUZ" creationdate="20141228T125237Z">
+        <seg>Item009</seg>
       </tuv>
     </tu>
     <tu>
@@ -18754,6 +18826,78 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042324Z" creationid="UUZ" creationdate="20140908T042324Z">
         <seg>Item999。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００１。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125233Z" creationid="UUZ" creationdate="20141228T125233Z">
+        <seg>Item００１。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００２。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125234Z" creationid="UUZ" creationdate="20141228T125234Z">
+        <seg>Item００２。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125235Z" creationid="UUZ" creationdate="20141228T125235Z">
+        <seg>Item００３。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００４。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125235Z" creationid="UUZ" creationdate="20141228T125235Z">
+        <seg>Item００４。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125236Z" creationid="UUZ" creationdate="20141228T125236Z">
+        <seg>Item００５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125236Z" creationid="UUZ" creationdate="20141228T125236Z">
+        <seg>Item００６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125237Z" creationid="UUZ" creationdate="20141228T125237Z">
+        <seg>Item００７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125237Z" creationid="UUZ" creationdate="20141228T125237Z">
+        <seg>Item００８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item００９。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125238Z" creationid="UUZ" creationdate="20141228T125238Z">
+        <seg>Item００９。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25484,6 +25628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151723Z" creationid="UUZ" creationdate="20140906T151723Z">
         <seg>间隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125210Z" creationid="UUZ" creationdate="20141228T125210Z">
+        <seg>技能ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -35728,6 +35880,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>説明文。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125215Z" creationid="UUZ" creationdate="20141228T125215Z">
+        <seg>说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>誰かを恨んでるって訳ではないんだけど……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162740Z" creationid="UUZ" creationdate="20140908T162740Z">
@@ -35908,6 +36068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T150206Z" creationid="UUZ" creationdate="20140906T150206Z">
         <seg>乘务员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>転生</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T125201Z" creationid="UUZ" creationdate="20141228T125201Z">
+        <seg>转生</seg>
       </tuv>
     </tu>
     <tu>
