@@ -28920,6 +28920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>光の三妖精</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120032Z" creationid="UUZ" creationdate="20141230T120032Z">
+        <seg>光之三妖精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>光を 収束し 極大の\nレーザーを 相手に 撃つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014505Z" creationid="UUZ" creationdate="20140906T131755Z">
@@ -29036,6 +29044,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110941Z">
         <seg>八符·光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>八雲の化け猫</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115945Z" creationid="UUZ" creationdate="20141230T115945Z">
+        <seg>八云家的化猫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>八雲の式神</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115909Z" creationid="UUZ" creationdate="20141230T115909Z">
+        <seg>八云家的式神</seg>
       </tuv>
     </tu>
     <tu>
@@ -29924,6 +29948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T112116Z" creationid="UUZ" creationdate="20140906T112116Z">
         <seg>跺脚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地底の太陽</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120121Z" creationid="UUZ" creationdate="20141230T120121Z">
+        <seg>地底的太阳</seg>
       </tuv>
     </tu>
     <tu>
@@ -31324,6 +31356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115626Z" creationid="UUZ" creationdate="20141230T115626Z">
         <seg>幻想乡的巫女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想郷の賢者</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115845Z" creationid="UUZ" creationdate="20141230T115845Z">
+        <seg>幻想乡的贤者</seg>
       </tuv>
     </tu>
     <tu>
@@ -33528,6 +33568,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>氷の妖精</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120020Z" creationid="UUZ" creationdate="20141230T120020Z">
+        <seg>冰之妖精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>氷の洞窟</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142510Z" creationid="UUZ" creationdate="20140906T142510Z">
@@ -33788,6 +33836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140111Z" creationid="UUZ" creationdate="20140907T140111Z">
         <seg>激励</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>瀟洒なメイド</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120048Z" creationid="UUZ" creationdate="20141230T120048Z">
+        <seg>潇洒的女仆</seg>
       </tuv>
     </tu>
     <tu>
@@ -34884,6 +34940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161704Z" creationid="UUZ" creationdate="20141224T161704Z">
         <seg>穰子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>空</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120116Z" creationid="UUZ" creationdate="20141230T120116Z">
+        <seg>空</seg>
       </tuv>
     </tu>
     <tu>
@@ -37492,6 +37556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115750Z" creationid="UUZ" creationdate="20141230T115750Z">
         <seg>魔界的女仆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界の創造神</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115820Z" creationid="UUZ" creationdate="20141230T115820Z">
+        <seg>魔界的创造神</seg>
       </tuv>
     </tu>
     <tu>
