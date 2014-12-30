@@ -96,8 +96,8 @@
       <tuv lang="JA">
         <seg>006:玄武・河童</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T133738Z" creationid="UUZ" creationdate="20141209T133738Z">
-        <seg>006:玄武・河童</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133738Z">
+        <seg>006:玄武·河童</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,24 +120,24 @@
       <tuv lang="JA">
         <seg>009:向日葵・無縁塚他</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T133822Z" creationid="UUZ" creationdate="20141209T133822Z">
-        <seg>009:向日葵・无缘塚等</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133822Z">
+        <seg>009:向日葵·无缘塚等</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>011:廃村・天狗の里</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T133833Z" creationid="UUZ" creationdate="20141209T133833Z">
-        <seg>011:废村・天狗之里</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133833Z">
+        <seg>011:废村·天狗之里</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>012:命蓮寺・大祀廟</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T133852Z" creationid="UUZ" creationdate="20141209T133852Z">
-        <seg>012:命莲寺・大祀庙</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133852Z">
+        <seg>012:命莲寺·大祀庙</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,16 +184,16 @@
       <tuv lang="JA">
         <seg>018:阿求邸・龍神像</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T133944Z" creationid="UUZ" creationdate="20141209T133944Z">
-        <seg>018:阿求邸・龙神像</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133944Z">
+        <seg>018:阿求邸·龙神像</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>019:人里内部・休憩所</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T133944Z" creationid="UUZ" creationdate="20141209T133944Z">
-        <seg>019:人里内部・休憩所</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133944Z">
+        <seg>019:人里内部·休憩所</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,16 +208,16 @@
       <tuv lang="JA">
         <seg>020:人里内部・屋敷</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T133944Z" creationid="UUZ" creationdate="20141209T133944Z">
-        <seg>020:人里内部・屋敷</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133944Z">
+        <seg>020:人里内部·屋敷</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>021:ミズナラの木・バス内</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T134037Z" creationid="UUZ" creationdate="20141209T133945Z">
-        <seg>021:ミズナラの木・巴士内</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133945Z">
+        <seg>021:ミズナラの木·巴士内</seg>
       </tuv>
     </tu>
     <tu>
@@ -20288,8 +20288,8 @@
       <tuv lang="JA">
         <seg>\cふーん・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100429Z" creationid="UUZ" creationdate="20140909T125655Z">
-        <seg>\c呼・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T125655Z">
+        <seg>\c呼···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -20328,8 +20328,8 @@
       <tuv lang="JA">
         <seg>\cアヤカシの類いも・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100307Z" creationid="UUZ" creationdate="20140908T063350Z">
-        <seg>\c例如妖怪之类的・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T063350Z">
+        <seg>\c例如妖怪之类的···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -20352,16 +20352,16 @@
       <tuv lang="JA">
         <seg>\c・・・あたいがサイキョーじゃなくなっちゃうから 里に逃げたみんなを追っちゃダメだからな！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100446Z" creationid="UUZ" creationdate="20141228T100446Z">
-        <seg>\c・・・あたいがサイキョーじゃなくなっちゃうから 里に逃げたみんなを追っちゃダメだからな！</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20141228T100446Z">
+        <seg>\c···あたいがサイキョーじゃなくなっちゃうから 里に逃げたみんなを追っちゃダメだからな！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\c・・・え？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100521Z" creationid="UUZ" creationdate="20140909T142403Z">
-        <seg>\c・・・呃？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T142403Z">
+        <seg>\c···呃？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20384,16 +20384,16 @@
       <tuv lang="JA">
         <seg>\c・・・そんなことを訊いて どうするのかって？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100310Z" creationid="UUZ" creationdate="20140908T064850Z">
-        <seg>\c・・・听了这个消息后你要怎么办？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T064850Z">
+        <seg>\c···听了这个消息后你要怎么办？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\c・・・・・・？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100512Z" creationid="UUZ" creationdate="20140909T135829Z">
-        <seg>\c・・・・・・？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T135829Z">
+        <seg>\c···？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20440,8 +20440,8 @@
       <tuv lang="JA">
         <seg>\c人形が特別なのか いや おまえが・・・なのか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100345Z" creationid="UUZ" creationdate="20140908T073851Z">
-        <seg>\c特别的究竟是人形还是・・・你？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T073851Z">
+        <seg>\c特别的究竟是人形还是···你？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20824,8 +20824,8 @@
       <tuv lang="JA">
         <seg>\c解放戦線が里に出没したと聞いてやってきたのですが・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100533Z" creationid="UUZ" creationdate="20140909T144555Z">
-        <seg>\c虽然听说了解放战线在村里出没的消息・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T144555Z">
+        <seg>\c虽然听说了解放战线在村里出没的消息···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -21208,8 +21208,8 @@
       <tuv lang="JA">
         <seg>\pの手元には もう戦える人形がいない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100241Z" creationid="UUZ" creationdate="20140908T055228Z">
-        <seg>\p的手上已经没有可以战斗的人形了・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T055228Z">
+        <seg>\p的手上已经没有可以战斗的人形了···</seg>
       </tuv>
     </tu>
     <tu>
@@ -21296,8 +21296,8 @@
       <tuv lang="JA">
         <seg>\tは 持ち物がいっぱいで持てない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100238Z" creationid="UUZ" creationdate="20140908T054914Z">
-        <seg>\t 因为拿着的东西太多放不下了・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T054914Z">
+        <seg>\t 因为拿着的东西太多放不下了···</seg>
       </tuv>
     </tu>
     <tu>
@@ -22104,8 +22104,8 @@
       <tuv lang="JA">
         <seg>あら あなたは噂の・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100433Z" creationid="UUZ" creationdate="20140909T130222Z">
-        <seg>啊啦，你不是传闻中的・・・。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T130222Z">
+        <seg>啊啦，你不是传闻中的···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22192,8 +22192,8 @@
       <tuv lang="JA">
         <seg>あー・・・もしかして外から来たのか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100320Z" creationid="UUZ" creationdate="20140908T071443Z">
-        <seg>啊~・・・难道是从外界来的吗。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T071443Z">
+        <seg>啊~···难道是从外界来的吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22504,8 +22504,8 @@
       <tuv lang="JA">
         <seg>おまえにできることなんて・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100412Z" creationid="UUZ" creationdate="20140908T085049Z">
-        <seg>你是做不到的・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T085049Z">
+        <seg>你是做不到的···</seg>
       </tuv>
     </tu>
     <tu>
@@ -22520,8 +22520,8 @@
       <tuv lang="JA">
         <seg>おまえは・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100328Z" creationid="UUZ" creationdate="20140908T072016Z">
-        <seg>你的话・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T072016Z">
+        <seg>你的话···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -22592,8 +22592,8 @@
       <tuv lang="JA">
         <seg>お前 確か・・・\fが好きなやつだっけ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100313Z" creationid="UUZ" creationdate="20141228T100313Z">
-        <seg>お前 確か・・・\fが好きなやつだっけ？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20141228T100313Z">
+        <seg>お前 確か···\fが好きなやつだっけ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -22832,8 +22832,8 @@
       <tuv lang="JA">
         <seg>ここで使うことはできない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100229Z" creationid="UUZ" creationdate="20140908T042851Z">
-        <seg>这里不能使用这个・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T042851Z">
+        <seg>这里不能使用这个···</seg>
       </tuv>
     </tu>
     <tu>
@@ -23688,8 +23688,8 @@
       <tuv lang="JA">
         <seg>どうすれば勝てたんだろう・・・？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100045Z" creationid="UUZ" creationdate="20140909T141226Z">
-        <seg>怎样才能赢呢・・・？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T141226Z">
+        <seg>怎样才能赢呢···？</seg>
       </tuv>
     </tu>
     <tu>
@@ -23786,8 +23786,8 @@
       <tuv lang="JA">
         <seg>なにか企んで・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100331Z" creationid="UUZ" creationdate="20140908T073027Z">
-        <seg>有什么企图・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T073027Z">
+        <seg>有什么企图···</seg>
       </tuv>
     </tu>
     <tu>
@@ -24018,8 +24018,8 @@
       <tuv lang="JA">
         <seg>ふーん・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100723Z" creationid="UUZ" creationdate="20140909T154140Z">
-        <seg>呼~・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T154140Z">
+        <seg>呼~···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -24282,8 +24282,8 @@
       <tuv lang="JA">
         <seg>もう少しやれると思ったんだが・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100416Z" creationid="UUZ" creationdate="20140908T091844Z">
-        <seg>我想我可以做得更多，不过・・・。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T091844Z">
+        <seg>我想我可以做得更多，不过···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24602,8 +24602,8 @@
       <tuv lang="JA">
         <seg>わたしが負けるなんて・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100049Z" creationid="UUZ" creationdate="20140909T141209Z">
-        <seg>我竟然会输掉・・・。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T141209Z">
+        <seg>我竟然会输掉···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25146,8 +25146,8 @@
       <tuv lang="JA">
         <seg>カナ・アナベラル</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154552Z">
-        <seg>卡娜・安娜贝拉尔</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154552Z">
+        <seg>卡娜·安娜贝拉尔</seg>
       </tuv>
     </tu>
     <tu>
@@ -25330,8 +25330,8 @@
       <tuv lang="JA">
         <seg>コチラ側の世界へ・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100317Z" creationid="UUZ" creationdate="20141228T100317Z">
-        <seg>コチラ側の世界へ・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20141228T100317Z">
+        <seg>コチラ側の世界へ···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -26226,8 +26226,8 @@
       <tuv lang="JA">
         <seg>パチュリー・ノーレッジ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154556Z">
-        <seg>帕秋莉・诺蕾姬</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154556Z">
+        <seg>帕秋莉·诺蕾姬</seg>
       </tuv>
     </tu>
     <tu>
@@ -26450,8 +26450,8 @@
       <tuv lang="JA">
         <seg>フランドール・スカーレット</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154558Z">
-        <seg>芙兰朵露・斯卡蕾特</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154558Z">
+        <seg>芙兰朵露·斯卡蕾特</seg>
       </tuv>
     </tu>
     <tu>
@@ -26666,8 +26666,8 @@
       <tuv lang="JA">
         <seg>マエリベリー・ハーン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154619Z">
-        <seg>玛艾露贝莉・赫恩</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154619Z">
+        <seg>玛艾露贝莉·赫恩</seg>
       </tuv>
     </tu>
     <tu>
@@ -26738,8 +26738,8 @@
       <tuv lang="JA">
         <seg>ミスティア・ローレライ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154621Z">
-        <seg>米斯蒂娅・萝蕾拉</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154621Z">
+        <seg>米斯蒂娅·萝蕾拉</seg>
       </tuv>
     </tu>
     <tu>
@@ -26858,8 +26858,8 @@
       <tuv lang="JA">
         <seg>メディスン・メランコリー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154625Z">
-        <seg>梅蒂欣・梅兰可莉</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154625Z">
+        <seg>梅蒂欣·梅兰可莉</seg>
       </tuv>
     </tu>
     <tu>
@@ -26890,8 +26890,8 @@
       <tuv lang="JA">
         <seg>メルラン・プリズムリバー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154606Z">
-        <seg>梅露兰・普莉兹姆利巴</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154606Z">
+        <seg>梅露兰·普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -27042,8 +27042,8 @@
       <tuv lang="JA">
         <seg>リグル・ナイトバグ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154620Z">
-        <seg>莉格露・奈特巴格</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154620Z">
+        <seg>莉格露·奈特巴格</seg>
       </tuv>
     </tu>
     <tu>
@@ -27090,8 +27090,8 @@
       <tuv lang="JA">
         <seg>リリカ・プリズムリバー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154602Z">
-        <seg>莉莉卡・普莉兹姆利巴</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154602Z">
+        <seg>莉莉卡·普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -27178,8 +27178,8 @@
       <tuv lang="JA">
         <seg>ルナサ・プリズムリバー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154616Z">
-        <seg>露娜萨・普莉兹姆利巴</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154616Z">
+        <seg>露娜萨·普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -27274,8 +27274,8 @@
       <tuv lang="JA">
         <seg>レティ・ホワイトロック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154600Z">
-        <seg>蕾蒂・霍瓦特洛克</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154600Z">
+        <seg>蕾蒂·霍瓦特洛克</seg>
       </tuv>
     </tu>
     <tu>
@@ -27298,8 +27298,8 @@
       <tuv lang="JA">
         <seg>レミリア・スカーレット</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154557Z">
-        <seg>蕾米莉亚・斯卡蕾特</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154557Z">
+        <seg>蕾米莉亚·斯卡蕾特</seg>
       </tuv>
     </tu>
     <tu>
@@ -27346,8 +27346,8 @@
       <tuv lang="JA">
         <seg>・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100214Z" creationid="UUZ" creationdate="20141228T100214Z">
-        <seg>・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20141228T100214Z">
+        <seg>···</seg>
       </tuv>
     </tu>
     <tu>
@@ -27370,16 +27370,16 @@
       <tuv lang="JA">
         <seg>・・・ところで リグルが見つかったって人間って アイツ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100440Z" creationid="UUZ" creationdate="20140909T134705Z">
-        <seg>・・・说起来，发现莉格露的人类是那家伙吗？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T134705Z">
+        <seg>···说起来，发现莉格露的人类是那家伙吗？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>・・・なるほど。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100350Z" creationid="UUZ" creationdate="20140908T074615Z">
-        <seg>・・・原来如此。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T074615Z">
+        <seg>···原来如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27394,32 +27394,32 @@
       <tuv lang="JA">
         <seg>・・・・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100252Z" creationid="UUZ" creationdate="20140908T062132Z">
-        <seg>・・・・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155432Z" creationid="UUZ" creationdate="20140908T062132Z">
+        <seg>······\b</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>・・・・・・・・・・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100407Z" creationid="UUZ" creationdate="20140908T084155Z">
-        <seg>・・・・・・・・・・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155502Z" creationid="UUZ" creationdate="20140908T084155Z">
+        <seg>············</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>・・・知らないかしら？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100301Z" creationid="UUZ" creationdate="20140908T062740Z">
-        <seg>・・・难道不知道吗？</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T062740Z">
+        <seg>···难道不知道吗？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>・・・行っちゃいましたね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100420Z" creationid="UUZ" creationdate="20140908T094938Z">
-        <seg>・・・走掉了呢。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T094938Z">
+        <seg>···走掉了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27466,8 +27466,8 @@
       <tuv lang="JA">
         <seg>一符・炎</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110614Z">
-        <seg>一符・炎</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110614Z">
+        <seg>一符·炎</seg>
       </tuv>
     </tu>
     <tu>
@@ -27522,8 +27522,8 @@
       <tuv lang="JA">
         <seg>七符・雷</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T110831Z" creationid="UUZ" creationdate="20140907T110831Z">
-        <seg>七符・雷</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110831Z">
+        <seg>七符·雷</seg>
       </tuv>
     </tu>
     <tu>
@@ -27586,8 +27586,8 @@
       <tuv lang="JA">
         <seg>三符・自然</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110634Z">
-        <seg>三符・自然</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110634Z">
+        <seg>三符·自然</seg>
       </tuv>
     </tu>
     <tu>
@@ -27746,8 +27746,8 @@
       <tuv lang="JA">
         <seg>九符・闇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110946Z">
-        <seg>九符・暗</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110946Z">
+        <seg>九符·暗</seg>
       </tuv>
     </tu>
     <tu>
@@ -27818,8 +27818,8 @@
       <tuv lang="JA">
         <seg>二符・水</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110623Z">
-        <seg>二符・水</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110623Z">
+        <seg>二符·水</seg>
       </tuv>
     </tu>
     <tu>
@@ -27842,8 +27842,8 @@
       <tuv lang="JA">
         <seg>五符・鋼鉄</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110706Z">
-        <seg>五符・钢铁</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110706Z">
+        <seg>五符·钢铁</seg>
       </tuv>
     </tu>
     <tu>
@@ -28410,8 +28410,8 @@
       <tuv lang="JA">
         <seg>人形を操るのがお得意とか・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100436Z" creationid="UUZ" creationdate="20140909T132240Z">
-        <seg>说是很擅长操纵人形之类的・・・。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T132240Z">
+        <seg>说是很擅长操纵人形之类的···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29018,8 +29018,8 @@
       <tuv lang="JA">
         <seg>八符・光</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110941Z">
-        <seg>八符・光</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110941Z">
+        <seg>八符·光</seg>
       </tuv>
     </tu>
     <tu>
@@ -29066,8 +29066,8 @@
       <tuv lang="JA">
         <seg>六符・風</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110825Z">
-        <seg>六符・风</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110825Z">
+        <seg>六符·风</seg>
       </tuv>
     </tu>
     <tu>
@@ -29258,8 +29258,8 @@
       <tuv lang="JA">
         <seg>十一符・毒</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110958Z">
-        <seg>十一符・毒</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110958Z">
+        <seg>十一符·毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -29274,8 +29274,8 @@
       <tuv lang="JA">
         <seg>十三符・幻</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T141046Z">
-        <seg>十三符・幻</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T141046Z">
+        <seg>十三符·幻</seg>
       </tuv>
     </tu>
     <tu>
@@ -29290,8 +29290,8 @@
       <tuv lang="JA">
         <seg>十二符・闘</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T141052Z">
-        <seg>十二符・斗</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T141052Z">
+        <seg>十二符·斗</seg>
       </tuv>
     </tu>
     <tu>
@@ -29314,8 +29314,8 @@
       <tuv lang="JA">
         <seg>十四符・音</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T140957Z">
-        <seg>十四符・音</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T140957Z">
+        <seg>十四符·音</seg>
       </tuv>
     </tu>
     <tu>
@@ -29346,8 +29346,8 @@
       <tuv lang="JA">
         <seg>十符・冥</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T141127Z">
-        <seg>十符・冥</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T141127Z">
+        <seg>十符·冥</seg>
       </tuv>
     </tu>
     <tu>
@@ -29826,8 +29826,8 @@
       <tuv lang="JA">
         <seg>四季映姫・ヤマザナドゥ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154626Z">
-        <seg>四季映姬・亚玛萨那度</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154626Z">
+        <seg>四季映姬·亚玛萨那度</seg>
       </tuv>
     </tu>
     <tu>
@@ -29850,8 +29850,8 @@
       <tuv lang="JA">
         <seg>四符・大地</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T110644Z">
-        <seg>四符・大地</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110644Z">
+        <seg>四符·大地</seg>
       </tuv>
     </tu>
     <tu>
@@ -30066,8 +30066,8 @@
       <tuv lang="JA">
         <seg>夜だったら調子よかったのにぃ・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100517Z" creationid="UUZ" creationdate="20140909T141759Z">
-        <seg>明明晚上的时候音调很好的・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T141759Z">
+        <seg>明明晚上的时候音调很好的···</seg>
       </tuv>
     </tu>
     <tu>
@@ -31290,8 +31290,8 @@
       <tuv lang="JA">
         <seg>幻想郷というのですけれど・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100354Z" creationid="UUZ" creationdate="20140908T080311Z">
-        <seg>虽然被称之为幻想乡就是了・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T080311Z">
+        <seg>虽然被称之为幻想乡就是了···</seg>
       </tuv>
     </tu>
     <tu>
@@ -31506,8 +31506,8 @@
       <tuv lang="JA">
         <seg>影響が出ないようにしているはずなんですが・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100358Z" creationid="UUZ" creationdate="20140908T081730Z">
-        <seg>但影响应该不会波及到外面・・・。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T081730Z">
+        <seg>但影响应该不会波及到外面···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33178,8 +33178,8 @@
       <tuv lang="JA">
         <seg>次のバスは・・・三時間後だ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100609Z" creationid="UUZ" creationdate="20140908T124731Z">
-        <seg>下一班的公交・・・在三个小时后。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T124731Z">
+        <seg>下一班的公交···在三个小时后。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33474,16 +33474,16 @@
       <tuv lang="JA">
         <seg>水面は静かに揺らめいている・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100730Z" creationid="UUZ" creationdate="20140908T042758Z">
-        <seg>水面正在静静的摇曳・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T042758Z">
+        <seg>水面正在静静的摇曳···</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>水面は静かに揺らめいている・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100225Z" creationid="UUZ" creationdate="20140908T042712Z">
-        <seg>水面静静的摇曳・・・\b</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T042712Z">
+        <seg>水面静静的摇曳···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -34290,8 +34290,8 @@
       <tuv lang="JA">
         <seg>異変を解決するために出払っていますし・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100402Z" creationid="UUZ" creationdate="20140908T084122Z">
-        <seg>为了解决异变而出去了・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T084122Z">
+        <seg>为了解决异变而出去了···</seg>
       </tuv>
     </tu>
     <tu>
@@ -35818,8 +35818,8 @@
       <tuv lang="JA">
         <seg>言うことを聞かないはずなんだが・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100337Z" creationid="UUZ" creationdate="20140908T073754Z">
-        <seg>虽然应该没有听说过，但是・・・。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T073754Z">
+        <seg>虽然应该没有听说过，但是···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35954,8 +35954,8 @@
       <tuv lang="JA">
         <seg>負けたわ・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100246Z" creationid="UUZ" creationdate="20140908T060642Z">
-        <seg>输了啊・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T060642Z">
+        <seg>输了啊···</seg>
       </tuv>
     </tu>
     <tu>
@@ -36418,8 +36418,8 @@
       <tuv lang="JA">
         <seg>鈴仙・優曇華院・イナバ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095935Z" creationid="UUZ" creationdate="20140907T154623Z">
-        <seg>铃仙・优昙华院・因幡</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154623Z">
+        <seg>铃仙·优昙华院·因幡</seg>
       </tuv>
     </tu>
     <tu>
@@ -36562,8 +36562,8 @@
       <tuv lang="JA">
         <seg>鍵が掛かっていて入れない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100219Z" creationid="UUZ" creationdate="20140908T042533Z">
-        <seg>请按住按键・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T042533Z">
+        <seg>请按住按键···</seg>
       </tuv>
     </tu>
     <tu>
@@ -36994,8 +36994,8 @@
       <tuv lang="JA">
         <seg>霊夢さんを怒らせると・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T100425Z" creationid="UUZ" creationdate="20140908T112505Z">
-        <seg>惹灵梦生气的话・・・</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T112505Z">
+        <seg>惹灵梦生气的话···</seg>
       </tuv>
     </tu>
     <tu>
