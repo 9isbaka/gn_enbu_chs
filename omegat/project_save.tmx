@@ -26424,6 +26424,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>フラワーマスター</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115612Z" creationid="UUZ" creationdate="20141230T115612Z">
+        <seg>鲜花之主</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フラン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161432Z" creationid="UUZ" creationdate="20141224T161432Z">
@@ -27476,6 +27484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T153213Z" creationid="UUZ" creationdate="20140909T153213Z">
         <seg>普通人在周围转来转去！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>一輪</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115531Z" creationid="UUZ" creationdate="20141230T115531Z">
+        <seg>一轮</seg>
       </tuv>
     </tu>
     <tu>
@@ -30104,6 +30120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>夢幻姉妹の</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115711Z" creationid="UUZ" creationdate="20141230T115711Z">
+        <seg>梦幻姐妹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>夢幻泡影</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T124238Z" creationid="UUZ" creationdate="20140907T124238Z">
@@ -31296,6 +31320,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想郷の巫女</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115626Z" creationid="UUZ" creationdate="20141230T115626Z">
+        <seg>幻想乡的巫女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想郷直撃タイフーン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T122434Z" creationid="UUZ" creationdate="20140906T122434Z">
@@ -31308,6 +31340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144013Z" creationid="UUZ" creationdate="20140906T144013Z">
         <seg>幻月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻月・夢月</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115655Z" creationid="UUZ" creationdate="20141230T115655Z">
+        <seg>幻月·梦月</seg>
       </tuv>
     </tu>
     <tu>
@@ -37444,6 +37484,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142820Z" creationid="UUZ" creationdate="20140906T142820Z">
         <seg>魔界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界のメイド</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115750Z" creationid="UUZ" creationdate="20141230T115750Z">
+        <seg>魔界的女仆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界の門番</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115727Z" creationid="UUZ" creationdate="20141230T115727Z">
+        <seg>魔界的守门人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界の魔法使い</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115738Z" creationid="UUZ" creationdate="20141230T115738Z">
+        <seg>魔界的魔法使</seg>
       </tuv>
     </tu>
     <tu>
