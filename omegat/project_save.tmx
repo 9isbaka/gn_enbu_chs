@@ -23968,8 +23968,8 @@
       <tuv lang="JA">
         <seg>\c私はここのお留守番を頼まれているので一緒にはいけませんが 人形がいれば大丈夫です。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T101052Z" creationid="UUZ" creationdate="20140908T101052Z">
-        <seg>\c我因为被拜托在这里看家所以不能一起去，不过有人形在就没问题了。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T132141Z" creationid="UUZ" creationdate="20140908T101052Z">
+        <seg>\c我因为被拜托在这里看家所以不能一起去，\n不过有人形在就没问题了。</seg>
       </tuv>
     </tu>
     <tu>
