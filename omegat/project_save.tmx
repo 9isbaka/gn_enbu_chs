@@ -38170,8 +38170,8 @@
       <tuv lang="JA">
         <seg>私は\pさんに人形がなついたことが気になるんですよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T095252Z" creationid="UUZ" creationdate="20140908T095252Z">
-        <seg>我对\n驯服人形的事很在意呢。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T143243Z" creationid="UUZ" creationdate="20140908T095252Z">
+        <seg>我对\p驯服人形的事很在意呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39564,6 +39564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155134Z" creationid="UUZ" creationdate="20140824T155134Z">
         <seg>迷途竹林,chikurin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>迷ってしまったよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T143153Z" creationid="UUZ" creationdate="20141230T143153Z">
+        <seg>迷ってしまったよ。</seg>
       </tuv>
     </tu>
     <tu>
