@@ -33360,6 +33360,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>反動スキルの 反動ダメージを受けない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092539Z" creationid="土妹子" creationdate="20141231T092539Z">
+        <seg>不会受到反伤技能的反弹伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>反動スキルの 威力が１.２倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092559Z" creationid="土妹子" creationdate="20141231T092559Z">
+        <seg>反伤技能的威力变为１.２倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>反動ダメージ1/2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141629Z" creationid="UUZ" creationdate="20140904T141629Z">
@@ -33372,6 +33388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141622Z" creationid="UUZ" creationdate="20140904T141622Z">
         <seg>反噬伤害1/3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>反動相殺</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092520Z" creationid="土妹子" creationdate="20141231T092520Z">
+        <seg>抵消后座力</seg>
       </tuv>
     </tu>
     <tu>
@@ -39240,6 +39264,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>狙い撃ち</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092447Z" creationid="土妹子" creationdate="20141231T092447Z">
+        <seg>狙击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>猛毒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134558Z" creationid="土妹子" creationdate="20141230T134558Z">
@@ -39468,6 +39500,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154554Z" creationid="UUZ" creationdate="20140909T154554Z">
         <seg>就算你喊破喉咙也不会有人来帮你的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>痛烈な一撃が でやすくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092444Z" creationid="土妹子" creationdate="20141231T092444Z">
+        <seg>容易发出痛烈的一击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>痛烈な一撃の 威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092457Z" creationid="土妹子" creationdate="20141231T092457Z">
+        <seg>痛烈的一击威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>痛烈な一撃を受けた時 集弾が最大まで上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092513Z" creationid="土妹子" creationdate="20141231T092513Z">
+        <seg>受到痛烈的一击时，集弹上升到最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>癇癪持ち</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092501Z" creationid="土妹子" creationdate="20141231T092501Z">
+        <seg>暴躁</seg>
       </tuv>
     </tu>
     <tu>
@@ -42514,8 +42578,8 @@
       <tuv lang="JA">
         <seg>集中スキルを受けた時 集防が一段階下がり 俊敏が一段階上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092246Z" creationid="土妹子" creationdate="20141231T092246Z">
-        <seg>受到集中技能时，集防下降１段而敏捷上升</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092431Z" creationid="土妹子" creationdate="20141231T092246Z">
+        <seg>受到集中技能时，集防下降１段而敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
