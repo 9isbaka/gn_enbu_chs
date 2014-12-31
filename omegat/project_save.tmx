@@ -25078,6 +25078,46 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★自分と相手を破滅状態にする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101324Z" creationid="土妹子" creationdate="20141231T101324Z">
+        <seg>★使自身和对手陷入破灭状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の5ステ+命中回避からランダムに2段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101355Z" creationid="土妹子" creationdate="20141231T101355Z">
+        <seg>★自身的五围和命中回避中随机一项上升２段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の5ステからランダムに1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101420Z" creationid="土妹子" creationdate="20141231T101420Z">
+        <seg>★自身的五围中随机一项上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分のHPを最大HPの半分減　自分の集弾を最大まで上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101452Z" creationid="土妹子" creationdate="20141231T101452Z">
+        <seg>★自身的ＨＰ减少最大ＨＰ的一半，集弹上升到最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分のアビリティを相手と同じにする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101508Z" creationid="土妹子" creationdate="20141231T101508Z">
+        <seg>★自身的特性变为和对手相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★自分の俊敏1段上昇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T140842Z">
@@ -25090,6 +25130,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T141346Z">
         <seg>★自己的敏捷上升了2级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の回避1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101524Z" creationid="土妹子" creationdate="20141231T101524Z">
+        <seg>★自身的回避上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の回避2段上昇「カモフラージュ」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101554Z" creationid="土妹子" creationdate="20141231T101554Z">
+        <seg>★自身的回避上升２段「迷彩」</seg>
       </tuv>
     </tu>
     <tu>
