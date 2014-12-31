@@ -25200,16 +25200,24 @@
       <tuv lang="JA">
         <seg>★自分の散防1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141223Z" creationid="UUZ" creationdate="20140904T140831Z">
-        <seg>★自己的散防上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111153Z" creationid="UUZ" creationdate="20140904T140831Z">
+        <seg>★自身的散防上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の散防2段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141344Z" creationid="UUZ" creationdate="20140904T141344Z">
-        <seg>★自己的散防上升了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111203Z" creationid="UUZ" creationdate="20140904T141344Z">
+        <seg>★自身的散防上升２段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の散防ランクを1段階上昇させる　次のターン自分の雷属性のスキルの威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111224Z" creationid="土妹子" creationdate="20141231T111224Z">
+        <seg>★自身的散防上升１段，下回合自身的雷属性技能威力翻倍</seg>
       </tuv>
     </tu>
     <tu>
@@ -25242,6 +25250,46 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141333Z" creationid="UUZ" creationdate="20140904T141333Z">
         <seg>★自己的集弾上升了2级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の集弾・散弾ランクを1段階上昇させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111301Z" creationid="土妹子" creationdate="20141231T111301Z">
+        <seg>★自身的集弹、散弹上升１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の集弾・散弾・俊敏2段上昇、集防・散防１段低下</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111249Z" creationid="土妹子" creationdate="20141231T111249Z">
+        <seg>★自身的集弹、散弹、敏捷上升２段，集防、散防下降１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の集弾・集防1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111342Z" creationid="土妹子" creationdate="20141231T111342Z">
+        <seg>★自身的集弹、集防上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の集弾・集防1段上昇、俊敏１段低下</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111358Z" creationid="土妹子" creationdate="20141231T111358Z">
+        <seg>★自身的集弹、集防上升１段，敏捷下降１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の集弾・集防・命中1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111329Z" creationid="土妹子" creationdate="20141231T111329Z">
+        <seg>★自身的集弹、集防、命中上升１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -38252,6 +38300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T135631Z" creationid="UUZ" creationdate="20140910T135631Z">
         <seg>普通的魔法使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>晴れ時2段階</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111315Z" creationid="土妹子" creationdate="20141231T111315Z">
+        <seg>晴天时上升２段</seg>
       </tuv>
     </tu>
     <tu>
