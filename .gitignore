@@ -1,3 +1,17 @@
+*.idb
+*.exe
+*.tmx
+*.bin
+Thumbs.db
+
+*.png
+*.fmf
+*.wav
+*.evs
+*.obs
+*.ogg
+*.chp
+
 old/*
 dictionary/*
 glossary/*
@@ -6,18 +20,10 @@ omegat/*
 
 game/dat/
 game/save/
-game/target/
 omegat/last_entry.txt
 omegat/project_stats.txt
 omegat/files_order.txt
 omegat/last_entry.properties
-
-*.idb
-*.exe
-/*.tmx
-*.bin
-Thumbs.db
-
 !omegat/segmentation.conf
 !omegat/project_save.tmx
 !omegat/filters.xml
