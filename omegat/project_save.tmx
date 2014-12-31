@@ -33424,6 +33424,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>収集癖</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092940Z" creationid="土妹子" creationdate="20141231T092940Z">
+        <seg>收集癖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>取扱注意。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142511Z" creationid="UUZ" creationdate="20140907T142511Z">
@@ -37056,10 +37064,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>持ち腐れ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092803Z" creationid="土妹子" creationdate="20141231T092749Z">
+        <seg>束之高阁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>持っていると属性相性で無効のスキルが当たるようになる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T034823Z" creationid="UUZ" creationdate="20140908T034823Z">
         <seg>持有时属性相性无效的技能变得相当。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持っている装飾品がなくなった時 俊敏が２倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092850Z" creationid="土妹子" creationdate="20141231T092850Z">
+        <seg>失去携带的装饰品时，敏捷变为２倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持っている装飾品の 効果を受けない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092817Z" creationid="土妹子" creationdate="20141231T092817Z">
+        <seg>不会受到携带的装饰品的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持っている装飾品をとられない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092950Z" creationid="土妹子" creationdate="20141231T092950Z">
+        <seg>携带的装饰品不会被取走。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40192,6 +40232,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>窃盗癖</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092900Z" creationid="土妹子" creationdate="20141231T092900Z">
+        <seg>盗窃癖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>竹炭で焼かれた堅焼き煎餅。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T150615Z" creationid="UUZ" creationdate="20140907T143110Z">
@@ -41224,6 +41272,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>装飾品が無い時に攻撃スキルを当てると 相手の装飾品を奪う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092936Z" creationid="土妹子" creationdate="20141231T092936Z">
+        <seg>没有装饰品时，攻击技能命中时夺取对手的装饰品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>装飾品は 人形に持たせて使わせるんだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T154049Z" creationid="UUZ" creationdate="20140908T154049Z">
@@ -41588,6 +41644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T033131Z" creationid="UUZ" creationdate="20140908T033131Z">
         <seg>替身木札</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>身軽</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092829Z" creationid="土妹子" creationdate="20141231T092829Z">
+        <seg>身轻</seg>
       </tuv>
     </tu>
     <tu>
