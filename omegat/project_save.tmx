@@ -28136,6 +28136,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アーマーパージ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092115Z" creationid="土妹子" creationdate="20141231T092115Z">
+        <seg>爆甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>イマジネイト</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T132041Z" creationid="UUZ" creationdate="20140907T132041Z">
@@ -28980,6 +28988,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T012541Z" creationid="UUZ" creationdate="20140904T134059Z">
         <seg>技能追加效果发动几率上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルを結界で阻んだ時 相手の散弾一段階低下させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092055Z" creationid="土妹子" creationdate="20141231T092055Z">
+        <seg>结界阻挡了技能时，降低对手的散弹１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルを結界で阻んだ時 相手の集弾一段階低下させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092045Z" creationid="土妹子" creationdate="20141231T092045Z">
+        <seg>结界阻挡了技能时，降低对手的集弹１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34720,6 +34744,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>威力８０以上のスキルを受けた時 相手の俊敏を一段階低下させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T091836Z" creationid="土妹子" creationdate="20141231T091836Z">
+        <seg>受到威力80以上的技能时，降低对手的敏捷１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>威力９０以上のスキルで自身が戦闘不能になったとき 弾幕を撃ち返す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031433Z" creationid="土妹子" creationdate="20141231T031433Z">
@@ -35744,6 +35776,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>弾幕を介して 感染症を広げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092112Z" creationid="土妹子" creationdate="20141231T092112Z">
+        <seg>通过弹幕扩散传染病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>弾幕オーケストラ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T134850Z" creationid="UUZ" creationdate="20140907T134850Z">
@@ -36092,6 +36132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141500Z" creationid="UUZ" creationdate="20140906T141500Z">
         <seg>感染</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>感染症</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092104Z" creationid="土妹子" creationdate="20141231T092104Z">
+        <seg>传染病</seg>
       </tuv>
     </tu>
     <tu>
@@ -37060,6 +37108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161843Z" creationid="UUZ" creationdate="20140904T161843Z">
         <seg>摩擦热</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>撹乱</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092050Z" creationid="土妹子" creationdate="20141231T092050Z">
+        <seg>搅乱</seg>
       </tuv>
     </tu>
     <tu>
@@ -38068,6 +38124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T012053Z" creationid="UUZ" creationdate="20140908T012053Z">
         <seg>护理之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気勢崩し</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092012Z" creationid="土妹子" creationdate="20141231T092012Z">
+        <seg>破坏气势</seg>
       </tuv>
     </tu>
     <tu>
@@ -42444,6 +42508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031933Z" creationid="土妹子" creationdate="20141231T031933Z">
         <seg>受到集中技能时，有３成几率使对手麻痹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>集中スキルを受けた時 集防が一段階下がり 俊敏が一段階上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092246Z" creationid="土妹子" creationdate="20141231T092246Z">
+        <seg>受到集中技能时，集防下降１段而敏捷上升</seg>
       </tuv>
     </tu>
     <tu>
