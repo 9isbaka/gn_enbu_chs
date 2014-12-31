@@ -25006,6 +25006,78 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★自分すべての人形の状態異常を治す</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100956Z" creationid="土妹子" creationdate="20141231T100956Z">
+        <seg>★治疗我方全部人形的异常状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手のアビリティを入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101013Z" creationid="土妹子" creationdate="20141231T101013Z">
+        <seg>★交换自身和对手的特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手の人形の能力ランクを元に戻す</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101219Z" creationid="土妹子" creationdate="20141231T101219Z">
+        <seg>★双方人形的能力等级全部归零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手の現在HPを平均する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101030Z" creationid="土妹子" creationdate="20141231T101030Z">
+        <seg>★平分自身和对手的现有ＨＰ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手の装飾品を入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101231Z" creationid="土妹子" creationdate="20141231T101231Z">
+        <seg>★交换自身和对手的装饰品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手の集弾と散弾を平均する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101128Z" creationid="土妹子" creationdate="20141231T101128Z">
+        <seg>★平分自身和对手的集弹和散弹数值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手の集弾・散弾ランクを入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101114Z" creationid="土妹子" creationdate="20141231T101114Z">
+        <seg>★交换自身和对手的集弹、散弹能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手の集防・散防を平均する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101200Z" creationid="土妹子" creationdate="20141231T101200Z">
+        <seg>★平分自身和对手的集防和散防数值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分と相手の集防・散防ランクを入れ替える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101146Z" creationid="土妹子" creationdate="20141231T101146Z">
+        <seg>★交换自身和对手的集防、散防能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★自分の俊敏1段上昇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T140842Z">
