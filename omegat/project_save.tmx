@@ -25120,16 +25120,16 @@
       <tuv lang="JA">
         <seg>★自分の俊敏1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T140842Z">
-        <seg>★自己的敏捷上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121257Z" creationid="UUZ" creationdate="20140904T140842Z">
+        <seg>★自身的敏捷上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の俊敏2段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T141346Z">
-        <seg>★自己的敏捷上升了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121330Z" creationid="UUZ" creationdate="20140904T141346Z">
+        <seg>★自身的敏捷上升２段</seg>
       </tuv>
     </tu>
     <tu>
@@ -25146,6 +25146,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101554Z" creationid="土妹子" creationdate="20141231T101554Z">
         <seg>★自身的回避上升２段「迷彩」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の場にＦバリア効果（相手の拡散スキル半減）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121410Z" creationid="土妹子" creationdate="20141231T121410Z">
+        <seg>★我方场上造成Ｆ屏障效果（对手的扩散技能伤害减半）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の場にＦプロテクト効果（相手の集弾スキル半減）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121420Z" creationid="土妹子" creationdate="20141231T121420Z">
+        <seg>★我方场上造成Ｆ保护效果（对手的集中技能伤害减半）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25226,6 +25242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101606Z" creationid="土妹子" creationdate="20141231T101606Z">
         <seg>★自身回复最大ＨＰ的５０％</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の状態異常を相手にうつし自分は回復する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121449Z" creationid="土妹子" creationdate="20141231T121449Z">
+        <seg>★将自身的异常状态移到对手身上而自己回复异常</seg>
       </tuv>
     </tu>
     <tu>
@@ -25328,16 +25352,24 @@
       <tuv lang="JA">
         <seg>★自分の集防1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141217Z" creationid="UUZ" creationdate="20140904T140753Z">
-        <seg>★自己的集防上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121234Z" creationid="UUZ" creationdate="20140904T140753Z">
+        <seg>★自身的集防上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の集防2段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141336Z" creationid="UUZ" creationdate="20140904T141336Z">
-        <seg>★自己的集防上升了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121242Z" creationid="UUZ" creationdate="20140904T141336Z">
+        <seg>★自身的集防上升２段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の集防3段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121250Z" creationid="土妹子" creationdate="20141231T121250Z">
+        <seg>★自身的集防上升３段</seg>
       </tuv>
     </tu>
     <tu>
