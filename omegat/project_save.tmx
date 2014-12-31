@@ -24806,6 +24806,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★次のターン終了時に相手を停止状態に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100725Z" creationid="土妹子" creationdate="20141231T100725Z">
+        <seg>★下回合结束时对对手造成停止状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★次の行動までに相手のスキルで倒れた場合 相手に999ダメージ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095914Z" creationid="土妹子" creationdate="20141231T095914Z">
@@ -24978,6 +24986,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141037Z" creationid="UUZ" creationdate="20140904T141037Z">
         <seg>★对手麻痹中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分が停止状態でない時失敗。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100740Z" creationid="土妹子" creationdate="20141231T100740Z">
+        <seg>★自身不在停止状态下时会失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分が瀕死になるかわりに次に出す人形の状態異常とHPとPPが全快する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100842Z" creationid="土妹子" creationdate="20141231T100842Z">
+        <seg>★使自身濒死，完全回复接下来出场的人形的状态异常、ＨＰ和ＰＰ</seg>
       </tuv>
     </tu>
     <tu>
@@ -41740,6 +41764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014210Z" creationid="UUZ" creationdate="20140904T154854Z">
         <seg>在自己周围展开障壁以提高散防</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分のスキルのうち1つをランダムで使う</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100755Z" creationid="土妹子" creationdate="20141231T100755Z">
+        <seg>从自身的技能中随机选取一个使用</seg>
       </tuv>
     </tu>
     <tu>
