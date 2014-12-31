@@ -25152,16 +25152,48 @@
       <tuv lang="JA">
         <seg>★自分の散弾1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141220Z" creationid="UUZ" creationdate="20140904T140826Z">
-        <seg>★自己的散弹上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101657Z" creationid="UUZ" creationdate="20140904T140826Z">
+        <seg>★自身的散弹上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の散弾2段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141339Z" creationid="UUZ" creationdate="20140904T141339Z">
-        <seg>★自己的散弹上升了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101706Z" creationid="UUZ" creationdate="20140904T141339Z">
+        <seg>★自身的散弹上升２段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の散弾3段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101716Z" creationid="土妹子" creationdate="20141231T101716Z">
+        <seg>★自身的散弹上升３段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の散弾・俊敏1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101648Z" creationid="土妹子" creationdate="20141231T101648Z">
+        <seg>★自身的散弹、敏捷上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の散弾・散防1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101635Z" creationid="土妹子" creationdate="20141231T101635Z">
+        <seg>★自身的散弹、散防上升一段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の散弾・散防・俊敏1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101621Z" creationid="土妹子" creationdate="20141231T101621Z">
+        <seg>★自身的散弹、散防、敏捷上升１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -25178,6 +25210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141344Z" creationid="UUZ" creationdate="20140904T141344Z">
         <seg>★自己的散防上升了2级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の最大HPの50％回復</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101606Z" creationid="土妹子" creationdate="20141231T101606Z">
+        <seg>★自身回复最大ＨＰ的５０％</seg>
       </tuv>
     </tu>
     <tu>
