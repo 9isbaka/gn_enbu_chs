@@ -24734,10 +24734,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★交代不可効果</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095935Z" creationid="土妹子" creationdate="20141231T095935Z">
+        <seg>★无法交换效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★使ったターン スキルを防ぐ（防御結界）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095737Z" creationid="土妹子" creationdate="20141231T095737Z">
         <seg>★在使用的回合防住技能（防御结界）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★再生回復　そのターン風属性を失う</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095954Z" creationid="土妹子" creationdate="20141231T095954Z">
+        <seg>★再生恢复，在当回合失去风属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★吸収効果　自然属性に無効</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095927Z" creationid="土妹子" creationdate="20141231T095927Z">
+        <seg>★吸收效果，对自然属性无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -24762,6 +24786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141646Z" creationid="UUZ" creationdate="20140904T141646Z">
         <seg>★恢复最大HP的50％</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★次の行動までに相手のスキルで倒れた場合 相手に999ダメージ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095914Z" creationid="土妹子" creationdate="20141231T095914Z">
+        <seg>★到下次行动为止，被对手的技能击倒时，对对手造成９９９伤害</seg>
       </tuv>
     </tu>
     <tu>
