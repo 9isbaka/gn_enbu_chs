@@ -27104,6 +27104,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんらかの地相状態の時 集防・散防が２倍になり 状態異常にかからない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094845Z" creationid="土妹子" creationdate="20141231T094845Z">
+        <seg>在某些地相状态时，集防和散防翻倍，并且不会受到异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんらかの気象状態の時 集弾・集防・散弾・散防が２倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094807Z" creationid="土妹子" creationdate="20141231T094807Z">
+        <seg>在某些气象状态时，集弹、集防、散弹、散防翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>にとり</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140202Z" creationid="UUZ" creationdate="20140904T140202Z">
@@ -34264,6 +34280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>境界へと至る病</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094743Z" creationid="土妹子" creationdate="20141231T094743Z">
+        <seg>通往境界之病</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>壁にぶつかる</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134327Z" creationid="土妹子" creationdate="20141230T134327Z">
@@ -40996,6 +41020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142455Z" creationid="UUZ" creationdate="20140907T142455Z">
         <seg>能卖出好价钱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>結界の守護</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094810Z" creationid="土妹子" creationdate="20141231T094810Z">
+        <seg>结界的守护</seg>
       </tuv>
     </tu>
     <tu>
