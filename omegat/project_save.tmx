@@ -24838,6 +24838,62 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★状態変化1/4ダメージ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121623Z" creationid="土妹子" creationdate="20141231T121623Z">
+        <seg>★状态变化：１／４伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手が使おうとしている攻撃スキルをダメージを1.5倍にして使う　後攻になると失敗</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121717Z" creationid="土妹子" creationdate="20141231T121717Z">
+        <seg>★以１.５倍伤害使出对手将要使用的技能，后攻时会失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手が最後に使ったスキルを4ターンの間 使えなくする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121640Z" creationid="土妹子" creationdate="20141231T121640Z">
+        <seg>★对手最后使用的技能在４回合间不能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手が次の行動をするまで相手のスキルは雷属性になる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121737Z" creationid="土妹子" creationdate="20141231T121737Z">
+        <seg>★直到对手下次行动为止，对手的技能变为雷属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手のアビリティを活発にする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121748Z" creationid="土妹子" creationdate="20141231T121748Z">
+        <seg>★将对手特性变为活泼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手のアビリティを自分と同じアビリティに変える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121759Z" creationid="土妹子" creationdate="20141231T121759Z">
+        <seg>★将对手特性变为和自身相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手のランク補正を自分にコピーする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121812Z" creationid="土妹子" creationdate="20141231T121812Z">
+        <seg>★复制对手的能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★相手の俊敏1段低下</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T140948Z">
@@ -24882,6 +24938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141431Z" creationid="UUZ" creationdate="20140904T141431Z">
         <seg>★对手的散防下降了2级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手の最後に使ったスキルのPPを4減らす</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121832Z" creationid="土妹子" creationdate="20141231T121832Z">
+        <seg>★对手最后使用的技能ＰＰ减少４</seg>
       </tuv>
     </tu>
     <tu>
@@ -25166,6 +25230,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★自分の属性を、自分の1番上のスキルと同じ属性に変える</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121514Z" creationid="土妹子" creationdate="20141231T121514Z">
+        <seg>★自身的属性变为１号技能的属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の属性を相手の属性と同じにする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121523Z" creationid="土妹子" creationdate="20141231T121523Z">
+        <seg>★自身的属性变为和对手相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★自分の散弾1段上昇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101657Z" creationid="UUZ" creationdate="20140904T140826Z">
@@ -25250,6 +25330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121449Z" creationid="土妹子" creationdate="20141231T121449Z">
         <seg>★将自身的异常状态移到对手身上而自己回复异常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分の痛烈率2段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121538Z" creationid="土妹子" creationdate="20141231T121538Z">
+        <seg>★自身的痛烈率上升２段</seg>
       </tuv>
     </tu>
     <tu>
@@ -25378,6 +25466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111651Z" creationid="土妹子" creationdate="20141231T111651Z">
         <seg>★自身的集防、散防上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★自分は戦闘不能になる　相手の集弾・散弾2段低下</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121611Z" creationid="土妹子" creationdate="20141231T121611Z">
+        <seg>★自身陷入战斗不能，使对手的集弹、散弹下降２段</seg>
       </tuv>
     </tu>
     <tu>
