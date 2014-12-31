@@ -24726,10 +24726,50 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★HPと状態異常を全快し、2ターンの間 停止状態になる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095551Z" creationid="土妹子" creationdate="20141231T095551Z">
+        <seg>★完全回复ＨＰ和异常状态，之后２回合间陷入停止状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★使ったターン スキルを防ぐ（防御結界）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095737Z" creationid="土妹子" creationdate="20141231T095737Z">
+        <seg>★在使用的回合防住技能（防御结界）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★変化スキル反射</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095715Z" creationid="土妹子" creationdate="20141231T095715Z">
+        <seg>★反射变化技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★戦闘不能になるスキルを受けてもHP1で耐える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095700Z" creationid="土妹子" creationdate="20141231T095700Z">
+        <seg>★受到造成战斗不能的技能时，也能以１ＨＰ忍住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★最大HPの50％回復</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141646Z" creationid="UUZ" creationdate="20140904T141646Z">
         <seg>★恢复最大HP的50％</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★毎ターンＨＰ1/16回復 交代できなくなる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095613Z" creationid="土妹子" creationdate="20141231T095613Z">
+        <seg>★每回合回复１／１６ＨＰ，但是无法交换</seg>
       </tuv>
     </tu>
     <tu>
@@ -24934,6 +24974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★自分の能力ランクを引き継いで交代</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095629Z" creationid="土妹子" creationdate="20141231T095629Z">
+        <seg>★继承自身能力等级的交换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★自分の集弾1段上昇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141215Z" creationid="UUZ" creationdate="20140904T140751Z">
@@ -24962,6 +25010,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141336Z" creationid="UUZ" creationdate="20140904T141336Z">
         <seg>★自己的集防上升了2级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★防御結界＋防いだスキルの威力が100以上の場合相手に1/8ダメージ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095818Z" creationid="土妹子" creationdate="20141231T095818Z">
+        <seg>★防御结界＋防住的技能威力高于１００时对手受到１／８伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★ＨＰ1/4使ってバリア展開</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095834Z" creationid="土妹子" creationdate="20141231T095834Z">
+        <seg>★使用１／４ＨＰ展开障壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -42756,6 +42820,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093258Z" creationid="土妹子" creationdate="20141231T093258Z">
         <seg>不能连续行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>連続で出すと失敗しやすい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095707Z" creationid="土妹子" creationdate="20141231T095707Z">
+        <seg>连续使用容易失败</seg>
       </tuv>
     </tu>
     <tu>
