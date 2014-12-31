@@ -24694,6 +24694,38 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★3ターンの間 、相手は攻撃スキルしか出せなくなる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095405Z" creationid="土妹子" creationdate="20141231T095405Z">
+        <seg>★３回合间对手只能使用攻击技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★3ターン相手は同じスキルしか使えない</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095349Z" creationid="土妹子" creationdate="20141231T095349Z">
+        <seg>★３回合间对手只能使用相同的技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★4ターンの間 俊敏が倍に 場の効果</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095451Z" creationid="土妹子" creationdate="20141231T095451Z">
+        <seg>★４回合间敏捷翻倍的场地效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★5ターンの間 状態異常にかからなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095508Z" creationid="土妹子" creationdate="20141231T095508Z">
+        <seg>★５回合间不会受到异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★最大HPの50％回復</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141646Z" creationid="UUZ" creationdate="20140904T141646Z">
@@ -33264,6 +33296,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>効果</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095324Z" creationid="土妹子" creationdate="20141231T095324Z">
+        <seg>效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>勇儀</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161734Z" creationid="UUZ" creationdate="20141224T161734Z">
@@ -34280,6 +34320,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>場の効果</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095516Z" creationid="土妹子" creationdate="20141231T095516Z">
+        <seg>场地效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>境界へと至る病</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094743Z" creationid="土妹子" creationdate="20141231T094743Z">
@@ -34396,6 +34444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140407Z" creationid="UUZ" creationdate="20140906T140407Z">
         <seg>深夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>夢</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095219Z" creationid="土妹子" creationdate="20141231T095219Z">
+        <seg>梦</seg>
       </tuv>
     </tu>
     <tu>
@@ -35276,6 +35332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144959Z" creationid="UUZ" creationdate="20140906T144959Z">
         <seg>寅丸星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>対象</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095327Z" creationid="土妹子" creationdate="20141231T095327Z">
+        <seg>目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -42916,6 +42980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142812Z" creationid="UUZ" creationdate="20140906T142812Z">
         <seg>铃兰花田</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鉄</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095212Z" creationid="土妹子" creationdate="20141231T095212Z">
+        <seg>铁</seg>
       </tuv>
     </tu>
     <tu>
