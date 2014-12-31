@@ -24790,10 +24790,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★最後に使われたスキルで相手に攻撃する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100259Z" creationid="土妹子" creationdate="20141231T100259Z">
+        <seg>★用最后被使用的技能攻击对手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★最後に使用した装飾品を手にいれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100313Z" creationid="土妹子" creationdate="20141231T100313Z">
+        <seg>★获得最后被使用的装饰品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★次の行動までに相手のスキルで倒れた場合 相手に999ダメージ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095914Z" creationid="土妹子" creationdate="20141231T095914Z">
         <seg>★到下次行动为止，被对手的技能击倒时，对对手造成９９９伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★次ターン終了時HPが最大HPの半分回復。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100348Z" creationid="土妹子" creationdate="20141231T100348Z">
+        <seg>★下回合结束时回复最大ＨＰ的一半</seg>
       </tuv>
     </tu>
     <tu>
@@ -31812,6 +31836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141521Z" creationid="UUZ" creationdate="20140906T141521Z">
         <seg>亡灵午夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>交代した場合は交代後の人形が回復</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100405Z" creationid="土妹子" creationdate="20141231T100405Z">
+        <seg>交换了的场合，会回复交换后的人形</seg>
       </tuv>
     </tu>
     <tu>
@@ -41556,6 +41588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131029Z" creationid="UUZ" creationdate="20140907T131029Z">
         <seg>临死体验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分がすでに装飾品を持っている時は失敗</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100326Z" creationid="土妹子" creationdate="20141231T100326Z">
+        <seg>自身已经携带了装饰品时会失败</seg>
       </tuv>
     </tu>
     <tu>
