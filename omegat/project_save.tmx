@@ -26056,8 +26056,8 @@
       <tuv lang="JA">
         <seg>☆自分の俊敏1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T141207Z">
-        <seg>☆自己的敏捷上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060626Z" creationid="UUZ" creationdate="20140904T141207Z">
+        <seg>☆自身的敏捷上升１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -26070,26 +26070,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆自分の持つスキルをすべて使うと使用可能</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060447Z" creationid="土妹子" creationdate="20150101T060447Z">
+        <seg>☆仅在自身已经使用过全部其他技能时才能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆自分の散弾1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141237Z" creationid="UUZ" creationdate="20140904T141155Z">
-        <seg>☆自己的散弹上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060405Z" creationid="UUZ" creationdate="20140904T141155Z">
+        <seg>☆自身的散弹上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>☆自分の散弾2段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142048Z" creationid="UUZ" creationdate="20140904T141856Z">
-        <seg>☆自己的散弹下降了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060412Z" creationid="UUZ" creationdate="20140904T141856Z">
+        <seg>☆自身的散弹下降２段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>☆自分の散防1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141239Z" creationid="UUZ" creationdate="20140904T141200Z">
-        <seg>☆自己的散防上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060420Z" creationid="UUZ" creationdate="20140904T141200Z">
+        <seg>☆自身的散防上升１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -26110,18 +26118,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆自分の現在ＨＰが多いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060334Z" creationid="土妹子" creationdate="20150101T060334Z">
+        <seg>☆自身现有ＨＰ越高威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆自分の集弾1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141138Z" creationid="UUZ" creationdate="20140904T141138Z">
-        <seg>☆自己的集弹上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060558Z" creationid="UUZ" creationdate="20140904T141138Z">
+        <seg>☆自身的集弹上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の集弾・散弾の代わりに相手の集弾・散弾でダメージ計算</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060540Z" creationid="土妹子" creationdate="20150101T060540Z">
+        <seg>☆以对手的集弹／散弹代替自身的集弹／散弹进行伤害计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の集弾・集防1段低下</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060551Z" creationid="土妹子" creationdate="20150101T060551Z">
+        <seg>☆自身的集弹、集防下降１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>☆自分の集防1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141236Z" creationid="UUZ" creationdate="20140904T141147Z">
-        <seg>☆自己的集防上升了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060616Z" creationid="UUZ" creationdate="20140904T141147Z">
+        <seg>☆自身的集防上升１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -26130,6 +26162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141456Z" creationid="UUZ" creationdate="20140904T141456Z">
         <seg>☆自己的集防与散防下降了1级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の集防・散防1段低下</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060607Z" creationid="土妹子" creationdate="20150101T060607Z">
+        <seg>☆自身的集防、散防下降１段</seg>
       </tuv>
     </tu>
     <tu>
