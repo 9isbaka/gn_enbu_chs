@@ -29498,8 +29498,8 @@
       <tuv lang="JA">
         <seg>アクアソニック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T090200Z" creationid="UUZ" creationdate="20140906T090200Z">
-        <seg>水之波动</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091529Z" creationid="UUZ" creationdate="20140906T090200Z">
+        <seg>水之音</seg>
       </tuv>
     </tu>
     <tu>
@@ -41972,6 +41972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025129Z" creationid="土妹子" creationdate="20141231T025129Z">
         <seg>因为相性而无效的技能也能命中对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手から スキルを 受けていると その 相手に 対して スキルの 威力が ２倍に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091518Z" creationid="土妹子" creationdate="20150101T091518Z">
+        <seg>受到了对手的技能时，对那个对手的技能威力翻倍。</seg>
       </tuv>
     </tu>
     <tu>
