@@ -29802,8 +29802,8 @@
       <tuv lang="JA">
         <seg>ウルトラハイトーン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135007Z" creationid="UUZ" creationdate="20140907T135007Z">
-        <seg>超高音</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130739Z" creationid="UUZ" creationdate="20140907T135007Z">
+        <seg>超高频音</seg>
       </tuv>
     </tu>
     <tu>
@@ -31306,8 +31306,8 @@
       <tuv lang="JA">
         <seg>ハイトーンクラッシュ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T134607Z" creationid="UUZ" creationdate="20140907T134607Z">
-        <seg>高音崩毁</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130555Z" creationid="UUZ" creationdate="20140907T134607Z">
+        <seg>高频崩毁</seg>
       </tuv>
     </tu>
     <tu>
@@ -32812,6 +32812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140113Z" creationid="UUZ" creationdate="20140910T140027Z">
         <seg>坏小子 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ワードブレイク</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130440Z" creationid="土妹子" creationdate="20150101T130440Z">
+        <seg>世界破碎</seg>
       </tuv>
     </tu>
     <tu>
@@ -39720,6 +39728,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>攻撃後 自分の 集弾と 集防が 下がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130545Z" creationid="土妹子" creationdate="20150101T130545Z">
+        <seg>攻击后自身的集防和散防下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>攻撃後 自分の 集防と 散防が 下がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114150Z" creationid="土妹子" creationdate="20150101T114150Z">
@@ -42010,8 +42026,8 @@
       <tuv lang="JA">
         <seg>爆音フルバースト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T134201Z" creationid="UUZ" creationdate="20140907T134201Z">
-        <seg>爆音</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130535Z" creationid="UUZ" creationdate="20140907T134201Z">
+        <seg>爆音全发射</seg>
       </tuv>
     </tu>
     <tu>
@@ -42712,6 +42728,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の スキル２つを ４ターンの あいだ 使えなくする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130459Z" creationid="土妹子" creationdate="20150101T130459Z">
+        <seg>对手的两个技能在４回合间不能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 人形が 入れ替わる ときに スキルを だしていると 威力が 倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115659Z" creationid="土妹子" creationdate="20150101T115659Z">
@@ -42860,6 +42884,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064624Z" creationid="土妹子" creationdate="20150101T064624Z">
         <seg>无视对手的防御结界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 集弾を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130325Z" creationid="土妹子" creationdate="20150101T130325Z">
+        <seg>使对手的集弹下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47968,6 +48000,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手の 能力を ランダムに １つ 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130634Z" creationid="土妹子" creationdate="20150101T130634Z">
+        <seg>１成几率使对手的随机一项能力下降１段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手の 集防を 下げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115305Z" creationid="土妹子" creationdate="20150101T115305Z">
@@ -48388,6 +48428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093316Z" creationid="土妹子" creationdate="20141231T093316Z">
         <seg>５回合间散弹和敏捷的数值减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５割の 確率で 相手の 集防を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130711Z" creationid="土妹子" creationdate="20150101T130711Z">
+        <seg>５成几率使对手的集防下降。</seg>
       </tuv>
     </tu>
     <tu>
