@@ -38056,6 +38056,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>彩光百花</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T115222Z" creationid="UUZ" creationdate="20150101T115222Z">
+        <seg>彩光百花</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>影を 自在に 伸ばして\n相手を 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014531Z" creationid="UUZ" creationdate="20140906T140053Z">
@@ -43540,6 +43548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021043Z" creationid="UUZ" creationdate="20140908T021043Z">
         <seg>紫色的宝石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紫電</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T115230Z" creationid="UUZ" creationdate="20150101T115230Z">
+        <seg>紫电</seg>
       </tuv>
     </tu>
     <tu>
