@@ -24216,160 +24216,184 @@
       <tuv lang="JA">
         <seg>\n持たせるとスキルの威力が上がるが 攻撃すると自分もダメージを受ける。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150827Z" creationid="土妹子" creationdate="20150101T150827Z">
-        <seg>\n持有后技能的威力上升，但是攻击时自己也会受到伤害。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150827Z">
+        <seg>\n携带后技能的威力上升，但是攻击时自己也会受到伤害。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ光属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145431Z" creationid="土妹子" creationdate="20150101T145431Z">
-        <seg>\n持有时可以仅有１次使光属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145431Z">
+        <seg>\n携带时可以仅有１次使光属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ冥属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150444Z" creationid="土妹子" creationdate="20150101T150444Z">
-        <seg>\n持有时可以仅有１次使冥属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150444Z">
+        <seg>\n携带时可以仅有１次使冥属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ大地属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145357Z" creationid="土妹子" creationdate="20150101T145357Z">
-        <seg>\n持有时可以仅有１次使大地属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145357Z">
+        <seg>\n携带时可以仅有１次使大地属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ幻属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150504Z" creationid="土妹子" creationdate="20150101T150504Z">
-        <seg>\n持有时可以仅有１次使幻属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150504Z">
+        <seg>\n携带时可以仅有１次使幻属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ毒属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150452Z" creationid="土妹子" creationdate="20150101T150452Z">
-        <seg>\n持有时可以仅有１次使毒属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150452Z">
+        <seg>\n携带时可以仅有１次使毒属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ水属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145342Z" creationid="土妹子" creationdate="20150101T145342Z">
-        <seg>\n持有时可以仅有１次使水属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145342Z">
+        <seg>\n携带时可以仅有１次使水属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ炎属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145330Z" creationid="土妹子" creationdate="20150101T145330Z">
-        <seg>\n持有时可以仅有１次使火属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145330Z">
+        <seg>\n携带时可以仅有１次使火属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ無属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145325Z" creationid="土妹子" creationdate="20150101T145325Z">
-        <seg>\n持有时可以仅有１次使无属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145325Z">
+        <seg>\n携带时可以仅有１次使无属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ自然属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145349Z" creationid="土妹子" creationdate="20150101T145349Z">
-        <seg>\n持有时可以仅有１次使自然属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145349Z">
+        <seg>\n携带时可以仅有１次使自然属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ鋼鉄属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145412Z" creationid="土妹子" creationdate="20150101T145412Z">
-        <seg>\n持有时可以仅有１次使钢铁属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145412Z">
+        <seg>\n携带时可以仅有１次使钢铁属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ闇属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145938Z" creationid="土妹子" creationdate="20150101T145938Z">
-        <seg>\n持有时可以仅有１次使暗属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145938Z">
+        <seg>\n携带时可以仅有１次使暗属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ闘属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150458Z" creationid="土妹子" creationdate="20150101T150458Z">
-        <seg>\n持有时可以仅有１次使斗属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150458Z">
+        <seg>\n携带时可以仅有１次使斗属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ雷属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145425Z" creationid="土妹子" creationdate="20150101T145425Z">
-        <seg>\n持有时可以仅有１次使雷属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145425Z">
+        <seg>\n携带时可以仅有１次使雷属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ音属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150520Z" creationid="土妹子" creationdate="20150101T150520Z">
-        <seg>\n持有时可以仅有１次使音属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150520Z">
+        <seg>\n携带时可以仅有１次使音属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると一度だけ風属性のスキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145418Z" creationid="土妹子" creationdate="20150101T145418Z">
-        <seg>\n持有时可以仅有１次使风属性技能威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145418Z">
+        <seg>\n携带时可以仅有１次使风属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると俊敏が下がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151122Z" creationid="土妹子" creationdate="20150101T151058Z">
+        <seg>\n携带后敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると同じスキルを出すごとに与えるダメージが増える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T151028Z">
+        <seg>\n携带后，连续使用相同技能造成的伤害会上升。。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると拡散スキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150742Z" creationid="土妹子" creationdate="20150101T150742Z">
-        <seg>\n持有时扩散技能的威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150742Z">
+        <seg>\n携带时扩散技能的威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると相手のスキルが命中しにくくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151202Z" creationid="土妹子" creationdate="20150101T151202Z">
+        <seg>\n携带后，不容易被对手的技能命中。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると相手の能力が上がった時に自分の能力も上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150702Z" creationid="土妹子" creationdate="20150101T150702Z">
-        <seg>\n持有后，对手的能力上升时自己的能力也会上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150702Z">
+        <seg>\n携带后，对手的能力上升时自己的能力也会上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると結界を貫通した時にあたえるダメージが増える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150806Z" creationid="土妹子" creationdate="20150101T150806Z">
-        <seg>\n持有后，贯通结界时的伤害上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150806Z">
+        <seg>\n携带后，贯通结界时的伤害上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると集中スキルの威力が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150719Z" creationid="土妹子" creationdate="20150101T150719Z">
-        <seg>\n持有时集中技能的威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150719Z">
+        <seg>\n携带时集中技能的威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31434,8 +31458,8 @@
       <tuv lang="JA">
         <seg>タリスマン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T024240Z" creationid="UUZ" creationdate="20140908T024240Z">
-        <seg>护身符</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151243Z" creationid="UUZ" creationdate="20140908T024240Z">
+        <seg>小护身符</seg>
       </tuv>
     </tu>
     <tu>
@@ -33274,8 +33298,8 @@
       <tuv lang="JA">
         <seg>ロザリオ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T023923Z" creationid="UUZ" creationdate="20140908T023923Z">
-        <seg>玫瑰念珠</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151147Z" creationid="UUZ" creationdate="20140908T023923Z">
+        <seg>祈祷念珠</seg>
       </tuv>
     </tu>
     <tu>
@@ -34066,56 +34090,56 @@
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に俊敏が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140907T145443Z">
-        <seg>人形持有后，危机时刻敏捷上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145443Z">
+        <seg>人形携带后，危机时刻敏捷上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に命中が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T003500Z" creationid="UUZ" creationdate="20140908T003500Z">
-        <seg>人形持有后，危机时刻命中上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T003500Z">
+        <seg>人形携带后，危机时刻命中上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に回避が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T003511Z" creationid="UUZ" creationdate="20140908T003511Z">
-        <seg>人形持有后，危机时刻回避上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T003511Z">
+        <seg>人形携带后，危机时刻回避上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に散弾が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145417Z" creationid="UUZ" creationdate="20140907T145417Z">
-        <seg>人形持有后，危机时刻散弹上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145417Z">
+        <seg>人形携带后，危机时刻散弹上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に散防が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145433Z" creationid="UUZ" creationdate="20140907T145433Z">
-        <seg>人形持有后，危机时刻散防上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145433Z">
+        <seg>人形携带后，危机时刻散防上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に痛烈な一撃が出やすくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T030607Z" creationid="UUZ" creationdate="20140907T145543Z">
-        <seg>人形持有后，危机时刻致命一击的几率提升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145543Z">
+        <seg>人形携带后，危机时刻致命一击的几率提升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に相手より先に行動できる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T005956Z" creationid="UUZ" creationdate="20140908T005956Z">
-        <seg>人形持有后，危机时刻能比对手先行动。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T005956Z">
+        <seg>人形携带后，危机时刻能比对手先行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34130,160 +34154,160 @@
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に能力１つが大きく上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144745Z" creationid="土妹子" creationdate="20150101T144745Z">
-        <seg>人形持有后，危机时刻１项能力大幅上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T144745Z">
+        <seg>人形携带后，危机时刻１项能力大幅上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に集弾が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145329Z" creationid="UUZ" creationdate="20140907T145329Z">
-        <seg>人形持有后，危机时刻集弹上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145329Z">
+        <seg>人形携带后，危机时刻集弹上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に集防が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145358Z" creationid="UUZ" creationdate="20140907T145358Z">
-        <seg>人形持有后，危机时刻集防上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145358Z">
+        <seg>人形携带后，危机时刻集防上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると停止を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T011549Z" creationid="UUZ" creationdate="20140908T010204Z">
-        <seg>人形持有时可以从停止状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T010204Z">
+        <seg>人形携带时可以从停止状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると光属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145109Z" creationid="UUZ" creationdate="20140907T145109Z">
-        <seg>人形持有后被光属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145109Z">
+        <seg>人形携带后被光属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると全ての天候の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035212Z" creationid="UUZ" creationdate="20140908T035212Z">
-        <seg>人形持有时，所有天候的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035212Z">
+        <seg>人形携带时，所有天候的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると冥属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145131Z" creationid="UUZ" creationdate="20140907T145131Z">
-        <seg>人形持有后被冥属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145131Z">
+        <seg>人形携带后被冥属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると凪の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035241Z" creationid="UUZ" creationdate="20140908T035241Z">
-        <seg>人形持有时，无风天气的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035241Z">
+        <seg>人形携带时，无风天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると大地属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145026Z" creationid="UUZ" creationdate="20140907T145026Z">
-        <seg>人形持有后被大地属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145026Z">
+        <seg>人形携带后被大地属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると幻属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145201Z" creationid="UUZ" creationdate="20140907T145201Z">
-        <seg>人形持有后被幻属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145201Z">
+        <seg>人形携带后被幻属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると恐怖を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T011905Z" creationid="UUZ" creationdate="20140908T011905Z">
-        <seg>人形持有时可以从恐惧状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T011905Z">
+        <seg>人形携带时可以从恐惧状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると拡散スキルを受けた時に相手にダメージを与える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145052Z" creationid="UUZ" creationdate="20140908T013005Z">
-        <seg>人形持有时，受到扩散技能时会使对手受伤。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T013005Z">
+        <seg>人形携带时，受到扩散技能时会使对手受伤。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると攻撃スキルを受けた時に相手にダメージを与える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145043Z" creationid="土妹子" creationdate="20150101T145020Z">
-        <seg>人形持有时，受到攻击技能时会使对手受伤。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145020Z">
+        <seg>人形携带时，受到攻击技能时会使对手受伤。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると暗闇を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T011750Z" creationid="UUZ" creationdate="20140908T011750Z">
-        <seg>人形持有时可以从黑暗状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T011750Z">
+        <seg>人形携带时可以从黑暗状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると極光の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035321Z" creationid="UUZ" creationdate="20140908T035321Z">
-        <seg>人形持有时，极光天气的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035321Z">
+        <seg>人形携带时，极光天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると毒・猛毒を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T011520Z" creationid="UUZ" creationdate="20140908T010226Z">
-        <seg>人形持有时可以从毒、猛毒状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T010226Z">
+        <seg>人形携带时可以从毒、猛毒状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると毒属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145141Z" creationid="UUZ" creationdate="20140907T145141Z">
-        <seg>人形持有后毒冥属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145141Z">
+        <seg>人形携带后毒冥属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると水属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145005Z" creationid="UUZ" creationdate="20140907T145005Z">
-        <seg>人形持有后被水属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145005Z">
+        <seg>人形携带后被水属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると混乱を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T012132Z" creationid="UUZ" creationdate="20140908T012132Z">
-        <seg>人形持有时可以从混乱状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T012132Z">
+        <seg>人形携带时可以从混乱状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると溜めが必要なスキルを１ターンで使う事が出来る。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145202Z" creationid="土妹子" creationdate="20150101T145202Z">
-        <seg>人形持有时，需要蓄力的技能１回合就能使出。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145202Z">
+        <seg>人形携带时，需要蓄力的技能１回合就能使出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34298,32 +34322,32 @@
       <tuv lang="JA">
         <seg>人形に持たせると濃霧の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035340Z" creationid="UUZ" creationdate="20140908T035340Z">
-        <seg>人形持有时，浓雾天气的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035340Z">
+        <seg>人形携带时，浓雾天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると火傷・大火傷を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T011654Z" creationid="UUZ" creationdate="20140908T011654Z">
-        <seg>人形持有时可以从烧伤、大烧伤状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T011654Z">
+        <seg>人形携带时可以从烧伤、大烧伤状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると炎属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144658Z" creationid="UUZ" creationdate="20140907T144955Z">
-        <seg>人形持有后被火属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T144955Z">
+        <seg>人形携带后被火属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると無属性のスキルの威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144835Z" creationid="UUZ" creationdate="20140907T144835Z">
-        <seg>人形持有后受无属性的技能的伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T144835Z">
+        <seg>人形携带后受无属性的技能的伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34338,40 +34362,40 @@
       <tuv lang="JA">
         <seg>人形に持たせると状態異常を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144833Z" creationid="土妹子" creationdate="20150101T144833Z">
-        <seg>人形持有时可以从异常状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T144833Z">
+        <seg>人形携带时可以从异常状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると能力が下がった時に１度だけ元の状態に戻す。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145145Z" creationid="UUZ" creationdate="20140908T013106Z">
-        <seg>人形持有时可以仅有１次，在能力下降时回归原始状态。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T013106Z">
+        <seg>人形携带时可以仅有１次，在能力下降时回归原始状态。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると自然属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145015Z" creationid="UUZ" creationdate="20140907T145015Z">
-        <seg>人形持有后被自然属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145015Z">
+        <seg>人形携带后被自然属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると自由にスキルが出せなくなった時に１度だけ回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144911Z" creationid="UUZ" creationdate="20140908T012420Z">
-        <seg>人形持有时可以仅有１次，从不能自由使用技能的状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T012420Z">
+        <seg>人形携带时可以仅有１次，从不能自由使用技能的状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると衰弱を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T012102Z" creationid="UUZ" creationdate="20140908T012102Z">
-        <seg>人形持有时可以从衰弱状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T012102Z">
+        <seg>人形携带时可以从衰弱状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34386,24 +34410,24 @@
       <tuv lang="JA">
         <seg>人形に持たせると鋼鉄属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145037Z" creationid="UUZ" creationdate="20140907T145037Z">
-        <seg>人形持有后被钢铁属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145037Z">
+        <seg>人形携带后被钢铁属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると闇属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145119Z" creationid="UUZ" creationdate="20140907T145119Z">
-        <seg>人形持有后被暗属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145119Z">
+        <seg>人形携带后被暗属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると闘属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145153Z" creationid="UUZ" creationdate="20140907T145153Z">
-        <seg>人形持有后被斗属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145153Z">
+        <seg>人形携带后被斗属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34418,64 +34442,64 @@
       <tuv lang="JA">
         <seg>人形に持たせると雷属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145100Z" creationid="UUZ" creationdate="20140907T145100Z">
-        <seg>人形持有后被雷属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145100Z">
+        <seg>人形携带后被雷属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると音属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145215Z" creationid="UUZ" creationdate="20140907T145215Z">
-        <seg>人形持有后被音属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145215Z">
+        <seg>人形携带后被音属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると風属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145048Z" creationid="UUZ" creationdate="20140907T145048Z">
-        <seg>人形持有后被风属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145048Z">
+        <seg>人形携带后被风属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると麻痺を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T011542Z" creationid="UUZ" creationdate="20140908T010148Z">
-        <seg>人形持有时可以从麻痹状态恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T010148Z">
+        <seg>人形携带时可以从麻痹状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせると黄砂の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035357Z" creationid="UUZ" creationdate="20140908T035357Z">
-        <seg>人形持有时，黄沙天气的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035357Z">
+        <seg>人形携带时，黄沙天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとＨＰを少し回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144815Z" creationid="土妹子" creationdate="20150101T144815Z">
-        <seg>人形持有时能回复少量ＨＰ。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T144815Z">
+        <seg>人形携带时能回复少量ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとＨＰを２０回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144930Z" creationid="土妹子" creationdate="20150101T144930Z">
-        <seg>人形持有时可以回复２０ＨＰ。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T144930Z">
+        <seg>人形携带时可以回复２０ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>人形に持たせるとＳＰが切れた時に１０回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144942Z" creationid="土妹子" creationdate="20150101T144942Z">
-        <seg>人形持有时可以在ＳＰ用完时回复１０点。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T144942Z">
+        <seg>人形携带时可以在ＳＰ用完时回复１０点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39682,8 +39706,8 @@
       <tuv lang="JA">
         <seg>持たせるとスキルの命中率が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T024029Z" creationid="UUZ" creationdate="20140908T024029Z">
-        <seg>持有时技能的命中率上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T024029Z">
+        <seg>携带时技能的命中率上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39698,8 +39722,8 @@
       <tuv lang="JA">
         <seg>持たせるとターンの終わりにアビリティを失う。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150635Z" creationid="UUZ" creationdate="20140908T022207Z">
-        <seg>持有后，在回合结束时失去特性。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T022207Z">
+        <seg>携带后，在回合结束时失去特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39840,6 +39864,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>持たせると俊敏が上がるが 同じスキルしか出せなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150958Z">
+        <seg>携带后敏捷上升，但是只能使用相同的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>持たせると俊敏が上がるが、同じスキルしか出せなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T023546Z" creationid="UUZ" creationdate="20140908T023443Z">
@@ -39898,8 +39930,8 @@
       <tuv lang="JA">
         <seg>持たせると大地属性のスキルを無効化するが 大地属性以外のスキルを受けるとなくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150547Z" creationid="土妹子" creationdate="20150101T150547Z">
-        <seg>持有后大地属性技能无效化，但是受到大地属性以外的技能就会消失。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150547Z">
+        <seg>携带后大地属性技能无效化，但是受到大地属性以外的技能就会消失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39930,8 +39962,8 @@
       <tuv lang="JA">
         <seg>持たせると必ず相手より後に行動する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T032312Z" creationid="UUZ" creationdate="20140908T032312Z">
-        <seg>持有时有比对手后行动。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T032312Z">
+        <seg>携带时有比对手后行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39968,6 +40000,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>持たせると拡散スキルの威力が上がるが 同じスキルしか出せなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150947Z">
+        <seg>携带后扩散技能的威力上升，但是只能使用相同的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>持たせると拡散スキルの威力が上がるが、同じスキルしか出せなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T023540Z" creationid="UUZ" creationdate="20140908T023349Z">
@@ -39978,16 +40018,16 @@
       <tuv lang="JA">
         <seg>持たせると攻撃を受けた時に手持ちの人形と入れ替われる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020141Z" creationid="UUZ" creationdate="20140908T020001Z">
-        <seg>人形持有时受到攻击会与手上其他人形交换。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T020001Z">
+        <seg>人形携带时受到攻击会与手上其他人形交换。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>持たせると攻撃を受けた時に相手を強制的に交代させる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145224Z" creationid="土妹子" creationdate="20150101T145224Z">
-        <seg>人形持有时，受到攻击时使对手强制交换。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145224Z">
+        <seg>人形携带时，受到攻击时使对手强制交换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40058,8 +40098,8 @@
       <tuv lang="JA">
         <seg>持たせると痛烈な一撃を受けなくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035121Z" creationid="UUZ" creationdate="20140908T035121Z">
-        <seg>持有时受到致命一击的几率下降。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035121Z">
+        <seg>携带时受到致命一击的几率下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40098,8 +40138,8 @@
       <tuv lang="JA">
         <seg>持たせると相手より後に行動した時にスキルの命中率が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T024152Z" creationid="UUZ" creationdate="20140908T024152Z">
-        <seg>持有时比对手后行动的话技能的命中率上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151234Z" creationid="UUZ" creationdate="20140908T024152Z">
+        <seg>携带后，比对手后行动时技能的命中率上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40122,8 +40162,8 @@
       <tuv lang="JA">
         <seg>持たせると結界を貫通された時に集弾と散弾が大きく上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150613Z" creationid="土妹子" creationdate="20150101T150613Z">
-        <seg>持有后，结界被贯通时集弹和散弹大幅上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150613Z">
+        <seg>携带后，结界被贯通时集弹和散弹大幅上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40138,16 +40178,16 @@
       <tuv lang="JA">
         <seg>持たせると締めつけるスキルの威力を上げる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T031729Z" creationid="UUZ" creationdate="20140908T031729Z">
-        <seg>持有时束缚类技能的威力上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T031729Z">
+        <seg>携带时束缚类技能的威力上升。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>持たせると締めつけるスキルの持続ターン数が固定される。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T031638Z" creationid="UUZ" creationdate="20140908T031638Z">
-        <seg>持有时束缚类技能的持续回合数被固定。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T031638Z">
+        <seg>携带时束缚类技能的持续回合数被固定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40200,6 +40240,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>持たせると集中スキルの威力が上がるが 同じスキルしか出せなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150933Z">
+        <seg>携带后集中技能的威力上升，但是只能使用相同的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>持たせると集中スキルの威力が上がるが、同じスキルしか出せなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T023531Z" creationid="UUZ" creationdate="20140908T023310Z">
@@ -40242,8 +40290,8 @@
       <tuv lang="JA">
         <seg>持たせるとＨＰが満タンの時に戦闘不能になるダメージを受けてもＨＰ１で耐える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145258Z" creationid="土妹子" creationdate="20150101T145258Z">
-        <seg>人形持有时，在满ＨＰ时受到致命伤害也能以１ＨＰ忍住。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T145258Z">
+        <seg>人形携带时，在满ＨＰ时受到致命伤害也能以１ＨＰ忍住。</seg>
       </tuv>
     </tu>
     <tu>
