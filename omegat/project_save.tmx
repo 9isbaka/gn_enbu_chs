@@ -29586,8 +29586,8 @@
       <tuv lang="JA">
         <seg>アップビート</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135305Z" creationid="UUZ" creationdate="20140907T135305Z">
-        <seg>提高拍子</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131852Z" creationid="UUZ" creationdate="20140907T135305Z">
+        <seg>欢快节奏</seg>
       </tuv>
     </tu>
     <tu>
@@ -31336,6 +31336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ハピネスダンス</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132106Z" creationid="土妹子" creationdate="20150101T132106Z">
+        <seg>喜悦之舞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ハリケーン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123049Z" creationid="UUZ" creationdate="20140906T123049Z">
@@ -31810,16 +31818,16 @@
       <tuv lang="JA">
         <seg>ブレイブソング</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135852Z" creationid="UUZ" creationdate="20140907T135852Z">
-        <seg>勇士之歌</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132038Z" creationid="UUZ" creationdate="20140907T135852Z">
+        <seg>英勇之歌</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>ブーイング</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135806Z" creationid="UUZ" creationdate="20140907T135806Z">
-        <seg>倒彩</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131952Z" creationid="UUZ" creationdate="20140907T135806Z">
+        <seg>喝倒彩</seg>
       </tuv>
     </tu>
     <tu>
@@ -33488,6 +33496,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>交代すると 効果は なくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132027Z" creationid="土妹子" creationdate="20150101T132027Z">
+        <seg>交换后效果消失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>交換すると元に戻る。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040607Z" creationid="UUZ" creationdate="20140908T040607Z">
@@ -34716,6 +34732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T090832Z" creationid="UUZ" creationdate="20140908T090832Z">
         <seg>全力攻过来吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>全員の 能力変化を 元に 戻す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131933Z" creationid="土妹子" creationdate="20150101T131933Z">
+        <seg>全员的能力变化归零。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39616,6 +39640,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>控えの 人形を ひきずり出す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132004Z" creationid="土妹子" creationdate="20150101T132004Z">
+        <seg>强行拖出对方的后备人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>揺るがぬ心</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T024510Z" creationid="土妹子" creationdate="20141231T024510Z">
@@ -42616,6 +42648,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手が 最後に 使った スキルを ３ターンの あいだ ずっと ださせる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131815Z" creationid="土妹子" creationdate="20150101T131815Z">
+        <seg>使对手在接下来３回合间一直使用最后使用的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手が 状態異常の時 威力が ２倍に なる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113550Z" creationid="土妹子" creationdate="20150101T113550Z">
@@ -44192,6 +44232,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>聴いた 人形は ３ターン後 瀕死に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132021Z" creationid="土妹子" creationdate="20150101T132021Z">
+        <seg>听到的人形会在３回合后濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>肩パッド</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T034143Z" creationid="UUZ" creationdate="20140908T034143Z">
@@ -44656,6 +44704,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 散弾を 大きく 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132042Z" creationid="土妹子" creationdate="20150101T132042Z">
+        <seg>大幅提升自身的散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 散防も あがる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105052Z" creationid="土妹子" creationdate="20150101T105052Z">
@@ -44668,6 +44724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113935Z" creationid="土妹子" creationdate="20150101T113935Z">
         <seg>提升自身的散防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 散防を 大きく 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132051Z" creationid="土妹子" creationdate="20150101T132051Z">
+        <seg>大幅提升自身的散防。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44780,6 +44844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095606Z" creationid="土妹子" creationdate="20150101T095606Z">
         <seg>大幅提升自身的集弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集防と 散防を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132208Z" creationid="土妹子" creationdate="20150101T132208Z">
+        <seg>提升自身的集防和散防。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48316,6 +48388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111705Z" creationid="土妹子" creationdate="20150101T111705Z">
         <seg>使用２次会中剧毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３ターンの あいだ 相手は ダメージを 与える スキルしか だせなく なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131910Z" creationid="土妹子" creationdate="20150101T131910Z">
+        <seg>使对手在３回合间只能使用造成伤害的技能。</seg>
       </tuv>
     </tu>
     <tu>
