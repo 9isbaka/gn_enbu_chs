@@ -30850,8 +30850,8 @@
       <tuv lang="JA">
         <seg>タンブルプラント</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093247Z" creationid="UUZ" creationdate="20140906T093247Z">
-        <seg>草绳结</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092406Z" creationid="UUZ" creationdate="20140906T093247Z">
+        <seg>翻滚植物</seg>
       </tuv>
     </tu>
     <tu>
@@ -42060,6 +42060,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014519Z" creationid="UUZ" creationdate="20140906T135440Z">
         <seg>让黑暗状态的对手看到噩梦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の コストが 高いほど 威力が 高くなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092414Z" creationid="土妹子" creationdate="20150101T092414Z">
+        <seg>对手的ｃｏｓｔ越高威力越高。</seg>
       </tuv>
     </tu>
     <tu>
