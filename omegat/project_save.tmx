@@ -24438,6 +24438,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると無属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152704Z" creationid="土妹子" creationdate="20150101T152704Z">
+        <seg>\n携带时无属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると痛烈な一撃が出やすくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151341Z" creationid="土妹子" creationdate="20150101T151341Z">
@@ -24474,6 +24482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151546Z" creationid="土妹子" creationdate="20150101T151546Z">
         <seg>\n携带时有可能比对手先行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると結界で阻んだ時にダメージを軽減するが 貫通されると大ダメージを受ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152545Z" creationid="土妹子" creationdate="20150101T152545Z">
+        <seg>\n携带后，结界阻挡时伤害减低，结界被贯穿时伤害增加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34306,8 +34322,8 @@
       <tuv lang="JA">
         <seg>人形に持たせると全ての天候の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035212Z">
-        <seg>人形携带时，所有天候的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152612Z" creationid="UUZ" creationdate="20140908T035212Z">
+        <seg>人形携带时，所有天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34322,8 +34338,8 @@
       <tuv lang="JA">
         <seg>人形に持たせると凪の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035241Z">
-        <seg>人形携带时，无风天气的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152617Z" creationid="UUZ" creationdate="20140908T035241Z">
+        <seg>人形携带时，微风天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34586,8 +34602,8 @@
       <tuv lang="JA">
         <seg>人形に持たせると黄砂の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035357Z">
-        <seg>人形携带时，黄沙天气的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152635Z" creationid="UUZ" creationdate="20140908T035357Z">
+        <seg>人形携带时，黄砂天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37970,8 +37986,8 @@
       <tuv lang="JA">
         <seg>宵闇の霊石</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035331Z" creationid="UUZ" creationdate="20140908T035331Z">
-        <seg>宵暗的灵石</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152625Z" creationid="UUZ" creationdate="20140908T035331Z">
+        <seg>暗夜的灵石</seg>
       </tuv>
     </tu>
     <tu>
@@ -39848,6 +39864,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>持たせるとフィールドプロテクト・バリアの持続ターン数が延びる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152511Z" creationid="土妹子" creationdate="20150101T152452Z">
+        <seg>携带后，Ｆ保护和屏障的持续回合数增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>持たせると一度だけ光属性のスキルの威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020922Z" creationid="UUZ" creationdate="20140908T020922Z">
@@ -40234,8 +40258,8 @@
       <tuv lang="JA">
         <seg>持たせると痛烈な一撃を受けなくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T035121Z">
-        <seg>携带时受到致命一击的几率下降。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152558Z" creationid="UUZ" creationdate="20140908T035121Z">
+        <seg>携带时不会受到痛烈的一击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40444,6 +40468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T034823Z" creationid="UUZ" creationdate="20140908T034823Z">
         <seg>持有时属性相性无效的技能变得相当。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持っていると属性相性で無効の技が当たるようになる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152425Z" creationid="土妹子" creationdate="20150101T152425Z">
+        <seg>携带后，属性相性无效的技能也能命中自己。</seg>
       </tuv>
     </tu>
     <tu>
