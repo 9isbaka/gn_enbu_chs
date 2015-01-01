@@ -44208,6 +44208,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>結晶化した魔力の欠片。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135746Z" creationid="土妹子" creationdate="20150101T135746Z">
+        <seg>结晶化魔力的碎片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>結構な値段で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142455Z" creationid="UUZ" creationdate="20140907T142455Z">
