@@ -29466,8 +29466,8 @@
       <tuv lang="JA">
         <seg>アイスマシンガン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T090445Z" creationid="UUZ" creationdate="20140906T090445Z">
-        <seg>冰机枪</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091542Z" creationid="UUZ" creationdate="20140906T090445Z">
+        <seg>寒冰机枪</seg>
       </tuv>
     </tu>
     <tu>
@@ -29506,8 +29506,8 @@
       <tuv lang="JA">
         <seg>アクアブレス</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T090708Z" creationid="UUZ" creationdate="20140906T090708Z">
-        <seg>水之呼吸</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091619Z" creationid="UUZ" creationdate="20140906T090708Z">
+        <seg>水之吐息</seg>
       </tuv>
     </tu>
     <tu>
@@ -30754,8 +30754,8 @@
       <tuv lang="JA">
         <seg>スライムショット</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T092110Z" creationid="UUZ" creationdate="20140906T092056Z">
-        <seg>淤泥喷射</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091746Z" creationid="UUZ" creationdate="20140906T092056Z">
+        <seg>软泥喷射</seg>
       </tuv>
     </tu>
     <tu>
@@ -37952,6 +37952,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>必ず 痛烈な一撃が でる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091739Z" creationid="土妹子" creationdate="20150101T091739Z">
+        <seg>必定打出痛烈的一击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>必ず 相手の俊敏を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091756Z" creationid="土妹子" creationdate="20150101T091756Z">
+        <seg>必定使对手的敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>必ず後攻になるかわりに 受けるダメージが０.９倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093357Z" creationid="土妹子" creationdate="20141231T093357Z">
@@ -42794,8 +42810,8 @@
       <tuv lang="JA">
         <seg>純水のベール</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130403Z" creationid="UUZ" creationdate="20140906T092059Z">
-        <seg>纯水屏障</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091808Z" creationid="UUZ" creationdate="20140906T092059Z">
+        <seg>纯水帷幕</seg>
       </tuv>
     </tu>
     <tu>
@@ -46536,10 +46552,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手の 俊敏を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091709Z" creationid="土妹子" creationdate="20150101T091709Z">
+        <seg>１成几率使对手的敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手を 火傷状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070221Z" creationid="土妹子" creationdate="20150101T070221Z">
         <seg>１成几率使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 相手を停止状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091634Z" creationid="土妹子" creationdate="20150101T091634Z">
+        <seg>１成几率使对手停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46640,6 +46672,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>３割の 確率で 相手を 衰弱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091724Z" creationid="土妹子" creationdate="20150101T091724Z">
+        <seg>３成几率使对手衰弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>３割の 確率で 相手を 麻痺状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064748Z" creationid="土妹子" creationdate="20150101T064748Z">
@@ -46652,6 +46692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070533Z" creationid="土妹子" creationdate="20150101T070533Z">
         <seg>４～５回合间将对手封入其中的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５ターンの あいだ 相手に 能力を 下げられなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091825Z" creationid="土妹子" creationdate="20150101T091825Z">
+        <seg>５回合间能力不会被对手下降。</seg>
       </tuv>
     </tu>
     <tu>
