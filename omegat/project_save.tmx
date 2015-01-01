@@ -29672,6 +29672,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アンビエント</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132713Z" creationid="土妹子" creationdate="20150101T132713Z">
+        <seg>氛围音乐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ア・テンポ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T141035Z" creationid="UUZ" creationdate="20140907T141035Z">
@@ -30186,8 +30194,8 @@
       <tuv lang="JA">
         <seg>クレーム</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140457Z" creationid="UUZ" creationdate="20140907T140457Z">
-        <seg>怨言</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132550Z" creationid="UUZ" creationdate="20140907T140457Z">
+        <seg>抱怨</seg>
       </tuv>
     </tu>
     <tu>
@@ -31202,8 +31210,8 @@
       <tuv lang="JA">
         <seg>デクレッシェンド</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140341Z" creationid="UUZ" creationdate="20140907T140341Z">
-        <seg>渐弱</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132406Z" creationid="UUZ" creationdate="20140907T140341Z">
+        <seg>渐弱音</seg>
       </tuv>
     </tu>
     <tu>
@@ -35602,8 +35610,8 @@
       <tuv lang="JA">
         <seg>叫喚</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140347Z" creationid="UUZ" creationdate="20140907T140347Z">
-        <seg>叫唤</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132356Z" creationid="UUZ" creationdate="20140907T140347Z">
+        <seg>哀嚎</seg>
       </tuv>
     </tu>
     <tu>
@@ -38450,8 +38458,8 @@
       <tuv lang="JA">
         <seg>怒号</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140412Z" creationid="UUZ" creationdate="20140907T140412Z">
-        <seg>怒号</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132521Z" creationid="UUZ" creationdate="20140907T140412Z">
+        <seg>怒吼</seg>
       </tuv>
     </tu>
     <tu>
@@ -42872,6 +42880,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 散弾を 大きく 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132512Z" creationid="土妹子" creationdate="20150101T132512Z">
+        <seg>使对手的散弹大幅下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 散防ではなく 集防で ダメージが 影響する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115959Z" creationid="土妹子" creationdate="20150101T115959Z">
@@ -42912,6 +42928,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 能力変化を 反転させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132534Z" creationid="土妹子" creationdate="20150101T132534Z">
+        <seg>反转对手的能力等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 能力変化を 無視して 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064432Z" creationid="土妹子" creationdate="20150101T064432Z">
@@ -42936,6 +42960,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 集弾と 散弾を 下げて 控えの 人形と 交代する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132424Z" creationid="土妹子" creationdate="20150101T132424Z">
+        <seg>使对手的集弹和散弹下降，之后自身交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 集弾を 下げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130325Z" creationid="土妹子" creationdate="20150101T130325Z">
@@ -42956,6 +42988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063706Z" creationid="土妹子" creationdate="20150101T063706Z">
         <seg>攻击时对手的集防减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 集防を 大きく 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132544Z" creationid="土妹子" creationdate="20150101T132544Z">
+        <seg>使对手的集防大幅下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43092,6 +43132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025150Z" creationid="土妹子" creationdate="20141231T025150Z">
         <seg>对手不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手は 同じ スキルを ２回連続で だせなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132602Z" creationid="土妹子" creationdate="20150101T132602Z">
+        <seg>使对手不能连续使用相同技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44700,6 +44748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093712Z" creationid="土妹子" creationdate="20150101T093712Z">
         <seg>大幅提升自身的散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 散弾を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132741Z" creationid="土妹子" creationdate="20150101T132741Z">
+        <seg>提升自身的散弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46362,8 +46418,8 @@
       <tuv lang="JA">
         <seg>金切り声</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140411Z" creationid="UUZ" creationdate="20140907T140411Z">
-        <seg>尖叫声</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132504Z" creationid="UUZ" creationdate="20140907T140411Z">
+        <seg>刺耳尖叫</seg>
       </tuv>
     </tu>
     <tu>
@@ -48228,6 +48284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095408Z" creationid="土妹子" creationdate="20150101T095408Z">
         <seg>１成几率提升自身的散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 自分の 能力を ランダムに １つ 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132734Z" creationid="土妹子" creationdate="20150101T132734Z">
+        <seg>１成几率提升自身的随机１项能力。</seg>
       </tuv>
     </tu>
     <tu>
