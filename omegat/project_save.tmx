@@ -28102,6 +28102,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そのターンの 最後に 受けた 拡散スキルの ダメージを ２倍にして 返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115812Z" creationid="土妹子" creationdate="20150101T115812Z">
+        <seg>翻倍返还本回合最后一次受到的扩散技能伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのターンの 最後に 受けた 攻撃技の ダメージを １.５倍にして 返す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094834Z" creationid="土妹子" creationdate="20150101T094834Z">
@@ -29650,8 +29658,8 @@
       <tuv lang="JA">
         <seg>アンノウンフレア</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T130751Z" creationid="UUZ" creationdate="20140907T130751Z">
-        <seg>不明闪光</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115845Z" creationid="UUZ" creationdate="20140907T130751Z">
+        <seg>未知的闪焰</seg>
       </tuv>
     </tu>
     <tu>
@@ -30226,7 +30234,7 @@
       <tuv lang="JA">
         <seg>グラビティブラスト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T125113Z" creationid="UUZ" creationdate="20140907T125113Z">
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115803Z" creationid="UUZ" creationdate="20140907T125113Z">
         <seg>重力炮</seg>
       </tuv>
     </tu>
@@ -37698,8 +37706,8 @@
       <tuv lang="JA">
         <seg>幻惑パンデミック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T130300Z" creationid="UUZ" creationdate="20140907T130300Z">
-        <seg>迷惑大流行</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115832Z" creationid="UUZ" creationdate="20140907T130300Z">
+        <seg>幻惑大流行</seg>
       </tuv>
     </tu>
     <tu>
@@ -42656,6 +42664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 人形が 入れ替わる ときに スキルを だしていると 威力が 倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115659Z" creationid="土妹子" creationdate="20150101T115659Z">
+        <seg>对方交换人形时使用则威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 体勢を崩す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115414Z" creationid="土妹子" creationdate="20150101T115414Z">
@@ -42824,6 +42840,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の ＨＰが 高いほど 威力が 上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115753Z" creationid="土妹子" creationdate="20150101T115753Z">
+        <seg>对手的ＨＰ越高威力越高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の ＨＰに 関係なく 瀕死に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063423Z" creationid="土妹子" creationdate="20150101T063423Z">
@@ -42948,6 +42972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095027Z" creationid="土妹子" creationdate="20150101T095027Z">
         <seg>自身的敏捷越是比对手低，威力越高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手より 後に 攻撃 できると 威力が ２倍に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115621Z" creationid="土妹子" creationdate="20150101T115621Z">
+        <seg>比对手后攻时威力翻倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48116,6 +48148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111424Z" creationid="土妹子" creationdate="20150101T111424Z">
         <seg>３成几率使对手中毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３割の 確率で 相手を 混乱させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115850Z" creationid="土妹子" creationdate="20150101T115850Z">
+        <seg>３成几率使对手混乱。</seg>
       </tuv>
     </tu>
     <tu>
