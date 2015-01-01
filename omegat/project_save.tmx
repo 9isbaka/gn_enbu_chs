@@ -29802,8 +29802,8 @@
       <tuv lang="JA">
         <seg>ウルトラハイトーン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130739Z" creationid="UUZ" creationdate="20140907T135007Z">
-        <seg>超高频音</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131601Z" creationid="UUZ" creationdate="20140907T135007Z">
+        <seg>超高音调</seg>
       </tuv>
     </tu>
     <tu>
@@ -29898,8 +29898,8 @@
       <tuv lang="JA">
         <seg>エンカレッジ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135224Z" creationid="UUZ" creationdate="20140907T135224Z">
-        <seg>鼓励</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131733Z" creationid="UUZ" creationdate="20140907T135224Z">
+        <seg>鼓舞</seg>
       </tuv>
     </tu>
     <tu>
@@ -42824,6 +42824,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 散弾を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131658Z" creationid="土妹子" creationdate="20150101T131658Z">
+        <seg>使对手的散弹下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 散防ではなく 集防で ダメージが 影響する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115959Z" creationid="土妹子" creationdate="20150101T115959Z">
@@ -44676,6 +44684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120658Z" creationid="土妹子" creationdate="20150101T120658Z">
         <seg>将自身的异常状态移到对手身上，而自己被治愈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 能力が 上がっている ほど 威力が 上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131724Z" creationid="土妹子" creationdate="20150101T131724Z">
+        <seg>自身的能力等级越高威力越高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48428,6 +48444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093316Z" creationid="土妹子" creationdate="20141231T093316Z">
         <seg>５回合间散弹和敏捷的数值减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５割の 確率で 相手の 散防を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131647Z" creationid="土妹子" creationdate="20150101T131647Z">
+        <seg>５成几率使对手的散防下降。</seg>
       </tuv>
     </tu>
     <tu>
