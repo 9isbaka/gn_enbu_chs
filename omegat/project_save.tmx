@@ -25766,6 +25766,54 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆反動ダメージ1/2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062226Z" creationid="土妹子" creationdate="20150101T062226Z">
+        <seg>☆反伤１／２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆反動ダメージ1/3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062230Z" creationid="土妹子" creationdate="20150101T062230Z">
+        <seg>☆反伤１／３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆反動ダメージ1/3　相手を恐怖に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062245Z" creationid="土妹子" creationdate="20150101T062245Z">
+        <seg>☆反伤１／３，使对手恐怖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆反動ダメージ1/3　相手を火傷に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062240Z" creationid="土妹子" creationdate="20150101T062240Z">
+        <seg>☆反伤１／３，使对手烧伤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆反動ダメージ1/3　相手を麻痺に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062250Z" creationid="土妹子" creationdate="20150101T062250Z">
+        <seg>☆反伤１／３，使对手麻痹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆反動ダメージ1/4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062258Z" creationid="土妹子" creationdate="20150101T062258Z">
+        <seg>☆反伤１／４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆固定ダメージ（999）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055702Z" creationid="土妹子" creationdate="20150101T055702Z">
@@ -25878,10 +25926,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆溜め 溜めてる間 ほとんどのスキル無効 　防御結界無効</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062519Z" creationid="土妹子" creationdate="20150101T062511Z">
+        <seg>☆蓄力　蓄力时大部分技能无效　无视防御结界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆溜め·敵怯み·急所1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142248Z" creationid="UUZ" creationdate="20140904T142019Z">
         <seg>☆积存·敌胆怯·要害1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆溜め　1ターン目に自分の集防ランクを1段階上昇させる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062513Z" creationid="土妹子" creationdate="20150101T062356Z">
+        <seg>☆蓄力　第一回合自身的集防上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆溜め　極光時溜め無し　極光以外の天候の時威力半減</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062515Z" creationid="土妹子" creationdate="20150101T062413Z">
+        <seg>☆蓄力　极光时无需蓄力；极光以外的天气时威力减半</seg>
       </tuv>
     </tu>
     <tu>
@@ -26206,6 +26278,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆相手を無防備に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062202Z" creationid="土妹子" creationdate="20150101T062202Z">
+        <seg>☆使对手进入无防备状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手を猛毒に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062210Z" creationid="土妹子" creationdate="20150101T062210Z">
+        <seg>☆使对手中剧毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆相手を衰弱に</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062104Z" creationid="土妹子" creationdate="20150101T062104Z">
@@ -26224,8 +26312,8 @@
       <tuv lang="JA">
         <seg>☆相手を麻痺に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140811Z" creationid="UUZ" creationdate="20140904T140725Z">
-        <seg>☆对手麻痹中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062152Z" creationid="UUZ" creationdate="20140904T140725Z">
+        <seg>☆使对手麻痹</seg>
       </tuv>
     </tu>
     <tu>
@@ -26426,6 +26514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060743Z" creationid="土妹子" creationdate="20150101T060743Z">
         <seg>☆自身进入无防备状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆通常攻撃</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062216Z" creationid="土妹子" creationdate="20150101T062216Z">
+        <seg>☆通常攻击</seg>
       </tuv>
     </tu>
     <tu>
