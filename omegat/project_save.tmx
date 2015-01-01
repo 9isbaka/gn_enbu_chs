@@ -29736,6 +29736,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ウェーブパライズ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105253Z" creationid="土妹子" creationdate="20150101T105253Z">
+        <seg>波状闪焰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ウォーターカノン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T090608Z" creationid="UUZ" creationdate="20140906T090608Z">
@@ -30762,8 +30770,8 @@
       <tuv lang="JA">
         <seg>スパーククロス</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130105Z" creationid="UUZ" creationdate="20140906T130105Z">
-        <seg>星火十字</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105012Z" creationid="UUZ" creationdate="20140906T130105Z">
+        <seg>火花十字</seg>
       </tuv>
     </tu>
     <tu>
@@ -30964,6 +30972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140711Z" creationid="UUZ" creationdate="20140906T140711Z">
         <seg>灰尘炸弹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ダメージを 与えられなかった時 交代できない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105002Z" creationid="土妹子" creationdate="20150101T105002Z">
+        <seg>没有造成伤害的场合不能交换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32314,8 +32330,8 @@
       <tuv lang="JA">
         <seg>ライトニングチャージ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130219Z" creationid="UUZ" creationdate="20140906T130219Z">
-        <seg>快速充电</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105030Z" creationid="UUZ" creationdate="20140906T130219Z">
+        <seg>闪电充电</seg>
       </tuv>
     </tu>
     <tu>
@@ -39528,6 +39544,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>攻撃後 控え人形と 入れ替わる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104946Z" creationid="土妹子" creationdate="20150101T104946Z">
+        <seg>攻击后与后备人形交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>攻撃後 自分の 散弾が 大きく 下がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070445Z" creationid="土妹子" creationdate="20150101T070445Z">
@@ -40240,6 +40264,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>次の ターンに 出す 雷属性の スキルを 倍に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105044Z" creationid="土妹子" creationdate="20150101T105044Z">
+        <seg>下回合使用的雷属性技能威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>次の ターンに 自分の 最大 ＨＰの 半分 回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065230Z" creationid="土妹子" creationdate="20150101T065230Z">
@@ -40252,6 +40284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095658Z" creationid="土妹子" creationdate="20150101T095658Z">
         <seg>使下次攻击能够命中对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次の 相手の スキルは 雷属性 になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105105Z" creationid="土妹子" creationdate="20150101T105105Z">
+        <seg>对手的下个技能变成雷属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43976,6 +44016,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 散防も あがる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105052Z" creationid="土妹子" creationdate="20150101T105052Z">
+        <seg>也会提升自身的散防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 散防を上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070135Z" creationid="土妹子" creationdate="20150101T070135Z">
@@ -47508,6 +47556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070830Z" creationid="土妹子" creationdate="20150101T070830Z">
         <seg>５成几率提升自身的散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>７割の 確率で 自分の 散弾を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105019Z" creationid="土妹子" creationdate="20150101T105019Z">
+        <seg>７成几率提升自身的散弹。</seg>
       </tuv>
     </tu>
     <tu>
