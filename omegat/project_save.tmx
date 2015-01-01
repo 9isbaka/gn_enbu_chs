@@ -26894,6 +26894,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いたずら</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063438Z" creationid="土妹子" creationdate="20150101T063438Z">
+        <seg>恶作剧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いちりん</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151405Z" creationid="UUZ" creationdate="20140906T151405Z">
@@ -34104,6 +34112,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使うと 自分が 瀕死に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063714Z" creationid="土妹子" creationdate="20150101T063714Z">
+        <seg>使用后自身濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使えるスキルは習得しないと増えないので注意！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T124122Z" creationid="UUZ" creationdate="20140908T124122Z">
@@ -34362,8 +34378,8 @@
       <tuv lang="JA">
         <seg>全身全霊</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142840Z" creationid="UUZ" creationdate="20140904T142840Z">
-        <seg>全心全力</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063540Z" creationid="UUZ" creationdate="20140904T142840Z">
+        <seg>全心全意</seg>
       </tuv>
     </tu>
     <tu>
@@ -35786,8 +35802,8 @@
       <tuv lang="JA">
         <seg>変幻自在</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142638Z" creationid="UUZ" creationdate="20140904T142638Z">
-        <seg>变幻自如</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063428Z" creationid="UUZ" creationdate="20140904T142638Z">
+        <seg>变幻自在</seg>
       </tuv>
     </tu>
     <tu>
@@ -37130,8 +37146,8 @@
       <tuv lang="JA">
         <seg>差引勘定</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142756Z" creationid="UUZ" creationdate="20140904T142756Z">
-        <seg>结算收支</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063504Z" creationid="UUZ" creationdate="20140904T142756Z">
+        <seg>收支结算</seg>
       </tuv>
     </tu>
     <tu>
@@ -39568,6 +39584,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>未実装。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063433Z" creationid="土妹子" creationdate="20150101T063433Z">
+        <seg>未实装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>本居小鈴</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145128Z" creationid="UUZ" creationdate="20140906T145128Z">
@@ -41764,6 +41788,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014600Z" creationid="UUZ" creationdate="20140906T141325Z">
         <seg>在对手的周围产生瘴气使其中猛毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 集防を 半分にして 攻撃する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063706Z" creationid="土妹子" creationdate="20150101T063706Z">
+        <seg>攻击时对手的集防减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の ＨＰに 関係なく 瀕死に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063423Z" creationid="土妹子" creationdate="20150101T063423Z">
+        <seg>无视对手的ＨＰ使其濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の ＨＰを 半分に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063451Z" creationid="土妹子" creationdate="20150101T063451Z">
+        <seg>使对手的ＨＰ减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の ＨＰを 自分と同じにする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063527Z" creationid="土妹子" creationdate="20150101T063527Z">
+        <seg>使对手的ＨＰ与自身相同。</seg>
       </tuv>
     </tu>
     <tu>
