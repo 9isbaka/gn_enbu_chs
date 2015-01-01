@@ -30306,8 +30306,8 @@
       <tuv lang="JA">
         <seg>ゴーストウェーブ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T113940Z" creationid="UUZ" creationdate="20140907T113940Z">
-        <seg>鬼波动</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113204Z" creationid="UUZ" creationdate="20140907T113940Z">
+        <seg>鬼魂波动</seg>
       </tuv>
     </tu>
     <tu>
@@ -44144,6 +44144,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の レベルと 同じ だけの 固定ダメージを 相手に 与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113022Z" creationid="土妹子" creationdate="20150101T113022Z">
+        <seg>对对手造成等于自身等级的固定伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 俊敏を 上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070342Z" creationid="土妹子" creationdate="20150101T070342Z">
@@ -47042,8 +47050,8 @@
       <tuv lang="JA">
         <seg>飢え行く霊魂</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T113847Z" creationid="UUZ" creationdate="20140907T113847Z">
-        <seg>灵魂饥饿</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113159Z" creationid="UUZ" creationdate="20140907T113847Z">
+        <seg>饥渴之魂</seg>
       </tuv>
     </tu>
     <tu>
@@ -47820,6 +47828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064833Z" creationid="土妹子" creationdate="20150101T064833Z">
         <seg>３成几率使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３割の 確率で 相手を 恐怖状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113209Z" creationid="土妹子" creationdate="20150101T113209Z">
+        <seg>３成几率使对手恐怖。</seg>
       </tuv>
     </tu>
     <tu>
