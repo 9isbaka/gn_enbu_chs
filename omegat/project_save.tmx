@@ -24958,6 +24958,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★相手のスキルのうちランダムに2つを4ターン使えなくする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062620Z" creationid="土妹子" creationdate="20150101T062620Z">
+        <seg>★对手的技能中随机的两个在４回合间不能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★相手のランク補正を自分にコピーする</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T121812Z" creationid="土妹子" creationdate="20141231T121812Z">
@@ -25966,6 +25974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆溜め・相手を怯み・痛烈1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062535Z" creationid="土妹子" creationdate="20150101T062535Z">
+        <seg>☆蓄力　使对手害怕，容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆痛烈になりやすい</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055800Z" creationid="土妹子" creationdate="20150101T055800Z">
@@ -26382,6 +26398,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆自分の俊敏が1段低下</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062635Z" creationid="土妹子" creationdate="20150101T062635Z">
+        <seg>☆自身的敏捷下降１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆自分の場の設置物を吹き飛ばす</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060010Z" creationid="土妹子" creationdate="20150101T060010Z">
@@ -26522,6 +26546,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062216Z" creationid="土妹子" creationdate="20150101T062216Z">
         <seg>☆通常攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆連続2〜5回</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062546Z" creationid="土妹子" creationdate="20150101T062546Z">
+        <seg>☆２～５连</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆連続2回</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062550Z" creationid="土妹子" creationdate="20150101T062550Z">
+        <seg>☆２连</seg>
       </tuv>
     </tu>
     <tu>
