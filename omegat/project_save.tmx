@@ -25798,6 +25798,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆固定ダメージ（相手現在HPの半分）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055947Z" creationid="土妹子" creationdate="20150101T055947Z">
+        <seg>☆固定伤害（对手现有ＨＰ的一半）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆固定ダメージ（自分のレベル）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055848Z" creationid="土妹子" creationdate="20150101T055848Z">
@@ -25842,6 +25850,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141004Z" creationid="UUZ" creationdate="20140904T141004Z">
         <seg>☆容易命中要害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆攻撃した後、交代する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055953Z" creationid="土妹子" creationdate="20150101T055953Z">
+        <seg>☆攻击后交换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆次のターン反動で動けない</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060019Z" creationid="土妹子" creationdate="20150101T060019Z">
+        <seg>☆下回合因后坐力不能行动</seg>
       </tuv>
     </tu>
     <tu>
@@ -25974,10 +25998,74 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆自分が後攻の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060028Z" creationid="土妹子" creationdate="20150101T060028Z">
+        <seg>☆自身后攻时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分が状態異常の時威力倍　恐怖・暗闇無視</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060047Z" creationid="土妹子" creationdate="20150101T060047Z">
+        <seg>☆自身状态异常时威力翻倍，无视恐怖和黑暗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分が装飾品を持っていない時のみ使用可能</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060157Z" creationid="土妹子" creationdate="20150101T060157Z">
+        <seg>☆仅在自身携带了装饰品的时候才能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分が装飾品を持っていない時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060210Z" creationid="土妹子" creationdate="20150101T060210Z">
+        <seg>☆自身没有携带装饰品时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の5ステ1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060219Z" creationid="土妹子" creationdate="20150101T060219Z">
+        <seg>☆自身的五围上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の5ステからランダムに1段上昇</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060235Z" creationid="土妹子" creationdate="20150101T060235Z">
+        <seg>☆自身的五围中随机一项上升１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分のコストが相手より高いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060310Z" creationid="土妹子" creationdate="20150101T060300Z">
+        <seg>☆自身的ｃｏｓｔ越是比对手高，威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆自分の俊敏1段上昇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T141207Z">
         <seg>☆自己的敏捷上升了1级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の場の設置物を吹き飛ばす</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060010Z" creationid="土妹子" creationdate="20150101T060010Z">
+        <seg>☆吹飞我方场上的设置物</seg>
       </tuv>
     </tu>
     <tu>
@@ -26010,6 +26098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055635Z" creationid="土妹子" creationdate="20150101T055635Z">
         <seg>☆反伤自身最大ＨＰ的１／３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の現在HPが少ないほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060323Z" creationid="土妹子" creationdate="20150101T060323Z">
+        <seg>☆自身现有ＨＰ越低威力越高</seg>
       </tuv>
     </tu>
     <tu>
