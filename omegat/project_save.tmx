@@ -34320,6 +34320,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>先に だせないと 失敗する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065815Z" creationid="土妹子" creationdate="20150101T065815Z">
+        <seg>不能先发的话会失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>先代巫女</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145233Z" creationid="UUZ" creationdate="20140906T145233Z">
@@ -34338,8 +34346,8 @@
       <tuv lang="JA">
         <seg>先読み</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152119Z" creationid="UUZ" creationdate="20140904T152119Z">
-        <seg>预知</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065742Z" creationid="UUZ" creationdate="20140904T152119Z">
+        <seg>先读</seg>
       </tuv>
     </tu>
     <tu>
@@ -36636,6 +36644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145030Z" creationid="UUZ" creationdate="20140906T145030Z">
         <seg>姬海棠果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>威力を１.５倍で 相手が だそうとする 技を 先に出す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065801Z" creationid="土妹子" creationdate="20150101T065801Z">
+        <seg>以１.５倍威力抢先使出对手要使用的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39172,6 +39188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T121443Z" creationid="UUZ" creationdate="20140907T121443Z">
         <seg>掌底打</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>控えの 人形と 入れ替わる 能力 変化は 替わった 人形が そのまま 受け継ぐ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065934Z" creationid="土妹子" creationdate="20150101T065934Z">
+        <seg>与后备人形交换，能力变化就这样让换上场的人形继承。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42088,6 +42112,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を 麻痺状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065830Z" creationid="土妹子" creationdate="20150101T065830Z">
+        <seg>使对手麻痹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を倒した時 集弾が一段階上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093749Z" creationid="土妹子" creationdate="20141231T093749Z">
@@ -43298,16 +43330,24 @@
       <tuv lang="JA">
         <seg>自分の 集弾と 俊敏を 上げる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065405Z" creationid="土妹子" creationdate="20150101T065405Z">
-        <seg>自身的集弹和敏捷上升。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065715Z" creationid="土妹子" creationdate="20150101T065405Z">
+        <seg>提升自身的集弹和敏捷。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>自分の 集弾と 散弾と 俊敏を 大きく 上げて 集防と 散防を 下げる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065559Z" creationid="土妹子" creationdate="20150101T065559Z">
-        <seg>自身的集弹和散弹和敏捷大幅上升，但是集防和散防下降。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065726Z" creationid="土妹子" creationdate="20150101T065559Z">
+        <seg>大幅提升自身的集弹和散弹和敏捷，但是集防和散防下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集弾と 集防と 命中を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065732Z" creationid="土妹子" creationdate="20150101T065643Z">
+        <seg>提升自身的集弹和集防和命中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45146,8 +45186,8 @@
       <tuv lang="JA">
         <seg>陰の気力</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152730Z" creationid="UUZ" creationdate="20140904T152730Z">
-        <seg>阴之力</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070002Z" creationid="UUZ" creationdate="20140904T152730Z">
+        <seg>阴之气力</seg>
       </tuv>
     </tu>
     <tu>
