@@ -24766,10 +24766,74 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★地相発現「朱雀」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055209Z" creationid="土妹子" creationdate="20150101T055049Z">
+        <seg>★地相显现「朱雀」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★地相発現「玄武」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055207Z" creationid="土妹子" creationdate="20150101T055040Z">
+        <seg>★地相显现「玄武」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★地相発現「白虎」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055213Z" creationid="土妹子" creationdate="20150101T055103Z">
+        <seg>★地相显现「白虎」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★地相発現「青龍」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055211Z" creationid="土妹子" creationdate="20150101T055053Z">
+        <seg>★地相显现「青龙」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★変化スキル反射</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095715Z" creationid="土妹子" creationdate="20141231T095715Z">
         <seg>★反射变化技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★天候発現「凪」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055137Z" creationid="土妹子" creationdate="20150101T055137Z">
+        <seg>★天气发现「微风」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★天候発現「極光」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055216Z" creationid="土妹子" creationdate="20150101T055128Z">
+        <seg>★天气显现「极光」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★天候発現「濃霧」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055159Z" creationid="土妹子" creationdate="20150101T055159Z">
+        <seg>★天气发现「浓雾」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★天候発現「黄砂」</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055215Z" creationid="土妹子" creationdate="20150101T055117Z">
+        <seg>★天气显现「黄砂」</seg>
       </tuv>
     </tu>
     <tu>
@@ -25040,16 +25104,24 @@
       <tuv lang="JA">
         <seg>★相手を停止に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141041Z" creationid="UUZ" creationdate="20140904T141041Z">
-        <seg>★对手停止中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054932Z" creationid="UUZ" creationdate="20140904T141041Z">
+        <seg>★使对手停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手を吹き飛ばす</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054903Z" creationid="土妹子" creationdate="20150101T054903Z">
+        <seg>★把对手吹飞</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★相手を大火傷に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141107Z" creationid="UUZ" creationdate="20140904T141107Z">
-        <seg>★对手大烧伤中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054927Z" creationid="UUZ" creationdate="20140904T141107Z">
+        <seg>★使对手大烧伤</seg>
       </tuv>
     </tu>
     <tu>
@@ -25064,8 +25136,16 @@
       <tuv lang="JA">
         <seg>★相手を恐怖に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141029Z" creationid="UUZ" creationdate="20140904T141029Z">
-        <seg>★对手恐惧中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054848Z" creationid="UUZ" creationdate="20140904T141029Z">
+        <seg>★使对手恐怖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手を恐怖・混乱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054840Z" creationid="土妹子" creationdate="20150101T054840Z">
+        <seg>★使对手恐怖并混乱</seg>
       </tuv>
     </tu>
     <tu>
@@ -25080,16 +25160,24 @@
       <tuv lang="JA">
         <seg>★相手を毒に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141011Z" creationid="UUZ" creationdate="20140904T141011Z">
-        <seg>★对手中毒中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054937Z" creationid="UUZ" creationdate="20140904T141011Z">
+        <seg>★使对手中毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手を水属性にする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054914Z" creationid="土妹子" creationdate="20150101T054914Z">
+        <seg>★使对手变为水属性</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★相手を混乱に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141045Z" creationid="UUZ" creationdate="20140904T141045Z">
-        <seg>★对手混乱中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054855Z" creationid="UUZ" creationdate="20140904T141045Z">
+        <seg>★使对手混乱</seg>
       </tuv>
     </tu>
     <tu>
@@ -25110,18 +25198,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★相手を無防備状態にする</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055023Z" creationid="土妹子" creationdate="20150101T055023Z">
+        <seg>★使对手进入无防备状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★相手を猛毒に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141059Z" creationid="UUZ" creationdate="20140904T141059Z">
-        <seg>★对手猛毒中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055030Z" creationid="UUZ" creationdate="20140904T141059Z">
+        <seg>★使对手中剧毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手を衰弱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054921Z" creationid="土妹子" creationdate="20150101T054921Z">
+        <seg>★使对手衰弱</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★相手を麻痺に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141037Z" creationid="UUZ" creationdate="20140904T141037Z">
-        <seg>★对手麻痹中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054951Z" creationid="UUZ" creationdate="20140904T141037Z">
+        <seg>★使对手麻痹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手を麻痺・混乱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054945Z" creationid="土妹子" creationdate="20150101T054945Z">
+        <seg>★使对手麻痹并混乱</seg>
       </tuv>
     </tu>
     <tu>
