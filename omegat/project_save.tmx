@@ -29738,8 +29738,8 @@
       <tuv lang="JA">
         <seg>ウェーブパライズ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105253Z" creationid="土妹子" creationdate="20150101T105253Z">
-        <seg>波状闪焰</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105323Z" creationid="土妹子" creationdate="20150101T105253Z">
+        <seg>电波闪焰</seg>
       </tuv>
     </tu>
     <tu>
@@ -30418,8 +30418,8 @@
       <tuv lang="JA">
         <seg>サンダーベール</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130351Z" creationid="UUZ" creationdate="20140906T130351Z">
-        <seg>雷霆屏障</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105337Z" creationid="UUZ" creationdate="20140906T130351Z">
+        <seg>雷霆帷幕</seg>
       </tuv>
     </tu>
     <tu>
@@ -30778,8 +30778,8 @@
       <tuv lang="JA">
         <seg>スパークショット</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130558Z" creationid="UUZ" creationdate="20140906T130558Z">
-        <seg>火花飞溅</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105349Z" creationid="UUZ" creationdate="20140906T130558Z">
+        <seg>火花射击</seg>
       </tuv>
     </tu>
     <tu>
@@ -32570,8 +32570,8 @@
       <tuv lang="JA">
         <seg>ルミナスフラックス</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T131626Z" creationid="UUZ" creationdate="20140906T131626Z">
-        <seg>光流</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105707Z" creationid="UUZ" creationdate="20140906T131626Z">
+        <seg>光通量</seg>
       </tuv>
     </tu>
     <tu>
@@ -42368,6 +42368,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手に 対して 先制できる 相手を ひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105556Z" creationid="土妹子" creationdate="20150101T105556Z">
+        <seg>能够先制攻击，并使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手に 対して 先制できる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064616Z" creationid="土妹子" creationdate="20150101T064325Z">
@@ -42704,6 +42712,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を 麻痺と 混乱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105330Z" creationid="土妹子" creationdate="20150101T105330Z">
+        <seg>使对手麻痹并混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を 麻痺に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104804Z" creationid="土妹子" creationdate="20150101T104804Z">
@@ -42986,8 +43002,8 @@
       <tuv lang="JA">
         <seg>神鳴</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104918Z" creationid="UUZ" creationdate="20140906T125801Z">
-        <seg>打雷</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105535Z" creationid="UUZ" creationdate="20140906T125801Z">
+        <seg>神之雷</seg>
       </tuv>
     </tu>
     <tu>
@@ -47428,6 +47444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070951Z" creationid="土妹子" creationdate="20150101T070951Z">
         <seg>２成几率使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２割の 確率で 相手を 麻痺状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105512Z" creationid="土妹子" creationdate="20150101T105512Z">
+        <seg>２成几率使对手麻痹。</seg>
       </tuv>
     </tu>
     <tu>
