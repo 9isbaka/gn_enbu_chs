@@ -45536,6 +45536,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>通常攻撃。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T113049Z" creationid="UUZ" creationdate="20150101T113049Z">
+        <seg>通常攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>通常野生戦</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133409Z" creationid="土妹子" creationdate="20141230T133409Z">
@@ -48060,6 +48068,286 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112816Z" creationid="UUZ" creationdate="20150101T112816Z">
         <seg>ＳＫＩＬＬ００６４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００６５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112818Z" creationid="UUZ" creationdate="20150101T112818Z">
+        <seg>ＳＫＩＬＬ００６５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００６６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112819Z" creationid="UUZ" creationdate="20150101T112819Z">
+        <seg>ＳＫＩＬＬ００６６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００６７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112820Z" creationid="UUZ" creationdate="20150101T112820Z">
+        <seg>ＳＫＩＬＬ００６７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００６８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112822Z" creationid="UUZ" creationdate="20150101T112822Z">
+        <seg>ＳＫＩＬＬ００６８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００６９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112824Z" creationid="UUZ" creationdate="20150101T112824Z">
+        <seg>ＳＫＩＬＬ００６９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112826Z" creationid="UUZ" creationdate="20150101T112826Z">
+        <seg>ＳＫＩＬＬ００７０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112827Z" creationid="UUZ" creationdate="20150101T112827Z">
+        <seg>ＳＫＩＬＬ００７１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112829Z" creationid="UUZ" creationdate="20150101T112829Z">
+        <seg>ＳＫＩＬＬ００７２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112830Z" creationid="UUZ" creationdate="20150101T112830Z">
+        <seg>ＳＫＩＬＬ００７３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112832Z" creationid="UUZ" creationdate="20150101T112832Z">
+        <seg>ＳＫＩＬＬ００７４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112834Z" creationid="UUZ" creationdate="20150101T112834Z">
+        <seg>ＳＫＩＬＬ００７５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112835Z" creationid="UUZ" creationdate="20150101T112835Z">
+        <seg>ＳＫＩＬＬ００７６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112836Z" creationid="UUZ" creationdate="20150101T112836Z">
+        <seg>ＳＫＩＬＬ００７７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112836Z" creationid="UUZ" creationdate="20150101T112836Z">
+        <seg>ＳＫＩＬＬ００７８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００７９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112837Z" creationid="UUZ" creationdate="20150101T112837Z">
+        <seg>ＳＫＩＬＬ００７９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112838Z" creationid="UUZ" creationdate="20150101T112838Z">
+        <seg>ＳＫＩＬＬ００８０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112839Z" creationid="UUZ" creationdate="20150101T112839Z">
+        <seg>ＳＫＩＬＬ００８１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112839Z" creationid="UUZ" creationdate="20150101T112839Z">
+        <seg>ＳＫＩＬＬ００８２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112841Z" creationid="UUZ" creationdate="20150101T112841Z">
+        <seg>ＳＫＩＬＬ００８３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112843Z" creationid="UUZ" creationdate="20150101T112843Z">
+        <seg>ＳＫＩＬＬ００８４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112846Z" creationid="UUZ" creationdate="20150101T112846Z">
+        <seg>ＳＫＩＬＬ００８５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112852Z" creationid="UUZ" creationdate="20150101T112852Z">
+        <seg>ＳＫＩＬＬ００８６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112932Z" creationid="UUZ" creationdate="20150101T112932Z">
+        <seg>ＳＫＩＬＬ００８７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112908Z" creationid="UUZ" creationdate="20150101T112908Z">
+        <seg>ＳＫＩＬＬ００８８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００８９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112907Z" creationid="UUZ" creationdate="20150101T112907Z">
+        <seg>ＳＫＩＬＬ００８９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112906Z" creationid="UUZ" creationdate="20150101T112906Z">
+        <seg>ＳＫＩＬＬ００９０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112904Z" creationid="UUZ" creationdate="20150101T112904Z">
+        <seg>ＳＫＩＬＬ００９１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112903Z" creationid="UUZ" creationdate="20150101T112903Z">
+        <seg>ＳＫＩＬＬ００９２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112902Z" creationid="UUZ" creationdate="20150101T112902Z">
+        <seg>ＳＫＩＬＬ００９３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112901Z" creationid="UUZ" creationdate="20150101T112901Z">
+        <seg>ＳＫＩＬＬ００９４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112859Z" creationid="UUZ" creationdate="20150101T112859Z">
+        <seg>ＳＫＩＬＬ００９５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112858Z" creationid="UUZ" creationdate="20150101T112858Z">
+        <seg>ＳＫＩＬＬ００９６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112857Z" creationid="UUZ" creationdate="20150101T112857Z">
+        <seg>ＳＫＩＬＬ００９７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ００９９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112855Z" creationid="UUZ" creationdate="20150101T112855Z">
+        <seg>ＳＫＩＬＬ００９９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０１００</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150101T112853Z" creationid="UUZ" creationdate="20150101T112853Z">
+        <seg>ＳＫＩＬＬ０１００</seg>
       </tuv>
     </tu>
     <tu>
