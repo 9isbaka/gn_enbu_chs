@@ -29554,8 +29554,8 @@
       <tuv lang="JA">
         <seg>アタックミーン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131155Z" creationid="UUZ" creationdate="20140907T131155Z">
-        <seg>攻击姿态</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120347Z" creationid="UUZ" creationdate="20140907T131155Z">
+        <seg>攻击均分</seg>
       </tuv>
     </tu>
     <tu>
@@ -30090,8 +30090,8 @@
       <tuv lang="JA">
         <seg>ガードミーン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131605Z" creationid="UUZ" creationdate="20140907T131605Z">
-        <seg>防御姿态</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120447Z" creationid="UUZ" creationdate="20140907T131605Z">
+        <seg>防御均分</seg>
       </tuv>
     </tu>
     <tu>
@@ -30202,8 +30202,8 @@
       <tuv lang="JA">
         <seg>クロスチェンジ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131549Z" creationid="UUZ" creationdate="20140907T131549Z">
-        <seg>十字交换</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120404Z" creationid="UUZ" creationdate="20140907T131549Z">
+        <seg>交叉互换</seg>
       </tuv>
     </tu>
     <tu>
@@ -31250,8 +31250,8 @@
       <tuv lang="JA">
         <seg>ドッペルゲンガー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131712Z" creationid="UUZ" creationdate="20140907T131712Z">
-        <seg>分身</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120525Z" creationid="UUZ" creationdate="20140907T131712Z">
+        <seg>二重身</seg>
       </tuv>
     </tu>
     <tu>
@@ -44392,10 +44392,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分と 相手の アビリティを 入れ替える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120411Z" creationid="土妹子" creationdate="20150101T120411Z">
+        <seg>交换自身和对手的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と 相手の 集弾と 散弾を たして 半分に わける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120359Z" creationid="土妹子" creationdate="20150101T120359Z">
+        <seg>把自己和对手的集弹和散弹加起来平分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分と 相手の 集弾と 散弾を 入れ替える。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120154Z" creationid="土妹子" creationdate="20150101T120154Z">
         <seg>交换自身和对手的集弹和散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と 相手の 集防と 散防を たして 半分に わける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120457Z" creationid="土妹子" creationdate="20150101T120457Z">
+        <seg>把自己和对手的集防和散防加起来平分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と 相手の 集防と 散防を 入れ替える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120441Z" creationid="土妹子" creationdate="20150101T120441Z">
+        <seg>交换自身和对手的集防和散防。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44492,6 +44524,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104049Z" creationid="土妹子" creationdate="20150101T104049Z">
         <seg>提升自身的回避率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 属性を 相手の 属性と 同じにする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120539Z" creationid="土妹子" creationdate="20150101T120539Z">
+        <seg>自身变成和对手相同的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 属性を 自分の 一番上の スキルと 同じ属性に 変える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120517Z" creationid="土妹子" creationdate="20150101T120517Z">
+        <seg>自己的属性变为自己技能列表最上面的技能属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44612,6 +44660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111101Z" creationid="土妹子" creationdate="20150101T111101Z">
         <seg>提升自身的集弹和集防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集弾と 集防を 入れ替える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120632Z" creationid="土妹子" creationdate="20150101T120632Z">
+        <seg>交换自身的集弹和集防。</seg>
       </tuv>
     </tu>
     <tu>
