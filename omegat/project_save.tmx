@@ -29962,8 +29962,8 @@
       <tuv lang="JA">
         <seg>オーバーレイ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T132410Z" creationid="UUZ" creationdate="20140906T132309Z">
-        <seg>覆盖层</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105920Z" creationid="UUZ" creationdate="20140906T132309Z">
+        <seg>超限激光</seg>
       </tuv>
     </tu>
     <tu>
@@ -40768,6 +40768,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気象を 解除し 威力を ２倍にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105734Z" creationid="土妹子" creationdate="20150101T105734Z">
+        <seg>解除气象，并使威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気象を 黄砂に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094550Z" creationid="土妹子" creationdate="20150101T094550Z">
@@ -47300,6 +47308,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092138Z" creationid="土妹子" creationdate="20150101T092138Z">
         <seg>１成几率使对手停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 相手を 混乱させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105946Z" creationid="土妹子" creationdate="20150101T105946Z">
+        <seg>１成几率使对手混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 相手を 混乱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105719Z" creationid="土妹子" creationdate="20150101T105719Z">
+        <seg>１成几率使对手混乱。</seg>
       </tuv>
     </tu>
     <tu>
