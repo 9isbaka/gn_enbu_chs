@@ -30690,8 +30690,8 @@
       <tuv lang="JA">
         <seg>スターフレア</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T132834Z" creationid="UUZ" creationdate="20140906T132834Z">
-        <seg>星光闪耀</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110048Z" creationid="UUZ" creationdate="20140906T132834Z">
+        <seg>星火术</seg>
       </tuv>
     </tu>
     <tu>
@@ -32314,8 +32314,8 @@
       <tuv lang="JA">
         <seg>ライトアップ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133332Z" creationid="UUZ" creationdate="20140906T133332Z">
-        <seg>亮灯</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110419Z" creationid="UUZ" creationdate="20140906T133332Z">
+        <seg>点灯</seg>
       </tuv>
     </tu>
     <tu>
@@ -34908,6 +34908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025947Z" creationid="土妹子" creationdate="20141231T025947Z">
         <seg>冷静沉着</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>凪のとき 効果が 上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110231Z" creationid="土妹子" creationdate="20150101T110231Z">
+        <seg>微风时效果上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37546,8 +37554,8 @@
       <tuv lang="JA">
         <seg>幸運の虹</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T132950Z" creationid="UUZ" creationdate="20140906T132950Z">
-        <seg>幸運彩虹</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110149Z" creationid="UUZ" creationdate="20140906T132950Z">
+        <seg>幸运彩虹</seg>
       </tuv>
     </tu>
     <tu>
@@ -40768,6 +40776,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気象を 極光に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110349Z" creationid="土妹子" creationdate="20150101T110349Z">
+        <seg>使气象变为极光。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気象を 解除し 威力を ２倍にする。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105734Z" creationid="土妹子" creationdate="20150101T105734Z">
@@ -40794,8 +40810,8 @@
       <tuv lang="JA">
         <seg>気象発現「極光」</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133059Z" creationid="UUZ" creationdate="20140906T133059Z">
-        <seg>气象显现「激光」</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110343Z" creationid="UUZ" creationdate="20140906T133059Z">
+        <seg>气象显现「极光」</seg>
       </tuv>
     </tu>
     <tu>
@@ -42512,6 +42528,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 集弾を 大きく 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110249Z" creationid="土妹子" creationdate="20150101T110249Z">
+        <seg>使对手的集弹大幅下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 集防を 半分にして 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063706Z" creationid="土妹子" creationdate="20150101T063706Z">
@@ -42672,6 +42696,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を 恐怖と 混乱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110257Z" creationid="土妹子" creationdate="20150101T110257Z">
+        <seg>使对手恐怖并混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を 毒状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093835Z" creationid="土妹子" creationdate="20150101T093835Z">
@@ -42692,6 +42724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014252Z" creationid="UUZ" creationdate="20140906T085014Z">
         <seg>将对手封入冰棺的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 混乱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110336Z" creationid="土妹子" creationdate="20150101T110336Z">
+        <seg>使对手混乱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44032,6 +44072,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 散弾と 散防を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110240Z" creationid="土妹子" creationdate="20150101T110240Z">
+        <seg>提升自身的散弹和散防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 散弾を かな 大きく 上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093712Z" creationid="土妹子" creationdate="20150101T093712Z">
@@ -44076,6 +44124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065726Z" creationid="土妹子" creationdate="20150101T065559Z">
         <seg>大幅提升自身的集弹和散弹和敏捷，但是集防和散防下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集弾と 散弾を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110221Z" creationid="土妹子" creationdate="20150101T110221Z">
+        <seg>提升自身的集弹和散弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47448,6 +47504,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２割の 確率で 相手の 命中を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110052Z" creationid="土妹子" creationdate="20150101T110052Z">
+        <seg>２成几率使对手的命中下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２割の 確率で 相手の 集弾を 下げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093006Z" creationid="土妹子" creationdate="20150101T093006Z">
@@ -47576,10 +47640,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>５ターンの あいだ バリアで 相手から 受ける 散弾スキルの ダメージが半減する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110131Z" creationid="土妹子" creationdate="20150101T110131Z">
+        <seg>５回合间张开屏障，从对手受到的散弹伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５ターンの あいだ プロテクトで 相手から 受ける 集弾スキルの ダメージが 半減する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110141Z" creationid="土妹子" creationdate="20150101T110141Z">
+        <seg>５回合间张开屏障，从对手受到的集弹伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>５ターンの あいだ 相手に 能力を 下げられなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091825Z" creationid="土妹子" creationdate="20150101T091825Z">
         <seg>５回合间能力不会被对手下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５ターンの あいだ 自分の場に 虹をだし 状態異常に ならなくする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110211Z" creationid="土妹子" creationdate="20150101T110211Z">
+        <seg>５回合间我方场地出现彩虹，不会受到异常状态。</seg>
       </tuv>
     </tu>
     <tu>
