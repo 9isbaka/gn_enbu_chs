@@ -35936,6 +35936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地面に 降りて 最大 ＨＰの 半分回復 する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104039Z" creationid="土妹子" creationdate="20150101T104039Z">
+        <seg>落到地面上，回复最大ＨＰ的一半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地響き</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T110927Z" creationid="UUZ" creationdate="20140906T110908Z">
@@ -39978,8 +39986,8 @@
       <tuv lang="JA">
         <seg>木枯らし</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T124758Z" creationid="UUZ" creationdate="20140906T124758Z">
-        <seg>木枯风</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104158Z" creationid="UUZ" creationdate="20140906T124758Z">
+        <seg>寒冷秋风</seg>
       </tuv>
     </tu>
     <tu>
@@ -40290,8 +40298,8 @@
       <tuv lang="JA">
         <seg>止まり木</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T110729Z" creationid="UUZ" creationdate="20140906T123240Z">
-        <seg>砍树</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104023Z" creationid="UUZ" creationdate="20140906T123240Z">
+        <seg>栖木</seg>
       </tuv>
     </tu>
     <tu>
@@ -40704,6 +40712,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気象を 凪に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104125Z" creationid="土妹子" creationdate="20150101T104125Z">
+        <seg>使气象变为微风。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気象を 黄砂に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094550Z" creationid="土妹子" creationdate="20150101T094550Z">
@@ -40714,8 +40730,8 @@
       <tuv lang="JA">
         <seg>気象発現「凪」</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T124515Z" creationid="UUZ" creationdate="20140906T124515Z">
-        <seg>气象显现「风」</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104116Z" creationid="UUZ" creationdate="20140906T124515Z">
+        <seg>气象显现「微风」</seg>
       </tuv>
     </tu>
     <tu>
@@ -42376,6 +42392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 控えの 人形を ひきずり出す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T103947Z" creationid="土妹子" creationdate="20150101T103947Z">
+        <seg>强行拖出对方的后备人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 攻撃を まったく 受けない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065013Z" creationid="土妹子" creationdate="20150101T065013Z">
@@ -43900,6 +43924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014210Z" creationid="UUZ" creationdate="20140904T154854Z">
         <seg>在自己周围展开障壁以提高散防</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 回避率を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104049Z" creationid="土妹子" creationdate="20150101T104049Z">
+        <seg>提升自身的回避率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47388,6 +47420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070533Z" creationid="土妹子" creationdate="20150101T070533Z">
         <seg>４～５回合间将对手封入其中的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>４ターンの あいだ 味方 全員の 俊敏を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T103931Z" creationid="土妹子" creationdate="20150101T103931Z">
+        <seg>４回合间我方全员敏捷上升。</seg>
       </tuv>
     </tu>
     <tu>
