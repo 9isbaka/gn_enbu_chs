@@ -31018,8 +31018,8 @@
       <tuv lang="JA">
         <seg>ダークネススイーツ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T134818Z" creationid="UUZ" creationdate="20140906T134818Z">
-        <seg>漆黑糖果</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110821Z" creationid="UUZ" creationdate="20140906T134818Z">
+        <seg>暗黑甜点</seg>
       </tuv>
     </tu>
     <tu>
@@ -31290,8 +31290,16 @@
       <tuv lang="JA">
         <seg>バインドトラップ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T135241Z" creationid="UUZ" creationdate="20140906T135241Z">
-        <seg>缠绕陷阱</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111107Z" creationid="UUZ" creationdate="20140906T135241Z">
+        <seg>束缚陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>バインドトラップを 設置し 交代で 出てきた 相手の 俊敏を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111125Z" creationid="土妹子" creationdate="20150101T111125Z">
+        <seg>设置束缚陷阱，使交换出的对方人形的敏捷下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40800,6 +40808,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>気象を 濃霧に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111144Z" creationid="土妹子" creationdate="20150101T111144Z">
+        <seg>使气象变为浓雾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>気象を 解除し 威力を ２倍にする。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105734Z" creationid="土妹子" creationdate="20150101T105734Z">
@@ -42408,6 +42424,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手と 自分の 装飾品を 交換する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110918Z" creationid="土妹子" creationdate="20150101T110918Z">
+        <seg>交换对手和自己的装饰品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手に 先制して 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064611Z" creationid="土妹子" creationdate="20150101T064611Z">
@@ -42732,6 +42756,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110257Z" creationid="土妹子" creationdate="20150101T110257Z">
         <seg>使对手恐怖并混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 戦闘から 逃げられなく する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110929Z" creationid="土妹子" creationdate="20150101T110929Z">
+        <seg>对手不能从战斗中逃脱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 暗闇状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111136Z" creationid="土妹子" creationdate="20150101T111136Z">
+        <seg>使对手黑暗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44184,6 +44224,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 集弾と 集防を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111101Z" creationid="土妹子" creationdate="20150101T111101Z">
+        <seg>提升自身的集弹和集防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 集弾を 上げて 俊敏を 大きく 上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095627Z" creationid="土妹子" creationdate="20150101T095627Z">
@@ -44276,6 +44324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064242Z" creationid="土妹子" creationdate="20150101T064242Z">
         <seg>自身受到造成伤害４分之１的反伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分は 瀕死に なるが そのかわりに 相手の 集弾と 散弾を 大きく 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111052Z" creationid="土妹子" creationdate="20150101T111052Z">
+        <seg>自身濒死，而使对手的集弹和散弹大幅下降。</seg>
       </tuv>
     </tu>
     <tu>
