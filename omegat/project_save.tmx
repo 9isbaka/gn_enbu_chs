@@ -27288,8 +27288,8 @@
       <tuv lang="JA">
         <seg>お化けごっこ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T120434Z" creationid="UUZ" creationdate="20140907T120434Z">
-        <seg>扮鬼玩</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113903Z" creationid="UUZ" creationdate="20140907T120434Z">
+        <seg>捉鬼迷藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -28098,6 +28098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094834Z" creationid="土妹子" creationdate="20150101T094834Z">
         <seg>１.５倍返还本回合最后一次受到的技能伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そのターンの 最後に 受けた 集中スキルの ダメージを ２倍にして 返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113957Z" creationid="土妹子" creationdate="20150101T113957Z">
+        <seg>翻倍返还本回合最后一次受到的集中技能伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30314,8 +30322,8 @@
       <tuv lang="JA">
         <seg>ゴーストトリック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T115646Z" creationid="UUZ" creationdate="20140907T115646Z">
-        <seg>幽灵欺诈</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113831Z" creationid="UUZ" creationdate="20140907T115646Z">
+        <seg>鬼计</seg>
       </tuv>
     </tu>
     <tu>
@@ -34114,8 +34122,8 @@
       <tuv lang="JA">
         <seg>人魂ウォーキング</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T115839Z" creationid="UUZ" creationdate="20140907T115839Z">
-        <seg>鬼火漫步</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113845Z" creationid="UUZ" creationdate="20140907T115839Z">
+        <seg>人魂漫步</seg>
       </tuv>
     </tu>
     <tu>
@@ -38736,6 +38744,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>技を 出すまでに 攻撃を 受けると 失敗する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114041Z" creationid="土妹子" creationdate="20150101T114041Z">
+        <seg>在使出技能前受到攻击会使用失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>抗体持ち</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025813Z" creationid="土妹子" creationdate="20141231T025813Z">
@@ -42440,6 +42456,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>直前に だしていた スキルを ４ターンの あいだ 使えなくする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113759Z" creationid="土妹子" creationdate="20150101T113748Z">
+        <seg>对手刚刚使用的技能４回合间不能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相性で無効にされるスキルも 相手に当たる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025129Z" creationid="土妹子" creationdate="20141231T025129Z">
@@ -42452,6 +42476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091518Z" creationid="土妹子" creationdate="20150101T091518Z">
         <seg>受到了对手的技能时，对那个对手的技能威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手が 最後に 使った スキルの ＳＰを ４だけ 減らす。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113812Z" creationid="土妹子" creationdate="20150101T113812Z">
+        <seg>对手最后使用的技能ＳＰ减少４。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42836,6 +42868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110257Z" creationid="土妹子" creationdate="20150101T110257Z">
         <seg>使对手恐怖并混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 恐怖状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113820Z" creationid="土妹子" creationdate="20150101T113820Z">
+        <seg>使对手恐怖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43402,8 +43442,8 @@
       <tuv lang="JA">
         <seg>積み岩</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T120651Z" creationid="UUZ" creationdate="20140907T120651Z">
-        <seg>堆积岩</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113930Z" creationid="UUZ" creationdate="20140907T120651Z">
+        <seg>沉积岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -44296,6 +44336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 散防を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113935Z" creationid="土妹子" creationdate="20150101T113935Z">
+        <seg>提升自身的散防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 散防を上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070135Z" creationid="土妹子" creationdate="20150101T070135Z">
@@ -44416,10 +44464,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の ＨＰが 減るほど 威力が 上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114023Z" creationid="土妹子" creationdate="20150101T114023Z">
+        <seg>自身的ＨＰ越低威力越高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の ＨＰが 減るほど 威力が 下がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070410Z" creationid="土妹子" creationdate="20150101T070410Z">
         <seg>随着自身ＨＰ的减少威力下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の ＨＰを代償に 相手に 死神を 呼び寄せる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113722Z" creationid="土妹子" creationdate="20150101T113722Z">
+        <seg>以自己的ＨＰ为代价召唤死神附身对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47010,8 +47074,8 @@
       <tuv lang="JA">
         <seg>風前の灯</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T120807Z" creationid="UUZ" creationdate="20140907T120807Z">
-        <seg>风烛残年</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114011Z" creationid="UUZ" creationdate="20140907T120807Z">
+        <seg>风中之烛</seg>
       </tuv>
     </tu>
     <tu>
