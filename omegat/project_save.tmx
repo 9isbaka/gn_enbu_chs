@@ -31346,8 +31346,8 @@
       <tuv lang="JA">
         <seg>バッドムーン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T015247Z" creationid="UUZ" creationdate="20140906T140149Z">
-        <seg>缺月</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111326Z" creationid="UUZ" creationdate="20140906T140149Z">
+        <seg>坏月亮</seg>
       </tuv>
     </tu>
     <tu>
@@ -31842,8 +31842,8 @@
       <tuv lang="JA">
         <seg>ポイズンボム</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140802Z" creationid="UUZ" creationdate="20140906T140802Z">
-        <seg>剧毒炸弹</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111515Z" creationid="UUZ" creationdate="20140906T140802Z">
+        <seg>毒性炸弹</seg>
       </tuv>
     </tu>
     <tu>
@@ -32722,8 +32722,8 @@
       <tuv lang="JA">
         <seg>ヴェノムストライク</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140739Z" creationid="UUZ" creationdate="20140906T140739Z">
-        <seg>剧毒强袭</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111453Z" creationid="UUZ" creationdate="20140906T140739Z">
+        <seg>毒液强袭</seg>
       </tuv>
     </tu>
     <tu>
@@ -40714,8 +40714,8 @@
       <tuv lang="JA">
         <seg>毒矢</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140717Z" creationid="UUZ" creationdate="20140906T140717Z">
-        <seg>毒剑</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111428Z" creationid="UUZ" creationdate="20140906T140717Z">
+        <seg>毒箭</seg>
       </tuv>
     </tu>
     <tu>
@@ -41218,8 +41218,8 @@
       <tuv lang="JA">
         <seg>汚濁の牙</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140901Z" creationid="UUZ" creationdate="20140906T140901Z">
-        <seg>汚浊之牙</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111520Z" creationid="UUZ" creationdate="20140906T140901Z">
+        <seg>污浊之牙</seg>
       </tuv>
     </tu>
     <tu>
@@ -42236,6 +42236,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095910Z" creationid="土妹子" creationdate="20150101T095910Z">
         <seg>容易打出痛烈的一击，也可能使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>痛烈な一撃が でやすく １割の 確率で 相手を 毒状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111436Z" creationid="土妹子" creationdate="20150101T111436Z">
+        <seg>容易打出痛烈的一击，１成几率使对手中毒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43920,6 +43928,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分が 装飾品を持っていると 使えない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111510Z" creationid="土妹子" creationdate="20150101T111510Z">
+        <seg>自身携带了装饰品时无法使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分がすでに装飾品を持っている時は失敗</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100326Z" creationid="土妹子" creationdate="20141231T100326Z">
@@ -44116,6 +44132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014210Z" creationid="UUZ" creationdate="20140904T154854Z">
         <seg>在自己周围展开障壁以提高散防</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 回避を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111406Z" creationid="土妹子" creationdate="20150101T111406Z">
+        <seg>提升自身的回避率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47464,6 +47488,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手を 毒状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111418Z" creationid="土妹子" creationdate="20150101T111418Z">
+        <seg>１成几率使对手中毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手を 混乱させる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105946Z" creationid="土妹子" creationdate="20150101T105946Z">
@@ -47700,6 +47732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064833Z" creationid="土妹子" creationdate="20150101T064833Z">
         <seg>３成几率使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３割の 確率で 相手を 毒状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111424Z" creationid="土妹子" creationdate="20150101T111424Z">
+        <seg>３成几率使对手中毒。</seg>
       </tuv>
     </tu>
     <tu>
