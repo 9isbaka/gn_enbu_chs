@@ -24214,6 +24214,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせるとスキルが命中した時に相手を怯ませる事がある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151531Z" creationid="土妹子" creationdate="20150101T151531Z">
+        <seg>\n携带后，技能命中对手时有可能造成害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせるとスキルの威力が上がるが 攻撃すると自分もダメージを受ける。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150827Z">
@@ -24358,10 +24366,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると吸収スキルによる回復量を増やす。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151319Z" creationid="土妹子" creationdate="20150101T151319Z">
+        <seg>\n携带后吸收技能的回复量增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると戦闘不能になる様なダメージを受けてもＨＰ１で耐える事がある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151417Z" creationid="土妹子" creationdate="20150101T151417Z">
+        <seg>\n携带时，就算受到致命伤害也有可能以１ＨＰ忍住。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると拡散スキルの威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150742Z">
         <seg>\n携带时扩散技能的威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると痛烈な一撃が出やすくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151341Z" creationid="土妹子" creationdate="20150101T151341Z">
+        <seg>\n携带后容易打出痛烈的一击。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると相手にダメージを与えた時にＨＰを回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151304Z" creationid="土妹子" creationdate="20150101T151304Z">
+        <seg>\n携带后，给对手造成伤害时能回复ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24378,6 +24418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150702Z">
         <seg>\n携带后，对手的能力上升时自己的能力也会上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると相手より先に行動できる事がある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151546Z" creationid="土妹子" creationdate="20150101T151546Z">
+        <seg>\n携带时有可能比对手先行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39962,8 +40010,8 @@
       <tuv lang="JA">
         <seg>持たせると必ず相手より後に行動する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T032312Z">
-        <seg>携带时有比对手后行动。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151555Z" creationid="UUZ" creationdate="20140908T032312Z">
+        <seg>携带时必定比对手后行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40186,8 +40234,8 @@
       <tuv lang="JA">
         <seg>持たせると締めつけるスキルの持続ターン数が固定される。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140908T031638Z">
-        <seg>携带时束缚类技能的持续回合数被固定。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151428Z" creationid="UUZ" creationdate="20140908T031638Z">
+        <seg>携带时束缚类技能的持续回合数固定。</seg>
       </tuv>
     </tu>
     <tu>
