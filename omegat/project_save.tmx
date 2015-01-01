@@ -29882,8 +29882,8 @@
       <tuv lang="JA">
         <seg>オフェンサートランス</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152049Z" creationid="UUZ" creationdate="20140904T152049Z">
-        <seg>变压器</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065532Z" creationid="UUZ" creationdate="20140904T152049Z">
+        <seg>侵攻转化</seg>
       </tuv>
     </tu>
     <tu>
@@ -29994,8 +29994,16 @@
       <tuv lang="JA">
         <seg>カモフラージュ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151903Z" creationid="UUZ" creationdate="20140904T151903Z">
-        <seg>伪装</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065331Z" creationid="UUZ" creationdate="20140904T151903Z">
+        <seg>迷彩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>カモフラージュで 自分の 回避率を 大きく 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065353Z" creationid="土妹子" creationdate="20150101T065353Z">
+        <seg>使用光学迷彩大幅提升自身的回避率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32244,6 +32252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T134851Z" creationid="UUZ" creationdate="20140906T134821Z">
         <seg>拉普拉斯之眼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ランダムで スキルを 使う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065256Z" creationid="土妹子" creationdate="20150101T065256Z">
+        <seg>随机使用技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43104,6 +43120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分が 停止状態の 時だけ 使える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065250Z" creationid="土妹子" creationdate="20150101T065250Z">
+        <seg>只能在自身停止的状态时使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分が 状態異常で 技を 使うと 威力が 倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064357Z" creationid="土妹子" creationdate="20150101T064357Z">
@@ -43272,6 +43296,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 集弾と 俊敏を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065405Z" creationid="土妹子" creationdate="20150101T065405Z">
+        <seg>自身的集弹和敏捷上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集弾と 散弾と 俊敏を 大きく 上げて 集防と 散防を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065559Z" creationid="土妹子" creationdate="20150101T065559Z">
+        <seg>自身的集弹和散弹和敏捷大幅上升，但是集防和散防下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の ＨＰが 少ないほど 威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063349Z" creationid="土妹子" creationdate="20150101T063349Z">
@@ -43284,6 +43324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100755Z" creationid="土妹子" creationdate="20141231T100755Z">
         <seg>从自身的技能中随机选取一个使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の最大 ＨＰの 半分を 減らして 自分の 集弾を 最大に 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065327Z" creationid="土妹子" creationdate="20150101T065327Z">
+        <seg>消耗自身最大ＨＰ的一半，将自身的集弹上升到最大。</seg>
       </tuv>
     </tu>
     <tu>
