@@ -35688,6 +35688,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地相を 朱雀に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070942Z" creationid="土妹子" creationdate="20150101T070942Z">
+        <seg>将地相变为朱雀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地相発現「朱雀」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161533Z" creationid="UUZ" creationdate="20140904T161533Z">
@@ -39328,6 +39336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>数符は１つしか習得できない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071048Z" creationid="土妹子" creationdate="20150101T071048Z">
+        <seg>数符只能习得其中的一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>文</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161601Z" creationid="UUZ" creationdate="20141224T161601Z">
@@ -42132,6 +42148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025150Z" creationid="土妹子" creationdate="20141231T025150Z">
         <seg>对手不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 大火傷状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070928Z" creationid="土妹子" creationdate="20150101T070928Z">
+        <seg>使对手大烧伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46532,6 +46556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063845Z" creationid="土妹子" creationdate="20150101T063845Z">
         <seg>第２回合攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２割の 確率で 相手を 火傷状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070951Z" creationid="土妹子" creationdate="20150101T070951Z">
+        <seg>２成几率使对手烧伤。</seg>
       </tuv>
     </tu>
     <tu>
