@@ -26096,8 +26096,16 @@
       <tuv lang="JA">
         <seg>☆相手を停止に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140801Z" creationid="UUZ" creationdate="20140904T140727Z">
-        <seg>☆对手停止中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062107Z" creationid="UUZ" creationdate="20140904T140727Z">
+        <seg>☆使对手停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手を吹き飛ばす</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062100Z" creationid="土妹子" creationdate="20150101T062100Z">
+        <seg>☆把对手吹飞</seg>
       </tuv>
     </tu>
     <tu>
@@ -26118,10 +26126,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆相手を怯み　最初のターンのみ成功</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061820Z" creationid="土妹子" creationdate="20150101T061820Z">
+        <seg>☆使对手害怕，仅在刚登场的回合能够成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手を怯み　相手がカモフラージュ状態の時必中威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061841Z" creationid="土妹子" creationdate="20150101T061841Z">
+        <seg>☆使对手害怕，对手在迷彩状态时必中且威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆相手を恐怖に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140721Z" creationid="UUZ" creationdate="20140904T140721Z">
-        <seg>☆对手恐惧中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061845Z" creationid="UUZ" creationdate="20140904T140721Z">
+        <seg>☆使对手恐怖</seg>
       </tuv>
     </tu>
     <tu>
@@ -26136,16 +26160,32 @@
       <tuv lang="JA">
         <seg>☆相手を毒に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140716Z" creationid="UUZ" creationdate="20140904T140716Z">
-        <seg>☆对手中毒中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062111Z" creationid="UUZ" creationdate="20140904T140716Z">
+        <seg>☆使对手中毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手を毒に　痛烈になりやすい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062119Z" creationid="土妹子" creationdate="20150101T062119Z">
+        <seg>☆使对手中毒，容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手を混乱　濃霧時必中　凪時命中半減　成功した時凪・濃霧を解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061924Z" creationid="土妹子" creationdate="20150101T061924Z">
+        <seg>☆使对手混乱　浓雾时必中；微风时威力减半；使用成功后解除微风或浓雾</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>☆相手を混乱に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140955Z" creationid="UUZ" creationdate="20140904T140955Z">
-        <seg>☆对手混乱中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062037Z" creationid="UUZ" creationdate="20140904T140955Z">
+        <seg>☆使对手混乱</seg>
       </tuv>
     </tu>
     <tu>
@@ -26162,6 +26202,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061752Z" creationid="土妹子" creationdate="20150101T061752Z">
         <seg>☆使对手烧伤，容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手を衰弱に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062104Z" creationid="土妹子" creationdate="20150101T062104Z">
+        <seg>☆使对手衰弱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手を麻痺or暗闇or恐怖</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062136Z" creationid="土妹子" creationdate="20150101T062136Z">
+        <seg>☆使对手麻痹或黑暗或恐怖</seg>
       </tuv>
     </tu>
     <tu>
