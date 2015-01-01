@@ -24400,8 +24400,8 @@
       <tuv lang="JA">
         <seg>\n転生する時にセットすると 継承する個体ランクが増える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143453Z" creationid="土妹子" creationdate="20150101T143453Z">
-        <seg>\n转生时设置上的话，继承的个体等级会变多。。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143726Z" creationid="土妹子" creationdate="20150101T143453Z">
+        <seg>\n转生时设置上的话，继承的个体等级会变多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24458,6 +24458,46 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133814Z" creationid="土妹子" creationdate="20150101T133801Z">
         <seg>\n前进２５０步期间不会被人形靠近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\nＨＰを全回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144005Z" creationid="土妹子" creationdate="20150101T144005Z">
+        <seg>\nＨＰ全回复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\nＨＰを１００回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143844Z" creationid="土妹子" creationdate="20150101T143844Z">
+        <seg>\n回复１００ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\nＨＰを２０回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143806Z" creationid="土妹子" creationdate="20150101T143806Z">
+        <seg>\n回复２０ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\nＨＰを２００回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143855Z" creationid="土妹子" creationdate="20150101T143855Z">
+        <seg>\n回复２００ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\nＨＰを５０回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143829Z" creationid="土妹子" creationdate="20150101T143829Z">
+        <seg>\n回复５０ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44250,8 +44290,8 @@
       <tuv lang="JA">
         <seg>竹炭で焼かれた堅焼き煎餅。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T150615Z" creationid="UUZ" creationdate="20140907T143110Z">
-        <seg>硬烤了竹炭煎饼 。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143759Z" creationid="UUZ" creationdate="20140907T143110Z">
+        <seg>用竹炭烤的很硬的煎饼。</seg>
       </tuv>
     </tu>
     <tu>
