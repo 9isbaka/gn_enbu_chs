@@ -31584,6 +31584,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>フロストエッジ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092124Z" creationid="土妹子" creationdate="20150101T092124Z">
+        <seg>霜刃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フローリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140325Z" creationid="UUZ" creationdate="20140910T140139Z">
@@ -35642,8 +35650,8 @@
       <tuv lang="JA">
         <seg>土砂降り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T020152Z" creationid="UUZ" creationdate="20140906T092334Z">
-        <seg>暴风雨</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091934Z" creationid="UUZ" creationdate="20140906T092334Z">
+        <seg>大暴雨</seg>
       </tuv>
     </tu>
     <tu>
@@ -35692,6 +35700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070942Z" creationid="土妹子" creationdate="20150101T070942Z">
         <seg>将地相变为朱雀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地相を 玄武に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092114Z" creationid="土妹子" creationdate="20150101T092114Z">
+        <seg>将地相变为玄武。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40920,6 +40936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>泥濘</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092151Z" creationid="土妹子" creationdate="20150101T092151Z">
+        <seg>泥泞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>泥濘（ぬかるみ）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093006Z" creationid="UUZ" creationdate="20140906T093006Z">
@@ -42040,6 +42064,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 俊敏を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092157Z" creationid="土妹子" creationdate="20150101T092157Z">
+        <seg>使对手的敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 俊敏を 大きく 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092017Z" creationid="土妹子" creationdate="20150101T092017Z">
+        <seg>使对手的敏捷大幅下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 周囲に 瘴気を\n発生させ 猛毒にさせる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014600Z" creationid="UUZ" creationdate="20140906T141325Z">
@@ -42200,6 +42240,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手を 水属性に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092025Z" creationid="土妹子" creationdate="20150101T092025Z">
+        <seg>使对手变为水属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を 氷の棺に\n閉じ込めて 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014252Z" creationid="UUZ" creationdate="20140906T085014Z">
@@ -42220,6 +42268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070511Z" creationid="土妹子" creationdate="20150101T070511Z">
         <seg>使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 衰弱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092105Z" creationid="土妹子" creationdate="20150101T092105Z">
+        <seg>使对手衰弱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43492,6 +43548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065732Z" creationid="土妹子" creationdate="20150101T065643Z">
         <seg>提升自身的集弹和集防和命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集弾と 集防を 上げて 俊敏を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091953Z" creationid="土妹子" creationdate="20150101T091953Z">
+        <seg>提升自身的集弹和集防，但是敏捷下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46556,6 +46620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091709Z" creationid="土妹子" creationdate="20150101T091709Z">
         <seg>１成几率使对手的敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 相手を 停止状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092138Z" creationid="土妹子" creationdate="20150101T092138Z">
+        <seg>１成几率使对手停止。</seg>
       </tuv>
     </tu>
     <tu>
