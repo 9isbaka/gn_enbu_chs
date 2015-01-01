@@ -30042,8 +30042,8 @@
       <tuv lang="JA">
         <seg>カロンフェリッジ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T111858Z" creationid="UUZ" creationdate="20140906T142226Z">
-        <seg>Charon Felisi</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T112909Z" creationid="UUZ" creationdate="20140906T142226Z">
+        <seg>卡戎之猫</seg>
       </tuv>
     </tu>
     <tu>
@@ -30738,8 +30738,8 @@
       <tuv lang="JA">
         <seg>ストークマーダー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T112507Z" creationid="土妹子" creationdate="20150101T112507Z">
-        <seg>背后灵</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T112632Z" creationid="土妹子" creationdate="20150101T112507Z">
+        <seg>潜行之茜</seg>
       </tuv>
     </tu>
     <tu>
@@ -30874,8 +30874,8 @@
       <tuv lang="JA">
         <seg>ソウルハウンド</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141619Z" creationid="UUZ" creationdate="20140906T141619Z">
-        <seg>追魂使</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T112717Z" creationid="UUZ" creationdate="20140906T141619Z">
+        <seg>灵魂猎手</seg>
       </tuv>
     </tu>
     <tu>
@@ -42568,6 +42568,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 攻撃を 受けない スキルを 無効にして ダメージを 与えられる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T112654Z" creationid="土妹子" creationdate="20150101T112654Z">
+        <seg>不受对手的攻击。使技能无效化并造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 攻撃を 防ぐ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093438Z" creationid="土妹子" creationdate="20150101T093438Z">
@@ -43972,6 +43980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064357Z" creationid="土妹子" creationdate="20150101T064357Z">
         <seg>自身状态异常时使用这个技能威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分が 装飾品を 持っていない時 ダメージが ２倍に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T112740Z" creationid="土妹子" creationdate="20150101T112740Z">
+        <seg>自身没有携带装饰品时伤害翻倍。</seg>
       </tuv>
     </tu>
     <tu>
