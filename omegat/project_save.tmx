@@ -31010,8 +31010,8 @@
       <tuv lang="JA">
         <seg>ダークスフィア</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T135740Z" creationid="UUZ" creationdate="20140906T134142Z">
-        <seg>黑暗领域</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110532Z" creationid="UUZ" creationdate="20140906T134142Z">
+        <seg>黑暗天球</seg>
       </tuv>
     </tu>
     <tu>
@@ -31028,6 +31028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T135611Z" creationid="UUZ" creationdate="20140906T135514Z">
         <seg>阴影球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>チェンジリング</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110647Z" creationid="土妹子" creationdate="20150101T110647Z">
+        <seg>交换圈</seg>
       </tuv>
     </tu>
     <tu>
@@ -31682,8 +31690,8 @@
       <tuv lang="JA">
         <seg>ブラックアウト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T134253Z" creationid="UUZ" creationdate="20140906T134210Z">
-        <seg>灯火管制</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110558Z" creationid="UUZ" creationdate="20140906T134210Z">
+        <seg>关灯</seg>
       </tuv>
     </tu>
     <tu>
@@ -35888,6 +35896,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地相を 解除し 威力を ２倍にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110750Z" creationid="土妹子" creationdate="20150101T110750Z">
+        <seg>解除地相，并使威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地相を 青龍に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093750Z" creationid="土妹子" creationdate="20150101T093750Z">
@@ -37090,8 +37106,8 @@
       <tuv lang="JA">
         <seg>宵闇インフェクション</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T134029Z" creationid="UUZ" creationdate="20140906T134029Z">
-        <seg>宵暗感染</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110521Z" creationid="UUZ" creationdate="20140906T134029Z">
+        <seg>暗夜传染</seg>
       </tuv>
     </tu>
     <tu>
@@ -39850,8 +39866,8 @@
       <tuv lang="JA">
         <seg>暗黒演舞</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T134822Z" creationid="UUZ" creationdate="20140906T134822Z">
-        <seg>暗黒演舞</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110808Z" creationid="UUZ" creationdate="20140906T134822Z">
+        <seg>暗黑演舞</seg>
       </tuv>
     </tu>
     <tu>
@@ -42384,6 +42400,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手が 装飾品を 持っていると 威力が １.５倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110729Z" creationid="土妹子" creationdate="20150101T110729Z">
+        <seg>对手携带了装饰品时威力１.５倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手に 先制して 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064611Z" creationid="土妹子" creationdate="20150101T064611Z">
@@ -42660,6 +42684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025150Z" creationid="土妹子" creationdate="20141231T025150Z">
         <seg>对手不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手は 装飾品を なくしてしまう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110735Z" creationid="土妹子" creationdate="20150101T110735Z">
+        <seg>对手会失去装饰品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46170,8 +46202,8 @@
       <tuv lang="JA">
         <seg>集いし星</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133806Z" creationid="UUZ" creationdate="20140906T133806Z">
-        <seg>萃集星辰</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110445Z" creationid="UUZ" creationdate="20140906T133806Z">
+        <seg>聚集之星</seg>
       </tuv>
     </tu>
     <tu>
@@ -47368,6 +47400,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手を 暗闇状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110608Z" creationid="土妹子" creationdate="20150101T110608Z">
+        <seg>１成几率使对手黑暗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手を 混乱させる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105946Z" creationid="土妹子" creationdate="20150101T105946Z">
@@ -47540,6 +47580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105512Z" creationid="土妹子" creationdate="20150101T105512Z">
         <seg>２成几率使对手麻痹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２割の 確率で 相手をひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110535Z" creationid="土妹子" creationdate="20150101T110535Z">
+        <seg>２成几率使对手害怕。</seg>
       </tuv>
     </tu>
     <tu>
