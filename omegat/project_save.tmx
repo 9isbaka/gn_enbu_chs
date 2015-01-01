@@ -31666,8 +31666,8 @@
       <tuv lang="JA">
         <seg>ホーリーフレア</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T155105Z" creationid="UUZ" creationdate="20140904T155105Z">
-        <seg>神圣火焰</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070228Z" creationid="UUZ" creationdate="20140904T155105Z">
+        <seg>神圣耀斑</seg>
       </tuv>
     </tu>
     <tu>
@@ -32194,8 +32194,8 @@
       <tuv lang="JA">
         <seg>ライジングサン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T155609Z" creationid="UUZ" creationdate="20140904T155609Z">
-        <seg>旭日</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070335Z" creationid="UUZ" creationdate="20140904T155609Z">
+        <seg>升阳</seg>
       </tuv>
     </tu>
     <tu>
@@ -41776,10 +41776,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>痛烈な一撃が でやすく １割の確率で 相手を 火傷状態にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070306Z" creationid="土妹子" creationdate="20150101T070306Z">
+        <seg>容易打出痛烈的一击，１成几率使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>痛烈な一撃が でやすくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092444Z" creationid="土妹子" creationdate="20141231T092444Z">
         <seg>容易发出痛烈的一击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>痛烈な一撃が 出やすい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070045Z" creationid="土妹子" creationdate="20150101T070045Z">
+        <seg>容易打出痛烈的一击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43304,6 +43320,30 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の コストが 相手より 高いほど 威力が 高くなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070201Z" creationid="土妹子" creationdate="20150101T070201Z">
+        <seg>自身的ｃｏｓｔ越是比对手高，威力越高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 俊敏を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070342Z" creationid="土妹子" creationdate="20150101T070342Z">
+        <seg>提升自身的敏捷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 全ての 能力の どれか １つが 上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070104Z" creationid="土妹子" creationdate="20150101T070104Z">
+        <seg>自身的全能力中某一项上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 全ての 能力の どれか １つを大きく 上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065100Z" creationid="土妹子" creationdate="20150101T065100Z">
@@ -43324,6 +43364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014210Z" creationid="UUZ" creationdate="20140904T154854Z">
         <seg>在自己周围展开障壁以提高散防</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 散防を上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070135Z" creationid="土妹子" creationdate="20150101T070135Z">
+        <seg>提升自身的散防。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43352,10 +43400,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 集防を上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070128Z" creationid="土妹子" creationdate="20150101T070113Z">
+        <seg>提升自身的集防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の ＨＰが 少ないほど 威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063349Z" creationid="土妹子" creationdate="20150101T063349Z">
         <seg>自身现有ＨＰ越低威力越高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の ＨＰが 減るほど 威力が 下がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070410Z" creationid="土妹子" creationdate="20150101T070410Z">
+        <seg>随着自身ＨＰ的减少威力下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45218,8 +45282,8 @@
       <tuv lang="JA">
         <seg>陽の気力</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T153007Z" creationid="UUZ" creationdate="20140904T153007Z">
-        <seg>阳之力</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070025Z" creationid="UUZ" creationdate="20140904T153007Z">
+        <seg>阳之气力</seg>
       </tuv>
     </tu>
     <tu>
@@ -46384,6 +46448,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で ひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070018Z" creationid="土妹子" creationdate="20150101T070018Z">
+        <seg>１成几率使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 相手を 火傷状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070221Z" creationid="土妹子" creationdate="20150101T070221Z">
+        <seg>１成几率使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２〜３ターン 同じスキルで 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064720Z" creationid="土妹子" creationdate="20150101T064720Z">
@@ -46440,6 +46520,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>３割の 確率で 相手を 火傷状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070315Z" creationid="土妹子" creationdate="20150101T070315Z">
+        <seg>３成几率使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>３割の 確率で 相手を 麻痺状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064748Z" creationid="土妹子" creationdate="20150101T064748Z">
@@ -46452,6 +46540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093316Z" creationid="土妹子" creationdate="20141231T093316Z">
         <seg>５回合间散弹和敏捷的数值减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５割の 確率で 相手を 火傷状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070247Z" creationid="土妹子" creationdate="20150101T070247Z">
+        <seg>５成几率使对手烧伤。</seg>
       </tuv>
     </tu>
     <tu>
