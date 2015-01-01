@@ -36202,8 +36202,8 @@
       <tuv lang="JA">
         <seg>天明の大火</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T160459Z" creationid="UUZ" creationdate="20140904T160459Z">
-        <seg>拂晓的大火</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070506Z" creationid="UUZ" creationdate="20140904T160459Z">
+        <seg>黎明的大火</seg>
       </tuv>
     </tu>
     <tu>
@@ -39264,6 +39264,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>攻撃後 自分の 散弾が 大きく 下がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070445Z" creationid="土妹子" creationdate="20150101T070445Z">
+        <seg>攻击后自身的散弹大幅下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>攻撃置換</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131055Z" creationid="UUZ" creationdate="20140907T131055Z">
@@ -39980,6 +39988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155650Z" creationid="UUZ" creationdate="20140909T155650Z">
         <seg>下次可不能这样啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次ターン 自分は 動けなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070429Z" creationid="土妹子" creationdate="20150101T070429Z">
+        <seg>下回合自身无法行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42124,6 +42140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014252Z" creationid="UUZ" creationdate="20140906T085014Z">
         <seg>将对手封入冰棺的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 火傷状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070511Z" creationid="土妹子" creationdate="20150101T070511Z">
+        <seg>使对手烧伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46532,6 +46556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064748Z" creationid="土妹子" creationdate="20150101T064748Z">
         <seg>３成几率使对手麻痹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>４〜５ターンの あいだ 相手を 閉じ込めて 攻撃する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070533Z" creationid="土妹子" creationdate="20150101T070533Z">
+        <seg>４～５回合间将对手封入其中的攻击。</seg>
       </tuv>
     </tu>
     <tu>
