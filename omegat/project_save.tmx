@@ -43048,6 +43048,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の ＨＰが 少ないほど 威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063349Z" creationid="土妹子" creationdate="20150101T063349Z">
+        <seg>自身现有ＨＰ越低威力越高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分のスキルのうち1つをランダムで使う</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100755Z" creationid="土妹子" creationdate="20141231T100755Z">
