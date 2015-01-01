@@ -30042,8 +30042,8 @@
       <tuv lang="JA">
         <seg>カロンフェリッジ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T112909Z" creationid="UUZ" creationdate="20140906T142226Z">
-        <seg>卡戎之猫</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113346Z" creationid="UUZ" creationdate="20140906T142226Z">
+        <seg>卡戎饰符</seg>
       </tuv>
     </tu>
     <tu>
@@ -30604,6 +30604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094457Z" creationid="土妹子" creationdate="20141231T094457Z">
         <seg>技能和装饰品造成的能力变化翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルを だした後に 攻撃を 受けて 瀕死に なった時 攻撃 相手も 瀕死に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113624Z" creationid="土妹子" creationdate="20150101T113624Z">
+        <seg>使用此技能后，受到攻击变为濒死时，对手也会濒死。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32410,8 +32418,8 @@
       <tuv lang="JA">
         <seg>ラヴォルペイン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T114631Z" creationid="UUZ" creationdate="20140907T114631Z">
-        <seg>Lavolle Pain</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113542Z" creationid="UUZ" creationdate="20140907T114631Z">
+        <seg>痛苦加深</seg>
       </tuv>
     </tu>
     <tu>
@@ -40464,6 +40472,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>死者の呼び声</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113559Z" creationid="土妹子" creationdate="20150101T113559Z">
+        <seg>死者的呼声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>死者の誘い</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T114734Z" creationid="UUZ" creationdate="20140907T114734Z">
@@ -42440,6 +42456,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手が 状態異常の時 威力が ２倍に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113550Z" creationid="土妹子" creationdate="20150101T113550Z">
+        <seg>对手状态异常时威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手が 装飾品を 持っていると 威力が １.５倍になり 装飾品を 燃やして 使えなくする。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070905Z" creationid="土妹子" creationdate="20150101T070905Z">
@@ -44132,6 +44156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T154150Z" creationid="UUZ" creationdate="20140908T154150Z">
         <seg>因为自己不能使用，要注意啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と 相手の ＨＰを 合わせて それを 自分と 相手で 分ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113701Z" creationid="土妹子" creationdate="20150101T113701Z">
+        <seg>把自身和对手的ＨＰ加起来平分。</seg>
       </tuv>
     </tu>
     <tu>
