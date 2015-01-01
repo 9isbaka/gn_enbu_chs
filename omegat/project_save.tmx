@@ -29138,8 +29138,8 @@
       <tuv lang="JA">
         <seg>やぶれかぶれ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T145550Z" creationid="UUZ" creationdate="20140904T145550Z">
-        <seg>绝望</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064451Z" creationid="UUZ" creationdate="20140904T145550Z">
+        <seg>自暴自弃</seg>
       </tuv>
     </tu>
     <tu>
@@ -29914,8 +29914,8 @@
       <tuv lang="JA">
         <seg>オーバースキル</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T143249Z" creationid="UUZ" creationdate="20140904T143249Z">
-        <seg>终结技</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064137Z" creationid="UUZ" creationdate="20140904T143249Z">
+        <seg>超越神技</seg>
       </tuv>
     </tu>
     <tu>
@@ -30714,8 +30714,8 @@
       <tuv lang="JA">
         <seg>スピリットラッシュ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T143956Z" creationid="UUZ" creationdate="20140904T143956Z">
-        <seg>精神冲击</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064307Z" creationid="UUZ" creationdate="20140904T143956Z">
+        <seg>灵魂冲刺</seg>
       </tuv>
     </tu>
     <tu>
@@ -34728,6 +34728,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>前のターンに 味方が 倒されていると 威力が 倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064419Z" creationid="土妹子" creationdate="20150101T064419Z">
+        <seg>上回合曾有队友被击倒时威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>剛健なる山吹</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023020Z" creationid="土妹子" creationdate="20141231T023020Z">
@@ -34874,8 +34882,8 @@
       <tuv lang="JA">
         <seg>十文字</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T145552Z" creationid="UUZ" creationdate="20140904T145552Z">
-        <seg>十文字</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064457Z" creationid="UUZ" creationdate="20140904T145552Z">
+        <seg>十字斩</seg>
       </tuv>
     </tu>
     <tu>
@@ -41776,6 +41784,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手に 対して 先制できる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064325Z" creationid="土妹子" creationdate="20150101T064325Z">
+        <seg>能够先发攻击对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手に 幻覚を 見せる\nと見せかけた 弾幕で\n相手を 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014716Z" creationid="UUZ" creationdate="20140907T133246Z">
@@ -41796,6 +41812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014600Z" creationid="UUZ" creationdate="20140906T141325Z">
         <seg>在对手的周围产生瘴气使其中猛毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 能力変化を 無視して 攻撃する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064432Z" creationid="土妹子" creationdate="20150101T064432Z">
+        <seg>无视对手的能力变化进行攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42960,6 +42984,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分が 状態異常で 技を 使うと 威力が 倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064357Z" creationid="土妹子" creationdate="20150101T064357Z">
+        <seg>自身状态异常时使用这个技能威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分がすでに装飾品を持っている時は失敗</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100326Z" creationid="土妹子" creationdate="20141231T100326Z">
@@ -43124,6 +43156,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100755Z" creationid="土妹子" creationdate="20141231T100755Z">
         <seg>从自身的技能中随机选取一个使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分は 与えた ダメージの ３分の１の ダメージを受ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064201Z" creationid="土妹子" creationdate="20150101T064201Z">
+        <seg>自身受到造成伤害３分之１的反伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分は 与えた ダメージの ４分の１の ダメージを受ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064242Z" creationid="土妹子" creationdate="20150101T064242Z">
+        <seg>自身受到造成伤害４分之１的反伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46124,6 +46172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063845Z" creationid="土妹子" creationdate="20150101T063845Z">
         <seg>第２回合攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２回 連続して 攻撃する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064504Z" creationid="土妹子" creationdate="20150101T064504Z">
+        <seg>连续２次攻击。</seg>
       </tuv>
     </tu>
     <tu>
