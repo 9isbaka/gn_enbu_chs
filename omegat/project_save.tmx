@@ -24222,10 +24222,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると一度だけ冥属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150444Z" creationid="土妹子" creationdate="20150101T150444Z">
+        <seg>\n持有时可以仅有１次使冥属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると一度だけ大地属性のスキルの威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145357Z" creationid="土妹子" creationdate="20150101T145357Z">
         <seg>\n持有时可以仅有１次使大地属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ幻属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150504Z" creationid="土妹子" creationdate="20150101T150504Z">
+        <seg>\n持有时可以仅有１次使幻属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ毒属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150452Z" creationid="土妹子" creationdate="20150101T150452Z">
+        <seg>\n持有时可以仅有１次使毒属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24274,6 +24298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145938Z" creationid="土妹子" creationdate="20150101T145938Z">
         <seg>\n持有时可以仅有１次使暗属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ闘属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150458Z" creationid="土妹子" creationdate="20150101T150458Z">
+        <seg>\n持有时可以仅有１次使斗属性技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
