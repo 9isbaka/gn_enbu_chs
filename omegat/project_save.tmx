@@ -24102,6 +24102,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\nまったりした気分になり 状態異常を回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144513Z" creationid="土妹子" creationdate="20150101T144513Z">
+        <seg>\n让你心情舒畅，回复异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n人形のレベルを１上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144635Z" creationid="土妹子" creationdate="20150101T144635Z">
+        <seg>\n人形的等级上升１级。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n使うと 相手の 散防を\n下げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014657Z" creationid="UUZ" creationdate="20140907T125949Z">
@@ -34114,8 +34130,8 @@
       <tuv lang="JA">
         <seg>人形に持たせると炎属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144955Z" creationid="UUZ" creationdate="20140907T144955Z">
-        <seg>人形持有后被炎属性的技能贯通结界时伤害减弱。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144658Z" creationid="UUZ" creationdate="20140907T144955Z">
+        <seg>人形持有后被火属性的技能贯通结界时伤害减弱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34300,6 +34316,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144619Z" creationid="UUZ" creationdate="20140907T144619Z">
         <seg>人形的所有技能SP全恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形のスキル全てのＳＰを全回復させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144619Z" creationid="土妹子" creationdate="20150101T144619Z">
+        <seg>人形的所有技能ＳＰ全回复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形のスキル全てのＳＰを１０回復させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144608Z" creationid="土妹子" creationdate="20150101T144608Z">
+        <seg>人形的所有技能回复１０点ＳＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形のスキル１つのＳＰを全回復させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144556Z" creationid="土妹子" creationdate="20150101T144556Z">
+        <seg>人形的１个技能ＳＰ全回复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形のスキル１つのＳＰを１０回復させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144537Z" creationid="土妹子" creationdate="20150101T144537Z">
+        <seg>人形的１个技能回复１０点ＳＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44690,8 +44738,8 @@
       <tuv lang="JA">
         <seg>耐炎の符</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144845Z" creationid="UUZ" creationdate="20140907T144845Z">
-        <seg>耐炎之符</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144655Z" creationid="UUZ" creationdate="20140907T144845Z">
+        <seg>耐火之符</seg>
       </tuv>
     </tu>
     <tu>
