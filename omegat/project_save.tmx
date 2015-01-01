@@ -31090,8 +31090,8 @@
       <tuv lang="JA">
         <seg>ドレインシード</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095015Z" creationid="UUZ" creationdate="20140906T095015Z">
-        <seg>寄生种子</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093506Z" creationid="UUZ" creationdate="20140906T095015Z">
+        <seg>吸血种子</seg>
       </tuv>
     </tu>
     <tu>
@@ -31506,8 +31506,8 @@
       <tuv lang="JA">
         <seg>フェアリーダンス</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095224Z" creationid="UUZ" creationdate="20140906T095224Z">
-        <seg>仙女舞</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093644Z" creationid="UUZ" creationdate="20140906T095224Z">
+        <seg>妖精之舞</seg>
       </tuv>
     </tu>
     <tu>
@@ -31668,6 +31668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140442Z" creationid="UUZ" creationdate="20140906T140442Z">
         <seg>剧毒新星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ホワイトミスト</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093702Z" creationid="土妹子" creationdate="20150101T093702Z">
+        <seg>白雾</seg>
       </tuv>
     </tu>
     <tu>
@@ -31866,8 +31874,8 @@
       <tuv lang="JA">
         <seg>マナの恵み</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095034Z" creationid="UUZ" creationdate="20140906T095034Z">
-        <seg>祝福的甘露</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093614Z" creationid="UUZ" creationdate="20140906T095034Z">
+        <seg>灵力之恩惠</seg>
       </tuv>
     </tu>
     <tu>
@@ -34208,6 +34216,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使用した 人形は 交代ができなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093419Z" creationid="土妹子" creationdate="20150101T093419Z">
+        <seg>使用的人形不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>侍女</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145543Z" creationid="UUZ" creationdate="20140906T145543Z">
@@ -35720,6 +35736,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地相を 青龍に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093750Z" creationid="土妹子" creationdate="20150101T093750Z">
+        <seg>将地相变为青龙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地相発現「朱雀」</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161533Z" creationid="UUZ" creationdate="20140904T161533Z">
@@ -36676,6 +36700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145030Z" creationid="UUZ" creationdate="20140906T145030Z">
         <seg>姬海棠果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>威力の高い 攻撃を 防ぐと 相手を傷つける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093456Z" creationid="土妹子" creationdate="20150101T093456Z">
+        <seg>防住了高威力攻击时使对手受伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40296,6 +40328,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>毎ターン ＨＰを 少しずつ 回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093409Z" creationid="土妹子" creationdate="20150101T093409Z">
+        <seg>每回合稍微回复ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>毎ターン終了時にいずれかの能力が二段階上がり 他のいずれかの能力が一段階下がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094326Z" creationid="土妹子" creationdate="20141231T094326Z">
@@ -42128,6 +42168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 攻撃を 防ぐ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093438Z" creationid="土妹子" creationdate="20150101T093438Z">
+        <seg>防住对手的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 能力変化を 無視して 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064432Z" creationid="土妹子" creationdate="20150101T064432Z">
@@ -42164,6 +42212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063451Z" creationid="土妹子" creationdate="20150101T063451Z">
         <seg>使对手的ＨＰ减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の ＨＰを 毎ターン 吸い取り 自分の ＨＰを 回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093528Z" creationid="土妹子" creationdate="20150101T093528Z">
+        <seg>每回合吸取对手的ＨＰ回复自身的ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42252,6 +42308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025150Z" creationid="土妹子" creationdate="20141231T025150Z">
         <seg>对手不能交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 停止状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093738Z" creationid="土妹子" creationdate="20150101T093738Z">
+        <seg>使对手停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43560,6 +43624,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 散弾と 散防と 俊敏を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093657Z" creationid="土妹子" creationdate="20150101T093657Z">
+        <seg>提升自身的散弹和散防和敏捷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 散弾を かな 大きく 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093712Z" creationid="土妹子" creationdate="20150101T093712Z">
+        <seg>大幅提升自身的散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 散防を上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070135Z" creationid="土妹子" creationdate="20150101T070135Z">
@@ -43596,6 +43676,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091953Z" creationid="土妹子" creationdate="20150101T091953Z">
         <seg>提升自身的集弹和集防，但是敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集防を かなり 大きく 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093730Z" creationid="土妹子" creationdate="20150101T093730Z">
+        <seg>非常大幅的提升自身的集防。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43656,6 +43744,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分は 瀕死になるが 控えから 出てくる 人形の 状態異常と ＨＰと ＳＰを 全回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093639Z" creationid="土妹子" creationdate="20150101T093639Z">
+        <seg>使自身濒死，完全回复接下来出场的人形的状态异常、ＨＰ和Ｓ。Ｐ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分も人形を持っていれば対抗できるんだが</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T072002Z" creationid="UUZ" creationdate="20140908T072002Z">
@@ -43692,6 +43788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T123836Z" creationid="UUZ" creationdate="20140909T123836Z">
         <seg>掌管自然的创造神。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自然属性には 効かない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093536Z" creationid="土妹子" creationdate="20150101T093536Z">
+        <seg>对自然属性无效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43762,8 +43866,8 @@
       <tuv lang="JA">
         <seg>茨の蔦</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T094911Z" creationid="UUZ" creationdate="20140906T094736Z">
-        <seg>荆棘常春藤</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093432Z" creationid="UUZ" creationdate="20140906T094736Z">
+        <seg>荆棘之藤</seg>
       </tuv>
     </tu>
     <tu>
