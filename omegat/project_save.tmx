@@ -29720,6 +29720,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ウィンドウェイブ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100307Z" creationid="土妹子" creationdate="20150101T100307Z">
+        <seg>风之波动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ウィンドジャベリン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095923Z" creationid="UUZ" creationdate="20140906T122740Z">
@@ -30484,6 +30492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134318Z" creationid="土妹子" creationdate="20141230T134318Z">
         <seg>咻！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ショックスタンプ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100016Z" creationid="土妹子" creationdate="20150101T100016Z">
+        <seg>震击刻印</seg>
       </tuv>
     </tu>
     <tu>
@@ -31890,8 +31906,8 @@
       <tuv lang="JA">
         <seg>マクロバースト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123020Z" creationid="UUZ" creationdate="20140906T123020Z">
-        <seg>下击暴流</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100212Z" creationid="UUZ" creationdate="20140906T123020Z">
+        <seg>巨暴流</seg>
       </tuv>
     </tu>
     <tu>
@@ -39472,6 +39488,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>攻撃後 控えの 人形を ひきずり出す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100059Z" creationid="土妹子" creationdate="20150101T100059Z">
+        <seg>攻击后强行拖出后备人形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>攻撃後 自分の 散弾が 大きく 下がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070445Z" creationid="土妹子" creationdate="20150101T070445Z">
@@ -41320,6 +41344,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>濃霧や 凪を 終わらせる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100230Z" creationid="土妹子" creationdate="20150101T100230Z">
+        <seg>结束浓雾或微风。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>瀟洒なメイド</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120048Z" creationid="UUZ" creationdate="20141230T120048Z">
@@ -42360,6 +42392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 装飾品を 奪って 自分に使う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100130Z" creationid="土妹子" creationdate="20150101T100130Z">
+        <seg>抢夺对手的装饰品自己使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 防御結界を 無視できる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064624Z" creationid="土妹子" creationdate="20150101T064624Z">
@@ -42812,6 +42852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T005514Z" creationid="UUZ" creationdate="20140908T005514Z">
         <seg>神速之符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>神速エアレイド</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100259Z" creationid="土妹子" creationdate="20150101T100259Z">
+        <seg>神速空袭</seg>
       </tuv>
     </tu>
     <tu>
@@ -44088,6 +44136,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>舞風</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100313Z" creationid="土妹子" creationdate="20150101T100313Z">
+        <seg>舞风</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>芭蕉扇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123112Z" creationid="UUZ" creationdate="20140906T123112Z">
@@ -45356,6 +45412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133932Z" creationid="土妹子" creationdate="20141230T133932Z">
         <seg>野生战胜利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>野良人形との 戦闘は 終わる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100109Z" creationid="土妹子" creationdate="20150101T100109Z">
+        <seg>与野生人形的战斗会结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47100,6 +47164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092138Z" creationid="土妹子" creationdate="20150101T092138Z">
         <seg>１成几率使对手停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 相手を 混乱状態にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100219Z" creationid="土妹子" creationdate="20150101T100219Z">
+        <seg>１成几率使对手混乱。</seg>
       </tuv>
     </tu>
     <tu>
