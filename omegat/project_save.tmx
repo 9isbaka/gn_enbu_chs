@@ -31218,8 +31218,8 @@
       <tuv lang="JA">
         <seg>ネガティブミスト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141022Z" creationid="UUZ" creationdate="20140906T141022Z">
-        <seg>否定之雾</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111551Z" creationid="UUZ" creationdate="20140906T141022Z">
+        <seg>负之雾</seg>
       </tuv>
     </tu>
     <tu>
@@ -31490,8 +31490,8 @@
       <tuv lang="JA">
         <seg>パープルスモッグ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141343Z" creationid="UUZ" creationdate="20140906T141343Z">
-        <seg>紫烟</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111728Z" creationid="UUZ" creationdate="20140906T141343Z">
+        <seg>紫色烟雾</seg>
       </tuv>
     </tu>
     <tu>
@@ -31826,8 +31826,16 @@
       <tuv lang="JA">
         <seg>ポイズントラップ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141133Z" creationid="UUZ" creationdate="20140906T141133Z">
-        <seg>剧毒陷阱</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111638Z" creationid="UUZ" creationdate="20140906T141133Z">
+        <seg>毒性陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ポイズントラップを 設置し 交代で 出てきた 相手の 人形を 毒にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111656Z" creationid="土妹子" creationdate="20150101T111656Z">
+        <seg>设置毒性陷阱，使交换出的对手人形中毒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40632,6 +40640,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>毒 猛毒状態の 相手には 威力が ２倍に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111537Z" creationid="土妹子" creationdate="20150101T111537Z">
+        <seg>对毒／剧毒状态的对手威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>毒々しき青紫</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023004Z" creationid="土妹子" creationdate="20141231T023004Z">
@@ -40642,8 +40658,8 @@
       <tuv lang="JA">
         <seg>毒々スパイラル</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141105Z" creationid="UUZ" creationdate="20140906T141105Z">
-        <seg>剧毒漩涡</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111627Z" creationid="UUZ" creationdate="20140906T141105Z">
+        <seg>剧毒螺旋</seg>
       </tuv>
     </tu>
     <tu>
@@ -42552,10 +42568,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 散防を 大きく 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111634Z" creationid="土妹子" creationdate="20150101T111634Z">
+        <seg>使对手的散防大幅下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 能力変化の 影響を受けない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095448Z" creationid="土妹子" creationdate="20150101T095448Z">
         <seg>不受对手能力变化的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 能力変化を 元に 戻す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111559Z" creationid="土妹子" creationdate="20150101T111559Z">
+        <seg>对手的能力变化归零。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42828,6 +42860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070511Z" creationid="土妹子" creationdate="20150101T070511Z">
         <seg>使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 猛毒状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111715Z" creationid="土妹子" creationdate="20150101T111715Z">
+        <seg>使对手中剧毒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47480,6 +47520,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手を 恐怖状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111800Z" creationid="土妹子" creationdate="20150101T111800Z">
+        <seg>１成几率使对手恐怖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手を 暗闇状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110608Z" creationid="土妹子" creationdate="20150101T110608Z">
@@ -47664,6 +47712,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２割の 確率で 相手を 猛毒状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111739Z" creationid="土妹子" creationdate="20150101T111739Z">
+        <seg>２成几率使对手中剧毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２割の 確率で 相手を 麻痺状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105512Z" creationid="土妹子" creationdate="20150101T105512Z">
@@ -47708,6 +47764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064504Z" creationid="土妹子" creationdate="20150101T064504Z">
         <seg>连续２次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２回使うと 猛毒 にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111705Z" creationid="土妹子" creationdate="20150101T111705Z">
+        <seg>使用２次会中剧毒。</seg>
       </tuv>
     </tu>
     <tu>
