@@ -24912,8 +24912,32 @@
       <tuv lang="JA">
         <seg>★相手の場にステルストラップを設置する</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041421Z" creationid="土妹子" creationdate="20150101T041421Z">
-        <seg>★在对方场上设置隐形陷阱</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054712Z" creationid="土妹子" creationdate="20150101T041421Z">
+        <seg>★在对方场上设置隐秘陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手の場にバインドトラップ効果</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054659Z" creationid="土妹子" creationdate="20150101T054659Z">
+        <seg>★在对方场上设置束缚陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手の場にポイズントラップを設置する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054704Z" creationid="土妹子" creationdate="20150101T054704Z">
+        <seg>★在对方场上设置毒性陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手の場にマイントラップを設置する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054723Z" creationid="土妹子" creationdate="20150101T054723Z">
+        <seg>★在对方场上设置精神陷阱</seg>
       </tuv>
     </tu>
     <tu>
@@ -24958,6 +24982,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★相手の能力ランクを反転させる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054735Z" creationid="土妹子" creationdate="20150101T054735Z">
+        <seg>★反转对手的能力等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★相手の集弾1段低下</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041204Z" creationid="UUZ" creationdate="20140904T140912Z">
@@ -24998,6 +25030,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★相手は同じスキルを連続で出せなくなる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054801Z" creationid="土妹子" creationdate="20150101T054801Z">
+        <seg>★使对手不能连续使用相同技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★相手を停止に</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141041Z" creationid="UUZ" creationdate="20140904T141041Z">
@@ -25014,6 +25054,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>★相手を怯み</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054827Z" creationid="土妹子" creationdate="20150101T054827Z">
+        <seg>★使对手害怕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>★相手を恐怖に</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141029Z" creationid="UUZ" creationdate="20140904T141029Z">
@@ -25024,8 +25072,8 @@
       <tuv lang="JA">
         <seg>★相手を暗闇に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141024Z" creationid="UUZ" creationdate="20140904T141024Z">
-        <seg>★对手黑暗中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054808Z" creationid="UUZ" creationdate="20140904T141024Z">
+        <seg>★使对手黑暗</seg>
       </tuv>
     </tu>
     <tu>
@@ -25048,8 +25096,16 @@
       <tuv lang="JA">
         <seg>★相手を火傷に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141017Z" creationid="UUZ" creationdate="20140904T141017Z">
-        <seg>★对手烧伤中</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054821Z" creationid="UUZ" creationdate="20140904T141017Z">
+        <seg>★使对手烧伤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手を火傷・暗闇に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T054816Z" creationid="土妹子" creationdate="20150101T054816Z">
+        <seg>★使对手烧伤并黑暗</seg>
       </tuv>
     </tu>
     <tu>
