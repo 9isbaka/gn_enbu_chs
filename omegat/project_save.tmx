@@ -46808,6 +46808,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>金の魔石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143053Z" creationid="土妹子" creationdate="20150101T143053Z">
+        <seg>金之魔石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>金切り声</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132504Z" creationid="UUZ" creationdate="20140907T140411Z">
