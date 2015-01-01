@@ -24808,8 +24808,8 @@
       <tuv lang="JA">
         <seg>★天候発現「凪」</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055137Z" creationid="土妹子" creationdate="20150101T055137Z">
-        <seg>★天气发现「微风」</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055219Z" creationid="土妹子" creationdate="20150101T055137Z">
+        <seg>★天气显现「微风」</seg>
       </tuv>
     </tu>
     <tu>
@@ -24824,8 +24824,8 @@
       <tuv lang="JA">
         <seg>★天候発現「濃霧」</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055159Z" creationid="土妹子" creationdate="20150101T055159Z">
-        <seg>★天气发现「浓雾」</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055222Z" creationid="土妹子" creationdate="20150101T055159Z">
+        <seg>★天气显现「浓雾」</seg>
       </tuv>
     </tu>
     <tu>
@@ -24890,6 +24890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100348Z" creationid="土妹子" creationdate="20141231T100348Z">
         <seg>★下回合结束时回复最大ＨＰ的一半</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★毎ターンHPが少しずつ回復する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055233Z" creationid="土妹子" creationdate="20150101T055233Z">
+        <seg>★每回合稍微回复ＨＰ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25674,6 +25682,78 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095834Z" creationid="土妹子" creationdate="20141231T095834Z">
         <seg>★使用１／４ＨＰ展开障壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆2〜3ターン同じ攻撃を続け、その後混乱</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055257Z" creationid="土妹子" creationdate="20150101T055257Z">
+        <seg>☆２～３回合持续相同攻击，之后混乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆4〜5ターン拘束</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055307Z" creationid="土妹子" creationdate="20150101T055307Z">
+        <seg>☆４～５回合拘束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆5ターンの間 能力を下げられなくなる　自分の場</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055326Z" creationid="土妹子" creationdate="20150101T055326Z">
+        <seg>☆我方场地５回合间能力不会下降</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆HP吸収与えたダメージの1/2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055407Z" creationid="土妹子" creationdate="20150101T055407Z">
+        <seg>☆ＨＰ吸收造成伤害的１／２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆このターンに相手からダメージを受けていると失敗</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055515Z" creationid="土妹子" creationdate="20150101T055515Z">
+        <seg>☆本回合受到对手造成的伤害则使用失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆このターンに相手からダメージを受けていると威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055459Z" creationid="土妹子" creationdate="20150101T055459Z">
+        <seg>☆本回合中受到对手造成的伤害则威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆なんらかの地相の時威力倍、成功した時地相解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055540Z" creationid="土妹子" creationdate="20150101T055540Z">
+        <seg>☆在某些地相时威力翻倍，成功使用后解除地相</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆地相によって威力・属性変化</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055437Z" creationid="土妹子" creationdate="20150101T055437Z">
+        <seg>☆根据地相改变威力和属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆天候によって威力・属性変化</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055421Z" creationid="土妹子" creationdate="20150101T055421Z">
+        <seg>☆根据天气改变威力和属性</seg>
       </tuv>
     </tu>
     <tu>
