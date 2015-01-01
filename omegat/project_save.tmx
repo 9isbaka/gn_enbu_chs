@@ -29690,8 +29690,8 @@
       <tuv lang="JA">
         <seg>インパクトリベリオン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094854Z" creationid="土妹子" creationdate="20150101T094854Z">
-        <seg>冲击反抗</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095013Z" creationid="土妹子" creationdate="20150101T094854Z">
+        <seg>反乱冲击</seg>
       </tuv>
     </tu>
     <tu>
@@ -30106,8 +30106,8 @@
       <tuv lang="JA">
         <seg>キリングバイト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T120402Z" creationid="UUZ" creationdate="20140906T120402Z">
-        <seg>杀戮之刃</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095124Z" creationid="UUZ" creationdate="20140906T120402Z">
+        <seg>杀戮之咬</seg>
       </tuv>
     </tu>
     <tu>
@@ -32282,8 +32282,8 @@
       <tuv lang="JA">
         <seg>ラストスラッシュ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T120800Z" creationid="UUZ" creationdate="20140906T120800Z">
-        <seg>终焉斩击</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095153Z" creationid="UUZ" creationdate="20140906T120800Z">
+        <seg>终结斩击</seg>
       </tuv>
     </tu>
     <tu>
@@ -33044,6 +33044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094024Z" creationid="土妹子" creationdate="20141231T094024Z">
         <seg>不退缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>与えた ダメージの 半分の ダメージを受ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095049Z" creationid="土妹子" creationdate="20150101T095049Z">
+        <seg>自身受到造成伤害一半的反伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38594,8 +38602,8 @@
       <tuv lang="JA">
         <seg>抜打</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T021608Z" creationid="UUZ" creationdate="20140906T120604Z">
-        <seg>打</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095138Z" creationid="UUZ" creationdate="20140906T120604Z">
+        <seg>拔刀斩</seg>
       </tuv>
     </tu>
     <tu>
@@ -42424,6 +42432,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手より 俊敏が 低いほど 威力が 高くなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095027Z" creationid="土妹子" creationdate="20150101T095027Z">
+        <seg>自身的敏捷越是比对手低，威力越高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手を 停止状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093738Z" creationid="土妹子" creationdate="20150101T093738Z">
@@ -45466,8 +45482,8 @@
       <tuv lang="JA">
         <seg>鎧通し</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T115325Z" creationid="UUZ" creationdate="20140906T115325Z">
-        <seg>铠通</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095106Z" creationid="UUZ" creationdate="20140906T115325Z">
+        <seg>破甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -46944,6 +46960,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手を ひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095112Z" creationid="土妹子" creationdate="20150101T095112Z">
+        <seg>１成几率使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手を 停止状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092138Z" creationid="土妹子" creationdate="20150101T092138Z">
@@ -46980,6 +47004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094423Z" creationid="土妹子" creationdate="20150101T094423Z">
         <seg>１成几率提升自己的全能力。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 自分の 集弾を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095059Z" creationid="土妹子" creationdate="20150101T095059Z">
+        <seg>１成几率提升自己的集弹。</seg>
       </tuv>
     </tu>
     <tu>
