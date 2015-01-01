@@ -24326,6 +24326,54 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n転生する時にセットすると 人形に白の印が付く。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141532Z" creationid="土妹子" creationdate="20150101T141532Z">
+        <seg>\n转生时设置上的话，可以给人形附上白之印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 人形に碧の印が付く。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141552Z" creationid="土妹子" creationdate="20150101T141552Z">
+        <seg>\n转生时设置上的话，可以给人形附上碧之印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 人形に紅の印が付く。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141441Z" creationid="土妹子" creationdate="20150101T141441Z">
+        <seg>\n转生时设置上的话，可以给人形附上红之印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 人形に蒼の印が付く。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141456Z" creationid="土妹子" creationdate="20150101T141456Z">
+        <seg>\n转生时设置上的话，可以给人形附上苍之印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 人形に黒の印が付く。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141512Z" creationid="土妹子" creationdate="20150101T141512Z">
+        <seg>\n转生时设置上的话，可以给人形附上黑之印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 全能力の個体ランクが変化しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141635Z" creationid="土妹子" creationdate="20150101T141635Z">
+        <seg>\n转生时设置上的话，全能力的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n高額で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T134410Z" creationid="土妹子" creationdate="20150101T134410Z">
@@ -33356,6 +33404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T130939Z" creationid="UUZ" creationdate="20140907T130919Z">
         <seg>不可思议的波动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>不思議な魔石。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141613Z" creationid="土妹子" creationdate="20150101T141613Z">
+        <seg>不可思议的魔石。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42768,6 +42824,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>白の印</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141521Z" creationid="土妹子" creationdate="20150101T141521Z">
+        <seg>白之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>白玉団子</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151926Z" creationid="UUZ" creationdate="20140906T151926Z">
@@ -42788,6 +42852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095127Z" creationid="UUZ" creationdate="20140906T095127Z">
         <seg>白百合之舞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>白色の印章。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141527Z" creationid="土妹子" creationdate="20150101T141527Z">
+        <seg>白色的印章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43728,6 +43800,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>碧の印</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141541Z" creationid="土妹子" creationdate="20150101T141541Z">
+        <seg>碧之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>碧色の印章。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141547Z" creationid="土妹子" creationdate="20150101T141547Z">
+        <seg>碧色的印章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>神々しき虹</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022924Z" creationid="土妹子" creationdate="20141231T022924Z">
@@ -44112,10 +44200,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紅の印</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141416Z" creationid="土妹子" creationdate="20150101T141416Z">
+        <seg>红之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紅美鈴</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144102Z" creationid="UUZ" creationdate="20140906T144102Z">
         <seg>红美铃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅色の印章。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141420Z" creationid="土妹子" creationdate="20150101T141420Z">
+        <seg>红色的印章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45552,6 +45656,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>蒼の印</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141445Z" creationid="土妹子" creationdate="20150101T141445Z">
+        <seg>苍之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>蒼色の印章。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141451Z" creationid="土妹子" creationdate="20150101T141451Z">
+        <seg>苍色的印章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>蓬莱山輝夜</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144502Z" creationid="UUZ" creationdate="20140906T144502Z">
@@ -46200,6 +46320,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>転生用印セット</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141411Z" creationid="土妹子" creationdate="20150101T141411Z">
+        <seg>转生用印套装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>輝夜</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161522Z" creationid="UUZ" creationdate="20141224T161522Z">
@@ -46364,6 +46492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035738Z" creationid="UUZ" creationdate="20140908T035738Z">
         <seg>通透的绿色发饰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>透の魔石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141607Z" creationid="土妹子" creationdate="20150101T141607Z">
+        <seg>透明魔石</seg>
       </tuv>
     </tu>
     <tu>
@@ -48280,6 +48416,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>黒の印</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141504Z" creationid="土妹子" creationdate="20150101T141504Z">
+        <seg>黑之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>黒一色の髪飾り。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035924Z" creationid="UUZ" creationdate="20140908T035924Z">
@@ -48292,6 +48436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T020136Z" creationid="UUZ" creationdate="20140908T040238Z">
         <seg>黑白条纹的发饰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>黒色の印章。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141508Z" creationid="土妹子" creationdate="20150101T141508Z">
+        <seg>黑色的印章。</seg>
       </tuv>
     </tu>
     <tu>
