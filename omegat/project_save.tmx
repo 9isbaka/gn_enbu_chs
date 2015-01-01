@@ -24214,6 +24214,78 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると一度だけ光属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145431Z" creationid="土妹子" creationdate="20150101T145431Z">
+        <seg>\n持有时可以仅有１次使光属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ大地属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145357Z" creationid="土妹子" creationdate="20150101T145357Z">
+        <seg>\n持有时可以仅有１次使大地属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ水属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145342Z" creationid="土妹子" creationdate="20150101T145342Z">
+        <seg>\n持有时可以仅有１次使水属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ炎属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145330Z" creationid="土妹子" creationdate="20150101T145330Z">
+        <seg>\n持有时可以仅有１次使火属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ無属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145325Z" creationid="土妹子" creationdate="20150101T145325Z">
+        <seg>\n持有时可以仅有１次使无属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ自然属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145349Z" creationid="土妹子" creationdate="20150101T145349Z">
+        <seg>\n持有时可以仅有１次使自然属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ鋼鉄属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145412Z" creationid="土妹子" creationdate="20150101T145412Z">
+        <seg>\n持有时可以仅有１次使钢铁属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ雷属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145425Z" creationid="土妹子" creationdate="20150101T145425Z">
+        <seg>\n持有时可以仅有１次使雷属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると一度だけ風属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145418Z" creationid="土妹子" creationdate="20150101T145418Z">
+        <seg>\n持有时可以仅有１次使风属性技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n次ターン 動けなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014406Z" creationid="UUZ" creationdate="20140906T110016Z">
@@ -34120,6 +34192,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると溜めが必要なスキルを１ターンで使う事が出来る。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145202Z" creationid="土妹子" creationdate="20150101T145202Z">
+        <seg>人形持有时，需要蓄力的技能１回合就能使出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると溜めスキルを１ターンで使う事が出来る。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013408Z" creationid="UUZ" creationdate="20140908T013408Z">
@@ -34178,8 +34258,8 @@
       <tuv lang="JA">
         <seg>人形に持たせると能力が下がった時に１度だけ元の状態に戻す。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013106Z" creationid="UUZ" creationdate="20140908T013106Z">
-        <seg>人形持有时可以从1次能力下降状态中恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145145Z" creationid="UUZ" creationdate="20140908T013106Z">
+        <seg>人形持有时可以仅有１次，在能力下降时回归原始状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39808,6 +39888,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>持たせると攻撃を受けた時に相手を強制的に交代させる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145224Z" creationid="土妹子" creationdate="20150101T145224Z">
+        <seg>人形持有时，受到攻击时使对手强制交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>持たせると攻撃を受けた時に相手を強制的に交換させる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013707Z" creationid="UUZ" creationdate="20140908T013707Z">
@@ -40044,6 +40132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035745Z" creationid="UUZ" creationdate="20140908T035745Z">
         <seg>持有时风属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせるとＨＰが満タンの時に戦闘不能になるダメージを受けてもＨＰ１で耐える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145258Z" creationid="土妹子" creationdate="20150101T145258Z">
+        <seg>人形持有时，在满ＨＰ时受到致命伤害也能以１ＨＰ忍住。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41818,8 +41914,8 @@
       <tuv lang="JA">
         <seg>水色の宝石。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020414Z" creationid="UUZ" creationdate="20140908T020414Z">
-        <seg>淡蓝色的宝石。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145336Z" creationid="UUZ" creationdate="20140908T020414Z">
+        <seg>水色的宝石。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44146,8 +44242,8 @@
       <tuv lang="JA">
         <seg>禊の符</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013031Z" creationid="UUZ" creationdate="20140908T013031Z">
-        <seg>禊之符</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145107Z" creationid="UUZ" creationdate="20140908T013031Z">
+        <seg>祈福之符</seg>
       </tuv>
     </tu>
     <tu>
