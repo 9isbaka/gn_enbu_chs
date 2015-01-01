@@ -25926,6 +25926,54 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆相手が毒・猛毒状態の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061204Z" creationid="土妹子" creationdate="20150101T061204Z">
+        <seg>☆对手中毒／中剧毒时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手が状態異常の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061044Z" creationid="土妹子" creationdate="20150101T061044Z">
+        <seg>☆对手状态异常时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手が装飾品を持つ場合、威力が1.5倍、装飾品を持たない状態に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061123Z" creationid="土妹子" creationdate="20150101T061123Z">
+        <seg>☆对手携带了装饰品时，威力１.５倍并打落装饰品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手の5ステからランダムに1段低下</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061245Z" creationid="土妹子" creationdate="20150101T061245Z">
+        <seg>☆对手的五围中随机一项下降１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手のFプロテクト・Fバリアの効果を受けず、それを壊す</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061334Z" creationid="土妹子" creationdate="20150101T061334Z">
+        <seg>☆不受对方场上Ｆ保护和Ｆ屏障的影响，并且将其破坏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手のコストが高いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061347Z" creationid="土妹子" creationdate="20150101T061347Z">
+        <seg>☆对手的ｃｏｓｔ越高威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆相手の俊敏1段低下</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T141324Z">
@@ -25946,6 +25994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141320Z" creationid="UUZ" creationdate="20140904T141320Z">
         <seg>☆对手的散防下降了1级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手の現在HPが最大HPの半分以下の時威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061408Z" creationid="土妹子" creationdate="20150101T061408Z">
+        <seg>☆对手的现有ＨＰ不足最大ＨＰ的一半时威力翻倍</seg>
       </tuv>
     </tu>
     <tu>
