@@ -30296,6 +30296,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>コンティニュー</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120012Z" creationid="土妹子" creationdate="20150101T120012Z">
+        <seg>投币接关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>コークスクリュー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114523Z" creationid="UUZ" creationdate="20140907T122729Z">
@@ -36232,6 +36240,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>変化技を 相手に 跳ね返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120046Z" creationid="土妹子" creationdate="20150101T120046Z">
+        <seg>变化技反弹给对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>変幻自在</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063428Z" creationid="UUZ" creationdate="20140904T142638Z">
@@ -40040,6 +40056,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>最後に 使われた スキルで 相手に 攻撃する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120057Z" creationid="土妹子" creationdate="20150101T120057Z">
+        <seg>用最后被使用的技能攻击对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>最近 人形のトラブルが多いから 授業の内容を変えているんだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T123346Z" creationid="UUZ" creationdate="20140908T123346Z">
@@ -40420,6 +40444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105044Z" creationid="土妹子" creationdate="20150101T105044Z">
         <seg>下回合使用的雷属性技能威力翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次の ターンに 相手を 停止状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120142Z" creationid="土妹子" creationdate="20150101T120142Z">
+        <seg>下回合对手会陷入停止状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42752,6 +42784,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の 散防ではなく 集防で ダメージが 影響する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115959Z" creationid="土妹子" creationdate="20150101T115959Z">
+        <seg>以对手的集防代替散防计算伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の 散防を 大きく 下げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111634Z" creationid="土妹子" creationdate="20150101T111634Z">
@@ -44348,6 +44388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T154150Z" creationid="UUZ" creationdate="20140908T154150Z">
         <seg>因为自己不能使用，要注意啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と 相手の 集弾と 散弾を 入れ替える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120154Z" creationid="土妹子" creationdate="20150101T120154Z">
+        <seg>交换自身和对手的集弹和散弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47988,6 +48036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093724Z" creationid="土妹子" creationdate="20141231T093724Z">
         <seg>２～５次攻击的技能一定能打出５次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２ターンの あいだ 停止状態に なり ＨＰと 状態異常を 全て 回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120033Z" creationid="土妹子" creationdate="20150101T120033Z">
+        <seg>２回合间陷入停止状态，完全回复ＨＰ和异常状态。</seg>
       </tuv>
     </tu>
     <tu>
