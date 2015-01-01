@@ -28110,6 +28110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>その後 混乱する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064724Z" creationid="土妹子" creationdate="20150101T064724Z">
+        <seg>之后混乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>その手前に 香霖堂さんはありますわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151615Z" creationid="UUZ" creationdate="20140909T151534Z">
@@ -31036,6 +31044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020827Z" creationid="UUZ" creationdate="20140908T020827Z">
         <seg>黄玉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>トライエフェクト</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064757Z" creationid="土妹子" creationdate="20150101T064757Z">
+        <seg>三效合一</seg>
       </tuv>
     </tu>
     <tu>
@@ -34276,6 +34292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145233Z" creationid="UUZ" creationdate="20140906T145233Z">
         <seg>先代巫女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>先制攻撃で 相手を ひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064528Z" creationid="土妹子" creationdate="20150101T064528Z">
+        <seg>以先制攻击使对手害怕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37730,8 +37754,8 @@
       <tuv lang="JA">
         <seg>影走り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T150154Z" creationid="UUZ" creationdate="20140904T150154Z">
-        <seg>影子步</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064557Z" creationid="UUZ" creationdate="20140904T150154Z">
+        <seg>暗影步</seg>
       </tuv>
     </tu>
     <tu>
@@ -37852,6 +37876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025827Z" creationid="土妹子" creationdate="20141231T025827Z">
         <seg>心头灭却</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>必ず 攻撃が 当たる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064843Z" creationid="土妹子" creationdate="20150101T064843Z">
+        <seg>攻击必中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38124,6 +38156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152246Z" creationid="UUZ" creationdate="20140906T152246Z">
         <seg>战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戦闘に 出たら すぐに 出さないと 成功しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064541Z" creationid="土妹子" creationdate="20150101T064541Z">
+        <seg>不在刚出场时使用就不能成功。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41784,10 +41824,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手に 先制して 攻撃する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064611Z" creationid="土妹子" creationdate="20150101T064611Z">
+        <seg>能够先制攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手に 対して 先制できる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064325Z" creationid="土妹子" creationdate="20150101T064325Z">
-        <seg>能够先发攻击对手。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064616Z" creationid="土妹子" creationdate="20150101T064325Z">
+        <seg>能够先制攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41820,6 +41868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064432Z" creationid="土妹子" creationdate="20150101T064432Z">
         <seg>无视对手的能力变化进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 防御結界を 無視できる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064624Z" creationid="土妹子" creationdate="20150101T064624Z">
+        <seg>无视对手的防御结界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43498,8 +43554,8 @@
       <tuv lang="JA">
         <seg>虎走り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T145837Z" creationid="UUZ" creationdate="20140904T145837Z">
-        <seg>虎猎</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064551Z" creationid="UUZ" creationdate="20140904T145837Z">
+        <seg>虎奔</seg>
       </tuv>
     </tu>
     <tu>
@@ -46160,6 +46216,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２〜３ターン 同じスキルで 攻撃する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064720Z" creationid="土妹子" creationdate="20150101T064720Z">
+        <seg>２～３回合间用相同的技能攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２〜５回攻撃のスキルが 必ず５回当たる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093724Z" creationid="土妹子" creationdate="20141231T093724Z">
@@ -46176,10 +46240,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２割の 確率で相手を 麻痺か 暗闇か 恐怖に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064816Z" creationid="土妹子" creationdate="20150101T064816Z">
+        <seg>２成几率使对手麻痹或黑暗或恐怖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２回 連続して 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064504Z" creationid="土妹子" creationdate="20150101T064504Z">
         <seg>连续２次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３割の 確率で 相手を ひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064833Z" creationid="土妹子" creationdate="20150101T064833Z">
+        <seg>３成几率使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３割の 確率で 相手を 麻痺状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064748Z" creationid="土妹子" creationdate="20150101T064748Z">
+        <seg>３成几率使对手麻痹。</seg>
       </tuv>
     </tu>
     <tu>
