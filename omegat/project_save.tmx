@@ -24366,6 +24366,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると交換出来なくなった時にその効果を無効化する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152043Z" creationid="土妹子" creationdate="20150101T152043Z">
+        <seg>\n携带后，在不能交换时把那个效果无效化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると人形のＨＰが戦闘の間少しずつ回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151758Z" creationid="土妹子" creationdate="20150101T151758Z">
@@ -24398,6 +24406,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると天候や粉系のスキルの影響を受けなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152252Z" creationid="土妹子" creationdate="20150101T152252Z">
+        <seg>\n携带后不受天气和粉类技能的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると戦闘不能になる様なダメージを受けてもＨＰ１で耐える事がある。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151417Z" creationid="土妹子" creationdate="20150101T151417Z">
@@ -24410,6 +24426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150742Z">
         <seg>\n携带时扩散技能的威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると散防が上がるが 変化スキルを出せなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152233Z" creationid="土妹子" creationdate="20150101T152233Z">
+        <seg>\n携带后散防上升，但是不能使用变化技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24466,6 +24490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150719Z">
         <seg>\n携带时集中技能的威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると集防が上がるが 変化スキルを出せなくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152224Z" creationid="土妹子" creationdate="20150101T152224Z">
+        <seg>\n携带后集防上升，但是不能使用变化技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34114,8 +34146,8 @@
       <tuv lang="JA">
         <seg>人型の木札。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T033148Z" creationid="UUZ" creationdate="20140908T033148Z">
-        <seg>人形的木札。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152022Z" creationid="UUZ" creationdate="20140908T033148Z">
+        <seg>人形的木牌。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38168,6 +38200,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>小型ビット</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152259Z" creationid="土妹子" creationdate="20150101T152259Z">
+        <seg>小型浮游炮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>小夜嵐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104451Z" creationid="UUZ" creationdate="20140906T124848Z">
@@ -40028,6 +40068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T034133Z" creationid="UUZ" creationdate="20140908T034133Z">
         <seg>持有后不受天候和粉系技能的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせると威力の低いスキルを受けた時に相手にもダメージを与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152330Z" creationid="土妹子" creationdate="20150101T152330Z">
+        <seg>携带后，受到低威力技能时会使对手也受到伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46866,8 +46914,8 @@
       <tuv lang="JA">
         <seg>身代りの木札</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T033131Z" creationid="UUZ" creationdate="20140908T033131Z">
-        <seg>替身木札</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152018Z" creationid="UUZ" creationdate="20140908T033131Z">
+        <seg>替身木牌</seg>
       </tuv>
     </tu>
     <tu>
@@ -47410,8 +47458,8 @@
       <tuv lang="JA">
         <seg>金色のかんざし。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T033755Z" creationid="UUZ" creationdate="20140908T033402Z">
-        <seg>金色的钗子</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152047Z" creationid="UUZ" creationdate="20140908T033402Z">
+        <seg>金色的钗子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47506,8 +47554,8 @@
       <tuv lang="JA">
         <seg>銀色のかんざし。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T033938Z" creationid="UUZ" creationdate="20140908T033938Z">
-        <seg>银色的钗子</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152228Z" creationid="UUZ" creationdate="20140908T033938Z">
+        <seg>银色的钗子。</seg>
       </tuv>
     </tu>
     <tu>
