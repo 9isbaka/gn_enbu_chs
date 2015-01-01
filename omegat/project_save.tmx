@@ -24366,10 +24366,66 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n転生する時にセットすると 俊敏の個体ランクが変化しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143432Z" creationid="土妹子" creationdate="20150101T143432Z">
+        <seg>\n转生时设置上的话，敏捷的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n転生する時にセットすると 全能力の個体ランクが変化しない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141635Z" creationid="土妹子" creationdate="20150101T141635Z">
         <seg>\n转生时设置上的话，全能力的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 散弾の個体ランクが変化しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143406Z" creationid="土妹子" creationdate="20150101T143406Z">
+        <seg>\n转生时设置上的话，散弹的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 散防の個体ランクが変化しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143418Z" creationid="土妹子" creationdate="20150101T143418Z">
+        <seg>\n转生时设置上的话，散防的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 継承する個体ランクが増える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143453Z" creationid="土妹子" creationdate="20150101T143453Z">
+        <seg>\n转生时设置上的话，继承的个体等级会变多。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 集弾の個体ランクが変化しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143342Z" creationid="土妹子" creationdate="20150101T143342Z">
+        <seg>\n转生时设置上的话，集弹的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると 集防の個体ランクが変化しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143354Z" creationid="土妹子" creationdate="20150101T143354Z">
+        <seg>\n转生时设置上的话，集防的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n転生する時にセットすると ＨＰの個体ランクが変化しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143331Z" creationid="土妹子" creationdate="20150101T143331Z">
+        <seg>\n转生时设置上的话，ＨＰ的个体等级不会变化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42832,6 +42888,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>白の魔石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143411Z" creationid="土妹子" creationdate="20150101T143411Z">
+        <seg>白之魔石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>白玉団子</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151926Z" creationid="UUZ" creationdate="20140906T151926Z">
@@ -43808,6 +43872,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>碧の魔石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143425Z" creationid="土妹子" creationdate="20150101T143425Z">
+        <seg>碧之魔石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>碧色の印章。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141547Z" creationid="土妹子" creationdate="20150101T141547Z">
@@ -44204,6 +44276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141416Z" creationid="土妹子" creationdate="20150101T141416Z">
         <seg>红之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅の魔石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143336Z" creationid="土妹子" creationdate="20150101T143336Z">
+        <seg>红之魔石</seg>
       </tuv>
     </tu>
     <tu>
@@ -45660,6 +45740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141445Z" creationid="土妹子" creationdate="20150101T141445Z">
         <seg>苍之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>蒼の魔石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143347Z" creationid="土妹子" creationdate="20150101T143347Z">
+        <seg>苍之魔石</seg>
       </tuv>
     </tu>
     <tu>
@@ -48428,6 +48516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141504Z" creationid="土妹子" creationdate="20150101T141504Z">
         <seg>黑之印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>黒の魔石</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143359Z" creationid="土妹子" creationdate="20150101T143359Z">
+        <seg>黑之魔石</seg>
       </tuv>
     </tu>
     <tu>
