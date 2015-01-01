@@ -29490,8 +29490,8 @@
       <tuv lang="JA">
         <seg>アクアジャベリン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T085859Z" creationid="UUZ" creationdate="20140906T085145Z">
-        <seg>水之枪</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071408Z" creationid="UUZ" creationdate="20140906T085145Z">
+        <seg>水之标枪</seg>
       </tuv>
     </tu>
     <tu>
@@ -32306,8 +32306,8 @@
       <tuv lang="JA">
         <seg>リバーススプラッシュ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T085547Z" creationid="UUZ" creationdate="20140906T085547Z">
-        <seg>逆向飞身压</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071534Z" creationid="UUZ" creationdate="20140906T085547Z">
+        <seg>反向飞身压</seg>
       </tuv>
     </tu>
     <tu>
@@ -41032,6 +41032,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>滝落</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071337Z" creationid="土妹子" creationdate="20150101T071337Z">
+        <seg>飞瀑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>滝落（たきおとし）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T162257Z" creationid="UUZ" creationdate="20140904T161855Z">
@@ -46560,6 +46568,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２割の 確率で ひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071351Z" creationid="土妹子" creationdate="20150101T071351Z">
+        <seg>２成几率使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２割の 確率で 相手の 俊敏を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071426Z" creationid="土妹子" creationdate="20150101T071426Z">
+        <seg>２成几率使对手的敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２割の 確率で 相手を 火傷状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070951Z" creationid="土妹子" creationdate="20150101T070951Z">
@@ -46580,6 +46604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064504Z" creationid="土妹子" creationdate="20150101T064504Z">
         <seg>连续２次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３割の 確率で ひるませる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071343Z" creationid="土妹子" creationdate="20150101T071343Z">
+        <seg>３成几率使对手害怕。</seg>
       </tuv>
     </tu>
     <tu>
