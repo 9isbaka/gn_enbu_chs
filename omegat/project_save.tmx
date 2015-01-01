@@ -37186,8 +37186,8 @@
       <tuv lang="JA">
         <seg>小夜嵐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T124848Z" creationid="UUZ" creationdate="20140906T124848Z">
-        <seg>小夜岚</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104451Z" creationid="UUZ" creationdate="20140906T124848Z">
+        <seg>夜间大风</seg>
       </tuv>
     </tu>
     <tu>
@@ -43936,6 +43936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 散弾と 俊敏を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104524Z" creationid="土妹子" creationdate="20150101T104524Z">
+        <seg>提升自身的散弹和敏捷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 散弾と 散防と 俊敏を 上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093657Z" creationid="土妹子" creationdate="20150101T093657Z">
@@ -47240,6 +47248,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手を 麻痺状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104535Z" creationid="土妹子" creationdate="20150101T104535Z">
+        <seg>１成几率使对手麻痹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手を停止状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091634Z" creationid="土妹子" creationdate="20150101T091634Z">
@@ -47252,6 +47268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094423Z" creationid="土妹子" creationdate="20150101T094423Z">
         <seg>１成几率提升自己的全能力。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 自分の 俊敏を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104541Z" creationid="土妹子" creationdate="20150101T104541Z">
+        <seg>１成几率提升自身的敏捷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47340,6 +47364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070951Z" creationid="土妹子" creationdate="20150101T070951Z">
         <seg>２成几率使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２割の 確率で 自分の 俊敏を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104500Z" creationid="土妹子" creationdate="20150101T104500Z">
+        <seg>２成几率提升自身的敏捷。</seg>
       </tuv>
     </tu>
     <tu>
