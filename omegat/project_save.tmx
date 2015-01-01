@@ -24142,10 +24142,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n取扱注意。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T134044Z" creationid="土妹子" creationdate="20150101T134044Z">
+        <seg>\n小心轻放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n安い値段で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133842Z" creationid="土妹子" creationdate="20150101T133842Z">
         <seg>\n能以便宜的价格出售。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n幻想郷では使えそうにないので 売って 帰れたら 買い直そう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T134358Z" creationid="土妹子" creationdate="20150101T134358Z">
+        <seg>\n因为在幻想乡似乎不能使用，先卖掉等回去的话再买回来吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24270,6 +24286,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n結構な値段で売れる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T134037Z" creationid="土妹子" creationdate="20150101T134037Z">
+        <seg>\n能以不错的价格出售。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n自分の 散弾を 2段階\n下げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014231Z" creationid="UUZ" creationdate="20140904T160324Z">
@@ -24290,6 +24314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014638Z" creationid="UUZ" creationdate="20140907T121302Z">
         <seg>自身的集防及散防下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n高額で売れる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T134410Z" creationid="土妹子" creationdate="20150101T134410Z">
+        <seg>\n能以高价出售。。</seg>
       </tuv>
     </tu>
     <tu>
