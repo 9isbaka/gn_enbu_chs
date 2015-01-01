@@ -25758,6 +25758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆前のターンに自分の人形が倒されていると威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060806Z" creationid="土妹子" creationdate="20150101T060806Z">
+        <seg>☆上回合曾有我方人形被击倒时威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆固定ダメージ（999）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055702Z" creationid="土妹子" creationdate="20150101T055702Z">
@@ -25890,6 +25898,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055800Z" creationid="土妹子" creationdate="20150101T055800Z">
         <seg>☆容易痛烈的一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手が交代する際にスキルを出すと交代前に発動威力倍</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060852Z" creationid="土妹子" creationdate="20150101T060852Z">
+        <seg>☆对手交换时会在交换前发动技能，且威力翻倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手が持っている消費道具を奪って自分に使う</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061002Z" creationid="土妹子" creationdate="20150101T061002Z">
+        <seg>☆抢夺对手携带的消耗品自己用掉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆相手が攻撃スキルを選び、かつ先攻の場合成功する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060943Z" creationid="土妹子" creationdate="20150101T060937Z">
+        <seg>☆仅在对手选择了攻击技能，且自身先攻时才能成功使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -26126,6 +26158,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆自分の能力ランクが高いほど威力が上がる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060709Z" creationid="土妹子" creationdate="20150101T060709Z">
+        <seg>☆自身的能力等级越高威力越高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆自分の集弾1段上昇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060558Z" creationid="UUZ" creationdate="20140904T141138Z">
@@ -26170,6 +26210,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060607Z" creationid="土妹子" creationdate="20150101T060607Z">
         <seg>☆自身的集防、散防下降１段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分は戦闘不能になる　集防散防半減計算</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060734Z" creationid="土妹子" creationdate="20150101T060734Z">
+        <seg>☆自身陷入战斗不能，集防／散防减半计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分を無防備に</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060743Z" creationid="土妹子" creationdate="20150101T060743Z">
+        <seg>☆自身进入无防备状态</seg>
       </tuv>
     </tu>
     <tu>
