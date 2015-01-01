@@ -30162,8 +30162,8 @@
       <tuv lang="JA">
         <seg>クロームレイ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T121313Z" creationid="UUZ" creationdate="20140906T121313Z">
-        <seg>Chrome Ray</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095439Z" creationid="UUZ" creationdate="20140906T121313Z">
+        <seg>铬激光</seg>
       </tuv>
     </tu>
     <tu>
@@ -36578,8 +36578,8 @@
       <tuv lang="JA">
         <seg>奮闘之構</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T121811Z" creationid="UUZ" creationdate="20140906T121811Z">
-        <seg>奋斗之构</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095557Z" creationid="UUZ" creationdate="20140906T121811Z">
+        <seg>奋斗之势</seg>
       </tuv>
     </tu>
     <tu>
@@ -39400,6 +39400,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>攻撃した後 体勢を 崩してしまう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095400Z" creationid="土妹子" creationdate="20150101T095400Z">
+        <seg>攻击后姿势会被打乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>攻撃を 受けても ＨＰを 必ず １だけ 残せる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064957Z" creationid="土妹子" creationdate="20150101T064957Z">
@@ -41818,8 +41826,8 @@
       <tuv lang="JA">
         <seg>猛進之構</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T121820Z" creationid="UUZ" creationdate="20140906T121820Z">
-        <seg>猛进之构</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095610Z" creationid="UUZ" creationdate="20140906T121820Z">
+        <seg>猛进之势</seg>
       </tuv>
     </tu>
     <tu>
@@ -42284,6 +42292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093438Z" creationid="土妹子" creationdate="20150101T093438Z">
         <seg>防住对手的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の 能力変化の 影響を受けない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095448Z" creationid="土妹子" creationdate="20150101T095448Z">
+        <seg>不受对手能力变化的影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43808,6 +43824,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 集弾と 命中を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095553Z" creationid="土妹子" creationdate="20150101T095553Z">
+        <seg>提升自身的集弹和命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 集弾と 散弾と 俊敏を 大きく 上げて 集防と 散防を 下げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065726Z" creationid="土妹子" creationdate="20150101T065559Z">
@@ -43828,6 +43852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091953Z" creationid="土妹子" creationdate="20150101T091953Z">
         <seg>提升自身的集弹和集防，但是敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 集弾を 大きく 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095606Z" creationid="土妹子" creationdate="20150101T095606Z">
+        <seg>大幅提升自身的集弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45866,8 +45898,8 @@
       <tuv lang="JA">
         <seg>集中之構</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T121803Z" creationid="UUZ" creationdate="20140906T121803Z">
-        <seg>集中之构</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095542Z" creationid="UUZ" creationdate="20140906T121803Z">
+        <seg>集中之势</seg>
       </tuv>
     </tu>
     <tu>
@@ -47004,6 +47036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094423Z" creationid="土妹子" creationdate="20150101T094423Z">
         <seg>１成几率提升自己的全能力。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 自分の 散弾を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095408Z" creationid="土妹子" creationdate="20150101T095408Z">
+        <seg>１成几率提升自身的散弹。</seg>
       </tuv>
     </tu>
     <tu>
