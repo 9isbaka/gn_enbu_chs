@@ -33968,6 +33968,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせるとピンチの時に能力１つが大きく上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144745Z" creationid="土妹子" creationdate="20150101T144745Z">
+        <seg>人形持有后，危机时刻１项能力大幅上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせるとピンチの時に集弾が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T145329Z" creationid="UUZ" creationdate="20140907T145329Z">
@@ -34050,8 +34058,16 @@
       <tuv lang="JA">
         <seg>人形に持たせると拡散スキルを受けた時に相手にダメージを与える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013005Z" creationid="UUZ" creationdate="20140908T013005Z">
-        <seg>人形持有时，受扩散类技能攻击会使对手受伤。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145052Z" creationid="UUZ" creationdate="20140908T013005Z">
+        <seg>人形持有时，受到扩散技能时会使对手受伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせると攻撃スキルを受けた時に相手にダメージを与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T145043Z" creationid="土妹子" creationdate="20150101T145020Z">
+        <seg>人形持有时，受到攻击技能时会使对手受伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34152,6 +34168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると状態異常を回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144833Z" creationid="土妹子" creationdate="20150101T144833Z">
+        <seg>人形持有时可以从异常状态恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると能力が下がった時に１度だけ元の状態に戻す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013106Z" creationid="UUZ" creationdate="20140908T013106Z">
@@ -34170,8 +34194,8 @@
       <tuv lang="JA">
         <seg>人形に持たせると自由にスキルが出せなくなった時に１度だけ回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013119Z" creationid="UUZ" creationdate="20140908T012420Z">
-        <seg>人形持有时可以从1次技能封印中恢复。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144911Z" creationid="UUZ" creationdate="20140908T012420Z">
+        <seg>人形持有时可以仅有１次，从不能自由使用技能的状态恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34260,6 +34284,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035357Z" creationid="UUZ" creationdate="20140908T035357Z">
         <seg>人形持有时，黄沙天气的持续时间变长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせるとＨＰを少し回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144815Z" creationid="土妹子" creationdate="20150101T144815Z">
+        <seg>人形持有时能回复少量ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせるとＨＰを２０回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144930Z" creationid="土妹子" creationdate="20150101T144930Z">
+        <seg>人形持有时可以回复２０ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に持たせるとＳＰが切れた時に１０回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144942Z" creationid="土妹子" creationdate="20150101T144942Z">
+        <seg>人形持有时可以在ＳＰ用完时回复１０点。</seg>
       </tuv>
     </tu>
     <tu>
