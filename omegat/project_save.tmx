@@ -29528,6 +29528,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アクアジェベリン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133244Z" creationid="土妹子" creationdate="20150101T133244Z">
+        <seg>水之标枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>アクアジャベリン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071408Z" creationid="UUZ" creationdate="20140906T085145Z">
@@ -29627,6 +29635,14 @@
         <seg>アメシスト</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021041Z" creationid="UUZ" creationdate="20140908T021041Z">
+        <seg>紫水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>アメジスト</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133632Z" creationid="土妹子" creationdate="20150101T133632Z">
         <seg>紫水晶</seg>
       </tuv>
     </tu>
@@ -31035,6 +31051,14 @@
         <seg>ダイアモンド</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020151Z" creationid="UUZ" creationdate="20140908T020151Z">
+        <seg>钻石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ダイヤモンド</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133543Z" creationid="土妹子" creationdate="20150101T133543Z">
         <seg>钻石</seg>
       </tuv>
     </tu>
@@ -33448,6 +33472,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>二符￥水</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133403Z" creationid="土妹子" creationdate="20150101T133403Z">
+        <seg>二符·水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>互いのスキルが必中になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093529Z" creationid="土妹子" creationdate="20141231T093529Z">
@@ -35530,8 +35562,8 @@
       <tuv lang="JA">
         <seg>反骨の心得書</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021955Z" creationid="UUZ" creationdate="20140908T021955Z">
-        <seg>反抗心得</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133431Z" creationid="UUZ" creationdate="20140908T021955Z">
+        <seg>反骨的心得书</seg>
       </tuv>
     </tu>
     <tu>
@@ -46032,6 +46064,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>身代わりの木札</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133531Z" creationid="土妹子" creationdate="20150101T133531Z">
+        <seg>替身木牌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>身軽</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092829Z" creationid="土妹子" creationdate="20141231T092829Z">
@@ -46138,8 +46178,8 @@
       <tuv lang="JA">
         <seg>退却の心得書</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T014217Z" creationid="UUZ" creationdate="20140908T014217Z">
-        <seg>撤退心得</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133441Z" creationid="UUZ" creationdate="20140908T014217Z">
+        <seg>撤退的心得书</seg>
       </tuv>
     </tu>
     <tu>
@@ -47524,6 +47564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T022558Z" creationid="UUZ" creationdate="20140908T022558Z">
         <seg>青耳环</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>青いリング</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133520Z" creationid="土妹子" creationdate="20150101T133520Z">
+        <seg>蓝色戒指</seg>
       </tuv>
     </tu>
     <tu>
