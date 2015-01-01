@@ -24214,6 +24214,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせた人形を火傷状態にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152009Z" creationid="土妹子" creationdate="20150101T152009Z">
+        <seg>\n携带的人形陷入烧伤状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせた人形を猛毒状態にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151954Z" creationid="土妹子" creationdate="20150101T151954Z">
+        <seg>\n携带的人形陷入剧毒状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせるとスキルが命中した時に相手を怯ませる事がある。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151531Z" creationid="土妹子" creationdate="20150101T151531Z">
@@ -24350,6 +24366,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると人形のＨＰが戦闘の間少しずつ回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151758Z" creationid="土妹子" creationdate="20150101T151758Z">
+        <seg>\n携带的人形在战斗中可以慢慢回复ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると俊敏が下がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151122Z" creationid="土妹子" creationdate="20150101T151058Z">
@@ -24450,6 +24474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014406Z" creationid="UUZ" creationdate="20140906T110016Z">
         <seg>下个回合不能行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n毒属性以外に持たせるとダメージを受ける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151923Z" creationid="土妹子" creationdate="20150101T151923Z">
+        <seg>\n毒属性以外携带的话会受伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40108,6 +40140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T032548Z" creationid="UUZ" creationdate="20140908T032548Z">
         <seg>毒属性的人形持有时每回合恢复少量HP。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせると毒属性の人形はターン毎にＨＰが少しずつ回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151900Z" creationid="土妹子" creationdate="20150101T151900Z">
+        <seg>携带的毒属性人形每回合慢慢回复ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
