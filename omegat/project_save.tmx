@@ -24086,6 +24086,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\nかなり高額で売れる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135717Z" creationid="土妹子" creationdate="20150101T135717Z">
+        <seg>\n能以非常高的价格出售。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\nそこそこの値段で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T134021Z" creationid="土妹子" creationdate="20150101T133941Z">
@@ -47986,8 +47994,16 @@
       <tuv lang="JA">
         <seg>魔力が長い時間を経て結晶化した物。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T015328Z" creationid="UUZ" creationdate="20140907T143008Z">
-        <seg>经历长时间后魔力结晶化的产物。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135730Z" creationid="UUZ" creationdate="20140907T143008Z">
+        <seg>魔力经过长时间后结晶化的产物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔力の欠片</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135735Z" creationid="土妹子" creationdate="20150101T135735Z">
+        <seg>魔力的碎片</seg>
       </tuv>
     </tu>
     <tu>
