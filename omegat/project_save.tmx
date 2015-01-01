@@ -31954,8 +31954,8 @@
       <tuv lang="JA">
         <seg>ポゼッション</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T132150Z" creationid="UUZ" creationdate="20140907T132150Z">
-        <seg>占有</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120734Z" creationid="UUZ" creationdate="20140907T132150Z">
+        <seg>定位</seg>
       </tuv>
     </tu>
     <tu>
@@ -42680,6 +42680,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の アビリティを 活発にする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120817Z" creationid="土妹子" creationdate="20150101T120817Z">
+        <seg>把对手的特性变为活泼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の アビリティを 自分と 同じにする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120827Z" creationid="土妹子" creationdate="20150101T120827Z">
+        <seg>对手变为和自己相同的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の コストが 自分より 高いほど 威力が 高くなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094759Z" creationid="土妹子" creationdate="20150101T094759Z">
@@ -44200,6 +44216,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>能力変化の 状態を 相手と 同じにする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120804Z" creationid="土妹子" creationdate="20150101T120804Z">
+        <seg>自己的能力等级变为和对手相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>脆そうな岩だ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054657Z" creationid="UUZ" creationdate="20140908T054657Z">
@@ -44440,6 +44464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の アビリティを 相手と 同じにする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120749Z" creationid="土妹子" creationdate="20150101T120749Z">
+        <seg>自己变为和对手相同的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の コストが 相手より 高いほど 威力が 高くなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070201Z" creationid="土妹子" creationdate="20150101T070201Z">
@@ -44604,6 +44636,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070135Z" creationid="土妹子" creationdate="20150101T070135Z">
         <seg>提升自身的散防。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の 状態異常を 相手に 写し 自分は 治る。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120658Z" creationid="土妹子" creationdate="20150101T120658Z">
+        <seg>将自身的异常状态移到对手身上，而自己被治愈。</seg>
       </tuv>
     </tu>
     <tu>
