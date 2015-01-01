@@ -24182,6 +24182,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n戦闘不能を回復し ＨＰを全回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144344Z" creationid="土妹子" creationdate="20150101T144344Z">
+        <seg>\n解除战斗不能，并回复全部ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n戦闘不能を回復し ＨＰを半分回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144336Z" creationid="土妹子" creationdate="20150101T144329Z">
+        <seg>\n解除战斗不能，并回复一半ＨＰ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n次ターン 動けなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014406Z" creationid="UUZ" creationdate="20140906T110016Z">
@@ -24466,6 +24482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144005Z" creationid="土妹子" creationdate="20150101T144005Z">
         <seg>\nＨＰ全回复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\nＨＰを完全回復し 状態異常を回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144148Z" creationid="土妹子" creationdate="20150101T144148Z">
+        <seg>\nＨＰ全回复，并回复异常状态。</seg>
       </tuv>
     </tu>
     <tu>
