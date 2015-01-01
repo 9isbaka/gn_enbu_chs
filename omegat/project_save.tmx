@@ -30282,8 +30282,8 @@
       <tuv lang="JA">
         <seg>コークスクリュー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T122729Z" creationid="UUZ" creationdate="20140907T122729Z">
-        <seg>开瓶器</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114523Z" creationid="UUZ" creationdate="20140907T122729Z">
+        <seg>开瓶起子</seg>
       </tuv>
     </tu>
     <tu>
@@ -31084,6 +31084,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110647Z" creationid="土妹子" creationdate="20150101T110647Z">
         <seg>交换圈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>チャージングスタン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114734Z" creationid="土妹子" creationdate="20150101T114734Z">
+        <seg>换防</seg>
       </tuv>
     </tu>
     <tu>
@@ -39658,8 +39666,8 @@
       <tuv lang="JA">
         <seg>攻撃後 控えの 人形を ひきずり出す。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100059Z" creationid="土妹子" creationdate="20150101T100059Z">
-        <seg>攻击后强行拖出后备人形</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114759Z" creationid="土妹子" creationdate="20150101T100059Z">
+        <seg>攻击后强行拖出后备人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48116,6 +48124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105019Z" creationid="土妹子" creationdate="20150101T105019Z">
         <seg>７成几率提升自身的散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>７割の 確率で 自分の 集弾が 上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114804Z" creationid="土妹子" creationdate="20150101T114804Z">
+        <seg>７成几率提升自己的集弹。</seg>
       </tuv>
     </tu>
     <tu>
