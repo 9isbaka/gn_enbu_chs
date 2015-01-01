@@ -24896,16 +24896,24 @@
       <tuv lang="JA">
         <seg>★相手の俊敏1段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T140948Z">
-        <seg>★对手的敏捷下降了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041241Z" creationid="UUZ" creationdate="20140904T140948Z">
+        <seg>★对手的敏捷下降１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★相手の俊敏2段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="UUZ" creationdate="20140904T141435Z">
-        <seg>★对手的敏捷下降了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041246Z" creationid="UUZ" creationdate="20140904T141435Z">
+        <seg>★对手的敏捷下降２段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>★相手の場にステルストラップを設置する</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041421Z" creationid="土妹子" creationdate="20150101T041421Z">
+        <seg>★在对方场上设置隐形陷阱</seg>
       </tuv>
     </tu>
     <tu>
@@ -24952,16 +24960,16 @@
       <tuv lang="JA">
         <seg>★相手の集弾1段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141225Z" creationid="UUZ" creationdate="20140904T140912Z">
-        <seg>★对手的集防下降了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041204Z" creationid="UUZ" creationdate="20140904T140912Z">
+        <seg>★对手的集弹下降１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★相手の集弾2段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141404Z" creationid="UUZ" creationdate="20140904T141404Z">
-        <seg>★对手的的集弾下降了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041212Z" creationid="UUZ" creationdate="20140904T141404Z">
+        <seg>★对手的集弹下降２段</seg>
       </tuv>
     </tu>
     <tu>
@@ -24976,16 +24984,16 @@
       <tuv lang="JA">
         <seg>★相手の集防1段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141226Z" creationid="UUZ" creationdate="20140904T140924Z">
-        <seg>★对手的集防下降了1级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041223Z" creationid="UUZ" creationdate="20140904T140924Z">
+        <seg>★对手的集防下降１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★相手の集防2段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141419Z" creationid="UUZ" creationdate="20140904T141419Z">
-        <seg>★对手的集防下降了2级</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T041230Z" creationid="UUZ" creationdate="20140904T141419Z">
+        <seg>★对手的集防下降２段</seg>
       </tuv>
     </tu>
     <tu>
