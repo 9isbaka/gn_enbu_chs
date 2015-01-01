@@ -30154,8 +30154,8 @@
       <tuv lang="JA">
         <seg>ギガンティック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T123337Z" creationid="UUZ" creationdate="20140907T122856Z">
-        <seg>巨大</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114909Z" creationid="UUZ" creationdate="20140907T122856Z">
+        <seg>排山倒海</seg>
       </tuv>
     </tu>
     <tu>
@@ -44608,6 +44608,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分は 瀕死に なるが 相手に ＨＰ分の ダメージを 与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114830Z" creationid="土妹子" creationdate="20150101T114830Z">
+        <seg>自身陷入濒死，对对手造成等量ＨＰ的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分は 瀕死になるが 控えから 出てくる 人形の 状態異常と ＨＰと ＳＰを 全回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093639Z" creationid="土妹子" creationdate="20150101T093639Z">
@@ -46824,6 +46832,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>震盪</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114918Z" creationid="土妹子" creationdate="20150101T114918Z">
+        <seg>震荡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>震盪（しんとう）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T123414Z" creationid="UUZ" creationdate="20140907T123330Z">
@@ -47700,6 +47716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093320Z" creationid="土妹子" creationdate="20150101T093320Z">
         <seg>１成几率使对手的散弹下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>１割の 確率で 相手の 散防が 下がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114912Z" creationid="土妹子" creationdate="20150101T114912Z">
+        <seg>１成几率使对手的散防下降。</seg>
       </tuv>
     </tu>
     <tu>
