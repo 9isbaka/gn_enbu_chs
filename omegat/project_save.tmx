@@ -30154,8 +30154,8 @@
       <tuv lang="JA">
         <seg>グラスジャベリン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093734Z" creationid="UUZ" creationdate="20140906T093734Z">
-        <seg>玻璃之枪</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093016Z" creationid="UUZ" creationdate="20140906T093734Z">
+        <seg>玻璃标枪</seg>
       </tuv>
     </tu>
     <tu>
@@ -32474,8 +32474,8 @@
       <tuv lang="JA">
         <seg>ルートフローグ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093422Z" creationid="UUZ" creationdate="20140906T093422Z">
-        <seg>扎根</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092948Z" creationid="UUZ" creationdate="20140906T093422Z">
+        <seg>纠缠根须</seg>
       </tuv>
     </tu>
     <tu>
@@ -46648,6 +46648,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>１割の 確率で 相手を 衰弱状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T092959Z" creationid="土妹子" creationdate="20150101T092959Z">
+        <seg>１成几率使对手衰弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>１割の 確率で 相手を停止状態に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091634Z" creationid="土妹子" creationdate="20150101T091634Z">
@@ -46700,6 +46708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T071426Z" creationid="土妹子" creationdate="20150101T071426Z">
         <seg>２成几率使对手的敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２割の 確率で 相手の 集弾を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093006Z" creationid="土妹子" creationdate="20150101T093006Z">
+        <seg>２成几率使对手的集弹下降。</seg>
       </tuv>
     </tu>
     <tu>
