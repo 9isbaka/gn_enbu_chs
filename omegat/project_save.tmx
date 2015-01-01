@@ -25742,10 +25742,90 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>☆なんらかの天候の時威力倍、成功した時天候解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055606Z" creationid="土妹子" creationdate="20150101T055606Z">
+        <seg>☆在某些天气时威力翻倍，成功使用后解除天气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆まもる系解除</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055617Z" creationid="土妹子" creationdate="20150101T055617Z">
+        <seg>☆解除保护类效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆固定ダメージ（999）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055702Z" creationid="土妹子" creationdate="20150101T055702Z">
+        <seg>☆固定伤害（999）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆固定ダメージ（このターン受けたスキルダメージの倍）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055833Z" creationid="土妹子" creationdate="20150101T055833Z">
+        <seg>☆固定伤害（本回合受到的技能伤害的两倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆固定ダメージ（このターン受けた拡散ダメージの倍）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055827Z" creationid="土妹子" creationdate="20150101T055827Z">
+        <seg>☆固定伤害（本回合受到的扩散伤害的两倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆固定ダメージ（このターン受けた集中ダメージの倍）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055820Z" creationid="土妹子" creationdate="20150101T055820Z">
+        <seg>☆固定伤害（本回合受到的集中伤害的两倍）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆固定ダメージ（相手現在HP-自分現在HP）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055928Z" creationid="土妹子" creationdate="20150101T055914Z">
+        <seg>☆固定伤害（对手现有ＨＰ－自身现有ＨＰ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆固定ダメージ（自分のレベル）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055848Z" creationid="土妹子" creationdate="20150101T055848Z">
+        <seg>☆固定伤害（自身等级）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆固定ダメージ（自分の現在HP）自分は戦闘不能</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055909Z" creationid="土妹子" creationdate="20150101T055909Z">
+        <seg>☆固定伤害（自身现有ＨＰ）自身陷入战斗不能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>☆地相によって威力・属性変化</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055437Z" creationid="土妹子" creationdate="20150101T055437Z">
         <seg>☆根据地相改变威力和属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆外した時反動ダメージ1/2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055717Z" creationid="土妹子" creationdate="20150101T055717Z">
+        <seg>☆未命中时反伤１／２</seg>
       </tuv>
     </tu>
     <tu>
@@ -25778,6 +25858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013428Z" creationid="UUZ" creationdate="20140907T154242Z">
         <seg>☆蓄力 · 敌胆怯 · 要害1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆痛烈になりやすい</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055800Z" creationid="土妹子" creationdate="20150101T055800Z">
+        <seg>☆容易痛烈的一击</seg>
       </tuv>
     </tu>
     <tu>
@@ -25914,6 +26002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141239Z" creationid="UUZ" creationdate="20140904T141200Z">
         <seg>☆自己的散防上升了1级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆自分の最大HP1/3反動</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055635Z" creationid="土妹子" creationdate="20150101T055635Z">
+        <seg>☆反伤自身最大ＨＰ的１／３</seg>
       </tuv>
     </tu>
     <tu>
