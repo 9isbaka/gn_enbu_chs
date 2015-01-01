@@ -30456,6 +30456,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>シューティングプレス</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093948Z" creationid="土妹子" creationdate="20150101T093948Z">
+        <seg>流星吐息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>シューン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134318Z" creationid="土妹子" creationdate="20141230T134318Z">
@@ -32572,6 +32580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154557Z">
         <seg>蕾米莉亚·斯卡蕾特</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ロイヤルプリズム</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094137Z" creationid="土妹子" creationdate="20150101T094137Z">
+        <seg>皇家棱镜</seg>
       </tuv>
     </tu>
     <tu>
@@ -42332,6 +42348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T153000Z" creationid="UUZ" creationdate="20140904T153000Z">
         <seg>可能使对方害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 毒状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093835Z" creationid="土妹子" creationdate="20150101T093835Z">
+        <seg>使对手中毒。</seg>
       </tuv>
     </tu>
     <tu>
