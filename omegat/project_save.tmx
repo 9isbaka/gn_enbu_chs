@@ -31458,8 +31458,8 @@
       <tuv lang="JA">
         <seg>ファイアウォール</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161155Z" creationid="UUZ" creationdate="20140904T161155Z">
-        <seg>防火墙</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070840Z" creationid="UUZ" creationdate="20140904T161155Z">
+        <seg>火墙</seg>
       </tuv>
     </tu>
     <tu>
@@ -41154,8 +41154,8 @@
       <tuv lang="JA">
         <seg>炎の波動</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161135Z" creationid="UUZ" creationdate="20140904T161135Z">
-        <seg>火焰波</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070809Z" creationid="UUZ" creationdate="20140904T161135Z">
+        <seg>火之波动</seg>
       </tuv>
     </tu>
     <tu>
@@ -41952,6 +41952,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手が 装飾品を 持っていると 威力が １.５倍になり 装飾品を 燃やして 使えなくする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070905Z" creationid="土妹子" creationdate="20150101T070905Z">
+        <seg>对手携带了装饰品时，威力１.５倍并烧掉装饰品使其不能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手に 先制して 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064611Z" creationid="土妹子" creationdate="20150101T064611Z">
@@ -42140,6 +42148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014252Z" creationid="UUZ" creationdate="20140906T085014Z">
         <seg>将对手封入冰棺的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手を 火傷と 暗闇状態に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070918Z" creationid="土妹子" creationdate="20150101T070918Z">
+        <seg>使对手烧伤和黑暗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46580,6 +46596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070247Z" creationid="土妹子" creationdate="20150101T070247Z">
         <seg>５成几率使对手烧伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>５割の 確率で 自分の 散弾を 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070830Z" creationid="土妹子" creationdate="20150101T070830Z">
+        <seg>５成几率提升自身的散弹。</seg>
       </tuv>
     </tu>
     <tu>
