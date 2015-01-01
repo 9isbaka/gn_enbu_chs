@@ -30800,6 +30800,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スマッシュスピン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T103410Z" creationid="土妹子" creationdate="20150101T103410Z">
+        <seg>粉碎旋击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スライドドア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134351Z" creationid="土妹子" creationdate="20141230T134351Z">
@@ -39484,6 +39492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093109Z" creationid="土妹子" creationdate="20141231T093109Z">
         <seg>使用攻击技能时，有３成几率使对手中毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>攻撃後 拘束技や トラップを 吹き飛ばせる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T103423Z" creationid="土妹子" creationdate="20150101T103423Z">
+        <seg>攻击后吹飞拘束技和陷阱。</seg>
       </tuv>
     </tu>
     <tu>
