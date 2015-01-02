@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58396,6 +58396,134 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T161654Z" creationid="UUZ" creationdate="20150102T161654Z">
         <seg>ＳＫＩＬＬ０２００</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２３５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164043Z" creationid="UUZ" creationdate="20150102T164043Z">
+        <seg>ＳＫＩＬＬ０２３５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２３６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164043Z" creationid="UUZ" creationdate="20150102T164043Z">
+        <seg>ＳＫＩＬＬ０２３６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２３７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164043Z" creationid="UUZ" creationdate="20150102T164043Z">
+        <seg>ＳＫＩＬＬ０２３７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２３８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164044Z" creationid="UUZ" creationdate="20150102T164044Z">
+        <seg>ＳＫＩＬＬ０２３８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２３９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164044Z" creationid="UUZ" creationdate="20150102T164044Z">
+        <seg>ＳＫＩＬＬ０２３９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164042Z" creationid="UUZ" creationdate="20150102T164042Z">
+        <seg>ＳＫＩＬＬ０２４０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164055Z" creationid="UUZ" creationdate="20150102T164055Z">
+        <seg>ＳＫＩＬＬ０２４１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164235Z" creationid="UUZ" creationdate="20150102T164235Z">
+        <seg>ＳＫＩＬＬ０２４２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164235Z" creationid="UUZ" creationdate="20150102T164235Z">
+        <seg>ＳＫＩＬＬ０２４３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164235Z" creationid="UUZ" creationdate="20150102T164235Z">
+        <seg>ＳＫＩＬＬ０２４４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164237Z" creationid="UUZ" creationdate="20150102T164237Z">
+        <seg>ＳＫＩＬＬ０２４５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164408Z" creationid="UUZ" creationdate="20150102T164408Z">
+        <seg>ＳＫＩＬＬ０２４６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164408Z" creationid="UUZ" creationdate="20150102T164408Z">
+        <seg>ＳＫＩＬＬ０２４７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164408Z" creationid="UUZ" creationdate="20150102T164408Z">
+        <seg>ＳＫＩＬＬ０２４８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２４９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164409Z" creationid="UUZ" creationdate="20150102T164409Z">
+        <seg>ＳＫＩＬＬ０２４９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０２５０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T164409Z" creationid="UUZ" creationdate="20150102T164409Z">
+        <seg>ＳＫＩＬＬ０２５０</seg>
       </tuv>
     </tu>
     <tu>
