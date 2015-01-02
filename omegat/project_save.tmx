@@ -12856,8 +12856,8 @@
       <tuv lang="JA">
         <seg>Elis</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141228T095425Z" creationid="UUZ" creationdate="20141228T095425Z">
-        <seg>Elis（依莉斯）</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160205Z" creationid="UUZ" creationdate="20141228T095425Z">
+        <seg>Elis（伊莉丝）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29442,8 +29442,8 @@
       <tuv lang="JA">
         <seg>はたて</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140422Z" creationid="UUZ" creationdate="20140904T140422Z">
-        <seg>果</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160317Z" creationid="UUZ" creationdate="20140904T140422Z">
+        <seg>羽立</seg>
       </tuv>
     </tu>
     <tu>
@@ -33976,6 +33976,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>パンデモニウム(神綺)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160407Z" creationid="土妹子" creationdate="20150102T160407Z">
+        <seg>万魔殿（神绮）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>パンデモニウム戦</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133851Z" creationid="土妹子" creationdate="20141230T133851Z">
@@ -34656,10 +34664,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ミミちゃんとる〜こと</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160228Z" creationid="土妹子" creationdate="20150102T160228Z">
+        <seg>咪咪号＆留琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ミミちゃんとるーこと</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161308Z" creationid="UUZ" creationdate="20141224T161252Z">
         <seg>咪咪号与留琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ミミちゃん＆る〜こと</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160223Z" creationid="土妹子" creationdate="20150102T160223Z">
+        <seg>咪咪号＆留琴</seg>
       </tuv>
     </tu>
     <tu>
@@ -38912,6 +38936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>垢なめ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160531Z" creationid="土妹子" creationdate="20150102T160531Z">
+        <seg>舔垢妖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>堀川雷鼓</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145232Z" creationid="UUZ" creationdate="20140906T145232Z">
@@ -39834,8 +39866,8 @@
       <tuv lang="JA">
         <seg>姫海棠はたて</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145030Z" creationid="UUZ" creationdate="20140906T145030Z">
-        <seg>姬海棠果</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160314Z" creationid="UUZ" creationdate="20140906T145030Z">
+        <seg>姬海棠羽立</seg>
       </tuv>
     </tu>
     <tu>
@@ -39924,6 +39956,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T141138Z" creationid="UUZ" creationdate="20140909T141138Z">
         <seg>如果不愿意的话，就试着抵抗吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>子供女</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160511Z" creationid="土妹子" creationdate="20150102T160511Z">
+        <seg>女孩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>子供男</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160509Z" creationid="土妹子" creationdate="20150102T160509Z">
+        <seg>男孩子</seg>
       </tuv>
     </tu>
     <tu>
@@ -44874,8 +44922,8 @@
       <tuv lang="JA">
         <seg>火焔猫燐</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144911Z" creationid="UUZ" creationdate="20140906T144911Z">
-        <seg>火焔猫燐</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160257Z" creationid="UUZ" creationdate="20140906T144911Z">
+        <seg>火焰猫燐</seg>
       </tuv>
     </tu>
     <tu>
@@ -49328,6 +49376,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>農夫</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160506Z" creationid="土妹子" creationdate="20150102T160506Z">
+        <seg>农夫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>農夫の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140106Z" creationid="UUZ" creationdate="20140910T140058Z">
@@ -50722,8 +50778,8 @@
       <tuv lang="JA">
         <seg>霊烏路空</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144912Z" creationid="UUZ" creationdate="20140906T144912Z">
-        <seg>霊烏路空</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160302Z" creationid="UUZ" creationdate="20140906T144912Z">
+        <seg>灵乌路空</seg>
       </tuv>
     </tu>
     <tu>
