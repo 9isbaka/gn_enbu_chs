@@ -29174,6 +29174,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>とり</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T161041Z" creationid="土妹子" creationdate="20150102T161041Z">
+        <seg>鸟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どいてくれって？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T143247Z" creationid="UUZ" creationdate="20140909T143247Z">
@@ -33274,8 +33282,8 @@
       <tuv lang="JA">
         <seg>ゾンビフェアリー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145855Z" creationid="UUZ" creationdate="20140906T145855Z">
-        <seg>僵尸仙女</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T161022Z" creationid="UUZ" creationdate="20140906T145855Z">
+        <seg>丧尸妖精</seg>
       </tuv>
     </tu>
     <tu>
@@ -39752,6 +39760,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖怪兎</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T161007Z" creationid="土妹子" creationdate="20150102T161007Z">
+        <seg>妖怪兔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖怪変化</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093625Z" creationid="土妹子" creationdate="20141231T093625Z">
@@ -39834,8 +39850,8 @@
       <tuv lang="JA">
         <seg>妖精（黒）</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145802Z" creationid="UUZ" creationdate="20140906T145802Z">
-        <seg>妖精（黒）</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T161011Z" creationid="UUZ" creationdate="20140906T145802Z">
+        <seg>妖精（黑）</seg>
       </tuv>
     </tu>
     <tu>
@@ -47248,6 +47264,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紙舞</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T161048Z" creationid="土妹子" creationdate="20150102T161048Z">
+        <seg>纸舞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紫</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T055008Z" creationid="UUZ" creationdate="20140908T055008Z">
@@ -50948,6 +50972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T025217Z" creationid="UUZ" creationdate="20140908T022336Z">
         <seg>青铜制作的镜子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>静か餅</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T161004Z" creationid="土妹子" creationdate="20150102T161004Z">
+        <seg>静饼</seg>
       </tuv>
     </tu>
     <tu>
