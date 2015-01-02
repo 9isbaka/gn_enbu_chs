@@ -24446,6 +24446,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると戦闘で得られる経験値とＰＰが倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145451Z" creationid="土妹子" creationdate="20150102T145451Z">
+        <seg>\n携带后，在战斗中获得的经验值和ＰＰ翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると戦闘で得られるＰＰの量が増える。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145216Z" creationid="土妹子" creationdate="20150102T145201Z">
@@ -31404,6 +31412,1302 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040530Z" creationid="UUZ" creationdate="20140908T040530Z">
         <seg>技能卡片02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード100</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード101</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片101</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード102</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード103</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片103</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード104</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片104</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード105</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片105</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード106</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片106</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード107</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片107</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード108</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片108</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード109</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片109</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード11</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード110</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード111</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片111</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード112</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード113</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード114</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード115</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片115</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード116</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片116</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード117</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片117</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード118</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片118</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード119</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片119</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード12</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード120</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード121</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片121</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード122</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片122</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード123</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード124</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片124</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード125</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片125</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード126</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片126</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード127</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片127</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード128</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード13</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード14</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード15</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード16</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード17</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード18</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード19</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード20</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード21</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード22</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード23</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード24</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード25</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード26</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード27</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード28</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード29</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード30</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード31</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード32</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード33</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード34</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード35</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード36</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード37</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード38</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード39</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード40</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード41</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード42</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード43</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード44</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード45</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード46</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード47</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード48</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード49</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード50</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード51</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード52</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード53</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード54</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード55</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片55</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード56</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード57</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード58</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード59</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片59</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード60</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード61</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード62</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード63</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード64</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード65</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片65</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード66</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片66</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード67</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード68</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片68</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード69</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片69</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード70</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード71</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード72</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片72</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード73</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片73</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード74</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片74</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード75</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード76</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片76</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード77</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片77</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード78</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片78</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード79</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片79</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード80</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード81</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片81</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード82</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片82</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード83</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード84</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード85</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード86</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード87</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片87</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード88</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード89</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片89</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード90</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード91</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード92</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片92</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード93</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片93</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード94</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片94</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード95</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード96</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片96</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード97</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片97</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード98</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片98</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード99</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片99</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１００。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１００。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０１。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０１。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０２。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０２。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０３。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０４。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０４。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０９。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０９。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１０。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１０。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１１。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１１。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１２。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１２。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１３。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１４。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１４。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１９。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１９。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２０。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２０。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２１。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２１。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２２。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２２。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２３。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２４。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２４。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９９。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９９。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46940,6 +48244,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161722Z" creationid="UUZ" creationdate="20141224T161722Z">
         <seg>诹访子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>諏訪子から貰ったお守り。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145418Z" creationid="土妹子" creationdate="20150102T145418Z">
+        <seg>诹访子给的护身符。</seg>
       </tuv>
     </tu>
     <tu>
