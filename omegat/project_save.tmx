@@ -25118,6 +25118,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>bad</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151134Z" creationid="UUZ" creationdate="20150102T151134Z">
+        <seg>bad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>battle22</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145750Z" creationid="UUZ" creationdate="20150102T145750Z">
@@ -25166,6 +25174,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151133Z" creationid="UUZ" creationdate="20150102T151133Z">
+        <seg>cancel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>chikurin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145720Z" creationid="UUZ" creationdate="20150102T145720Z">
@@ -25186,6 +25202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145715Z" creationid="UUZ" creationdate="20150102T145715Z">
         <seg>chitei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>cursor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151132Z" creationid="UUZ" creationdate="20150102T151132Z">
+        <seg>cursor</seg>
       </tuv>
     </tu>
     <tu>
@@ -25574,6 +25598,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151138Z" creationid="UUZ" creationdate="20150102T151138Z">
+        <seg>message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>michi01</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145626Z" creationid="UUZ" creationdate="20150102T145626Z">
@@ -25726,6 +25758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ok</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151133Z" creationid="UUZ" creationdate="20150102T151133Z">
+        <seg>ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>opening</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145615Z" creationid="UUZ" creationdate="20150102T145615Z">
@@ -25738,6 +25778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145725Z" creationid="UUZ" creationdate="20150102T145725Z">
         <seg>pandemonium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>pause</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151137Z" creationid="UUZ" creationdate="20150102T151137Z">
+        <seg>pause</seg>
       </tuv>
     </tu>
     <tu>
@@ -25798,6 +25846,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>save</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151137Z" creationid="UUZ" creationdate="20150102T151137Z">
+        <seg>save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>sinreibyo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145724Z" creationid="UUZ" creationdate="20150102T145724Z">
@@ -25810,6 +25866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145625Z" creationid="UUZ" creationdate="20150102T145625Z">
         <seg>sotonosekai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151132Z" creationid="UUZ" creationdate="20150102T151132Z">
+        <seg>start</seg>
       </tuv>
     </tu>
     <tu>
@@ -26130,6 +26194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T160436Z" creationid="UUZ" creationdate="20140824T160436Z">
         <seg>↑博丽神社</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>○</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151132Z" creationid="UUZ" creationdate="20150102T151132Z">
+        <seg>○</seg>
       </tuv>
     </tu>
     <tu>
@@ -28902,6 +28974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>くるみの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>くるみの力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ぐぬぬ……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T135611Z" creationid="UUZ" creationdate="20140909T135611Z">
@@ -29382,6 +29462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>すごい魔力を秘めている人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>すごい魔力を秘めている人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>すべての地相始動スキルの継続ターンが８ターンになる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094734Z" creationid="土妹子" creationdate="20141231T094734Z">
@@ -29542,6 +29630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そのためか 何かを守らせると使命感に燃えるようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>そのためか 何かを守らせると使命感に燃えるようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのターンの 最後に 受けた 拡散スキルの ダメージを ２倍にして 返す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115812Z" creationid="土妹子" creationdate="20150101T115812Z">
@@ -29598,10 +29694,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そばにいる猫の人形の名前はソクラテス。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>そばにいる猫の人形の名前はソクラテス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それが私よ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T153402Z" creationid="UUZ" creationdate="20140909T153402Z">
         <seg>那就是我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それぞれ内部に核が搭載されている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>それぞれ内部に核が搭載されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29842,6 +29954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140452Z" creationid="UUZ" creationdate="20140904T140452Z">
         <seg>屠自古</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>とても賢く 人形とは思えない知識を披露することもある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>とても賢く 人形とは思えない知識を披露することもある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30236,6 +30356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T063919Z" creationid="UUZ" creationdate="20140908T063919Z">
         <seg>呵呵呵，我也对你很感兴趣呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ふわふわ頭がチャームポイント。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>ふわふわ頭がチャームポイント。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30720,10 +30848,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>よくいる普通の妖怪。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>よくいる普通の妖怪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>よくわからんな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073931Z" creationid="UUZ" creationdate="20140908T073931Z">
         <seg>完全搞不明白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>よく地獄で見かけられるが 幻想郷でも見かけることがある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>よく地獄で見かけられるが 幻想郷でも見かけることがある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31344,6 +31488,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>エリスの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>エリスの力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>エリー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135528Z" creationid="UUZ" creationdate="20140904T135528Z">
@@ -31352,10 +31504,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>エリーの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151126Z" creationid="UUZ" creationdate="20150102T151126Z">
+        <seg>エリーの力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>エレン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135421Z" creationid="UUZ" creationdate="20140904T135421Z">
         <seg>爱莲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>エレンの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>エレンの力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31424,10 +31592,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>オモチャの戦車で戦う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>オモチャの戦車で戦う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オモチャの手錠で 人妖問わず捕まえてまわっている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>オモチャの手錠で 人妖問わず捕まえてまわっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>オレンジ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135511Z" creationid="UUZ" creationdate="20140904T135511Z">
         <seg>奥莲姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オレンジの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>オレンジの力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31520,6 +31712,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>カナ・アナベラルの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>カナ・アナベラルの力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>カモフラージュ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065331Z" creationid="UUZ" creationdate="20140904T151903Z">
@@ -31564,6 +31764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135359Z" creationid="UUZ" creationdate="20140904T135359Z">
         <seg>菊理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>キクリの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>キクリの力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31728,6 +31936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>コウモリの人形を操ったり 自分がコウモリの人形に変身することもできる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>コウモリの人形を操ったり 自分がコウモリの人形に変身することもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>コチラ側の世界へ・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20141228T100317Z">
@@ -31756,6 +31972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135403Z" creationid="UUZ" creationdate="20140904T135403Z">
         <seg>矜羯罗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>コンガラの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>コンガラの力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31920,6 +32144,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>サリエルの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>サリエルの力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>サンダーフォース</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104927Z" creationid="UUZ" creationdate="20140906T125808Z">
@@ -32028,6 +32260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135334Z" creationid="UUZ" creationdate="20140904T135334Z">
         <seg>神玉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>シンギョクの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>シンギョクの力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33648,10 +33888,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ミミちゃんとる〜ことの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>ミミちゃんとる〜ことの力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ミミちゃんとるーこと</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161308Z" creationid="UUZ" creationdate="20141224T161252Z">
         <seg>咪咪号与留琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ミミちゃんは魔理沙の る〜ことは霊夢の人形を探している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>ミミちゃんは魔理沙の る〜ことは霊夢の人形を探している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ミミちゃん＆る〜こと</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>ミミちゃん＆る〜こと</seg>
       </tuv>
     </tu>
     <tu>
@@ -33700,6 +33964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145829Z" creationid="UUZ" creationdate="20140906T145829Z">
         <seg>女仆妖精（黄）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>メガネが割れることもしばしば。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>メガネが割れることもしばしば。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33860,6 +34132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145100Z" creationid="UUZ" creationdate="20140904T135339Z">
         <seg>幽玄魔眼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ユウゲンマガンの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>ユウゲンマガンの力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34720,6 +35000,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>不惜身命</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150846Z" creationid="UUZ" creationdate="20150102T150846Z">
+        <seg>不惜身命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>不退転</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094024Z" creationid="土妹子" creationdate="20141231T094024Z">
@@ -35004,6 +35292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040607Z" creationid="UUZ" creationdate="20140908T040607Z">
         <seg>交换后还原。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人の持ち物を持ち去り 自分の住処へ持ち帰る習性をもつ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>人の持ち物を持ち去り 自分の住処へ持ち帰る習性をもつ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35712,6 +36008,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形自身が戦車を作って戦うこともある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>人形自身が戦車を作って戦うこともある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形解放戦線の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T135639Z" creationid="UUZ" creationdate="20140910T135639Z">
@@ -35880,6 +36184,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>仏の人形の一種だが 額の一本角のせいで 鬼の人形と勘違いしやすい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>仏の人形の一種だが 額の一本角のせいで 鬼の人形と勘違いしやすい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>他に 用はあるかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061506Z" creationid="UUZ" creationdate="20140908T061218Z">
@@ -35892,6 +36204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060952Z" creationid="UUZ" creationdate="20140908T060952Z">
         <seg>还有其他事吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>他の人形と違い 常識がありそう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>他の人形と違い 常識がありそう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36028,6 +36348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T141809Z" creationid="UUZ" creationdate="20140909T141809Z">
         <seg>什么啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何を目的として行動しているのか 人形自身もわかっていない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>何を目的として行動しているのか 人形自身もわかっていない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36236,6 +36564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061306Z" creationid="UUZ" creationdate="20140908T061306Z">
         <seg>我是四处行商的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>元々は湖の番人をしていた妖怪であった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>元々は湖の番人をしていた妖怪であった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36584,6 +36920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>円盤状の物体から上半身が飛び出している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>円盤状の物体から上半身が飛び出している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>円舞曲</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140837Z" creationid="UUZ" creationdate="20140907T140837Z">
@@ -36824,6 +37168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>北白河ちゆりの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>北白河ちゆりの力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>十一符·毒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141459Z" creationid="UUZ" creationdate="20140906T141459Z">
@@ -36936,6 +37288,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>博麗の力を求めて 霊夢の人形に戦いを挑んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>博麗の力を求めて 霊夢の人形に戦いを挑んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>博麗の神酒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144115Z" creationid="UUZ" creationdate="20140907T144115Z">
@@ -37000,6 +37360,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>博麗神社周辺で地面に埋まっていることが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>博麗神社周辺で地面に埋まっていることが多い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>博麗神社裏山</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T064822Z" creationid="UUZ" creationdate="20140824T160417Z">
@@ -37024,6 +37392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>博麗神社近くの魔法専用店で遊んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>博麗神社近くの魔法専用店で遊んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>博麗神社？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T160438Z" creationid="UUZ" creationdate="20140824T160438Z">
@@ -37044,6 +37420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T153354Z" creationid="UUZ" creationdate="20140909T153354Z">
         <seg>博丽灵梦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>博麗霊夢の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>博麗霊夢の力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37672,6 +38056,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>地獄の剣士の力を持ち 刀を使って戦う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>地獄の剣士の力を持ち 刀を使って戦う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地獄の神様の力を宿している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>地獄の神様の力を宿している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>地相によって 威力と 属性が 変わる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064931Z" creationid="土妹子" creationdate="20150101T064931Z">
@@ -37944,6 +38344,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>変なものをみつけては 収集している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>変なものをみつけては 収集している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>変化技を 相手に 跳ね返す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120046Z" creationid="土妹子" creationdate="20150101T120046Z">
@@ -37996,6 +38404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133926Z" creationid="UUZ" creationdate="20140907T142042Z">
         <seg>从外面的世界流入的，能够告知时间的道具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>外の世界の道路標識に似せたオモチャを持っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>外の世界の道路標識に似せたオモチャを持っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38096,10 +38512,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>夢美の人形によく殴られている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>夢美の人形によく殴られている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大きな屋敷や博麗神社周辺でよく見かける。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>大きな屋敷や博麗神社周辺でよく見かける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>大きな氷で塞がれてい通れそうにない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T121810Z" creationid="UUZ" creationdate="20150102T121810Z">
         <seg>大きな氷で塞がれてい通れそうにない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大きな眼球から様々な弾幕を放つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>大きな眼球から様々な弾幕を放つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38520,6 +38960,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>好奇心</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150925Z" creationid="UUZ" creationdate="20150102T150925Z">
+        <seg>好奇心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>好戦的とうわけでもなく 危険度も低い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>好戦的とうわけでもなく 危険度も低い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>好調ビックウェーブ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T162201Z" creationid="UUZ" creationdate="20140904T161852Z">
@@ -38588,6 +39044,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T154244Z" creationid="UUZ" creationdate="20140908T154244Z">
         <seg>排列着详细记载着妖怪的事的书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪の人形を見るとグーで殴りかかる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>妖怪の人形を見るとグーで殴りかかる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪の力を持つ人形に強い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>妖怪の力を持つ人形に強い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38796,6 +39268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151910Z" creationid="UUZ" creationdate="20140904T151910Z">
         <seg>威风堂堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>嫌いな相手には魔法を放つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>嫌いな相手には魔法を放つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39104,10 +39584,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>封魔録2面中ボス</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>封魔録2面中ボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>封魔録2面中ボス（呪子）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161213Z" creationid="UUZ" creationdate="20141224T161213Z">
         <seg>封魔录2面中Boss（呪子）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>封魔録4面中ボス</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>封魔録4面中ボス</seg>
       </tuv>
     </tu>
     <tu>
@@ -39124,6 +39620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144601Z" creationid="UUZ" creationdate="20140906T144601Z">
         <seg>射命丸文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>小さいイビルアイΣを見つけたら 彼女の人形が必ずそばにいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>小さいイビルアイΣを見つけたら 彼女の人形が必ずそばにいる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39164,6 +39668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143646Z" creationid="UUZ" creationdate="20140906T143646Z">
         <seg>小兔姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>小兎姫の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>小兎姫の力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39372,6 +39884,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143924Z" creationid="UUZ" creationdate="20140906T143924Z">
         <seg>冈崎梦美</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>岡崎夢美の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>岡崎夢美の力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40372,6 +40892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T132335Z" creationid="UUZ" creationdate="20140907T132335Z">
         <seg>恶梦的回忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>悪魔の力を 魔法のステッキから放つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>悪魔の力を 魔法のステッキから放つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41576,6 +42104,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>操作不可</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151136Z" creationid="UUZ" creationdate="20150102T151136Z">
+        <seg>操作不可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>攻め上手</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093808Z" creationid="土妹子" creationdate="20141231T093808Z">
@@ -41856,6 +42392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>明羅の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151024Z" creationid="UUZ" creationdate="20150102T151024Z">
+        <seg>明羅の力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>星</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161759Z" creationid="UUZ" creationdate="20141224T161759Z">
@@ -42112,6 +42656,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>朝倉理香子の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>朝倉理香子の力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>期待外れね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155711Z" creationid="UUZ" creationdate="20140909T155711Z">
@@ -42252,6 +42804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T143817Z" creationid="UUZ" creationdate="20140907T143817Z">
         <seg>水果充足的馅蜜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>核の力を内蔵している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>核の力を内蔵している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42700,6 +43260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022844Z" creationid="土妹子" creationdate="20141231T022835Z">
         <seg>剩余ＨＰ在１／３以下时　风属性的威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>残虐</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150926Z" creationid="UUZ" creationdate="20150102T150926Z">
+        <seg>残虐</seg>
       </tuv>
     </tu>
     <tu>
@@ -43400,6 +43968,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>河童と一緒に何かを作っては壊している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>河童と一緒に何かを作っては壊している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>河童の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120621Z" creationid="UUZ" creationdate="20141230T120621Z">
@@ -43460,6 +44036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093006Z" creationid="UUZ" creationdate="20140906T093006Z">
         <seg>泥泞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>洞察力</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150839Z" creationid="UUZ" creationdate="20150102T150839Z">
+        <seg>洞察力</seg>
       </tuv>
     </tu>
     <tu>
@@ -44200,6 +44784,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>猪武者</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150932Z" creationid="UUZ" creationdate="20150102T150932Z">
+        <seg>猪武者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>獲物を 追う 虎の如く\n素早く 弾幕を 放って\n相手を 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014801Z" creationid="UUZ" creationdate="20140904T145948Z">
@@ -44340,6 +44932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T141253Z" creationid="UUZ" creationdate="20140908T141253Z">
         <seg>对不起现在临时休业中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>男の子と女の子と陰陽玉がそろって初めて力を発揮する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>男の子と女の子と陰陽玉がそろって初めて力を発揮する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45792,10 +46392,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>空の人形に興味を持っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>空の人形に興味を持っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>空を 切り裂く 強烈な\n雷が 相手に降り注ぐ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014454Z" creationid="UUZ" creationdate="20140906T125738Z">
         <seg>撕裂天空的强烈雷电向对手倾注而下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>空を飛ぶ程度の能力と 霊力を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>空を飛ぶ程度の能力と 霊力を操る程度の能力を持つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48016,6 +48632,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>足が無く 幽霊のように浮いているが 自由に足を出すこともできるらしい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>足が無く 幽霊のように浮いているが 自由に足を出すこともできるらしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>足止め</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152136Z" creationid="UUZ" creationdate="20140904T152136Z">
@@ -48568,6 +49192,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>里香の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151023Z" creationid="UUZ" creationdate="20150102T151023Z">
+        <seg>里香の力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>重たい甲冑</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T032258Z" creationid="UUZ" creationdate="20140908T032258Z">
@@ -48876,6 +49508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125249Z" creationid="UUZ" creationdate="20140909T125249Z">
         <seg>占用你那么长的时间也不太好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>門を見つけると何があっても守ろうとする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>門を見つけると何があっても守ろうとする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49288,6 +49928,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>雑用を任せると意外と手際よく済ませてくれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>雑用を任せると意外と手際よく済ませてくれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>雛</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161707Z" creationid="UUZ" creationdate="20141224T161707Z">
@@ -49512,6 +50160,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>霊夢の人形が持つ陰陽玉を狙っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>霊夢の人形が持つ陰陽玉を狙っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>霊夢戦</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133844Z" creationid="土妹子" creationdate="20141230T133844Z">
@@ -49636,6 +50292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143552Z" creationid="UUZ" creationdate="20140906T143552Z">
         <seg>雾雨魔理沙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>霧雨魔理沙の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>霧雨魔理沙の力を持つ人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49800,6 +50464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>頭は良いはずなのだが あまり行動に現れない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>頭は良いはずなのだが あまり行動に現れない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>風</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135236Z" creationid="UUZ" creationdate="20140904T135236Z">
@@ -49928,6 +50600,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>騒霊の力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151025Z" creationid="UUZ" creationdate="20150102T151025Z">
+        <seg>騒霊の力を持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>高い 音域の 声を 発して\n相手を 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014738Z" creationid="UUZ" creationdate="20140907T140832Z">
@@ -49984,6 +50664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>魅魔の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>魅魔の力を持つ人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>魔力が長い時間を経て結晶化した物。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135730Z" creationid="UUZ" creationdate="20140907T143008Z">
@@ -50024,10 +50712,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>魔法に関連したものに非常に強い興味を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151026Z" creationid="UUZ" creationdate="20150102T151026Z">
+        <seg>魔法に関連したものに非常に強い興味を持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>魔法の森</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143141Z" creationid="UUZ" creationdate="20140906T143141Z">
         <seg>魔法森林</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔法を使う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>魔法を使う程度の能力を持つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50080,6 +50784,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>魔界で死の天使の力を自由に振っていることが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>魔界で死の天使の力を自由に振っていることが多い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>魔界のメイド</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115750Z" creationid="UUZ" creationdate="20141230T115750Z">
@@ -50092,6 +50804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115820Z" creationid="UUZ" creationdate="20141230T115820Z">
         <seg>魔界的创造神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界の門あたりをうろうろしていることが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
+        <seg>魔界の門あたりをうろうろしていることが多い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51388,6 +52108,1646 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150826Z" creationid="UUZ" creationdate="20150102T150826Z">
         <seg>ＡＢＬ２３０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２３３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150840Z" creationid="UUZ" creationdate="20150102T150840Z">
+        <seg>ＡＢＬ２３３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２３５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150843Z" creationid="UUZ" creationdate="20150102T150843Z">
+        <seg>ＡＢＬ２３５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２３８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150846Z" creationid="UUZ" creationdate="20150102T150846Z">
+        <seg>ＡＢＬ２３８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２３９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150847Z" creationid="UUZ" creationdate="20150102T150847Z">
+        <seg>ＡＢＬ２３９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２４０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150847Z" creationid="UUZ" creationdate="20150102T150847Z">
+        <seg>ＡＢＬ２４０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２４１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150848Z" creationid="UUZ" creationdate="20150102T150848Z">
+        <seg>ＡＢＬ２４１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２４２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150848Z" creationid="UUZ" creationdate="20150102T150848Z">
+        <seg>ＡＢＬ２４２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２４３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150849Z" creationid="UUZ" creationdate="20150102T150849Z">
+        <seg>ＡＢＬ２４３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２４４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150853Z" creationid="UUZ" creationdate="20150102T150853Z">
+        <seg>ＡＢＬ２４４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２５１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150857Z" creationid="UUZ" creationdate="20150102T150857Z">
+        <seg>ＡＢＬ２５１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２５４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150904Z" creationid="UUZ" creationdate="20150102T150904Z">
+        <seg>ＡＢＬ２５４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２５９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150911Z" creationid="UUZ" creationdate="20150102T150911Z">
+        <seg>ＡＢＬ２５９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２７０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150924Z" creationid="UUZ" creationdate="20150102T150924Z">
+        <seg>ＡＢＬ２７０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２７７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150935Z" creationid="UUZ" creationdate="20150102T150935Z">
+        <seg>ＡＢＬ２７７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ２８５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150950Z" creationid="UUZ" creationdate="20150102T150950Z">
+        <seg>ＡＢＬ２８５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150951Z" creationid="UUZ" creationdate="20150102T150951Z">
+        <seg>ＡＢＬ３２２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150951Z" creationid="UUZ" creationdate="20150102T150951Z">
+        <seg>ＡＢＬ３２３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150951Z" creationid="UUZ" creationdate="20150102T150951Z">
+        <seg>ＡＢＬ３２４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150951Z" creationid="UUZ" creationdate="20150102T150951Z">
+        <seg>ＡＢＬ３２５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150952Z" creationid="UUZ" creationdate="20150102T150952Z">
+        <seg>ＡＢＬ３２６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150952Z" creationid="UUZ" creationdate="20150102T150952Z">
+        <seg>ＡＢＬ３２７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150952Z" creationid="UUZ" creationdate="20150102T150952Z">
+        <seg>ＡＢＬ３２８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３２９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150952Z" creationid="UUZ" creationdate="20150102T150952Z">
+        <seg>ＡＢＬ３２９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150952Z" creationid="UUZ" creationdate="20150102T150952Z">
+        <seg>ＡＢＬ３３０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150952Z" creationid="UUZ" creationdate="20150102T150952Z">
+        <seg>ＡＢＬ３３１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150952Z" creationid="UUZ" creationdate="20150102T150952Z">
+        <seg>ＡＢＬ３３２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150953Z" creationid="UUZ" creationdate="20150102T150953Z">
+        <seg>ＡＢＬ３３３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150953Z" creationid="UUZ" creationdate="20150102T150953Z">
+        <seg>ＡＢＬ３３４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150953Z" creationid="UUZ" creationdate="20150102T150953Z">
+        <seg>ＡＢＬ３３５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150954Z" creationid="UUZ" creationdate="20150102T150954Z">
+        <seg>ＡＢＬ３３６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150954Z" creationid="UUZ" creationdate="20150102T150954Z">
+        <seg>ＡＢＬ３３７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150954Z" creationid="UUZ" creationdate="20150102T150954Z">
+        <seg>ＡＢＬ３３８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３３９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150954Z" creationid="UUZ" creationdate="20150102T150954Z">
+        <seg>ＡＢＬ３３９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150954Z" creationid="UUZ" creationdate="20150102T150954Z">
+        <seg>ＡＢＬ３４０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150955Z" creationid="UUZ" creationdate="20150102T150955Z">
+        <seg>ＡＢＬ３４１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150955Z" creationid="UUZ" creationdate="20150102T150955Z">
+        <seg>ＡＢＬ３４２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150955Z" creationid="UUZ" creationdate="20150102T150955Z">
+        <seg>ＡＢＬ３４３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150955Z" creationid="UUZ" creationdate="20150102T150955Z">
+        <seg>ＡＢＬ３４４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150956Z" creationid="UUZ" creationdate="20150102T150956Z">
+        <seg>ＡＢＬ３４５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150956Z" creationid="UUZ" creationdate="20150102T150956Z">
+        <seg>ＡＢＬ３４６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150956Z" creationid="UUZ" creationdate="20150102T150956Z">
+        <seg>ＡＢＬ３４７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150956Z" creationid="UUZ" creationdate="20150102T150956Z">
+        <seg>ＡＢＬ３４８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３４９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150957Z" creationid="UUZ" creationdate="20150102T150957Z">
+        <seg>ＡＢＬ３４９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150957Z" creationid="UUZ" creationdate="20150102T150957Z">
+        <seg>ＡＢＬ３５０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150957Z" creationid="UUZ" creationdate="20150102T150957Z">
+        <seg>ＡＢＬ３５１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150957Z" creationid="UUZ" creationdate="20150102T150957Z">
+        <seg>ＡＢＬ３５２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150957Z" creationid="UUZ" creationdate="20150102T150957Z">
+        <seg>ＡＢＬ３５３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150958Z" creationid="UUZ" creationdate="20150102T150958Z">
+        <seg>ＡＢＬ３５４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150958Z" creationid="UUZ" creationdate="20150102T150958Z">
+        <seg>ＡＢＬ３５５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150958Z" creationid="UUZ" creationdate="20150102T150958Z">
+        <seg>ＡＢＬ３５６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150958Z" creationid="UUZ" creationdate="20150102T150958Z">
+        <seg>ＡＢＬ３５７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150959Z" creationid="UUZ" creationdate="20150102T150959Z">
+        <seg>ＡＢＬ３５８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３５９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150959Z" creationid="UUZ" creationdate="20150102T150959Z">
+        <seg>ＡＢＬ３５９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150959Z" creationid="UUZ" creationdate="20150102T150959Z">
+        <seg>ＡＢＬ３６０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150959Z" creationid="UUZ" creationdate="20150102T150959Z">
+        <seg>ＡＢＬ３６１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151000Z" creationid="UUZ" creationdate="20150102T151000Z">
+        <seg>ＡＢＬ３６２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151000Z" creationid="UUZ" creationdate="20150102T151000Z">
+        <seg>ＡＢＬ３６３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151000Z" creationid="UUZ" creationdate="20150102T151000Z">
+        <seg>ＡＢＬ３６４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151000Z" creationid="UUZ" creationdate="20150102T151000Z">
+        <seg>ＡＢＬ３６５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151001Z" creationid="UUZ" creationdate="20150102T151001Z">
+        <seg>ＡＢＬ３６６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151001Z" creationid="UUZ" creationdate="20150102T151001Z">
+        <seg>ＡＢＬ３６７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151001Z" creationid="UUZ" creationdate="20150102T151001Z">
+        <seg>ＡＢＬ３６８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３６９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151001Z" creationid="UUZ" creationdate="20150102T151001Z">
+        <seg>ＡＢＬ３６９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151001Z" creationid="UUZ" creationdate="20150102T151001Z">
+        <seg>ＡＢＬ３７０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151002Z" creationid="UUZ" creationdate="20150102T151002Z">
+        <seg>ＡＢＬ３７１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151002Z" creationid="UUZ" creationdate="20150102T151002Z">
+        <seg>ＡＢＬ３７２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151002Z" creationid="UUZ" creationdate="20150102T151002Z">
+        <seg>ＡＢＬ３７３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151002Z" creationid="UUZ" creationdate="20150102T151002Z">
+        <seg>ＡＢＬ３７４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151003Z" creationid="UUZ" creationdate="20150102T151003Z">
+        <seg>ＡＢＬ３７５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151003Z" creationid="UUZ" creationdate="20150102T151003Z">
+        <seg>ＡＢＬ３７６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151003Z" creationid="UUZ" creationdate="20150102T151003Z">
+        <seg>ＡＢＬ３７７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151003Z" creationid="UUZ" creationdate="20150102T151003Z">
+        <seg>ＡＢＬ３７８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３７９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151003Z" creationid="UUZ" creationdate="20150102T151003Z">
+        <seg>ＡＢＬ３７９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151003Z" creationid="UUZ" creationdate="20150102T151003Z">
+        <seg>ＡＢＬ３８０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151003Z" creationid="UUZ" creationdate="20150102T151003Z">
+        <seg>ＡＢＬ３８１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151004Z" creationid="UUZ" creationdate="20150102T151004Z">
+        <seg>ＡＢＬ３８２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151004Z" creationid="UUZ" creationdate="20150102T151004Z">
+        <seg>ＡＢＬ３８３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151004Z" creationid="UUZ" creationdate="20150102T151004Z">
+        <seg>ＡＢＬ３８４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151004Z" creationid="UUZ" creationdate="20150102T151004Z">
+        <seg>ＡＢＬ３８５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151011Z" creationid="UUZ" creationdate="20150102T151011Z">
+        <seg>ＡＢＬ３８６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３８７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３８８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３８９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３８９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ３９９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151012Z" creationid="UUZ" creationdate="20150102T151012Z">
+        <seg>ＡＢＬ３９９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４００</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４００</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４０９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４０９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４１０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４１１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４１２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151013Z" creationid="UUZ" creationdate="20150102T151013Z">
+        <seg>ＡＢＬ４１３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４１４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４１５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４１６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４１７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４１８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４１９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４１９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151014Z" creationid="UUZ" creationdate="20150102T151014Z">
+        <seg>ＡＢＬ４２７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４２８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４２９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４２９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４３９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４３９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４４０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151015Z" creationid="UUZ" creationdate="20150102T151015Z">
+        <seg>ＡＢＬ４４１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４４９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４４９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４５０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４５１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４５２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４５３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151016Z" creationid="UUZ" creationdate="20150102T151016Z">
+        <seg>ＡＢＬ４５４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４５５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４５６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４５７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４５８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４５９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４５９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151017Z" creationid="UUZ" creationdate="20150102T151017Z">
+        <seg>ＡＢＬ４６８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４６９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４６９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４７９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４７９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４８０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４８１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151018Z" creationid="UUZ" creationdate="20150102T151018Z">
+        <seg>ＡＢＬ４８２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４８３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４８４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４８５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４８６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４８７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４８８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４８９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４８９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４９０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４９１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４９２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４９３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４９４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４９５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151019Z" creationid="UUZ" creationdate="20150102T151019Z">
+        <seg>ＡＢＬ４９６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ４９７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ４９８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ４９９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ４９９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５００</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５００</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０６</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５０９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151020Z" creationid="UUZ" creationdate="20150102T151020Z">
+        <seg>ＡＢＬ５０９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５１０</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>ＡＢＬ５１０</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＡＢＬ５１１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151021Z" creationid="UUZ" creationdate="20150102T151021Z">
+        <seg>ＡＢＬ５１１</seg>
       </tuv>
     </tu>
     <tu>
