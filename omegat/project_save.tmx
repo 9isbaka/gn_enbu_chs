@@ -24406,6 +24406,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると土属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140742Z" creationid="土妹子" creationdate="20150102T140742Z">
+        <seg>\n携带时土属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると天候や粉系のスキルの影響を受けなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152252Z" creationid="土妹子" creationdate="20150101T152252Z">
@@ -24434,6 +24442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152233Z" creationid="土妹子" creationdate="20150101T152233Z">
         <seg>\n携带后散防上升，但是不能使用变化技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると水属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140700Z" creationid="土妹子" creationdate="20150102T140700Z">
+        <seg>\n携带时水属性的技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24506,6 +24522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150806Z">
         <seg>\n携带后，贯通结界时的伤害上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると自然属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140721Z" creationid="土妹子" creationdate="20150102T140721Z">
+        <seg>\n携带时自然属性的技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36722,8 +36746,8 @@
       <tuv lang="JA">
         <seg>土色をした髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035630Z" creationid="UUZ" creationdate="20140908T035630Z">
-        <seg>土色的发饰。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140735Z" creationid="UUZ" creationdate="20140908T035630Z">
+        <seg>做成土色的发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46218,8 +46242,8 @@
       <tuv lang="JA">
         <seg>草の様な緑色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035557Z" creationid="UUZ" creationdate="20140908T035557Z">
-        <seg>草外形的绿色发饰。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140716Z" creationid="UUZ" creationdate="20140908T035557Z">
+        <seg>样子像草的绿色发饰。</seg>
       </tuv>
     </tu>
     <tu>
