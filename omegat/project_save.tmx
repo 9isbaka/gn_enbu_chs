@@ -216,8 +216,8 @@
       <tuv lang="JA">
         <seg>021:ミズナラの木・バス内</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133945Z">
-        <seg>021:ミズナラの木·巴士内</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155724Z" creationid="UUZ" creationdate="20141209T133945Z">
+        <seg>021:水楢树·巴士车内</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="JA">
         <seg>030:氷の洞窟</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T134248Z" creationid="UUZ" creationdate="20141209T134248Z">
-        <seg>030:冰の洞窟</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155734Z" creationid="UUZ" creationdate="20141209T134248Z">
+        <seg>030:冰之洞窟</seg>
       </tuv>
     </tu>
     <tu>
@@ -44900,6 +44900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020725Z" creationid="UUZ" creationdate="20140908T020725Z">
         <seg>灰色的宝石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>灼熱地獄跡</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155626Z" creationid="土妹子" creationdate="20150102T155626Z">
+        <seg>灼热地狱遗迹</seg>
       </tuv>
     </tu>
     <tu>
