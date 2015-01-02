@@ -24758,6 +24758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\nSELECTボタンでも乗ることができる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154558Z" creationid="土妹子" creationdate="20150102T154558Z">
+        <seg>\n按ｓｅｌｅｃｔ键也能骑。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n【\\ %】は使用できません。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T145052Z" creationid="UUZ" creationdate="20140824T145052Z">
@@ -24774,6 +24782,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\nこれは自立していないようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154619Z" creationid="土妹子" creationdate="20150102T154619Z">
+        <seg>\n这个似乎不是自动的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\nそこそこの値段で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T134021Z" creationid="土妹子" creationdate="20150101T133941Z">
@@ -24786,6 +24802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144513Z" creationid="土妹子" creationdate="20150101T144513Z">
         <seg>\n让你心情舒畅，回复异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n交換すると元に戻る。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153713Z" creationid="土妹子" creationdate="20150102T153713Z">
+        <seg>\n交换后还原。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24838,10 +24862,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n先頭の人形に持たせると 野良人形を寄せ付けづらくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145405Z" creationid="土妹子" creationdate="20150102T145405Z">
+        <seg>\n排头的人形携带后，不容易被野生人形靠近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n入力を確定する場合は[Enter]\nやり直す場合は[BackSpace]を押してください。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144910Z" creationid="UUZ" creationdate="20140824T144910Z">
         <seg>\n确定请按[Enter]\n取消请按[BackSpace]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n全部見つけたら 華扇のところへ行こう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154949Z" creationid="土妹子" creationdate="20150102T154911Z">
+        <seg>\n全部找到的话就去找华扇吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25070,6 +25110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると光属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T141018Z" creationid="土妹子" creationdate="20150102T141018Z">
+        <seg>\n携带时光属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると同じスキルを出すごとに与えるダメージが増える。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T151028Z">
@@ -25086,10 +25134,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると土属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140802Z" creationid="土妹子" creationdate="20150102T140742Z">
+        <seg>\n携带时地属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると天候や粉系のスキルの影響を受けなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152252Z" creationid="土妹子" creationdate="20150101T152252Z">
         <seg>\n携带后不受天气和粉类技能的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると戦闘で得られる経験値が増える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145232Z" creationid="土妹子" creationdate="20150102T145232Z">
+        <seg>\n携带后，在战斗中获得的经验值增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると戦闘で得られる経験値とＰＰが倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145451Z" creationid="土妹子" creationdate="20150102T145451Z">
+        <seg>\n携带后，在战斗中获得的经验值和ＰＰ翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると戦闘で得られるＰＰの量が増える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145216Z" creationid="土妹子" creationdate="20150102T145201Z">
+        <seg>\n携带后，在战斗中获得的ＰＰ增加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25114,6 +25194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152233Z" creationid="土妹子" creationdate="20150101T152233Z">
         <seg>\n携带后散防上升，但是不能使用变化技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると水属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140700Z" creationid="土妹子" creationdate="20150102T140700Z">
+        <seg>\n携带时水属性的技能威力上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25190,6 +25278,30 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると自然属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140721Z" creationid="土妹子" creationdate="20150102T140721Z">
+        <seg>\n携带时自然属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると鋼鉄属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140812Z" creationid="土妹子" creationdate="20150102T140812Z">
+        <seg>\n携带时钢铁属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると闇属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T141026Z" creationid="土妹子" creationdate="20150102T141026Z">
+        <seg>\n携带时暗属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると集中スキルの威力が上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T150719Z">
@@ -25206,6 +25318,38 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると雷属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T141009Z" creationid="土妹子" creationdate="20150102T141009Z">
+        <seg>\n携带时雷属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると風属性のスキルの威力が上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140959Z" creationid="土妹子" creationdate="20150102T140959Z">
+        <seg>\n携带时风属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n未実装。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153719Z" creationid="土妹子" creationdate="20150102T153719Z">
+        <seg>\n未实装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n森にいるらしい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154223Z" creationid="土妹子" creationdate="20150102T154223Z">
+        <seg>\n似乎是在森林里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n次ターン 動けなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014406Z" creationid="UUZ" creationdate="20140906T110016Z">
@@ -25218,6 +25362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151923Z" creationid="土妹子" creationdate="20150101T151923Z">
         <seg>\n毒属性以外携带的话会受伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n無くし物は これの他に後３つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154858Z" creationid="土妹子" creationdate="20150102T154858Z">
+        <seg>\n丢的东西此外还有３个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25458,6 +25610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143331Z" creationid="土妹子" creationdate="20150101T143331Z">
         <seg>\n转生时设置上的话，ＨＰ的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n阿求人形があるところで開けられる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154539Z" creationid="土妹子" creationdate="20150102T154539Z">
+        <seg>\n能够在有阿求人形的地方打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32368,6 +32528,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アクアジャベリン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152348Z" creationid="土妹子" creationdate="20150102T152348Z">
+        <seg>水之标枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>アクアソニック</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091529Z" creationid="UUZ" creationdate="20140906T090200Z">
@@ -32420,6 +32588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131852Z" creationid="UUZ" creationdate="20140907T135305Z">
         <seg>欢快节奏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>アップビート。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153326Z" creationid="土妹子" creationdate="20150102T153326Z">
+        <seg>欢快节奏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32480,6 +32656,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アリスと言う人物への届け物。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154216Z" creationid="土妹子" creationdate="20150102T154216Z">
+        <seg>送给一个名叫爱丽丝的人的包裹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>アリスへの届け物</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154204Z" creationid="土妹子" creationdate="20150102T154204Z">
+        <seg>给爱丽丝的包裹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>アリス（マーガトロイド）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144034Z" creationid="UUZ" creationdate="20140906T144034Z">
@@ -32500,6 +32692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115845Z" creationid="UUZ" creationdate="20140907T130751Z">
         <seg>未知的闪焰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>アンノウンフレア。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152929Z" creationid="土妹子" creationdate="20150102T152929Z">
+        <seg>未知的闪焰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32576,6 +32776,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>インパクトリベリオン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152504Z" creationid="土妹子" creationdate="20150102T152504Z">
+        <seg>反乱冲击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>インビジブルハート</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T124914Z" creationid="UUZ" creationdate="20140907T124914Z">
@@ -32588,6 +32796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T160409Z" creationid="UUZ" creationdate="20140904T160409Z">
         <seg>炼狱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>インフェルノ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152842Z" creationid="土妹子" creationdate="20150102T152842Z">
+        <seg>炼狱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32612,6 +32828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095923Z" creationid="UUZ" creationdate="20140906T122740Z">
         <seg>风之标枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ウィンドジャベリン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152403Z" creationid="土妹子" creationdate="20150102T152403Z">
+        <seg>风之标枪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32652,6 +32876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131601Z" creationid="UUZ" creationdate="20140907T135007Z">
         <seg>超高音调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ウルトラハイトーン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152935Z" creationid="土妹子" creationdate="20150102T152935Z">
+        <seg>超高音调。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32888,6 +33120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>オーバースキル。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152423Z" creationid="土妹子" creationdate="20150102T152423Z">
+        <seg>超越神技。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>オーバーレイ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105920Z" creationid="UUZ" creationdate="20140906T132309Z">
@@ -33096,6 +33336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ギガンティック。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152926Z" creationid="土妹子" creationdate="20150102T152926Z">
+        <seg>排山倒海。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>クイックスロー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T121604Z" creationid="UUZ" creationdate="20140906T121604Z">
@@ -33108,6 +33356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132550Z" creationid="UUZ" creationdate="20140907T140457Z">
         <seg>抱怨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>クレーム。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153608Z" creationid="土妹子" creationdate="20150102T153608Z">
+        <seg>抱怨。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33144,10 +33400,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>クロームレイ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152859Z" creationid="土妹子" creationdate="20150102T152859Z">
+        <seg>铬激光。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>グラスジャベリン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093016Z" creationid="UUZ" creationdate="20140906T093734Z">
         <seg>玻璃标枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>グラスジャベリン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152353Z" creationid="土妹子" creationdate="20150102T152353Z">
+        <seg>玻璃标枪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33160,10 +33432,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>グラビティブラスト。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152932Z" creationid="土妹子" creationdate="20150102T152932Z">
+        <seg>重力炮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>グランドリベレイト</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T110853Z" creationid="UUZ" creationdate="20140906T110853Z">
         <seg>大地解放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>グランドリベレイト。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152457Z" creationid="土妹子" creationdate="20150102T152457Z">
+        <seg>大地解放。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33272,6 +33560,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>コールドレイン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152845Z" creationid="土妹子" creationdate="20150102T152845Z">
+        <seg>冷雨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ゴムボート</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042157Z" creationid="UUZ" creationdate="20140908T042157Z">
@@ -33292,6 +33588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113204Z" creationid="UUZ" creationdate="20140907T113940Z">
         <seg>鬼魂波动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ゴーストウェーブ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152918Z" creationid="土妹子" creationdate="20150102T152918Z">
+        <seg>鬼魂波动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33408,6 +33712,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>サンダーフォース。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152910Z" creationid="土妹子" creationdate="20150102T152910Z">
+        <seg>雷霆之力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>サンダーベール</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105337Z" creationid="UUZ" creationdate="20140906T130351Z">
@@ -33448,6 +33760,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>シャドウジャベリン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152420Z" creationid="土妹子" creationdate="20150102T152416Z">
+        <seg>影之枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>シャドウパワー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T135147Z" creationid="UUZ" creationdate="20140906T135147Z">
@@ -33480,10 +33800,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>シャークトレード。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153313Z" creationid="土妹子" creationdate="20150102T153313Z">
+        <seg>鲨鱼交易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>シューティングプレス</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093948Z" creationid="土妹子" creationdate="20150101T093948Z">
         <seg>流星吐息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>シューティングプレス。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152455Z" creationid="土妹子" creationdate="20150102T152455Z">
+        <seg>流星吐息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33500,6 +33836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100016Z" creationid="土妹子" creationdate="20150101T100016Z">
         <seg>震击刻印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ショックスタンプ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152517Z" creationid="土妹子" creationdate="20150102T152517Z">
+        <seg>震击刻印。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33544,10 +33888,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ジュエリーストーム。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152856Z" creationid="土妹子" creationdate="20150102T152856Z">
+        <seg>宝石风暴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スキマ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151723Z" creationid="UUZ" creationdate="20140906T151723Z">
         <seg>间隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキマップ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154808Z" creationid="土妹子" creationdate="20150102T154808Z">
+        <seg>隙间地图</seg>
       </tuv>
     </tu>
     <tu>
@@ -33656,6 +34016,1302 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スキルカード1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード100</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード101</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片101</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード102</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード103</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片103</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード104</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片104</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード105</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片105</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード106</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片106</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード107</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片107</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード108</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片108</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード109</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片109</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード11</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード110</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード111</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片111</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード112</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード113</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片113</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード114</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード115</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片115</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード116</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片116</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード117</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片117</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード118</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片118</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード119</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片119</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード12</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード120</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード121</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片121</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード122</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片122</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード123</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード124</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片124</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード125</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片125</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード126</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片126</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード127</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片127</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード128</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード13</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード14</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード15</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード16</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード17</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード18</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード19</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード20</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード21</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード22</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード23</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード24</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード25</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード26</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード27</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード28</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード29</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード30</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード31</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード32</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード33</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード34</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード35</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード36</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード37</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード38</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード39</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード40</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード41</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード42</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード43</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード44</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード45</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード46</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード47</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード48</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード49</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード50</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード51</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード52</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード53</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード54</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード55</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片55</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード56</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード57</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード58</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード59</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片59</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード60</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード61</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード62</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード63</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード64</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード65</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片65</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード66</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片66</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード67</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード68</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片68</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード69</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片69</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード70</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード71</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード72</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片72</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード73</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片73</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード74</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片74</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード75</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード76</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片76</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード77</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片77</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード78</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片78</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード79</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片79</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード80</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード81</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片81</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード82</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片82</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード83</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード84</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード85</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード86</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード87</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片87</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード88</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード89</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片89</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード90</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード91</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード92</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片92</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード93</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片93</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード94</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片94</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード95</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード96</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片96</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード97</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片97</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード98</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片98</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード99</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片99</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１００。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１００。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０１。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０１。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０２。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０２。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０３。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０４。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０４。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１０９。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１０９。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１０。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１０。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１１。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１１。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１２。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１２。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１３。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１４。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１４。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１１９。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１１９。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２０。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２０。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２１。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２１。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２２。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２２。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２３。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２４。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２４。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード１２８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片１２８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９５。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９５。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９６。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９６。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９７。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９７。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９８。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９８。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキルカード９９。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145509Z" creationid="土妹子" creationdate="20150102T145509Z">
+        <seg>技能卡片９９。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スギライト</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021000Z" creationid="UUZ" creationdate="20140908T021000Z">
@@ -33700,6 +35356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110048Z" creationid="UUZ" creationdate="20140906T132834Z">
         <seg>星火术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スターフレア。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152912Z" creationid="土妹子" creationdate="20150102T152912Z">
+        <seg>星火术。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33768,6 +35432,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ストーンスパイク。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152500Z" creationid="土妹子" creationdate="20150102T152500Z">
+        <seg>石钉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ストーンレイン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094601Z" creationid="土妹子" creationdate="20150101T094601Z">
@@ -33808,6 +35480,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スパークジャベリン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152409Z" creationid="土妹子" creationdate="20150102T152409Z">
+        <seg>闪电之枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スピリットラッシュ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064307Z" creationid="UUZ" creationdate="20140904T143956Z">
@@ -33828,6 +35508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T103410Z" creationid="土妹子" creationdate="20150101T103410Z">
         <seg>粉碎旋击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スマッシュスピン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152902Z" creationid="土妹子" creationdate="20150102T152902Z">
+        <seg>粉碎旋击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33860,6 +35548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T124728Z" creationid="UUZ" creationdate="20140907T124728Z">
         <seg>圣艾尔摩之火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>セントエルモの火。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152823Z" creationid="土妹子" creationdate="20150102T152823Z">
+        <seg>圣艾尔摩之火。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33952,6 +35648,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>タンブルプラント。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152451Z" creationid="土妹子" creationdate="20150102T152451Z">
+        <seg>翻滚植物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ターン終了時にHPが少し回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T012553Z" creationid="UUZ" creationdate="20140904T135118Z">
@@ -34040,10 +35744,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ダンシングライン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152826Z" creationid="土妹子" creationdate="20150102T152826Z">
+        <seg>舞蹈线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ダークアロー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T134624Z" creationid="UUZ" creationdate="20140906T134624Z">
         <seg>暗影箭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ダークアロー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152757Z" creationid="土妹子" creationdate="20150102T152757Z">
+        <seg>暗影箭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34080,10 +35800,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>チェンジリング。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152755Z" creationid="土妹子" creationdate="20150102T152755Z">
+        <seg>交换圈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>チャージングスタン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114734Z" creationid="土妹子" creationdate="20150101T114734Z">
         <seg>换防</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>チャージングスタン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152817Z" creationid="土妹子" creationdate="20150102T152817Z">
+        <seg>换防。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34168,6 +35904,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>テルミット。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153252Z" creationid="土妹子" creationdate="20150102T153252Z">
+        <seg>铝热剂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>デクレッシェンド</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132406Z" creationid="UUZ" creationdate="20140907T140341Z">
@@ -34196,6 +35940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064757Z" creationid="土妹子" creationdate="20150101T064757Z">
         <seg>三效合一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>トライエフェクト。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152831Z" creationid="土妹子" creationdate="20150102T152831Z">
+        <seg>三效合一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34432,10 +36184,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>バリアオプション。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153245Z" creationid="土妹子" creationdate="20150102T153238Z">
+        <seg>屏障设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>バーンストライク</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T155330Z" creationid="UUZ" creationdate="20140904T155330Z">
         <seg>燃烧强袭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>バーンストライク。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152442Z" creationid="土妹子" creationdate="20150102T152442Z">
+        <seg>燃烧强袭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34640,6 +36408,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ファイヤジャベリン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152344Z" creationid="土妹子" creationdate="20150102T152344Z">
+        <seg>火焰标枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フィールドバリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T132910Z" creationid="UUZ" creationdate="20140906T132910Z">
@@ -34648,10 +36424,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>フィールドバリア。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153301Z" creationid="土妹子" creationdate="20150102T153301Z">
+        <seg>力场屏障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>フィールドプロテクト</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T132942Z" creationid="UUZ" creationdate="20140906T132942Z">
         <seg>力场保护</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>フィールドプロテクト。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153304Z" creationid="土妹子" creationdate="20150102T153304Z">
+        <seg>力场保护。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34692,6 +36484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161030Z" creationid="UUZ" creationdate="20140904T161030Z">
         <seg>闪燃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>フラッシュオーバー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152840Z" creationid="土妹子" creationdate="20150102T152840Z">
+        <seg>闪燃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34792,6 +36592,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ブレイクショット。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152813Z" creationid="土妹子" creationdate="20150102T152813Z">
+        <seg>崩坏射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ブレイブソング</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132038Z" creationid="UUZ" creationdate="20140907T135852Z">
@@ -34812,6 +36620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104757Z" creationid="土妹子" creationdate="20150101T104757Z">
         <seg>球状闪电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>プラズマボール。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152523Z" creationid="土妹子" creationdate="20150102T152523Z">
+        <seg>球状闪电。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34916,6 +36732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111515Z" creationid="UUZ" creationdate="20140906T140802Z">
         <seg>毒性炸弹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ポイズンボム。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152923Z" creationid="土妹子" creationdate="20150102T152923Z">
+        <seg>毒性炸弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35096,6 +36920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ミアズマ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153320Z" creationid="土妹子" creationdate="20150102T153320Z">
+        <seg>瘴气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ミスティア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135910Z" creationid="UUZ" creationdate="20140904T135910Z">
@@ -35132,6 +36964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T094544Z" creationid="UUZ" creationdate="20140906T094544Z">
         <seg>迷雾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ミストフォッグ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152853Z" creationid="土妹子" creationdate="20150102T152853Z">
+        <seg>迷雾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35268,6 +37108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T120828Z" creationid="UUZ" creationdate="20140907T120828Z">
         <seg>流星冲击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>メテオインパクト。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152811Z" creationid="土妹子" creationdate="20150102T152811Z">
+        <seg>流星冲击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35456,6 +37304,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ライジングサン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152439Z" creationid="土妹子" creationdate="20150102T152439Z">
+        <seg>升阳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ライトアップ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110419Z" creationid="UUZ" creationdate="20140906T133332Z">
@@ -35468,6 +37324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T132016Z" creationid="UUZ" creationdate="20140906T132016Z">
         <seg>光之枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ライトジャベリン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152413Z" creationid="土妹子" creationdate="20150102T152413Z">
+        <seg>光之枪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35520,6 +37384,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ラプラスの目。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152915Z" creationid="土妹子" creationdate="20150102T152915Z">
+        <seg>拉普拉斯之眼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ランダムで スキルを 使う。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065256Z" creationid="土妹子" creationdate="20150101T065256Z">
@@ -35532,6 +37404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113542Z" creationid="UUZ" creationdate="20140907T114631Z">
         <seg>痛苦加深</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ラヴォルペイン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152920Z" creationid="土妹子" creationdate="20150102T152920Z">
+        <seg>痛苦加深。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35760,6 +37640,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>レイジィミスト。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152848Z" creationid="土妹子" creationdate="20150102T152848Z">
+        <seg>懒散迷雾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>レイセン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144805Z" creationid="UUZ" creationdate="20140906T144704Z">
@@ -35772,6 +37660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145253Z" creationid="UUZ" creationdate="20140906T145253Z">
         <seg>蕾拉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>レイラのお守り</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145238Z" creationid="土妹子" creationdate="20150102T145238Z">
+        <seg>莱拉的护身符</seg>
       </tuv>
     </tu>
     <tu>
@@ -35852,6 +37748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T134606Z" creationid="UUZ" creationdate="20140906T134606Z">
         <seg>失落危机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ロストクライシス。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152800Z" creationid="土妹子" creationdate="20150102T152800Z">
+        <seg>失落危机。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36216,6 +38120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>三魂七魄の離散。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152803Z" creationid="土妹子" creationdate="20150102T152803Z">
+        <seg>三魂七魄离散。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>上白沢慧音</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144442Z" creationid="UUZ" creationdate="20140906T144442Z">
@@ -36424,6 +38336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>九符・闇。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153649Z" creationid="土妹子" creationdate="20150102T153649Z">
+        <seg>九符・暗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>乱反射レーザー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133355Z" creationid="UUZ" creationdate="20140906T133355Z">
@@ -36548,6 +38468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110706Z">
         <seg>五符·钢铁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>五符・鋼鉄。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153642Z" creationid="土妹子" creationdate="20150102T153642Z">
+        <seg>五符・钢铁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36984,6 +38912,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると野良人形との戦闘から必ず逃げられる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145109Z" creationid="土妹子" creationdate="20150102T145109Z">
+        <seg>人形携带后，必能能从野生人形战斗中逃跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると鋼鉄属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145037Z">
@@ -37256,10 +39192,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>人形入手</seg>
+        <seg>人形図鑑</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T145621Z" creationid="UUZ" creationdate="20150102T145621Z">
-        <seg>人形入手</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154053Z" creationid="土妹子" creationdate="20150102T154053Z">
+        <seg>人形图鉴</seg>
       </tuv>
     </tu>
     <tu>
@@ -38184,10 +40120,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>共振</seg>
+        <seg>六符・風。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150159Z" creationid="UUZ" creationdate="20150102T150159Z">
-        <seg>共振</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153645Z" creationid="土妹子" creationdate="20150102T153645Z">
+        <seg>六符・风。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38532,6 +40468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T141052Z">
         <seg>十二符·斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>十二符・闘。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153653Z" creationid="土妹子" creationdate="20150102T153653Z">
+        <seg>十二符・斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39200,6 +41144,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>四姉妹の写真の下にあったお守り。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145247Z" creationid="土妹子" creationdate="20150102T145247Z">
+        <seg>在四姐妹的照片下发现的护身符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>四季映姫·ヤマザナドゥ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144613Z" creationid="UUZ" creationdate="20140906T144613Z">
@@ -39220,6 +41172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151201Z" creationid="UUZ" creationdate="20140904T151201Z">
         <seg>四神加护</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>四神の加護。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152837Z" creationid="土妹子" creationdate="20150102T152837Z">
+        <seg>四神加护。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39304,6 +41264,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>土着神の御利益</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145412Z" creationid="土妹子" creationdate="20150102T145412Z">
+        <seg>土著神的赐福</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>土石の荒波</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094317Z" creationid="土妹子" creationdate="20150101T094317Z">
@@ -39330,8 +41298,8 @@
       <tuv lang="JA">
         <seg>土色をした髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035630Z" creationid="UUZ" creationdate="20140908T035630Z">
-        <seg>土色的发饰。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140735Z" creationid="UUZ" creationdate="20140908T035630Z">
+        <seg>做成土色的发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40000,6 +41968,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天光の舞。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152528Z" creationid="土妹子" creationdate="20150102T152528Z">
+        <seg>天光之舞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天変地異</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T105511Z" creationid="UUZ" creationdate="20140906T105511Z">
@@ -40128,6 +42104,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>天神の加護。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152834Z" creationid="土妹子" creationdate="20150102T152834Z">
+        <seg>天神加护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>天罰の一撃</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T122853Z" creationid="UUZ" creationdate="20140907T122853Z">
@@ -40224,6 +42208,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>奈落の花。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152820Z" creationid="土妹子" creationdate="20150102T152820Z">
+        <seg>奈落之花。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>奏楽之型</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025758Z" creationid="土妹子" creationdate="20141231T025758Z">
@@ -40242,8 +42234,8 @@
       <tuv lang="JA">
         <seg>契約の糸より人形を封印しやすくなったかなり性能のよい糸。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162920Z" creationid="UUZ" creationdate="20140908T041441Z">
-        <seg>比契约之丝性能更好更容易封印人形的丝线。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153947Z" creationid="UUZ" creationdate="20140908T041441Z">
+        <seg>比契约之丝更容易封印人形，性能很好的的丝线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40874,8 +42866,8 @@
       <tuv lang="JA">
         <seg>封印の糸より人形を封印しやすくなった少し性能の良い糸。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162917Z" creationid="UUZ" creationdate="20140908T041421Z">
-        <seg>比封印之丝性能更好更容易封印人形的丝线。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153934Z" creationid="UUZ" creationdate="20140908T041421Z">
+        <seg>比封印之丝更容易封印人形，性能略好的丝线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41336,6 +43328,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>干ばつ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153255Z" creationid="土妹子" creationdate="20150102T153255Z">
+        <seg>干旱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>年代物のワイン。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T015316Z" creationid="UUZ" creationdate="20140907T142741Z">
@@ -41364,6 +43364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110149Z" creationid="UUZ" creationdate="20140906T132950Z">
         <seg>幸运彩虹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幸運の虹。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153307Z" creationid="土妹子" creationdate="20150102T153307Z">
+        <seg>幸运彩虹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41520,6 +43528,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想郷に発生した人形について書かれた図鑑。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154121Z" creationid="土妹子" creationdate="20150102T154121Z">
+        <seg>写有幻想乡发现的人形的相关事项的图鉴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想郷の地図。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154244Z" creationid="土妹子" creationdate="20150102T154244Z">
+        <seg>幻想乡的地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想郷の巫女</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115626Z" creationid="UUZ" creationdate="20141230T115626Z">
@@ -41536,10 +43560,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想郷之地図</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154238Z" creationid="土妹子" creationdate="20150102T154238Z">
+        <seg>幻想乡之地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想郷直撃タイフーン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T122434Z" creationid="UUZ" creationdate="20140906T122434Z">
         <seg>幻想乡直击台风</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想郷直撃タイフーン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152513Z" creationid="土妹子" creationdate="20150102T152513Z">
+        <seg>幻想乡直击台风。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41916,6 +43956,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T115544Z" creationid="UUZ" creationdate="20140907T114837Z">
         <seg>正后方是谁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>後ろの正面。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153318Z" creationid="土妹子" creationdate="20150102T153318Z">
+        <seg>正后方是谁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42378,8 +44426,8 @@
       <tuv lang="JA">
         <seg>戦闘の教範</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040428Z" creationid="UUZ" creationdate="20140908T040428Z">
-        <seg>战斗的教范</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145210Z" creationid="UUZ" creationdate="20140908T040428Z">
+        <seg>战斗教学实例</seg>
       </tuv>
     </tu>
     <tu>
@@ -42460,6 +44508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040617Z" creationid="UUZ" creationdate="20140908T040617Z">
         <seg>战斗中人形的集防上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戦闘中５ターンの間 味方の能力を下げられなくする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153829Z" creationid="土妹子" creationdate="20150102T153829Z">
+        <seg>战斗中５回合间，我方的能力不会被下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44176,6 +46232,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>桃のかんざし</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154835Z" creationid="土妹子" creationdate="20150102T154835Z">
+        <seg>桃钗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>桃弧棘矢</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093552Z" creationid="UUZ" creationdate="20140906T093552Z">
@@ -44316,6 +46380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021112Z" creationid="UUZ" creationdate="20140908T021112Z">
         <seg>橙色的宝石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>欠片状態の人形を入れておく箱。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154511Z" creationid="土妹子" creationdate="20150102T154511Z">
+        <seg>放入碎片状态的人形的箱子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44780,6 +46852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T111428Z" creationid="UUZ" creationdate="20140906T140717Z">
         <seg>毒箭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>毒矢。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152805Z" creationid="土妹子" creationdate="20150102T152805Z">
+        <seg>毒箭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45576,6 +47656,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>滝落。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152445Z" creationid="土妹子" creationdate="20150102T152445Z">
+        <seg>飞瀑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>滝落（たきおとし）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T162257Z" creationid="UUZ" creationdate="20140904T161855Z">
@@ -45812,6 +47900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T020412Z" creationid="土妹子" creationdate="20141231T020412Z">
         <seg>无我之境(Trial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無我の境地。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153247Z" creationid="土妹子" creationdate="20150102T153241Z">
+        <seg>无我之境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46128,6 +48224,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>狂乱浄瑠璃。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152426Z" creationid="土妹子" creationdate="20150102T152426Z">
+        <seg>狂乱净琉璃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>狐火</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161212Z" creationid="UUZ" creationdate="20140904T161212Z">
@@ -46296,6 +48400,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>甘い悪夢。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153315Z" creationid="土妹子" creationdate="20150102T153315Z">
+        <seg>甜美噩梦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>甘さ控えめの水羊羹。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T143546Z" creationid="UUZ" creationdate="20140907T143546Z">
@@ -46344,10 +48456,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>男の子と女の子と陰陽玉がそろって初めて力を発揮する。</seg>
+        <seg>申の腰掛</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151022Z" creationid="UUZ" creationdate="20150102T151022Z">
-        <seg>男の子と女の子と陰陽玉がそろって初めて力を発揮する。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154941Z" creationid="土妹子" creationdate="20150102T154941Z">
+        <seg>申之凳子</seg>
       </tuv>
     </tu>
     <tu>
@@ -46388,6 +48500,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130038Z" creationid="UUZ" creationdate="20140906T130038Z">
         <seg>疾风迅雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>疾風迅雷。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152907Z" creationid="土妹子" creationdate="20150102T152907Z">
+        <seg>疾风迅雷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46564,6 +48684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T122818Z" creationid="UUZ" creationdate="20140906T122818Z">
         <seg>盗窃之风</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>盗難の風。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152520Z" creationid="土妹子" creationdate="20150102T152520Z">
+        <seg>盗窃之风。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47368,6 +49496,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>知っている場所に移動できる幻想郷の地図。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154824Z" creationid="土妹子" creationdate="20150102T154824Z">
+        <seg>能够移动到认识的地方的幻想乡地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>知っている場所に移動できる羽根。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042241Z" creationid="UUZ" creationdate="20140908T042241Z">
@@ -47464,6 +49600,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>破邪の弓撃。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152750Z" creationid="土妹子" creationdate="20150102T152746Z">
+        <seg>破邪之箭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>硬鋼之型</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025449Z" creationid="土妹子" creationdate="20141231T025449Z">
@@ -47540,6 +49684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133857Z" creationid="土妹子" creationdate="20141230T133857Z">
         <seg>神绮战</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>神羅結界。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153234Z" creationid="土妹子" creationdate="20150102T153234Z">
+        <seg>森罗结界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47860,6 +50012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123234Z" creationid="UUZ" creationdate="20140906T123234Z">
         <seg>突风</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>突風。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153258Z" creationid="土妹子" creationdate="20150102T153258Z">
+        <seg>突风。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49298,8 +51458,8 @@
       <tuv lang="JA">
         <seg>草の様な緑色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035557Z" creationid="UUZ" creationdate="20140908T035557Z">
-        <seg>草外形的绿色发饰。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140716Z" creationid="UUZ" creationdate="20140908T035557Z">
+        <seg>样子像草的绿色发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49388,6 +51548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161808Z" creationid="UUZ" creationdate="20141224T161808Z">
         <seg>华扇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>華扇の無くし物。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154841Z" creationid="土妹子" creationdate="20150102T154841Z">
+        <seg>华扇丢的东西。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49936,6 +52104,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>諏訪子から貰ったお守り。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145418Z" creationid="土妹子" creationdate="20150102T145418Z">
+        <seg>诹访子给的护身符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>護符</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T141420Z" creationid="UUZ" creationdate="20140907T141420Z">
@@ -50084,6 +52260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152136Z" creationid="UUZ" creationdate="20140904T152136Z">
         <seg>禁足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>足止め。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153250Z" creationid="土妹子" creationdate="20150102T153250Z">
+        <seg>禁足。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50260,6 +52444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T144906Z" creationid="UUZ" creationdate="20140904T144906Z">
         <seg>逆境一击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>逆境の一手。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152435Z" creationid="土妹子" creationdate="20150102T152435Z">
+        <seg>逆境一击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50696,6 +52888,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>野良人形の注意を引き戦闘から必ず逃げられるようにする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153848Z" creationid="土妹子" creationdate="20150102T153848Z">
+        <seg>引开野生人形的注意力，必定能从战斗中逃跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>金のかんざし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T033356Z" creationid="UUZ" creationdate="20140908T033356Z">
@@ -50980,6 +53180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133046Z" creationid="UUZ" creationdate="20140906T133046Z">
         <seg>闪光弹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>閃光弾。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153310Z" creationid="土妹子" creationdate="20150102T153310Z">
+        <seg>闪光弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51496,10 +53704,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>雷弾</seg>
+        <seg>雷帝インディグネイト。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151227Z" creationid="UUZ" creationdate="20150102T151159Z">
-        <seg>雷弹</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152904Z" creationid="土妹子" creationdate="20150102T152904Z">
+        <seg>雷帝之怒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51676,6 +53884,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T114245Z" creationid="UUZ" creationdate="20140906T114245Z">
         <seg>驱霞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>霞払い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152510Z" creationid="土妹子" creationdate="20150102T152510Z">
+        <seg>驱霞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52052,6 +54268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093612Z" creationid="UUZ" creationdate="20140906T093612Z">
         <seg>饥饿之声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>飢餓の声。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152448Z" creationid="土妹子" creationdate="20150102T152448Z">
+        <seg>饥饿之声。</seg>
       </tuv>
     </tu>
     <tu>
