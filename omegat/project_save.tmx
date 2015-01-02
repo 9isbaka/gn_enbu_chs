@@ -24430,6 +24430,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n持たせると戦闘で得られる経験値が増える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145232Z" creationid="土妹子" creationdate="20150102T145232Z">
+        <seg>\n携带后，在战斗中获得的经验值增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n持たせると戦闘で得られるＰＰの量が増える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145216Z" creationid="土妹子" creationdate="20150102T145201Z">
+        <seg>\n携带后，在战斗中获得的ＰＰ增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n持たせると戦闘不能になる様なダメージを受けてもＨＰ１で耐える事がある。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151417Z" creationid="土妹子" creationdate="20150101T151417Z">
@@ -33440,6 +33456,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>レイラのお守り</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145238Z" creationid="土妹子" creationdate="20150102T145238Z">
+        <seg>莱拉的护身符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>レティ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135723Z" creationid="UUZ" creationdate="20140904T135723Z">
@@ -36664,6 +36688,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>四姉妹の写真の下にあったお守り。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145247Z" creationid="土妹子" creationdate="20150102T145247Z">
+        <seg>在四姐妹的照片下发现的护身符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>四季映姫·ヤマザナドゥ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144613Z" creationid="UUZ" creationdate="20140906T144613Z">
@@ -39618,8 +39650,8 @@
       <tuv lang="JA">
         <seg>戦闘の教範</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040428Z" creationid="UUZ" creationdate="20140908T040428Z">
-        <seg>战斗的教范</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145210Z" creationid="UUZ" creationdate="20140908T040428Z">
+        <seg>战斗教学实例</seg>
       </tuv>
     </tu>
     <tu>
