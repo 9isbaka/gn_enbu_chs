@@ -27702,6 +27702,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いぬ1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163608Z" creationid="土妹子" creationdate="20150102T163555Z">
+        <seg>狗１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いぬ2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163611Z" creationid="土妹子" creationdate="20150102T163600Z">
+        <seg>狗２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いや なんか変だ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T072846Z" creationid="UUZ" creationdate="20140908T072846Z">
@@ -29392,6 +29408,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>にわとり</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163549Z" creationid="土妹子" creationdate="20150102T163549Z">
+        <seg>鸡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>にんぎょうかいほうせんせん ってなにかって？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T031226Z" creationid="UUZ" creationdate="20140909T135817Z">
@@ -29412,6 +29436,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062428Z" creationid="UUZ" creationdate="20140908T062110Z">
         <seg>呐~\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ねこ1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163614Z" creationid="土妹子" creationdate="20150102T163614Z">
+        <seg>猫１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ねこ2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163750Z" creationid="土妹子" creationdate="20150102T163750Z">
+        <seg>猫２</seg>
       </tuv>
     </tu>
     <tu>
@@ -29522,8 +29562,8 @@
       <tuv lang="JA">
         <seg>ふぉーかるみたいな奴</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T150107Z" creationid="UUZ" creationdate="20140906T150107Z">
-        <seg>焦点般的男人</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163441Z" creationid="UUZ" creationdate="20140906T150107Z">
+        <seg>焦点般的家伙</seg>
       </tuv>
     </tu>
     <tu>
@@ -30940,6 +30980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065353Z" creationid="土妹子" creationdate="20150101T065353Z">
         <seg>使用光学迷彩大幅提升自身的回避率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>カラス</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163545Z" creationid="土妹子" creationdate="20150102T163545Z">
+        <seg>玻璃</seg>
       </tuv>
     </tu>
     <tu>
@@ -34242,8 +34290,8 @@
       <tuv lang="JA">
         <seg>フローリア</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140325Z" creationid="UUZ" creationdate="20140910T140139Z">
-        <seg>Furoria</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163841Z" creationid="UUZ" creationdate="20140910T140139Z">
+        <seg>弗洛利亚</seg>
       </tuv>
     </tu>
     <tu>
@@ -35018,8 +35066,8 @@
       <tuv lang="JA">
         <seg>ラファニア</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140318Z" creationid="UUZ" creationdate="20140910T140102Z">
-        <seg>Rafania</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163829Z" creationid="UUZ" creationdate="20140910T140102Z">
+        <seg>拉法尼亚</seg>
       </tuv>
     </tu>
     <tu>
@@ -44752,6 +44800,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>浮遊写真</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163535Z" creationid="土妹子" creationdate="20150102T163535Z">
+        <seg>浮游照片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>浮遊椅子</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163522Z" creationid="土妹子" creationdate="20150102T163522Z">
+        <seg>浮游椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>浮遊石</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021512Z" creationid="UUZ" creationdate="20140908T021512Z">
@@ -48660,6 +48724,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T020402Z" creationid="土妹子" creationdate="20141231T020402Z">
         <seg>萌芽之翠(Trial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>落ちた写真</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163539Z" creationid="土妹子" creationdate="20150102T163539Z">
+        <seg>落地的照片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>落ちた椅子</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163527Z" creationid="土妹子" creationdate="20150102T163527Z">
+        <seg>落地的椅子</seg>
       </tuv>
     </tu>
     <tu>
