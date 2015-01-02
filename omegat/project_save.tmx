@@ -24110,6 +24110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n交換すると元に戻る。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153713Z" creationid="土妹子" creationdate="20150102T153713Z">
+        <seg>\n交换后还原。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n人形のレベルを１上げる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T144635Z" creationid="土妹子" creationdate="20150101T144635Z">
@@ -24618,6 +24626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140959Z" creationid="土妹子" creationdate="20150102T140959Z">
         <seg>\n携带时风属性的技能威力上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n未実装。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153719Z" creationid="土妹子" creationdate="20150102T153719Z">
+        <seg>\n未实装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35816,6 +35832,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>九符・闇。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153649Z" creationid="土妹子" creationdate="20150102T153649Z">
+        <seg>九符・暗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>乱反射レーザー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133355Z" creationid="UUZ" creationdate="20140906T133355Z">
@@ -35940,6 +35964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T110706Z">
         <seg>五符·钢铁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>五符・鋼鉄。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153642Z" creationid="土妹子" creationdate="20150102T153642Z">
+        <seg>五符・钢铁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37480,6 +37512,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>六符・風。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153645Z" creationid="土妹子" creationdate="20150102T153645Z">
+        <seg>六符・风。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>共鳴</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T133029Z" creationid="UUZ" creationdate="20140904T133029Z">
@@ -37804,6 +37844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T141052Z">
         <seg>十二符·斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>十二符・闘。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153653Z" creationid="土妹子" creationdate="20150102T153653Z">
+        <seg>十二符・斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39418,8 +39466,8 @@
       <tuv lang="JA">
         <seg>契約の糸より人形を封印しやすくなったかなり性能のよい糸。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162920Z" creationid="UUZ" creationdate="20140908T041441Z">
-        <seg>比契约之丝性能更好更容易封印人形的丝线。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153947Z" creationid="UUZ" creationdate="20140908T041441Z">
+        <seg>比契约之丝更容易封印人形，性能很好的的丝线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40010,8 +40058,8 @@
       <tuv lang="JA">
         <seg>封印の糸より人形を封印しやすくなった少し性能の良い糸。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162917Z" creationid="UUZ" creationdate="20140908T041421Z">
-        <seg>比封印之丝性能更好更容易封印人形的丝线。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153934Z" creationid="UUZ" creationdate="20140908T041421Z">
+        <seg>比封印之丝更容易封印人形，性能略好的丝线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41540,6 +41588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040617Z" creationid="UUZ" creationdate="20140908T040617Z">
         <seg>战斗中人形的集防上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戦闘中５ターンの間 味方の能力を下げられなくする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153829Z" creationid="土妹子" creationdate="20150102T153829Z">
+        <seg>战斗中５回合间，我方的能力不会被下降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49516,6 +49572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094051Z" creationid="土妹子" creationdate="20141231T094044Z">
         <seg>一定能从野生人形的战斗中逃脱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>野良人形の注意を引き戦闘から必ず逃げられるようにする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153848Z" creationid="土妹子" creationdate="20150102T153848Z">
+        <seg>引开野生人形的注意力，必定能从战斗中逃跑。</seg>
       </tuv>
     </tu>
     <tu>
