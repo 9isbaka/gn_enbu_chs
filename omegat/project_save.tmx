@@ -27662,6 +27662,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いたずら河童の</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164403Z" creationid="土妹子" creationdate="20150102T164403Z">
+        <seg>恶作剧河童的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いちりん</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151405Z" creationid="UUZ" creationdate="20140906T151405Z">
@@ -31068,6 +31076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134017Z" creationid="土妹子" creationdate="20141230T134017Z">
         <seg>取消音效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>キヨミ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164357Z" creationid="土妹子" creationdate="20150102T164357Z">
+        <seg>清美</seg>
       </tuv>
     </tu>
     <tu>
@@ -35218,8 +35234,8 @@
       <tuv lang="JA">
         <seg>リーゼ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140302Z" creationid="UUZ" creationdate="20140910T140302Z">
-        <seg>理世</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163915Z" creationid="UUZ" creationdate="20140910T140302Z">
+        <seg>利兹</seg>
       </tuv>
     </tu>
     <tu>
@@ -37626,16 +37642,16 @@
       <tuv lang="JA">
         <seg>八雲の化け猫</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115945Z" creationid="UUZ" creationdate="20141230T115945Z">
-        <seg>八云家的化猫</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164139Z" creationid="UUZ" creationdate="20141230T115945Z">
+        <seg>八云的妖怪猫</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>八雲の式神</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115909Z" creationid="UUZ" creationdate="20141230T115909Z">
-        <seg>八云家的式神</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164144Z" creationid="UUZ" creationdate="20141230T115909Z">
+        <seg>八云的式神</seg>
       </tuv>
     </tu>
     <tu>
@@ -37826,8 +37842,8 @@
       <tuv lang="JA">
         <seg>冬の忘れ物</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120223Z" creationid="UUZ" creationdate="20141230T120223Z">
-        <seg>冬季的遗忘之物</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164310Z" creationid="UUZ" creationdate="20141230T120223Z">
+        <seg>冬季的遗忘物</seg>
       </tuv>
     </tu>
     <tu>
@@ -37948,6 +37964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161734Z" creationid="UUZ" creationdate="20141224T161734Z">
         <seg>勇仪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>動かない大図書館</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163936Z" creationid="土妹子" creationdate="20150102T163936Z">
+        <seg>不动的大图书馆</seg>
       </tuv>
     </tu>
     <tu>
@@ -38568,6 +38592,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>命蓮寺の住職</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164101Z" creationid="土妹子" creationdate="20150102T164101Z">
+        <seg>命莲寺的住持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>命蓮寺の尼僧が淹れたお茶。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144300Z" creationid="UUZ" creationdate="20140907T144300Z">
@@ -38956,6 +38988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142741Z" creationid="UUZ" creationdate="20140906T142741Z">
         <seg>地灵殿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地霊殿の主</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164027Z" creationid="土妹子" creationdate="20150102T164027Z">
+        <seg>地灵殿之主</seg>
       </tuv>
     </tu>
     <tu>
@@ -40368,6 +40408,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>小さなスイートポイズン</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164201Z" creationid="土妹子" creationdate="20150102T164201Z">
+        <seg>小小的甜蜜毒药</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>小人の末裔</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120327Z" creationid="UUZ" creationdate="20141230T120327Z">
@@ -40568,6 +40616,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>山の神</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164031Z" creationid="土妹子" creationdate="20150102T164031Z">
+        <seg>山之神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>山岳</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142432Z" creationid="UUZ" creationdate="20140906T142432Z">
@@ -40748,6 +40804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T020610Z" creationid="土妹子" creationdate="20141231T020610Z">
         <seg>幸运(Trial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幸運のウサギ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163953Z" creationid="土妹子" creationdate="20150102T163953Z">
+        <seg>幸运的兔子</seg>
       </tuv>
     </tu>
     <tu>
@@ -43328,6 +43392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>月のウサギ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164005Z" creationid="土妹子" creationdate="20150102T164005Z">
+        <seg>来自月亮的兔子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>月の加護</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133014Z" creationid="UUZ" creationdate="20140906T133014Z">
@@ -44700,6 +44772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155234Z" creationid="UUZ" creationdate="20140906T143239Z">
         <seg>河童根据地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>河童のエンジニア</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164220Z" creationid="土妹子" creationdate="20150102T164220Z">
+        <seg>河童工程师</seg>
       </tuv>
     </tu>
     <tu>
@@ -47304,6 +47384,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紅魔館の主</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163946Z" creationid="土妹子" creationdate="20150102T163946Z">
+        <seg>红魔馆之主</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>純水のベール</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091808Z" creationid="UUZ" creationdate="20140906T092059Z">
@@ -48776,6 +48864,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>蓬莱人の</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164012Z" creationid="土妹子" creationdate="20150102T164012Z">
+        <seg>蓬莱人的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>蓬莱山輝夜</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144502Z" creationid="UUZ" creationdate="20140906T144502Z">
@@ -49172,6 +49268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152829Z" creationid="UUZ" creationdate="20140904T152829Z">
         <seg>追踪弹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>語れる怪力乱心</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164233Z" creationid="土妹子" creationdate="20150102T164233Z">
+        <seg>传说中的怪力乱神</seg>
       </tuv>
     </tu>
     <tu>
@@ -50212,6 +50316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125249Z" creationid="UUZ" creationdate="20140909T125249Z">
         <seg>占用你那么长的时间也不太好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>門番の</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163930Z" creationid="土妹子" creationdate="20150102T163930Z">
+        <seg>看门的</seg>
       </tuv>
     </tu>
     <tu>
