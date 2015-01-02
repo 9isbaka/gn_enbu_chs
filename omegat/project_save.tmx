@@ -24158,6 +24158,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n先頭の人形に持たせると 野良人形を寄せ付けづらくなる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145405Z" creationid="土妹子" creationdate="20150102T145405Z">
+        <seg>\n排头的人形携带后，不容易被野生人形靠近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n入力を確定する場合は[Enter]\nやり直す場合は[BackSpace]を押してください。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144910Z" creationid="UUZ" creationdate="20140824T144910Z">
@@ -36796,6 +36804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120258Z" creationid="UUZ" creationdate="20141230T120258Z">
         <seg>土著神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>土着神の御利益</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145412Z" creationid="土妹子" creationdate="20150102T145412Z">
+        <seg>土著神的赐福</seg>
       </tuv>
     </tu>
     <tu>
