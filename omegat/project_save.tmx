@@ -30440,6 +30440,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アリス邸</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155500Z" creationid="土妹子" creationdate="20150102T155500Z">
+        <seg>爱丽丝邸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>アリス（マーガトロイド）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144034Z" creationid="UUZ" creationdate="20140906T144034Z">
@@ -32976,6 +32984,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スキルテスト</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155424Z" creationid="土妹子" creationdate="20150102T155424Z">
+        <seg>技能测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スギライト</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021000Z" creationid="UUZ" creationdate="20140908T021000Z">
@@ -33786,8 +33802,8 @@
       <tuv lang="JA">
         <seg>バスの中</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143136Z" creationid="UUZ" creationdate="20140906T143136Z">
-        <seg>公交内</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155214Z" creationid="UUZ" creationdate="20140906T143136Z">
+        <seg>公交车内</seg>
       </tuv>
     </tu>
     <tu>
@@ -34522,8 +34538,8 @@
       <tuv lang="JA">
         <seg>マップページ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145808Z" creationid="UUZ" creationdate="20141225T145808Z">
-        <seg>マップページ</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155352Z" creationid="UUZ" creationdate="20141225T145808Z">
+        <seg>地图页面</seg>
       </tuv>
     </tu>
     <tu>
@@ -37544,6 +37560,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>八雲の隠れ家</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155311Z" creationid="土妹子" creationdate="20150102T155311Z">
+        <seg>八云的隐居处</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>八雲紫</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144253Z" creationid="UUZ" creationdate="20140906T144253Z">
@@ -38480,6 +38504,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>命蓮寺墓地</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155610Z" creationid="土妹子" creationdate="20150102T155610Z">
+        <seg>命莲寺墓地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>命蓮寺裏墓地</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T121940Z" creationid="UUZ" creationdate="20141230T121915Z">
@@ -38844,6 +38876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142741Z" creationid="UUZ" creationdate="20140906T142741Z">
         <seg>地灵殿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地霊殿への道</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155327Z" creationid="土妹子" creationdate="20150102T155327Z">
+        <seg>前往地灵殿的道路</seg>
       </tuv>
     </tu>
     <tu>
@@ -39260,6 +39300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T122934Z" creationid="UUZ" creationdate="20140906T122934Z">
         <seg>大龙卷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大蝦蟇の池</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155244Z" creationid="土妹子" creationdate="20150102T155244Z">
+        <seg>大蛤蟆之池</seg>
       </tuv>
     </tu>
     <tu>
@@ -40372,6 +40420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161819Z" creationid="UUZ" creationdate="20141224T161819Z">
         <seg>屠自古</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>山の小屋</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155445Z" creationid="土妹子" creationdate="20150102T155445Z">
+        <seg>山中小屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -44530,8 +44586,8 @@
       <tuv lang="JA">
         <seg>河童のアジト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143239Z" creationid="UUZ" creationdate="20140906T143239Z">
-        <seg>河童指挥所</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155234Z" creationid="UUZ" creationdate="20140906T143239Z">
+        <seg>河童根据地</seg>
       </tuv>
     </tu>
     <tu>
@@ -49232,6 +49288,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>転送マップ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155435Z" creationid="土妹子" creationdate="20150102T155435Z">
+        <seg>传送地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>輝夜</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161522Z" creationid="UUZ" creationdate="20141224T161522Z">
@@ -50004,6 +50068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153310Z" creationid="土妹子" creationdate="20150102T153310Z">
         <seg>闪光弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>開放位置</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155356Z" creationid="土妹子" creationdate="20150102T155356Z">
+        <seg>开放位置</seg>
       </tuv>
     </tu>
     <tu>
