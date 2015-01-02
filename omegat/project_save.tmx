@@ -24078,6 +24078,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\nSELECTボタンでも乗ることができる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154558Z" creationid="土妹子" creationdate="20150102T154558Z">
+        <seg>\n按ｓｅｌｅｃｔ键也能骑。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n【\\ %】は使用できません。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T145052Z" creationid="UUZ" creationdate="20140824T145052Z">
@@ -24090,6 +24098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135717Z" creationid="土妹子" creationdate="20150101T135717Z">
         <seg>\n能以非常高的价格出售。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\nこれは自立していないようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154619Z" creationid="土妹子" creationdate="20150102T154619Z">
+        <seg>\n这个似乎不是自动的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24178,6 +24194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144910Z" creationid="UUZ" creationdate="20140824T144910Z">
         <seg>\n确定请按[Enter]\n取消请按[BackSpace]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n全部見つけたら 華扇のところへ行こう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154949Z" creationid="土妹子" creationdate="20150102T154911Z">
+        <seg>\n全部找到的话就去找华扇吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24662,6 +24686,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n無くし物は これの他に後３つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154858Z" creationid="土妹子" creationdate="20150102T154858Z">
+        <seg>\n丢的东西此外还有３个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n痛烈な一撃が 出易い。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014149Z" creationid="UUZ" creationdate="20140904T153208Z">
@@ -24898,6 +24930,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T143331Z" creationid="土妹子" creationdate="20150101T143331Z">
         <seg>\n转生时设置上的话，ＨＰ的个体等级不会变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\n阿求人形があるところで開けられる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154539Z" creationid="土妹子" creationdate="20150102T154539Z">
+        <seg>\n能够在有阿求人形的地方打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31524,6 +31564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151723Z" creationid="UUZ" creationdate="20140906T151723Z">
         <seg>间隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキマップ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154808Z" creationid="土妹子" creationdate="20150102T154808Z">
+        <seg>隙间地图</seg>
       </tuv>
     </tu>
     <tu>
@@ -43328,6 +43376,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>桃のかんざし</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154835Z" creationid="土妹子" creationdate="20150102T154835Z">
+        <seg>桃钗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>桃弧棘矢</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093552Z" creationid="UUZ" creationdate="20140906T093552Z">
@@ -45424,6 +45480,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>申の腰掛</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154941Z" creationid="土妹子" creationdate="20150102T154941Z">
+        <seg>申之凳子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>異変を解決するために出払っていますし・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T084122Z">
@@ -46444,6 +46508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134253Z" creationid="土妹子" creationdate="20141230T134253Z">
         <seg>瞬间移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>知っている場所に移動できる幻想郷の地図。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154824Z" creationid="土妹子" creationdate="20150102T154824Z">
+        <seg>能够移动到认识的地方的幻想乡地图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48420,6 +48492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161808Z" creationid="UUZ" creationdate="20141224T161808Z">
         <seg>华扇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>華扇の無くし物。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154841Z" creationid="土妹子" creationdate="20150102T154841Z">
+        <seg>华扇丢的东西。</seg>
       </tuv>
     </tu>
     <tu>
