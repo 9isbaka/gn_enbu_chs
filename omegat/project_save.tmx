@@ -24638,6 +24638,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\n森にいるらしい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154223Z" creationid="土妹子" creationdate="20150102T154223Z">
+        <seg>\n似乎是在森林里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\n次ターン 動けなくなる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014406Z" creationid="UUZ" creationdate="20140906T110016Z">
@@ -30372,6 +30380,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135555Z" creationid="UUZ" creationdate="20140904T135555Z">
         <seg>爱丽丝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>アリスと言う人物への届け物。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154216Z" creationid="土妹子" creationdate="20150102T154216Z">
+        <seg>送给一个名叫爱丽丝的人的包裹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>アリスへの届け物</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154204Z" creationid="土妹子" creationdate="20150102T154204Z">
+        <seg>给爱丽丝的包裹</seg>
       </tuv>
     </tu>
     <tu>
@@ -36680,6 +36704,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形図鑑</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154053Z" creationid="土妹子" creationdate="20150102T154053Z">
+        <seg>人形图鉴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形撤退（交換）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134626Z" creationid="土妹子" creationdate="20141230T134626Z">
@@ -40664,6 +40696,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想郷に発生した人形について書かれた図鑑。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154121Z" creationid="土妹子" creationdate="20150102T154121Z">
+        <seg>写有幻想乡发现的人形的相关事项的图鉴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想郷の地図。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154244Z" creationid="土妹子" creationdate="20150102T154244Z">
+        <seg>幻想乡的地图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想郷の巫女</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115626Z" creationid="UUZ" creationdate="20141230T115626Z">
@@ -40676,6 +40724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115845Z" creationid="UUZ" creationdate="20141230T115845Z">
         <seg>幻想乡的贤者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想郷之地図</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154238Z" creationid="土妹子" creationdate="20150102T154238Z">
+        <seg>幻想乡之地图</seg>
       </tuv>
     </tu>
     <tu>
@@ -43404,6 +43460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021112Z" creationid="UUZ" creationdate="20140908T021112Z">
         <seg>橙色的宝石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>欠片状態の人形を入れておく箱。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154511Z" creationid="土妹子" creationdate="20150102T154511Z">
+        <seg>放入碎片状态的人形的箱子。</seg>
       </tuv>
     </tu>
     <tu>
