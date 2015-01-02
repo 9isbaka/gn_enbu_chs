@@ -34608,6 +34608,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形に持たせると野良人形との戦闘から必ず逃げられる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145109Z" creationid="土妹子" creationdate="20150102T145109Z">
+        <seg>人形携带后，必能能从野生人形战斗中逃跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形に持たせると鋼鉄属性のスキルで結界を貫通されたとき威力を弱める。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="UUZ" creationdate="20140907T145037Z">
