@@ -24616,8 +24616,8 @@
       <tuv lang="JA">
         <seg>\c毒状態の人形がもう一度毒を受けると 猛毒になります。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131940Z" creationid="UUZ" creationdate="20140908T131940Z">
-        <seg>\c毒状态的人形再中一次毒就会变成猛毒。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024233Z" creationid="UUZ" creationdate="20140908T131940Z">
+        <seg>\c毒状态的人形再中一次毒就会变成猛毒状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39706,8 +39706,8 @@
       <tuv lang="JA">
         <seg>俺の最強の人形達と勝負だ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132732Z" creationid="UUZ" creationdate="20140908T132732Z">
-        <seg>与我最强的人形决胜负吧！</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024348Z" creationid="UUZ" creationdate="20140908T132732Z">
+        <seg>与我最强的人形一决胜负吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42882,8 +42882,8 @@
       <tuv lang="JA">
         <seg>封印状態の野良人形を倒すと仲間にすることができます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131828Z" creationid="UUZ" creationdate="20140908T131828Z">
-        <seg>打倒处于封印状态的野生人形就能跟它成为伙伴。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024155Z" creationid="UUZ" creationdate="20140908T131828Z">
+        <seg>打倒处于封印状态的野生人形就能让它成为伙伴。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52178,8 +52178,8 @@
       <tuv lang="JA">
         <seg>貴方 人形遣いになったばかり？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132504Z" creationid="UUZ" creationdate="20140908T132428Z">
-        <seg>请问你是刚刚成为人形使吗？</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024309Z" creationid="UUZ" creationdate="20140908T132428Z">
+        <seg>请问您是刚刚成为人形使吗？</seg>
       </tuv>
     </tu>
     <tu>
