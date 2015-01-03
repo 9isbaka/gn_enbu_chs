@@ -31430,6 +31430,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どんなやつだろうな？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T031425Z" creationid="妄想" creationdate="20150103T031425Z">
+        <seg>到底是个怎样的家伙啊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どんな人形も封印する事のできる最高性能の糸。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042023Z" creationid="UUZ" creationdate="20140908T041614Z">
@@ -31564,6 +31572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T135552Z" creationid="UUZ" creationdate="20140908T135552Z">
         <seg>为什么我这个伪装成人类的妖怪被发现了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんでも経歴が特殊な人形遣いらしいぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T031443Z" creationid="妄想" creationdate="20150103T031250Z">
+        <seg>无论怎么说都像是有特殊经历的人形使。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46212,6 +46228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144953Z" creationid="UUZ" creationdate="20140906T144953Z">
         <seg>村纱水蜜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>来てからすぐにこの異変に順応してるとか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T031341Z" creationid="妄想" creationdate="20150103T031341Z">
+        <seg>来了之后马上就适应了异变。</seg>
       </tuv>
     </tu>
     <tu>
