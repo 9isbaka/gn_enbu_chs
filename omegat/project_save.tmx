@@ -45720,6 +45720,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>新しい名前が増えてるな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T030242Z" creationid="妄想" creationdate="20150103T030242Z">
+        <seg>又有新的名字增加了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>新米人形遣いの</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140109Z" creationid="UUZ" creationdate="20140910T135820Z">
@@ -45732,6 +45740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143112Z" creationid="UUZ" creationdate="20140908T143112Z">
         <seg>新闻里那个人形使所说的话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>新聞の人形遣い番付……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T030208Z" creationid="妄想" creationdate="20150103T030208Z">
+        <seg>新闻上的人形使名单……。</seg>
       </tuv>
     </tu>
     <tu>
