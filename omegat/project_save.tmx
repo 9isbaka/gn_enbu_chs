@@ -23574,14 +23574,6 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>\b</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T053313Z" creationid="UUZ" creationdate="20140908T053313Z">
-        <seg>\b</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>\b\c私は東風谷早苗といいます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T075831Z" creationid="UUZ" creationdate="20140908T075831Z">
@@ -23830,6 +23822,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cかといって 竹林は入りたくないよね……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101055Z" creationid="妄想" creationdate="20150103T101055Z">
+        <seg>\c话说回来，不想进竹林啊……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cこ これ以上は我が封印が解けてしまう！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T161918Z" creationid="UUZ" creationdate="20140908T161918Z">
@@ -23854,10 +23854,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cここらで落し物して探してるんだけど 妖怪に会ったらどうしよう……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T092728Z" creationid="妄想" creationdate="20150103T092728Z">
+        <seg>\c要是在找东西的时候碰到了妖怪该怎么办好呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cことわざは残酷なのん。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T122228Z" creationid="UUZ" creationdate="20140909T121235Z">
-        <seg>\c谚语真是残酷啊。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T045119Z" creationid="UUZ" creationdate="20140909T121235Z">
+        <seg>\c谚语还真是残酷啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23874,6 +23882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125003Z" creationid="UUZ" creationdate="20140909T125003Z">
         <seg>\c这两种输入方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cこれから君には多くの物語が待ち受けてるだろう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110414Z" creationid="妄想" creationdate="20150103T110414Z">
+        <seg>\c今后一定有更多的故事在等待着你吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24054,6 +24070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cちょっかいかけられたら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T053606Z" creationid="妄想" creationdate="20150103T053606Z">
+        <seg>\c如果一定要管呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cちょっと 説明がきを読みますね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T114031Z" creationid="UUZ" creationdate="20140908T114031Z">
@@ -24064,8 +24088,8 @@
       <tuv lang="JA">
         <seg>\cちょっと何見てるのよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T122533Z" creationid="UUZ" creationdate="20140908T122440Z">
-        <seg>\c你看什么看！</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T045720Z" creationid="UUZ" creationdate="20140908T122440Z">
+        <seg>\c看什么看！</seg>
       </tuv>
     </tu>
     <tu>
@@ -24394,6 +24418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T123938Z" creationid="UUZ" creationdate="20140909T123818Z">
         <seg>\c据说可以在异世界之间自由移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c休憩所は有意義につかうんじゃよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T034800Z" creationid="妄想" creationdate="20150103T034800Z">
+        <seg>\c有经常去休息所吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -27518,10 +27550,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>……ひっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T092641Z" creationid="妄想" creationdate="20150103T092641Z">
+        <seg>……哎呀！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>……ふっ 最強の人形遣いか……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143714Z" creationid="UUZ" creationdate="20140908T143714Z">
         <seg>……呵，最强的人形使吗……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>……ほう 見ない顔じゃのう 人形を持っているのかい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T034557Z" creationid="妄想" creationdate="20150103T034506Z">
+        <seg>……吼吼 没见过的面孔呢  你也有人形吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29480,8 +29528,8 @@
       <tuv lang="JA">
         <seg>『お団子』</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143919Z" creationid="UUZ" creationdate="20140908T143919Z">
-        <seg>『团子』</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T043328Z" creationid="UUZ" creationdate="20140908T143919Z">
+        <seg>『丸子』</seg>
       </tuv>
     </tu>
     <tu>
@@ -29622,6 +29670,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたもどう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063405Z" creationid="妄想" creationdate="20150103T063405Z">
+        <seg>你要一起唱吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたも人形も きちんと休めたみたいね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162322Z" creationid="UUZ" creationdate="20140909T162322Z">
@@ -29690,6 +29746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161734Z" creationid="UUZ" creationdate="20140909T161734Z">
         <seg>啊啦，不想空手而归的样子呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あら美味しそうね貴方。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T120356Z" creationid="妄想" creationdate="20150103T120356Z">
+        <seg>你看起来很好吃呀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29984,8 +30048,8 @@
       <tuv lang="JA">
         <seg>うーらめーしやー！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162137Z" creationid="UUZ" creationdate="20140908T162137Z">
-        <seg>うーらめーしやー！</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T044138Z" creationid="UUZ" creationdate="20140908T162137Z">
+        <seg>我~好~恨~啊！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30150,10 +30214,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おや人形遣いさんかえ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T104115Z" creationid="妄想" creationdate="20150103T104115Z">
+        <seg>哎，人形使大人？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おや？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132817Z" creationid="UUZ" creationdate="20140908T132817Z">
         <seg>哎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おーい でておいでー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T061234Z" creationid="妄想" creationdate="20150103T061234Z">
+        <seg>喂~快出来啊~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30186,6 +30266,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T012638Z" creationid="UUZ" creationdate="20140908T122429Z">
         <seg>人形真可爱啊，咕嘿咕嘿嘿嘿嘿…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お人形さんにもお仕事手伝って貰ってるんだ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T103040Z" creationid="妄想" creationdate="20150103T103040Z">
+        <seg>人形也能帮忙工作了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お人形さん探しかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101209Z" creationid="妄想" creationdate="20150103T101209Z">
+        <seg>寻找人形吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -30298,6 +30394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061900Z" creationid="UUZ" creationdate="20140908T061900Z">
         <seg>要买东西吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>か かくれんぼしてたんだけど……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101420Z" creationid="妄想" creationdate="20150103T101420Z">
+        <seg>我在捉迷藏，不过……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30462,6 +30566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここ どこだろう……？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101441Z" creationid="妄想" creationdate="20150103T101441Z">
+        <seg>这里是什么地方……？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここで使うことはできない・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T042851Z">
@@ -30566,6 +30678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここを真っ直ぐ行っても行き止まりだよー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101325Z" creationid="妄想" creationdate="20150103T101325Z">
+        <seg>这里一直往下走到头了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>こすず</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140515Z" creationid="UUZ" creationdate="20140904T140515Z">
@@ -30622,6 +30742,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この先からは野生の人形も人形遣いも手強くなってくるからのぉ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T102800Z" creationid="妄想" creationdate="20150103T102800Z">
+        <seg>这前面野生的人形会变得不好对付了起来哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この先に休憩所があるから しっかりと人形を休ませてあげてね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132641Z" creationid="UUZ" creationdate="20140908T132641Z">
@@ -30638,10 +30766,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この先は命蓮寺ですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T093303Z" creationid="妄想" creationdate="20150103T093303Z">
+        <seg>前面是命莲寺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この先も人形バトルをしたがってる人がいっぱいいるから 気を付けなよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132357Z" creationid="UUZ" creationdate="20140908T132357Z">
         <seg>在这前面进行人形战斗的人有很多，要小心哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この前人形に襲われて大変な目にあったわ……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101518Z" creationid="妄想" creationdate="20150103T101518Z">
+        <seg>上次被人形袭击真是太倒霉了……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30654,10 +30798,50 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この異変に何かしら関係があるのかしらね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T032625Z" creationid="妄想" creationdate="20150103T032625Z">
+        <seg>跟这场异变有什么关系呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この神社の主は私じゃなくて霊夢さんという人なんですよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112052Z" creationid="UUZ" creationdate="20140908T112052Z">
         <seg>这座神社的主人不是我，而是那个叫灵梦的人哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この辺りに こがさが出ると聞いたんだけど……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T060503Z" creationid="妄想" creationdate="20150103T060503Z">
+        <seg>听说这附近有小伞出没……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この辺りは空気が澄んでいて好きなんだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T085236Z" creationid="妄想" creationdate="20150103T085236Z">
+        <seg>这里的空气很清新，我很喜欢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この辺りは迷いやすいから 気を付けてなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T103926Z" creationid="妄想" creationdate="20150103T103926Z">
+        <seg>这附近很容易迷路，请小心一点哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この頃お空での弾幕ごっこ見なくなったなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T111252Z" creationid="妄想" creationdate="20150103T111252Z">
+        <seg>最近的天空看不到弹幕游戏了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30718,6 +30902,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これ歌ってると楽しくなるのよねー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063651Z" creationid="妄想" creationdate="20150103T063651Z">
+        <seg>唱歌真是令人愉悦啦ー！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>こんなに強いだなんて！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T142616Z" creationid="UUZ" creationdate="20140908T151539Z">
@@ -30726,10 +30918,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>こんな可愛い人形を戦わせるなんて とんでもない！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T083735Z" creationid="妄想" creationdate="20150103T080203Z">
+        <seg>怎么能让这么可爱的人形参加战斗呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ごゆっくりどうぞ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061201Z" creationid="UUZ" creationdate="20140908T054440Z">
         <seg>请慢用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さぁ いってらっしゃい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110432Z" creationid="妄想" creationdate="20150103T110432Z">
+        <seg>那么，一路顺风哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -31262,6 +31470,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ちょっとさびしいな……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T111308Z" creationid="妄想" creationdate="20150103T111308Z">
+        <seg>稍稍有些寂寞……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ちょっとしたお礼にしかならないと思うけど・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161838Z" creationid="UUZ" creationdate="20140909T161838Z">
@@ -31290,6 +31506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T144216Z" creationid="UUZ" creationdate="20140909T144216Z">
         <seg>等一下！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>って 人かぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T092654Z" creationid="妄想" creationdate="20150103T092654Z">
+        <seg>原来是人类啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31406,6 +31630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どこか目指してるのかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T104128Z" creationid="妄想" creationdate="20150103T104128Z">
+        <seg>要去那边吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どこの言語だろうか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T154351Z" creationid="UUZ" creationdate="20140908T154351Z">
@@ -31414,10 +31646,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どこ行くの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094503Z" creationid="妄想" creationdate="20150103T094503Z">
+        <seg>去哪里？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どろだんご</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T113609Z" creationid="UUZ" creationdate="20140906T113609Z">
         <seg>泥团子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どんなやつだろうな？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T031425Z" creationid="妄想" creationdate="20150103T031425Z">
+        <seg>到底是个怎样的家伙啊？</seg>
       </tuv>
     </tu>
     <tu>
@@ -31560,6 +31808,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんでも噂じゃ 外から来た人間らしいわよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T033746Z" creationid="妄想" creationdate="20150103T033746Z">
+        <seg>不是什么传言，似乎是来自外界的人类哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんでも経歴が特殊な人形遣いらしいぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T031443Z" creationid="妄想" creationdate="20150103T031250Z">
+        <seg>无论怎么说都像是有特殊经历的人形使。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんらかの地相状態の時 集防・散防が２倍になり 状態異常にかからない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094845Z" creationid="土妹子" creationdate="20141231T094845Z">
@@ -31612,6 +31876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062428Z" creationid="UUZ" creationdate="20140908T062110Z">
         <seg>呐~\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ねぇどこ行くの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094514Z" creationid="妄想" creationdate="20150103T094514Z">
+        <seg>你要去哪里？</seg>
       </tuv>
     </tu>
     <tu>
@@ -32304,6 +32576,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>らんららー♪\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T062857Z" creationid="妄想" creationdate="20150103T062857Z">
+        <seg>啦啦啦ー♪\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>らんらーららららら♪\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063438Z" creationid="妄想" creationdate="20150103T063438Z">
+        <seg>啦啦啦~啦啦啦啦啦啦♪\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>りか</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135407Z" creationid="UUZ" creationdate="20140904T135407Z">
@@ -32356,6 +32644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135842Z" creationid="UUZ" creationdate="20140904T135842Z">
         <seg>莲子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わぁ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094455Z" creationid="妄想" creationdate="20150103T094424Z">
+        <seg>哇！</seg>
       </tuv>
     </tu>
     <tu>
@@ -32436,6 +32732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140025Z" creationid="UUZ" creationdate="20140909T140025Z">
         <seg>哇哇！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>んー・・・強い人形探してここまで来たんだけど 中々見つから無いなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T100413Z" creationid="妄想" creationdate="20150103T100413Z">
+        <seg>嗯~・・・在这里寻找厉害的人形，结果却找不到啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39512,6 +39816,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・頑張れ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T053622Z" creationid="妄想" creationdate="20150103T053622Z">
+        <seg>・・・加油。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>一の道</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155721Z" creationid="UUZ" creationdate="20140824T155707Z">
@@ -40176,6 +40488,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人も妖も聖様は平等なのです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T093924Z" creationid="妄想" creationdate="20150103T093924Z">
+        <seg>人与妖怪，圣大人都是平等的对待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人型の木札。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152022Z" creationid="UUZ" creationdate="20140908T033148Z">
@@ -40204,6 +40524,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T160648Z" creationid="UUZ" creationdate="20140908T160447Z">
         <seg>有人形与座敷童子的话真好，一个人生活也不会寂寞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形と一緒に歌ってるの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T062916Z" creationid="妄想" creationdate="20150103T062916Z">
+        <seg>我在和人形一起唱歌哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40848,6 +41176,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形異変を解決しに行くのかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T105307Z" creationid="妄想" creationdate="20150103T105307Z">
+        <seg>要去解决人形异变了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形登場</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134615Z" creationid="土妹子" creationdate="20141230T134615Z">
@@ -40920,6 +41256,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形遣いかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110451Z" creationid="妄想" creationdate="20150103T110451Z">
+        <seg>人形使吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人気のない道は気をつけなよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T121227Z" creationid="UUZ" creationdate="20140908T163203Z">
@@ -40936,10 +41280,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人里から離れれば離れるほど野生の人形も強くなるからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T071253Z" creationid="妄想" creationdate="20150103T071208Z">
+        <seg>从人间之里离开后，所遇到的人形会变强哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人里なら神社を出てから西に進むと見えてきますよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112646Z" creationid="UUZ" creationdate="20140908T112646Z">
         <seg>从神社出来一直向西前进就能看到人类村落了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間さんだ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094435Z" creationid="妄想" creationdate="20150103T094435Z">
+        <seg>人类先生！</seg>
       </tuv>
     </tu>
     <tu>
@@ -41124,6 +41484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140431Z" creationid="UUZ" creationdate="20140907T140431Z">
         <seg>相位反转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>体力があっても スキルが出せなくなってしまうからの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T043315Z" creationid="妄想" creationdate="20150103T043315Z">
+        <seg>有时候即使体力充沛，技能也会无法使用哦（SP不足的情况）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41408,10 +41776,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>備えあれば憂いなしともいうし 準備は万端に！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T071244Z" creationid="妄想" creationdate="20150103T071244Z">
+        <seg>请做好万全的准备再出发哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>僕は 行商をやっているんだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061306Z" creationid="UUZ" creationdate="20140908T061306Z">
         <seg>我是四处行商的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>僕は人形遣いじゃないよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T083722Z" creationid="妄想" creationdate="20150103T083722Z">
+        <seg>我可不是人形使哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>優しいけど強くてかっこいいの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094400Z" creationid="妄想" creationdate="20150103T094400Z">
+        <seg>很强很帅但也很温柔！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42480,6 +42872,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>君も少し休んでいくと良いよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T085343Z" creationid="妄想" creationdate="20150103T085343Z">
+        <seg>你也能在这里多休息一下就好了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>吟醸酒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144538Z" creationid="UUZ" creationdate="20140907T144532Z">
@@ -43248,6 +43648,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>外から来た人間だっけ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T051213Z" creationid="妄想" creationdate="20150103T051213Z">
+        <seg>从外面来的人类？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>外の世界</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T132254Z" creationid="土妹子" creationdate="20141230T132254Z">
@@ -43868,6 +44276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T123812Z" creationid="UUZ" creationdate="20140909T123623Z">
         <seg>我是妖怪的事不会暴露了吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪にはちょっかいかけちゃ駄目だよ 危ないからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T051950Z" creationid="妄想" creationdate="20150103T051950Z">
+        <seg>不要对妖怪多管闲事哦，很危险的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47216,6 +47632,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>新しい名前が増えてるな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T030242Z" creationid="妄想" creationdate="20150103T030242Z">
+        <seg>又有新的名字增加了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>新米人形遣いの</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164444Z" creationid="UUZ" creationdate="20140910T135820Z">
@@ -47234,8 +47658,16 @@
       <tuv lang="JA">
         <seg>新聞の人形遣いの話。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143112Z" creationid="UUZ" creationdate="20140908T143112Z">
-        <seg>新闻里那个人形使所说的话。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T033101Z" creationid="UUZ" creationdate="20140908T143112Z">
+        <seg>新闻中关于那个人形使的报道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>新聞の人形遣い番付……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T030208Z" creationid="妄想" creationdate="20150103T030208Z">
+        <seg>新闻上的人形使名单……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47288,6 +47720,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>早くこの異変終わらないかなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101542Z" creationid="妄想" creationdate="20150103T101542Z">
+        <seg>快点结束掉这场异变吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>早目</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031216Z" creationid="土妹子" creationdate="20141231T031216Z">
@@ -47308,6 +47748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143611Z" creationid="UUZ" creationdate="20140906T143611Z">
         <seg>明罗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>昔は冒険をしたかったけど 稼業を継がないといけなくてなぁ……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110320Z" creationid="妄想" creationdate="20150103T110320Z">
+        <seg>以前想要去冒险，不过继承了家业没有去成……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47492,6 +47940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T142007Z" creationid="UUZ" creationdate="20140908T142007Z">
         <seg>最近「最强的人形使」出现了的样子！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最近じゃあ人形のある風景も見慣れてきたねぇ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110533Z" creationid="妄想" creationdate="20150103T110533Z">
+        <seg>最近人形存在的风景也看腻了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47692,6 +48148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144953Z" creationid="UUZ" creationdate="20140906T144953Z">
         <seg>村纱水蜜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>来てからすぐにこの異変に順応してるとか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T031341Z" creationid="妄想" creationdate="20150103T031341Z">
+        <seg>来了之后马上就适应了异变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52032,6 +52496,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>聖様は凄い人なんだよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094307Z" creationid="妄想" creationdate="20150103T094307Z">
+        <seg>圣大人是一个很厉害的人！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>聖白蓮</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145004Z" creationid="UUZ" creationdate="20140906T145004Z">
@@ -53610,8 +54082,8 @@
       <tuv lang="JA">
         <seg>誰かを恨んでるって訳ではないんだけど……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162740Z" creationid="UUZ" creationdate="20140908T162740Z">
-        <seg>我不是对别人怀恨在心，不是这个意思的说……。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T044315Z" creationid="UUZ" creationdate="20140908T162740Z">
+        <seg>人家不是对别人怀恨在心啦，不是这个意思的说……。</seg>
       </tuv>
     </tu>
     <tu>
