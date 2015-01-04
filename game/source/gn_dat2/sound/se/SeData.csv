@@ -24,7 +24,7 @@ ID,コード,名前,完成
 22,dummy,,×
 23,syun,瞬間移動,×
 24,warp02,シューン,×
-25,dummy,,×
+25,doorBig,重いドア,×
 26,dummy,,×
 27,collision,壁にぶつかる,○
 28,jump,跳ねる,○
