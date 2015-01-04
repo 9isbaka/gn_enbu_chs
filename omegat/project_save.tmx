@@ -24160,8 +24160,8 @@
       <tuv lang="JA">
         <seg>\cねぇ 起きてくれないかしら？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062423Z" creationid="UUZ" creationdate="20140908T062200Z">
-        <seg>\c呐~ 起床了吗？</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163459Z" creationid="UUZ" creationdate="20140908T062200Z">
+        <seg>\c呐～ 起床了吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -32300,6 +32300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061622Z" creationid="UUZ" creationdate="20140908T061217Z">
         <seg>再次拜托你了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>またあなたとは遊びたいものね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163449Z" creationid="土妹子" creationdate="20150104T163449Z">
+        <seg>真想再和你玩啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40538,8 +40546,8 @@
       <tuv lang="JA">
         <seg>・・・知らないかしら？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T062740Z">
-        <seg>···难道不知道吗？</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163517Z" creationid="UUZ" creationdate="20140908T062740Z">
+        <seg>……难道不知道吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -42132,6 +42140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T102706Z" creationid="UUZ" creationdate="20140908T102706Z">
         <seg>但受异变影响，现在人形对战成为了主流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>今までの 活躍を記録します。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163408Z" creationid="土妹子" creationdate="20150104T163408Z">
+        <seg>记录下至今为止的活跃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51452,6 +51468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130035Z" creationid="UUZ" creationdate="20140906T130035Z">
         <seg>盗电充电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>目が覚めたら元に戻るわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163436Z" creationid="土妹子" creationdate="20150104T163436Z">
+        <seg>睡醒了就会还原啊。</seg>
       </tuv>
     </tu>
     <tu>
