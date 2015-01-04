@@ -23648,8 +23648,8 @@
       <tuv lang="JA">
         <seg>\c\tにニックネームを付けますか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054130Z" creationid="UUZ" creationdate="20140908T053355Z">
-        <seg>\c\t要起昵称吗？</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161356Z" creationid="UUZ" creationdate="20140908T053355Z">
+        <seg>\c要给\t起昵称吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -25848,8 +25848,8 @@
       <tuv lang="JA">
         <seg>\pたちは 休んで元気になった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054806Z" creationid="UUZ" creationdate="20140908T054806Z">
-        <seg>\p经过休息恢复了精神！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161516Z" creationid="UUZ" creationdate="20140908T054806Z">
+        <seg>\p和小伙伴们　经过休息恢复了精神！</seg>
       </tuv>
     </tu>
     <tu>
@@ -25958,26 +25958,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\tの効果が切れた。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161303Z" creationid="土妹子" creationdate="20150104T161303Z">
+        <seg>\t的效果结束了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\tは 持ち物がいっぱいで持てない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T054914Z">
-        <seg>\t 因为拿着的东西太多放不下了···</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161554Z" creationid="UUZ" creationdate="20140908T054914Z">
+        <seg>因为拿着的东西太多　没法拿\t 了……</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\tを使って しばらくの間 野良人形と出会いにくくなった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T052736Z" creationid="UUZ" creationdate="20140908T051227Z">
-        <seg>\t使用期间，难与野生人形相遇！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161255Z" creationid="UUZ" creationdate="20140908T051227Z">
+        <seg>使用了\t，暂时不容易遇到野生人形了！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\tを手に入れた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054821Z" creationid="UUZ" creationdate="20140908T054821Z">
-        <seg>\t入手了！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161524Z" creationid="UUZ" creationdate="20140908T054821Z">
+        <seg>得到了\t！</seg>
       </tuv>
     </tu>
     <tu>
@@ -29750,6 +29758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161604Z" creationid="土妹子" creationdate="20150104T161604Z">
+        <seg>啊啦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら美味しそうね貴方。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T120356Z" creationid="妄想" creationdate="20150103T120356Z">
@@ -30584,8 +30600,8 @@
       <tuv lang="JA">
         <seg>ここなら人形箱を開けられそうだ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T053140Z" creationid="UUZ" creationdate="20140908T053140Z">
-        <seg>据说这里可以打开人形箱！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161314Z" creationid="UUZ" creationdate="20140908T053140Z">
+        <seg>这里似乎可以打开人形箱！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30648,8 +30664,8 @@
       <tuv lang="JA">
         <seg>ここは流れが速い！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042829Z" creationid="UUZ" creationdate="20140908T042829Z">
-        <seg>这里的流速太快了！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161222Z" creationid="UUZ" creationdate="20140908T042829Z">
+        <seg>这里的水流太快了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30910,6 +30926,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>こんなところに人間なんて珍しいわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161618Z" creationid="土妹子" creationdate="20150104T161618Z">
+        <seg>这地方人类很少见的呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>こんなに強いだなんて！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T142616Z" creationid="UUZ" creationdate="20140908T151539Z">
@@ -30928,8 +30952,8 @@
       <tuv lang="JA">
         <seg>ごゆっくりどうぞ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061201Z" creationid="UUZ" creationdate="20140908T054440Z">
-        <seg>请慢用！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161415Z" creationid="UUZ" creationdate="20140908T054440Z">
+        <seg>请馒馒来！</seg>
       </tuv>
     </tu>
     <tu>
@@ -39394,8 +39418,8 @@
       <tuv lang="JA">
         <seg>モトユキ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T031428Z" creationid="UUZ" creationdate="20140910T140050Z">
-        <seg>Motoyuki</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161055Z" creationid="UUZ" creationdate="20140910T140050Z">
+        <seg>元幸</seg>
       </tuv>
     </tu>
     <tu>
@@ -42882,8 +42906,8 @@
       <tuv lang="JA">
         <seg>切れそうな細い木がある！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054559Z" creationid="UUZ" creationdate="20140908T054559Z">
-        <seg>快要折断的细树！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161442Z" creationid="UUZ" creationdate="20140908T054559Z">
+        <seg>有棵似乎能切断的小树！</seg>
       </tuv>
     </tu>
     <tu>
@@ -53186,8 +53210,8 @@
       <tuv lang="JA">
         <seg>脆そうな岩だ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054657Z" creationid="UUZ" creationdate="20140908T054657Z">
-        <seg>十分脆弱的岩石！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161458Z" creationid="UUZ" creationdate="20140908T054657Z">
+        <seg>似乎很脆弱的岩石！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55714,8 +55738,8 @@
       <tuv lang="JA">
         <seg>鍵が掛かっていて入れない・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T042533Z">
-        <seg>请按住按键···</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161128Z" creationid="UUZ" creationdate="20140908T042533Z">
+        <seg>锁住了进不去……</seg>
       </tuv>
     </tu>
     <tu>
