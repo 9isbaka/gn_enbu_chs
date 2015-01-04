@@ -24014,6 +24014,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそれなら・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161759Z" creationid="土妹子" creationdate="20150104T161759Z">
+        <seg>\c这样的话……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそれに・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T160914Z" creationid="UUZ" creationdate="20140909T160914Z">
@@ -24190,6 +24198,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cへぇ \pさん というのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161724Z" creationid="土妹子" creationdate="20150104T161724Z">
+        <seg>\c诶，你叫\p呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cほら どいてどいて！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125916Z" creationid="UUZ" creationdate="20140909T125916Z">
@@ -24210,6 +24226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155748Z" creationid="UUZ" creationdate="20140909T155748Z">
         <seg>\c还想打的话就放马过来吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cもし どうしても人形の封印を解除したくなったら 私のところへいらっしゃい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161953Z" creationid="土妹子" creationdate="20150104T161953Z">
+        <seg>\c如果无论如何还是想解除人形的封印的话，就到我这里来吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24534,6 +24558,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c封印を解除すると きっと二度と会えなくなるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162206Z" creationid="土妹子" creationdate="20150104T162206Z">
+        <seg>一旦解除了\c的封印，就再也遇不到了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c少しだけお話しましょ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062335Z" creationid="UUZ" creationdate="20140908T062335Z">
@@ -24678,6 +24710,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c私は 人形の封印の解除ができるのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161813Z" creationid="土妹子" creationdate="20150104T161809Z">
+        <seg>\c我能解除人形的封印哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c私はここのお留守番を頼まれているので一緒にはいけませんが 人形がいれば大丈夫です。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T133512Z" creationid="UUZ" creationdate="20140908T101052Z">
@@ -24754,6 +24794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151625Z" creationid="UUZ" creationdate="20140909T151600Z">
         <seg>\c一路上要小心啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\dの封印を解除するのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162137Z" creationid="土妹子" creationdate="20150104T162137Z">
+        <seg>要解除\d的封印呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29718,6 +29766,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あまり 頼ってほしくはないのだけどね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162030Z" creationid="土妹子" creationdate="20150104T162030Z">
+        <seg>不过还是不太想被拜托这种事呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あや</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140112Z" creationid="UUZ" creationdate="20140904T140112Z">
@@ -31246,6 +31302,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そう・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162053Z" creationid="土妹子" creationdate="20150104T162047Z">
+        <seg>这样啊……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そこそこの値段で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142405Z" creationid="UUZ" creationdate="20140907T142122Z">
@@ -31674,6 +31738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094503Z" creationid="妄想" creationdate="20150103T094503Z">
         <seg>去哪里？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どの子に するのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162120Z" creationid="土妹子" creationdate="20150104T162120Z">
+        <seg>要对哪孩子动手呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41720,10 +41792,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形の封印を 解除したいの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162039Z" creationid="土妹子" creationdate="20150104T162039Z">
+        <seg>想要解除人形的封印吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形の怨返し</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T135129Z" creationid="UUZ" creationdate="20140906T135129Z">
         <seg>人形的怨返</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形の異変を解決するために 各地を巡っていると。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161751Z" creationid="土妹子" creationdate="20150104T161751Z">
+        <seg>为了解决人形异变正在周游各地。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45420,6 +45508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153934Z" creationid="UUZ" creationdate="20140908T041421Z">
         <seg>比封印之丝更容易封印人形，性能略好的丝线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>封印を解除した人形とは 二度と会えなくなってしまうけど・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161843Z" creationid="土妹子" creationdate="20150104T161843Z">
+        <seg>虽然解除了封印的人形就再也遇不到了……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -55004,6 +55100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155134Z" creationid="UUZ" creationdate="20140824T155134Z">
         <seg>迷途竹林,chikurin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>迷い込んじゃったのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161658Z" creationid="土妹子" creationdate="20150104T161658Z">
+        <seg>是不是迷路了？</seg>
       </tuv>
     </tu>
     <tu>
