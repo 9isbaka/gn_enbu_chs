@@ -31182,6 +31182,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここに忍び込んだからには 排除をしなくてはね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160236Z" creationid="土妹子" creationdate="20150105T160236Z">
+        <seg>因为是潜入这里的，不排除掉不行呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここに興味があるのか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032620Z" creationid="土妹子" creationdate="20150105T032620Z">
@@ -31522,6 +31530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063651Z" creationid="妄想" creationdate="20150103T063651Z">
         <seg>唱歌真是令人愉悦啦ー！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>こんなことをしても 順調に進めるとは思わないけれど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160338Z" creationid="土妹子" creationdate="20150105T160335Z">
+        <seg>就算这样做了，我也不认为你能顺利前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33660,6 +33676,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151642Z" creationid="UUZ" creationdate="20140906T151642Z">
         <seg>若鹭姬（水上）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わかったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160248Z" creationid="土妹子" creationdate="20150105T160248Z">
+        <seg>知道了哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42748,6 +42772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113210Z" creationid="土妹子" creationdate="20150105T113205Z">
         <seg>人形的力量之源是魔力哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形の回復かしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160243Z" creationid="土妹子" creationdate="20150105T160243Z">
+        <seg>是要回复人形吗？</seg>
       </tuv>
     </tu>
     <tu>
