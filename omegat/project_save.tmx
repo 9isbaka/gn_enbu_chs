@@ -24542,6 +24542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c・・・本もないし 嘘じゃなさそうだな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161635Z" creationid="土妹子" creationdate="20150105T161635Z">
+        <seg>\c……书也没有，似乎不像是假话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c・・・私への届け物？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112749Z" creationid="土妹子" creationdate="20150105T112749Z">
@@ -25026,6 +25034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055807Z" creationid="UUZ" creationdate="20140909T153322Z">
         <seg>\c我是解决一切异变的专家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c私がこの館の主。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161832Z" creationid="土妹子" creationdate="20150105T161832Z">
+        <seg>\c我是这个馆的主人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30126,6 +30142,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたが来ることは わかっていたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161822Z" creationid="土妹子" creationdate="20150105T161822Z">
+        <seg>我已经知道你要来了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたここまで来るのに疲れたりしていない？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162215Z" creationid="UUZ" creationdate="20140909T162215Z">
@@ -31750,6 +31774,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>じゃあ 私は 見つかる前にずらかることにするぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161732Z" creationid="土妹子" creationdate="20150105T161732Z">
+        <seg>那么，我要在被发现之前赶紧溜走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>じゃあ 誰がお気に入りなんだ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034625Z" creationid="土妹子" creationdate="20150105T034625Z">
@@ -33104,6 +33136,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>またな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161737Z" creationid="土妹子" creationdate="20150105T161737Z">
+        <seg>回见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>またのお越しをお待ちしております。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T141326Z" creationid="UUZ" creationdate="20140908T141326Z">
@@ -33412,6 +33452,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140620Z" creationid="UUZ" creationdate="20140904T140620Z">
         <seg>八桥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やばっ\b・・・って\pか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161415Z" creationid="土妹子" creationdate="20150105T161415Z">
+        <seg>果然\b……\p吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39016,6 +39064,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>パチュリーが無関係だって言ってた？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161619Z" creationid="土妹子" creationdate="20150105T161619Z">
+        <seg>帕秋莉说和她没有关系？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>パチュリー・ノーレッジ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154556Z">
@@ -41832,6 +41888,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>不思議な力で 扉を開けることができない……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161801Z" creationid="土妹子" creationdate="20150105T161801Z">
+        <seg>由于不可思议的力量，无法打开门……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>不思議な指輪。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T025009Z" creationid="UUZ" creationdate="20140908T025009Z">
@@ -42684,6 +42748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151058Z" creationid="土妹子" creationdate="20150101T144942Z">
         <seg>人形携带时可以在ＳＰ用完时回复１０点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形に関する本なら まだ見つかってないぞ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161558Z" creationid="土妹子" creationdate="20150105T161558Z">
+        <seg>和人形有关的书还没找到呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54152,6 +54224,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紅魔館へようこそ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161808Z" creationid="土妹子" creationdate="20150105T161808Z">
+        <seg>欢迎来到红魔馆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>純水のベール</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T091808Z" creationid="UUZ" creationdate="20140906T092059Z">
@@ -56772,6 +56852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162923Z" creationid="UUZ" creationdate="20140908T041447Z">
         <seg>命运之丝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>運命を見通すことができるのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161847Z" creationid="土妹子" creationdate="20150105T161847Z">
+        <seg>能够看穿命运哦。</seg>
       </tuv>
     </tu>
     <tu>
