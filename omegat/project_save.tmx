@@ -29886,6 +29886,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あれ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034609Z" creationid="土妹子" creationdate="20150105T034609Z">
+        <seg>啊咧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんたでしょ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151731Z" creationid="UUZ" creationdate="20140909T151725Z">
@@ -30242,6 +30250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140953Z" creationid="UUZ" creationdate="20140909T140953Z">
         <seg>啊呀！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おかしいわね……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034700Z" creationid="土妹子" creationdate="20150105T034700Z">
+        <seg>好奇怪啊……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31186,6 +31202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T064618Z" creationid="UUZ" creationdate="20140908T064618Z">
         <seg>那么，你的名字叫什么呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>じゃあ 誰がお気に入りなんだ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034625Z" creationid="土妹子" creationdate="20150105T034625Z">
+        <seg>那么，你的本命是谁？</seg>
       </tuv>
     </tu>
     <tu>
@@ -38986,8 +39010,8 @@
       <tuv lang="JA">
         <seg>マエリベリー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T130353Z" creationid="UUZ" creationdate="20140908T130353Z">
-        <seg>梅莉</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034653Z" creationid="UUZ" creationdate="20140908T130353Z">
+        <seg>玛艾露贝莉</seg>
       </tuv>
     </tu>
     <tu>
@@ -43168,6 +43192,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>前に来た時は この辺りに境界が見えたのだけど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034719Z" creationid="土妹子" creationdate="20150105T034719Z">
+        <seg>之前来的时候，明明在这边看到了境界的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>前のターンに 味方が 倒されていると 威力が 倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064419Z" creationid="土妹子" creationdate="20150101T064419Z">
@@ -43636,6 +43668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131528Z" creationid="UUZ" creationdate="20140908T131454Z">
         <seg>古老的神社呢…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>古い神社ねぇ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034742Z" creationid="土妹子" creationdate="20150105T034742Z">
+        <seg>老旧的神社呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54794,8 +54834,8 @@
       <tuv lang="JA">
         <seg>見た目は ただの廃神社だけど……\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T125634Z" creationid="UUZ" creationdate="20140908T125634Z">
-        <seg>看上去只是个废弃神社……\b</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034727Z" creationid="UUZ" creationdate="20140908T125634Z">
+        <seg>虽然看上去只是个废弃神社……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -55668,6 +55708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023912Z" creationid="土妹子" creationdate="20141231T023912Z">
         <seg>达人的格挡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>違ったか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034615Z" creationid="土妹子" creationdate="20150105T034615Z">
+        <seg>不对吗。</seg>
       </tuv>
     </tu>
     <tu>
