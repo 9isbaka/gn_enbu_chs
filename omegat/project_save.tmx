@@ -24358,6 +24358,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113030Z" creationid="土妹子" creationdate="20150105T113030Z">
+        <seg>\c……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c・・・あたいがサイキョーじゃなくなっちゃうから 里に逃げたみんなを追っちゃダメだからな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053333Z" creationid="UUZ" creationdate="20141228T100446Z">
@@ -24410,6 +24418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112322Z" creationid="土妹子" creationdate="20150105T112322Z">
         <seg>\c……嘛，不过先帮我点忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c・・・ん？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113413Z" creationid="土妹子" creationdate="20150105T113413Z">
+        <seg>\c……嗯？</seg>
       </tuv>
     </tu>
     <tu>
@@ -24642,6 +24658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060403Z" creationid="UUZ" creationdate="20140908T060403Z">
         <seg>\c右边是建筑物与洞窟地图切换的测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c吸血鬼もいるから 食べられちゃわないようにね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113150Z" creationid="土妹子" creationdate="20150105T113150Z">
+        <seg>\c因为也有吸血鬼，不要被吃掉了哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24898,6 +24922,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050240Z" creationid="UUZ" creationdate="20140908T115812Z">
         <seg>\c可以打开箱子的地方应该有阿求人形作为记号，请好好活用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c紅魔館と言う場所の図書館にいる 魔女に関係があるかもしれないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113124Z" creationid="土妹子" creationdate="20150105T113124Z">
+        <seg>\c在叫红魔馆的地方有个图书馆，里面的魔女说不定和这有什么关系。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c紅魔館と言う場所の図書館にいる 魔女に関係があるかもしれないわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113223Z" creationid="土妹子" creationdate="20150105T113223Z">
+        <seg>\c在叫红魔馆的地方有个图书馆，里面的魔女说不定和这有什么关系。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c紅魔館なら 五の道を北方向に進んだ先の 霧の湖のほとりにあるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113318Z" creationid="土妹子" creationdate="20150105T113318Z">
+        <seg>\c红魔馆的话，就在顺着五之道向北走的雾之湖的湖畔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29902,6 +29950,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなた ここまで来るのに疲れたりしていない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112956Z" creationid="土妹子" creationdate="20150105T112956Z">
+        <seg>你走到这里不累吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたここまで来るのに疲れたりしていない？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162215Z" creationid="UUZ" creationdate="20140909T162215Z">
@@ -29944,8 +30000,8 @@
       <tuv lang="JA">
         <seg>あなたも人形も きちんと休めたみたいね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162322Z" creationid="UUZ" creationdate="20140909T162322Z">
-        <seg>你也会让人形好好休息的呢。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113026Z" creationid="UUZ" creationdate="20140909T162322Z">
+        <seg>你和人形似乎都好好休息了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30536,8 +30592,8 @@
       <tuv lang="JA">
         <seg>おや ずいぶん時間が掛かったようだね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T124601Z" creationid="UUZ" creationdate="20140909T124523Z">
-        <seg>哎呀，相当花费时间的样子啊。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113345Z" creationid="UUZ" creationdate="20140909T124523Z">
+        <seg>哎呀，花了不少时间的样子呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32260,6 +32316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155434Z" creationid="UUZ" creationdate="20140909T155434Z">
         <seg>什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なるほど アリスから聞いたんだね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113429Z" creationid="土妹子" creationdate="20150105T113429Z">
+        <seg>原来如此，是爱丽丝告诉你的呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42360,6 +42424,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形の力の源は魔力よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113210Z" creationid="土妹子" creationdate="20150105T113205Z">
+        <seg>人形的力量之源是魔力哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形の回復を待っているの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133405Z" creationid="UUZ" creationdate="20140908T133405Z">
@@ -42404,6 +42476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161751Z" creationid="土妹子" creationdate="20150104T161751Z">
         <seg>为了解决人形异变正在周游各地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形は魔力で動いているのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113044Z" creationid="土妹子" creationdate="20150105T113044Z">
+        <seg>人形是靠魔力行动的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42932,6 +43012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T015253Z" creationid="UUZ" creationdate="20140907T141428Z">
         <seg>一次性的护符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>使い方は説明がきに書いておいたからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113407Z" creationid="土妹子" creationdate="20150105T113407Z">
+        <seg>使用方法已经写在说明书上了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44208,6 +44296,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>同じ道を戻るんだから 少し休んでいくといいわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113011Z" creationid="土妹子" creationdate="20150105T113011Z">
+        <seg>因为还要原路返回，稍微休息下比较好啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>同じ道を戻るんだから 少し休んでいったら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162252Z" creationid="UUZ" creationdate="20140909T162252Z">
@@ -44268,6 +44364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162709Z" creationid="UUZ" creationdate="20140909T162709Z">
         <seg>因为那里有吸血鬼在，所以小心不要被吃了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>吸血鬼もいるから 食べられちゃわないようにね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113333Z" creationid="土妹子" creationdate="20150105T113333Z">
+        <seg>因为也有吸血鬼，不要被吃掉了哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53552,6 +53656,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紅魔館かい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113418Z" creationid="土妹子" creationdate="20150105T113418Z">
+        <seg>红魔馆吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紅魔館なら 五の道を北方向に進んだ先の霧の湖のほとりにあるわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162720Z" creationid="UUZ" creationdate="20140909T162720Z">
@@ -55276,6 +55388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T122914Z" creationid="UUZ" creationdate="20140908T122914Z">
         <seg>走过去太辛苦了，路上还有各种各样的危险……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>行ってみたらどうかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113135Z" creationid="土妹子" creationdate="20150105T113135Z">
+        <seg>试着去一下如何？</seg>
       </tuv>
     </tu>
     <tu>
