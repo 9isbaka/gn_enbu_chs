@@ -23974,6 +23974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cしかし あそこへ行くには邪魔な木を切れるものが必要なんだが……\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113845Z" creationid="土妹子" creationdate="20150105T113503Z">
+        <seg>\c但是要去那里，必须要有能砍掉挡路的树的东西……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cしかも厄介なことに結界が強いままだと</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T082654Z" creationid="UUZ" creationdate="20140908T082204Z">
