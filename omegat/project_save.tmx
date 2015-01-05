@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -51915,8 +51915,7 @@
         <seg>持っていると属性相性で無効の 相手のスキルが当たるようになる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T161550Z" creationid="UUZ" creationdate="20150105T161550Z">
-        <seg>携带后，因为属性相性无效的对手技能会变得能够命中。
-</seg>
+        <seg>携带后，因为属性相性无效的对手技能会变得能够命中。</seg>
       </tuv>
     </tu>
     <tu>
