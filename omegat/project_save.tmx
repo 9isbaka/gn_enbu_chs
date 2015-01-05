@@ -23728,8 +23728,8 @@
       <tuv lang="JA">
         <seg>\c『封印の糸は戦闘中の道具メニューから使用できます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T114118Z" creationid="UUZ" creationdate="20140908T114118Z">
-        <seg>\c『封印之线可以在战斗中的道具菜单中使用。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T045844Z" creationid="UUZ" creationdate="20140908T114118Z">
+        <seg>\c『封印之丝可以在战斗中的道具菜单中使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23904,8 +23904,8 @@
       <tuv lang="JA">
         <seg>\cこれで使い方は バッチリですよね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T114853Z" creationid="UUZ" creationdate="20140908T114623Z">
-        <seg>\c这个使用方法由帕秋莉写的呢！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T045923Z" creationid="UUZ" creationdate="20140908T114623Z">
+        <seg>\c这样用法就一清二楚了呢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -24088,8 +24088,8 @@
       <tuv lang="JA">
         <seg>\cちょっと 説明がきを読みますね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T114031Z" creationid="UUZ" creationdate="20140908T114031Z">
-        <seg>\c稍微读了下说明。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T045815Z" creationid="UUZ" creationdate="20140908T114031Z">
+        <seg>\c稍微读一下说明书。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24616,8 +24616,8 @@
       <tuv lang="JA">
         <seg>\c後もう一つ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T115001Z" creationid="UUZ" creationdate="20140908T114657Z">
-        <seg>\c除此之外。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T045933Z" creationid="UUZ" creationdate="20140908T114657Z">
+        <seg>\c然后还有一件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31016,8 +31016,8 @@
       <tuv lang="JA">
         <seg>これは 人形を仲間にしたとき 持ちきれなくなった人形を入れておくための箱です。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T115254Z" creationid="UUZ" creationdate="20140908T115254Z">
-        <seg>这个是与人形成为伙伴后，但身上放不下时放人形的箱子。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050129Z" creationid="UUZ" creationdate="20140908T115254Z">
+        <seg>这个是与人形成为伙伴时，用来放入拿不下的人形的箱子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57218,8 +57218,8 @@
       <tuv lang="JA">
         <seg>飛び出してきた人形に これを使って「封印状態」にしてから倒すと 人形を仲間にできるんです。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141209T152646Z" creationid="UUZ" creationdate="20140908T113758Z">
-        <seg>对跳出的人形使用这个东西就可以让它进入「封印状态」，把它打倒后就可以让人形成为伙伴。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T045659Z" creationid="UUZ" creationdate="20140908T113758Z">
+        <seg>对跳出的人形使用这个东西就可以让它进入「封印状态」，之后把它打倒就可以让人形成为伙伴。</seg>
       </tuv>
     </tu>
     <tu>
