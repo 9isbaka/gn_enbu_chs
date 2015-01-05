@@ -23974,6 +23974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそうそう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051134Z" creationid="土妹子" creationdate="20150105T051134Z">
+        <seg>\c对了对了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそうだ \p。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162134Z" creationid="UUZ" creationdate="20140909T162134Z">
@@ -24602,6 +24610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T055724Z" creationid="UUZ" creationdate="20140908T055724Z">
         <seg>\c左边的角色是表情测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c幸い 人形の封印術が伝わってから 里の自衛はできているのですが……\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050943Z" creationid="土妹子" creationdate="20150105T050943Z">
+        <seg>\c还好人形的封印术传开了以后，村子可以做到自卫了……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -25922,6 +25938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T042023Z" creationid="UUZ" creationdate="20140908T095720Z">
         <seg>总感觉\p你身上有什么！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pさんは 多世界解釈というものに 興味はあるかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051204Z" creationid="土妹子" creationdate="20150105T051204Z">
+        <seg>\p对“多世界假说”这个东西感兴趣吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -29830,6 +29854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら \pさん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051108Z" creationid="土妹子" creationdate="20150105T051108Z">
+        <seg>啊啦\p。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら あなたは噂の・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050323Z" creationid="UUZ" creationdate="20140909T130222Z">
@@ -31074,6 +31106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063651Z" creationid="妄想" creationdate="20150103T063651Z">
         <seg>唱歌真是令人愉悦啦ー！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>こんなところで会うなんて奇遇ですわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051128Z" creationid="土妹子" creationdate="20150105T051128Z">
+        <seg>在这种地方相遇可真是奇遇呢。</seg>
       </tuv>
     </tu>
     <tu>
