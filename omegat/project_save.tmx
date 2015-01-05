@@ -24144,8 +24144,8 @@
       <tuv lang="JA">
         <seg>\cなるほど 早苗さんに私のことを聞いて来られたのですね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T132405Z" creationid="UUZ" creationdate="20140909T132405Z">
-        <seg>\c原来如此，是从早苗那里听说我的事吗。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050415Z" creationid="UUZ" creationdate="20140909T132405Z">
+        <seg>\c原来如此，是从早苗那里听说了我的事就来了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24192,8 +24192,8 @@
       <tuv lang="JA">
         <seg>\cふーん・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T125655Z">
-        <seg>\c呼···\b</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050301Z" creationid="UUZ" creationdate="20140909T125655Z">
+        <seg>\c呼～\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -24242,6 +24242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T041044Z" creationid="UUZ" creationdate="20140908T085007Z">
         <seg>\c算了吧算了吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cわかっているのは 人形には人形の力しか通用しないことくらいなんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050657Z" creationid="土妹子" creationdate="20150105T050657Z">
+        <seg>\c所知道的只有这点，对人形只有人形的力量会起作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24558,6 +24566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c実は私も全てはわかっていない状態でして……\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050552Z" creationid="土妹子" creationdate="20150105T050552Z">
+        <seg>\c实际上我也是什么都不清楚的状态……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c封印の糸は戦闘中の道具メニューから使用できます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131806Z" creationid="UUZ" creationdate="20140908T131806Z">
@@ -24752,8 +24768,8 @@
       <tuv lang="JA">
         <seg>\c箱を開ける場所は 目印にあきゅう人形があるはずですから ぜひ活用してください！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T115812Z" creationid="UUZ" creationdate="20140908T115812Z">
-        <seg>\c可以打开箱子的地方有阿求人形作为记号，请好好活用！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050240Z" creationid="UUZ" creationdate="20140908T115812Z">
+        <seg>\c可以打开箱子的地方应该有阿求人形作为记号，请好好活用！</seg>
       </tuv>
     </tu>
     <tu>
@@ -24776,8 +24792,8 @@
       <tuv lang="JA">
         <seg>\c落ち着ける場所なら 箱を開いて手持ちと入れ替えることもできるんですよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T115535Z" creationid="UUZ" creationdate="20140908T115535Z">
-        <seg>\c在让人放心的地方的话，打开箱子把手上的人形跟里面的交换也是可以的。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050221Z" creationid="UUZ" creationdate="20140908T115535Z">
+        <seg>\c在能够安顿下的地方的话，打开箱子把手上的人形跟里面的交换也是可以的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27664,8 +27680,8 @@
       <tuv lang="JA">
         <seg>……失礼いたしました。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T131433Z" creationid="UUZ" creationdate="20140909T131433Z">
-        <seg>……真是失礼了</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050332Z" creationid="UUZ" creationdate="20140909T131433Z">
+        <seg>……真是失礼了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29816,8 +29832,8 @@
       <tuv lang="JA">
         <seg>あら あなたは噂の・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T130222Z">
-        <seg>啊啦，你不是传闻中的···。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050323Z" creationid="UUZ" creationdate="20140909T130222Z">
+        <seg>啊啦，你不是传闻中的……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31496,8 +31512,8 @@
       <tuv lang="JA">
         <seg>それで 外の世界に帰るために異変と人形について</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T132617Z" creationid="UUZ" creationdate="20140909T132506Z">
-        <seg>然后为了回到外面的世界，异变跟人形的事</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050518Z" creationid="UUZ" creationdate="20140909T132506Z">
+        <seg>所以为了回到外面的世界，</seg>
       </tuv>
     </tu>
     <tu>
@@ -55068,6 +55084,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T142340Z" creationid="UUZ" creationdate="20140908T142340Z">
         <seg>你是什么人？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>調べていらっしゃると。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050504Z" creationid="土妹子" creationdate="20150105T050448Z">
+        <seg>来调查异变和人形的事情。</seg>
       </tuv>
     </tu>
     <tu>
