@@ -24142,6 +24142,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそんなことより レミィのところへ行くのなら 先の扉からどうぞ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155716Z" creationid="土妹子" creationdate="20150105T155158Z">
+        <seg>\c先不提那些，要去找蕾咪的话，请从之前的门走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cたいした名物もない里ですが 外の世界の人には珍しいものも あるかもしれませんよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133403Z" creationid="UUZ" creationdate="20140909T133203Z">
@@ -24222,6 +24230,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cでも そうね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155853Z" creationid="土妹子" creationdate="20150105T155853Z">
+        <seg>\c不过呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cとにかく 私の邪魔はしないでくれる？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154644Z" creationid="UUZ" creationdate="20140909T154644Z">
@@ -24242,6 +24258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040633Z" creationid="UUZ" creationdate="20140908T081402Z">
         <seg>\c总之先加强了结界，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cどうなってもかまわないと言うのであれば 私は止めないから。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155847Z" creationid="土妹子" creationdate="20150105T155847Z">
+        <seg>\c如果你说不管变得怎样都没关系，我是不会阻止的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30230,6 +30254,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら 珍しいお客さんね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160022Z" creationid="土妹子" creationdate="20150105T160022Z">
+        <seg>啊拉，稀客稀客。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161604Z" creationid="土妹子" creationdate="20150104T161604Z">
@@ -31290,6 +31322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135424Z" creationid="UUZ" creationdate="20140904T135424Z">
         <seg>小兔姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>このまま進むのも大変だろうから 人形の回復ぐらいはしてあげる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155948Z" creationid="土妹子" creationdate="20150105T155948Z">
+        <seg>就这样前进会很辛苦的，所以回复人形这样的事我可以帮你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33626,8 +33666,8 @@
       <tuv lang="JA">
         <seg>わかりやすいわ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155106Z" creationid="土妹子" creationdate="20150105T155106Z">
-        <seg>容易理解啊。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155131Z" creationid="土妹子" creationdate="20150105T155106Z">
+        <seg>很容易明白啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41328,6 +41368,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・さて もういいでしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160036Z" creationid="土妹子" creationdate="20150105T160036Z">
+        <seg>……那么，已经好了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・それじゃあ 私は行くわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T060030Z" creationid="土妹子" creationdate="20150105T060030Z">
@@ -47836,6 +47884,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T022643Z" creationid="UUZ" creationdate="20140908T022643Z">
         <seg>必杀的极意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>必要なら 声を掛けて頂戴。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160012Z" creationid="土妹子" creationdate="20150105T160012Z">
+        <seg>有必要的话，就请来叫我。</seg>
       </tuv>
     </tu>
     <tu>
