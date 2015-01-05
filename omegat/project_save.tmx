@@ -24118,6 +24118,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそろそろ用も済んでいる頃だろうし 彼らに貸してくれるよう頼んでみたらどうだろう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153012Z" creationid="土妹子" creationdate="20150105T153005Z">
+        <seg>\c现在也差不多该用完了，试着去拜托他们借给你看看如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cたいした名物もない里ですが 外の世界の人には珍しいものも あるかもしれませんよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133403Z" creationid="UUZ" creationdate="20140909T133203Z">
@@ -24646,6 +24654,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c前だと僕のとこで扱っていたんだけど 永遠亭の妖怪に売ってしまってね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T152909Z" creationid="土妹子" creationdate="20150105T152909Z">
+        <seg>\c之前还在我这里的地板上扔着，不过已经卖给永远亭的妖怪了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c割り振ったPPとレベルに応じて 能力が強化されます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T124533Z" creationid="UUZ" creationdate="20140908T124249Z">
@@ -24866,6 +24882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024233Z" creationid="UUZ" creationdate="20140908T131940Z">
         <seg>\c毒状态的人形再中一次毒就会变成猛毒状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c永遠亭に行くのなら 人里の寺子屋で先生をやっている半妖に 色々聞くといい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153057Z" creationid="土妹子" creationdate="20150105T153057Z">
+        <seg>\c要去永远亭的话，去人类村落的寺子屋，找在那里担任老师的半妖问一下状况比较好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42928,6 +42952,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何か用かい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153122Z" creationid="土妹子" creationdate="20150105T153122Z">
+        <seg>有什么事吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何か買って行くかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163302Z" creationid="土妹子" creationdate="20150104T163302Z">
@@ -47348,6 +47380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040703Z" creationid="UUZ" creationdate="20140908T081730Z">
         <seg>应该不会影响到外面的世界才对的……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>彼女は あの辺りに詳しいはずだからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153113Z" creationid="土妹子" creationdate="20150105T153113Z">
+        <seg>她应该很熟悉那边的。</seg>
       </tuv>
     </tu>
     <tu>
