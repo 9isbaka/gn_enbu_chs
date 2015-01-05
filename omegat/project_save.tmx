@@ -24598,6 +24598,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c幻想郷とは何かって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035320Z" creationid="土妹子" creationdate="20150105T035320Z">
+        <seg>\c你说幻想乡是什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c強化された結界を越えてきたこともありますし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T100307Z" creationid="UUZ" creationdate="20140908T095527Z">
@@ -29920,8 +29928,8 @@
       <tuv lang="JA">
         <seg>あー・・・もしかして外から来たのか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T071443Z">
-        <seg>啊~···难道是从外界来的吗。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035533Z" creationid="UUZ" creationdate="20140908T071443Z">
+        <seg>啊～……难道是从外界来的吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30240,8 +30248,8 @@
       <tuv lang="JA">
         <seg>おい！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T070616Z" creationid="UUZ" creationdate="20140908T070616Z">
-        <seg>嘿！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035418Z" creationid="UUZ" creationdate="20140908T070616Z">
+        <seg>喂！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30432,8 +30440,8 @@
       <tuv lang="JA">
         <seg>お前 人形が出てきたのになんで何もしないんだよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071344Z" creationid="UUZ" creationdate="20140908T071344Z">
-        <seg>你前面有人形出现了，怎么什么都不做？</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035509Z" creationid="UUZ" creationdate="20140908T071344Z">
+        <seg>说你呢！明明有人形出现了，什么也不做吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -30778,6 +30786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T120910Z" creationid="UUZ" creationdate="20140908T130944Z">
         <seg>这里一到晚上就会出现哦……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここは幻想郷につながってる</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035258Z" creationid="土妹子" creationdate="20150105T035258Z">
+        <seg>这里连接着幻想乡……</seg>
       </tuv>
     </tu>
     <tu>
@@ -32000,6 +32016,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんて噂があるんだぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035307Z" creationid="土妹子" creationdate="20150105T035307Z">
+        <seg>……有这样的传言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんでこの私が人間に化けている妖怪だと分かったんだ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T135552Z" creationid="UUZ" creationdate="20140908T135552Z">
@@ -32732,6 +32756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135830Z" creationid="UUZ" creationdate="20140904T135830Z">
         <seg>幽幽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ようこそ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035344Z" creationid="土妹子" creationdate="20150105T035344Z">
+        <seg>欢迎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34658,8 +34690,8 @@
       <tuv lang="JA">
         <seg>コチラ側の世界へ・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20141228T100317Z">
-        <seg>コチラ側の世界へ···\b</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035354Z" creationid="UUZ" creationdate="20141228T100317Z">
+        <seg>来到这边的世界……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -46384,6 +46416,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想郷は 全てを受け入れますわ・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035411Z" creationid="土妹子" creationdate="20150105T035411Z">
+        <seg>幻想乡会接纳一切的……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想郷之地図</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154238Z" creationid="土妹子" creationdate="20150102T154238Z">
@@ -51332,6 +51372,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154941Z" creationid="土妹子" creationdate="20150102T154941Z">
         <seg>申之凳子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異世界。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035331Z" creationid="土妹子" creationdate="20150105T035331Z">
+        <seg>异世界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異世界だよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035327Z" creationid="土妹子" creationdate="20150105T035327Z">
+        <seg>是异世界哦。</seg>
       </tuv>
     </tu>
     <tu>
