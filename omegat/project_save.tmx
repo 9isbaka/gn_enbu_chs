@@ -23912,8 +23912,8 @@
       <tuv lang="JA">
         <seg>\cこれは あなたを示す大事なモノですもの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T070105Z" creationid="UUZ" creationdate="20140908T065320Z">
-        <seg>\c这是因为你身上将要发生一件大事。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032551Z" creationid="UUZ" creationdate="20140908T065320Z">
+        <seg>\c这是要告诉你的非常重要的事项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24248,8 +24248,8 @@
       <tuv lang="JA">
         <seg>\cアヤカシの類いも・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T063350Z">
-        <seg>\c例如妖怪之类的···\b</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032309Z" creationid="UUZ" creationdate="20140908T063350Z">
+        <seg>\c例如妖怪之类的……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -24304,8 +24304,8 @@
       <tuv lang="JA">
         <seg>\c・・・そんなことを訊いて どうするのかって？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T064850Z">
-        <seg>\c···听了这个消息后你要怎么办？</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032356Z" creationid="UUZ" creationdate="20140908T064850Z">
+        <seg>\c……听了这个消息后你要怎么办？</seg>
       </tuv>
     </tu>
     <tu>
@@ -24322,6 +24322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131113Z" creationid="UUZ" creationdate="20140908T131113Z">
         <seg>\c听到了相当扫兴的话啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c一番のお気に入りキャラを教えてくれよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032708Z" creationid="土妹子" creationdate="20150105T032708Z">
+        <seg>\c请告诉我你的本命角色！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30126,6 +30134,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うんうん \f！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032711Z" creationid="土妹子" creationdate="20150105T032711Z">
+        <seg>嗯嗯 \f！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うーらめーしやー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T044138Z" creationid="UUZ" creationdate="20140908T162137Z">
@@ -30178,6 +30194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T141946Z" creationid="UUZ" creationdate="20140908T141946Z">
         <seg>喂，听说了吗！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032613Z" creationid="土妹子" creationdate="20150105T032613Z">
+        <seg>喔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30682,6 +30706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T125819Z" creationid="UUZ" creationdate="20140908T125819Z">
         <seg>这里很久以前就开始有神隐的传闻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここに興味があるのか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032620Z" creationid="土妹子" creationdate="20150105T032620Z">
+        <seg>对这里感兴趣吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -31662,6 +31694,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ということは 東方Projectって知ってるよな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032645Z" creationid="土妹子" creationdate="20150105T032645Z">
+        <seg>也就是说，你知道东方ｐｒｏｊｅｃｔ呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ときこ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135902Z" creationid="UUZ" creationdate="20140904T135902Z">
@@ -32266,8 +32306,8 @@
       <tuv lang="JA">
         <seg>まずは あなたの性別を教えてくれる？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T064507Z" creationid="UUZ" creationdate="20140908T064507Z">
-        <seg>首先， 能告知你的性别吗？</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032327Z" creationid="UUZ" creationdate="20140908T064507Z">
+        <seg>首先， 能告诉我你的性别吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -32548,6 +32588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062405Z" creationid="UUZ" creationdate="20140908T062405Z">
         <seg>终于起来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やっぱり \fが最高だよな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032720Z" creationid="土妹子" creationdate="20150105T032720Z">
+        <seg>果然 \f是最棒的！</seg>
       </tuv>
     </tu>
     <tu>
