@@ -24822,6 +24822,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\fとか すげーかわいいんだけどなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034035Z" creationid="土妹子" creationdate="20150105T034035Z">
+        <seg>\f的话，可是非～常可爱的啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\gの子 なのね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162541Z" creationid="UUZ" creationdate="20140908T055038Z">
@@ -30424,8 +30432,8 @@
       <tuv lang="JA">
         <seg>お前 確か・・・\fが好きなやつだっけ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20141228T100313Z">
-        <seg>お前 確か···\fが好きなやつだっけ？</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034056Z" creationid="UUZ" creationdate="20141228T100313Z">
+        <seg>你确实是……喜欢\f的家伙吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -31916,6 +31924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155434Z" creationid="UUZ" creationdate="20140909T155434Z">
         <seg>什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんだ お気に入りはいないのか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034017Z" creationid="土妹子" creationdate="20150105T034017Z">
+        <seg>什么嘛，没有本命的吗。</seg>
       </tuv>
     </tu>
     <tu>
