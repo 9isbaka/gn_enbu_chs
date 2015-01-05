@@ -23678,6 +23678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c……ちょっと今 他の世界にコンタクトを取っていますの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051306Z" creationid="土妹子" creationdate="20150105T051306Z">
+        <seg>\c……就在不久前，取得了和其他世界的联系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c……とはいってもおまえは初心者だからな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T090117Z" creationid="UUZ" creationdate="20140908T090117Z">
@@ -32636,6 +32644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T070452Z" creationid="UUZ" creationdate="20140908T070452Z">
         <seg>也许还会再见的也说不定啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もしかしたら 他のあなたのような人形遣いと出会い 対戦できるかもしれませんわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051340Z" creationid="土妹子" creationdate="20150105T051340Z">
+        <seg>说不定，或许可以和其他像你一样的人形使相遇然后对战。</seg>
       </tuv>
     </tu>
     <tu>
