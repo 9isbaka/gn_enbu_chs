@@ -23848,8 +23848,8 @@
       <tuv lang="JA">
         <seg>\cここは\pさんの住んでいるところから結界で隔離された場所。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T080208Z" creationid="UUZ" creationdate="20140908T080208Z">
-        <seg>\c这里是从\p所住的地方用结界隔离开来的场所。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040252Z" creationid="UUZ" creationdate="20140908T080208Z">
+        <seg>\c这里是和\p所住的地方用结界隔离开来的场所。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40626,8 +40626,8 @@
       <tuv lang="JA">
         <seg>・・・なるほど。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T074615Z">
-        <seg>···原来如此。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040152Z" creationid="UUZ" creationdate="20140908T074615Z">
+        <seg>……原来如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46378,8 +46378,8 @@
       <tuv lang="JA">
         <seg>幻想郷というのですけれど・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140908T080311Z">
-        <seg>虽然被称之为幻想乡就是了···</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040258Z" creationid="UUZ" creationdate="20140908T080311Z">
+        <seg>虽然被称之为幻想乡就是了……</seg>
       </tuv>
     </tu>
     <tu>
@@ -47484,6 +47484,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025813Z" creationid="土妹子" creationdate="20141231T025813Z">
         <seg>抗体携带者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>折角だから何か買っていくかい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040148Z" creationid="土妹子" creationdate="20150105T040148Z">
+        <seg>机会难得，买点什么吧。</seg>
       </tuv>
     </tu>
     <tu>
