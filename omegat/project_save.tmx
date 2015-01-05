@@ -13550,6 +13550,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Doll211</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162241Z" creationid="UUZ" creationdate="20150105T162241Z">
+        <seg>Doll211</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Doll212</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162255Z" creationid="UUZ" creationdate="20150105T162255Z">
+        <seg>Doll212</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>Elis</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160205Z" creationid="UUZ" creationdate="20141228T095425Z">
@@ -21706,6 +21722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T161805Z" creationid="UUZ" creationdate="20150105T161805Z">
         <seg>Item５８９。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Item６０３。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162216Z" creationid="UUZ" creationdate="20150105T162216Z">
+        <seg>Item６０３。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56737,6 +56761,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>空を飛ぶ程度の能力と 霊力を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162235Z" creationid="UUZ" creationdate="20150105T162235Z">
+        <seg>空を飛ぶ程度の能力と 霊力を操る程度の能力を持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>空身</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151439Z" creationid="UUZ" creationdate="20140904T151439Z">
@@ -68453,6 +68485,78 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T154256Z" creationid="UUZ" creationdate="20150105T154256Z">
         <seg>ＳＫＩＬＬ０８９６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０８９７</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162300Z" creationid="UUZ" creationdate="20150105T162300Z">
+        <seg>ＳＫＩＬＬ０８９７</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０８９８</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162301Z" creationid="UUZ" creationdate="20150105T162301Z">
+        <seg>ＳＫＩＬＬ０８９８</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０８９９</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162301Z" creationid="UUZ" creationdate="20150105T162301Z">
+        <seg>ＳＫＩＬＬ０８９９</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０９００</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162301Z" creationid="UUZ" creationdate="20150105T162301Z">
+        <seg>ＳＫＩＬＬ０９００</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０９０１</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162301Z" creationid="UUZ" creationdate="20150105T162301Z">
+        <seg>ＳＫＩＬＬ０９０１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０９０２</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162301Z" creationid="UUZ" creationdate="20150105T162301Z">
+        <seg>ＳＫＩＬＬ０９０２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０９０３</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162301Z" creationid="UUZ" creationdate="20150105T162301Z">
+        <seg>ＳＫＩＬＬ０９０３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０９０４</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162302Z" creationid="UUZ" creationdate="20150105T162302Z">
+        <seg>ＳＫＩＬＬ０９０４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＳＫＩＬＬ０９０５</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162302Z" creationid="UUZ" creationdate="20150105T162302Z">
+        <seg>ＳＫＩＬＬ０９０５</seg>
       </tuv>
     </tu>
     <tu>
