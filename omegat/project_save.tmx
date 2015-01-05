@@ -24278,6 +24278,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cはっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153421Z" creationid="土妹子" creationdate="20150105T153421Z">
+        <seg>\c哈！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cふーん。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T111128Z" creationid="UUZ" creationdate="20140909T154925Z">
@@ -24354,6 +24362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032309Z" creationid="UUZ" creationdate="20140908T063350Z">
         <seg>\c例如妖怪之类的……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cコホン。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153453Z" creationid="土妹子" creationdate="20150105T153453Z">
+        <seg>\c咳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24890,6 +24906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153057Z" creationid="土妹子" creationdate="20150105T153057Z">
         <seg>\c要去永远亭的话，去人类村落的寺子屋，找在那里担任老师的半妖问一下状况比较好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c永遠亭は 人里を南に向かった竹林の先にある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153308Z" creationid="土妹子" creationdate="20150105T153308Z">
+        <seg>\c永远亭在人类村落南面的竹林再往前的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31590,6 +31614,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>すぅ すぅ……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153330Z" creationid="土妹子" creationdate="20150105T153330Z">
+        <seg>呼　呼……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>すべての地相始動スキルの継続ターンが８ターンになる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094734Z" creationid="土妹子" creationdate="20141231T094734Z">
@@ -31914,6 +31946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154708Z" creationid="UUZ" creationdate="20140909T154708Z">
         <seg>除此以外的话，随便你怎样都好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そんなに刺さりませ・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153418Z" creationid="土妹子" creationdate="20150105T153418Z">
+        <seg>那样被刺到的话……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -32266,6 +32306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042023Z" creationid="UUZ" creationdate="20140908T041614Z">
         <seg>什么人形都可以封印的最高性能的丝线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>な なんだお客さんか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153441Z" creationid="土妹子" creationdate="20150105T153441Z">
+        <seg>原，原来是客人啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33248,6 +33296,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>よかった・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153447Z" creationid="土妹子" creationdate="20150105T153447Z">
+        <seg>太好了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>よくわからんな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073931Z" creationid="UUZ" creationdate="20140908T073931Z">
@@ -33372,6 +33428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135842Z" creationid="UUZ" creationdate="20140904T135842Z">
         <seg>莲子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わ わわっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153340Z" creationid="土妹子" creationdate="20150105T153340Z">
+        <seg>哇　哇哇！</seg>
       </tuv>
     </tu>
     <tu>
@@ -38252,6 +38316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093506Z" creationid="UUZ" creationdate="20140906T095015Z">
         <seg>吸血种子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ナイフはもうっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153406Z" creationid="土妹子" creationdate="20150105T153356Z">
+        <seg>不要扔飞刀！</seg>
       </tuv>
     </tu>
     <tu>
@@ -43148,6 +43220,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T144154Z" creationid="UUZ" creationdate="20140909T144154Z">
         <seg>我是为了防止有谁不小心过去了而在这里看着的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>借りに行くなら 迷わないように注意するんだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153323Z" creationid="土妹子" creationdate="20150105T153323Z">
+        <seg>要去借的话，注意不要迷路了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49612,6 +49692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134413Z" creationid="土妹子" creationdate="20141230T134413Z">
         <seg>砍树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>木を切る道具は 今は永遠亭の者に売ってしまったんだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153154Z" creationid="土妹子" creationdate="20150105T153154Z">
+        <seg>砍树的道具现在已经卖给永远亭的人了。</seg>
       </tuv>
     </tu>
     <tu>
