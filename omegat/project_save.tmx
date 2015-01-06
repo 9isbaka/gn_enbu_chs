@@ -34606,6 +34606,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そうそう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060405Z" creationid="土妹子" creationdate="20150106T060405Z">
+        <seg>对了对了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そうだ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T100328Z" creationid="UUZ" creationdate="20140908T100328Z">
@@ -35972,6 +35980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T101253Z" creationid="UUZ" creationdate="20140908T101253Z">
         <seg>首先去人类村落看看怎么样？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また ここへ遊びに来なさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060401Z" creationid="土妹子" creationdate="20150106T060401Z">
+        <seg>所以请再来这里玩哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47456,6 +47472,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>北の方にある山が あなたの次に向かう運命よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060503Z" creationid="土妹子" creationdate="20150106T060503Z">
+        <seg>在北方的某座山就是你接下来要面对的命运哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>北白河ちゆり</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143918Z" creationid="UUZ" creationdate="20140906T143918Z">
@@ -51340,6 +51364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160012Z" creationid="土妹子" creationdate="20150105T160012Z">
         <seg>有必要的话，就请来叫我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>忘れていたわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060434Z" creationid="土妹子" creationdate="20150106T060427Z">
+        <seg>刚才忘了说呢。</seg>
       </tuv>
     </tu>
     <tu>
