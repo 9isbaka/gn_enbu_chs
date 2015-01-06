@@ -26694,6 +26694,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cみ 見たわね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103324Z" creationid="土妹子" creationdate="20150106T103324Z">
+        <seg>\c被，被发现了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cもし どうしても人形の封印を解除したくなったら 私のところへいらっしゃい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161953Z" creationid="土妹子" creationdate="20150104T161953Z">
@@ -33782,6 +33790,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>きたきた そっと押し返すと みんな きょとんと するのが面白いのよね……\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103300Z" creationid="土妹子" creationdate="20150106T103300Z">
+        <seg>来了来了！悄悄把大家推回去让他们摸不着头脑，真是好玩啊……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>きちんと届けてきてくれ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161120Z" creationid="UUZ" creationdate="20140909T161120Z">
@@ -33906,6 +33922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082014Z" creationid="妄想" creationdate="20150105T082003Z">
         <seg>这样总觉得非常厉害呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>こうなったらヤケよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103358Z" creationid="土妹子" creationdate="20150106T103358Z">
+        <seg>都已经这样了，不管了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -35354,6 +35378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T092654Z" creationid="妄想" creationdate="20150103T092654Z">
         <seg>原来是人类啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>って光学迷彩の バッテリーが切れてる！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103316Z" creationid="土妹子" creationdate="20150106T103316Z">
+        <seg>啊，光学迷彩的电池用光了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -51704,6 +51736,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>必要になったら また声をかけてくださいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103039Z" creationid="土妹子" creationdate="20150106T103039Z">
+        <seg>有必要了的话，请再来叫我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>忘れていたわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060434Z" creationid="土妹子" creationdate="20150106T060427Z">
@@ -60156,6 +60196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150106Z" creationid="妄想" creationdate="20150104T150106Z">
         <seg>没见过的面孔啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>見えない何かに 押し戻された……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103129Z" creationid="土妹子" creationdate="20150106T103129Z">
+        <seg>被看不见的什么推了回来……。</seg>
       </tuv>
     </tu>
     <tu>
