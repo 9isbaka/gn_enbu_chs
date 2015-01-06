@@ -27270,6 +27270,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c私が完膚無きまでに やっつけてあげる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055030Z" creationid="土妹子" creationdate="20150106T055030Z">
+        <seg>\c我就算体无完肤也要打败你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c私が調べるにしても 時間は掛かってしまいますし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150055Z" creationid="UUZ" creationdate="20140909T145613Z">
@@ -30402,6 +30410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T081529Z" creationid="妄想" creationdate="20150104T081529Z">
         <seg>……游泳比摆弄机械跟让人愉快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>……私の負けね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055040Z" creationid="土妹子" creationdate="20150106T055040Z">
+        <seg>……是我输了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33914,6 +33930,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132641Z" creationid="UUZ" creationdate="20140908T132641Z">
         <seg>这里前面是休憩处，好好地让人形休息吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この先は ここの主のお部屋。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T054829Z" creationid="土妹子" creationdate="20150106T054829Z">
+        <seg>这前面是这里的主人的房间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46120,6 +46144,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今日は お邪魔虫のよく出る日ね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T054815Z" creationid="土妹子" creationdate="20150106T054815Z">
+        <seg>今天是碍事的虫子经常出现的日子呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今日はここまでにしてやる！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T161945Z" creationid="UUZ" creationdate="20140908T161945Z">
@@ -46324,6 +46356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142436Z" creationid="UUZ" creationdate="20140907T142436Z">
         <seg>作用未知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何のアポイントメントも持たない人間のあなたを通すはずもないじゃない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055004Z" creationid="土妹子" creationdate="20150106T055004Z">
+        <seg>作为人类的你，又没有任何预约，是不应该过去的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59624,6 +59664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>許可のない人は 勝手にあがっちゃダメですよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T054721Z" creationid="土妹子" creationdate="20150106T054721Z">
+        <seg>未经许可的人可不许私自上去啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>詐欺玉</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T124734Z" creationid="UUZ" creationdate="20140907T124734Z">
@@ -60492,6 +60540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055902Z" creationid="UUZ" creationdate="20140909T153601Z">
         <seg>要是碍我的事，就让我来当你的对手吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>部外者は ここから先に通せないのです！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T054758Z" creationid="土妹子" creationdate="20150106T054758Z">
+        <seg>外人不能再往前走了！</seg>
       </tuv>
     </tu>
     <tu>
