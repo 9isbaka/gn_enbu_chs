@@ -32766,6 +32766,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら 本当にここまで来れたのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061746Z" creationid="土妹子" creationdate="20150106T061746Z">
+        <seg>啊啦，真的来到这里了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら 珍しいお客さんね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160022Z" creationid="土妹子" creationdate="20150105T160022Z">
@@ -34358,6 +34366,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さもないと……\b\c今宵のメインディッシュが あなたになるわよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061725Z" creationid="土妹子" creationdate="20150106T061725Z">
+        <seg>不然的话……\b\c今晚的主菜就是你了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さらにそれを河童流アレンジさせる！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T084703Z" creationid="妄想" creationdate="20150104T084703Z">
@@ -34586,6 +34602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161130Z" creationid="UUZ" creationdate="20140909T155600Z">
         <seg>这样啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そういえば あなたの 人形のニックネーム</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061758Z" creationid="土妹子" creationdate="20150106T061758Z">
+        <seg>说起来，你的人形的昵称</seg>
       </tuv>
     </tu>
     <tu>
@@ -36164,6 +36188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135326Z" creationid="UUZ" creationdate="20140824T162311Z">
         <seg>魔理沙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まるでセンスが感じられないわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061841Z" creationid="土妹子" creationdate="20150106T061841Z">
+        <seg>完全感觉不到品位啊。</seg>
       </tuv>
     </tu>
     <tu>
