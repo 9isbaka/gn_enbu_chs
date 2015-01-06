@@ -26662,6 +26662,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cまだ調べている途中ではあるけれど 人形のもつ才能をさらに伸ばすことができそうなの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090938Z" creationid="土妹子" creationdate="20150106T090938Z">
+        <seg>\c虽然现在还在调查中，不过似乎可以让人形拥有的才能更进一步的提升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cもし どうしても人形の封印を解除したくなったら 私のところへいらっしゃい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161953Z" creationid="土妹子" creationdate="20150104T161953Z">
@@ -27010,6 +27018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162432Z" creationid="UUZ" creationdate="20140909T162432Z">
         <seg>\c想找什么的话，不妨去红魔馆看看吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c何度来てもここにはそんな情報なんて・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090730Z" creationid="土妹子" creationdate="20150106T090730Z">
+        <seg>\c不管来多少次，那方面的情报都……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33098,6 +33114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163611Z" creationid="土妹子" creationdate="20150102T163600Z">
         <seg>狗２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いや ないこともないわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090743Z" creationid="土妹子" creationdate="20150106T090743Z">
+        <seg>不，也并不是没有呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53392,6 +53416,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>時が経てば 実用できるかもしれないわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T091006Z" creationid="土妹子" creationdate="20150106T091006Z">
+        <seg>过段时间的话，说不定就可以实用了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>時を見る人</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094718Z" creationid="土妹子" creationdate="20141231T094718Z">
@@ -60180,6 +60212,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T132640Z" creationid="UUZ" creationdate="20140909T132557Z">
         <seg>调查了很多 ·  ·  · 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>調子はどうですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T091017Z" creationid="土妹子" creationdate="20150106T091017Z">
+        <seg>状况如何？</seg>
       </tuv>
     </tu>
     <tu>
