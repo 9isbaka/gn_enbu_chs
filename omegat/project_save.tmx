@@ -26094,6 +26094,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cここから湖の縁を橋のところまで下って  左方向に進めば 玄武の沢です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125935Z" creationid="土妹子" creationdate="20150106T125935Z">
+        <seg>\从这里沿着湖一直向下走到桥的地方，再向左侧前进就是玄武之泽了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cここの先の森にいるアリスという少女に\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112338Z" creationid="UUZ" creationdate="20140909T160633Z">
@@ -26322,6 +26330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055425Z" creationid="土妹子" creationdate="20150105T055425Z">
         <seg>\c那么我就先走一步了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cそれでは！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T130028Z" creationid="土妹子" creationdate="20150106T130023Z">
+        <seg>\c那么就失陪了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -35014,6 +35030,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そこの洞窟内から アジトへいけますよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125950Z" creationid="土妹子" creationdate="20150106T125950Z">
+        <seg>在那里的洞窟里就能到根据地了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そこは寺子屋よ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T163002Z" creationid="UUZ" creationdate="20140908T163002Z">
@@ -36440,6 +36464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>またどこかで会いましょう！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T130042Z" creationid="土妹子" creationdate="20150106T130042Z">
+        <seg>还会再在哪里相遇的吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>またな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161737Z" creationid="土妹子" creationdate="20150105T161737Z">
@@ -37092,6 +37124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160248Z" creationid="土妹子" creationdate="20150105T160248Z">
         <seg>知道了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わかりました。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T130045Z" creationid="土妹子" creationdate="20150106T130045Z">
+        <seg>明白了。</seg>
       </tuv>
     </tu>
     <tu>
