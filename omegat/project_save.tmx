@@ -26262,6 +26262,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそうね 私が その子にニックネームをつけるなら……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063313Z" creationid="土妹子" creationdate="20150106T063313Z">
+        <seg>\c这样呢，我要给这孩子起昵称的话就是……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそうね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161747Z" creationid="UUZ" creationdate="20140909T161747Z">
@@ -26586,6 +26594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153421Z" creationid="土妹子" creationdate="20150105T153421Z">
         <seg>\c哈！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cぴったりよね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063345Z" creationid="土妹子" creationdate="20150106T063345Z">
+        <seg>\c正合适吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -32670,6 +32686,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたらしいといえば らしいかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063246Z" creationid="土妹子" creationdate="20150106T063246Z">
+        <seg>是不是“有你的感觉”的这种风格？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなた人形遣いなの？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T155846Z" creationid="UUZ" creationdate="20140908T155846Z">
@@ -34802,6 +34826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060839Z" creationid="UUZ" creationdate="20140908T060839Z">
         <seg>还有其他事情可以帮到你吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>その子は これから \t よ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063327Z" creationid="土妹子" creationdate="20150106T063327Z">
+        <seg>这孩子今后就叫 \t 咯！</seg>
       </tuv>
     </tu>
     <tu>
