@@ -27302,6 +27302,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c早速だが 少し話を聞いて欲しい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T132706Z" creationid="土妹子" creationdate="20150106T132706Z">
+        <seg>\c客套话就不说了，我想稍微问些事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c時間というものは 本当に早く過ぎてしまいますわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T070417Z" creationid="UUZ" creationdate="20140908T070308Z">
@@ -34946,6 +34954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T083859Z" creationid="妄想" creationdate="20150105T083859Z">
         <seg>说起来刚刚那三个妖精和之前在卖面具的地方被抓做苦力的妖精有点像呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そうか お前があの人形遣いか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T132303Z" creationid="土妹子" creationdate="20150106T132303Z">
+        <seg>对了，你就是那个人形使吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46780,6 +46796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161318Z" creationid="土妹子" creationdate="20150105T161318Z">
         <seg>我现在正在找和人形有关的书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>今 永遠亭で困ったことが起きているらしいんだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T132741Z" creationid="土妹子" creationdate="20150106T132741Z">
+        <seg>现在在永远亭似乎发生了很难办的事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61540,6 +61564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093254Z" creationid="土妹子" creationdate="20141231T093254Z">
         <seg>撒酒疯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>里での噂でなら知っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T132405Z" creationid="土妹子" creationdate="20150106T132405Z">
+        <seg>村子里的传言已经听说了。</seg>
       </tuv>
     </tu>
     <tu>
