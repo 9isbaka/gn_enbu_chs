@@ -26446,6 +26446,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cとは言っても 私の部屋まで来れたらの話だけれど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T034358Z" creationid="土妹子" creationdate="20150106T034358Z">
+        <seg>\c虽然是这么说，还是来了我的房间在详细谈吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cとりあえず博麗神社で色々と教えてやるから私についてきな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T074448Z" creationid="UUZ" creationdate="20140824T160433Z">
@@ -34314,6 +34322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T064618Z" creationid="UUZ" creationdate="20140908T064618Z">
         <seg>那么，你的名字叫什么呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>じゃあ ごゆっくり……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T034408Z" creationid="土妹子" creationdate="20150106T034408Z">
+        <seg>那么请慢走……。</seg>
       </tuv>
     </tu>
     <tu>
