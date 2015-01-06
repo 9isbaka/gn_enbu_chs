@@ -27390,6 +27390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c永遠亭は 竹林の最奥にある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T142548Z" creationid="土妹子" creationdate="20150106T142548Z">
+        <seg>\c永远亭就在竹林的最深处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c準備が必要なら うちの品を見ていくといい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112528Z" creationid="土妹子" creationdate="20150105T112528Z">
@@ -35338,6 +35346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055959Z" creationid="UUZ" creationdate="20140909T154209Z">
         <seg>还是有相应的力量的啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それの後処理に追われていてな……\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T142538Z" creationid="土妹子" creationdate="20150106T142538Z">
+        <seg>我正忙于那件事的后续处理……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -47540,6 +47556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T064528Z" creationid="土妹子" creationdate="20150101T064528Z">
         <seg>以先制攻击使对手害怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>先日里で人形解放戦線が暴れた事件があったろう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T142520Z" creationid="土妹子" creationdate="20150106T142458Z">
+        <seg>前几天村子里发生了人形解放战线闹事的事件吧？</seg>
       </tuv>
     </tu>
     <tu>
