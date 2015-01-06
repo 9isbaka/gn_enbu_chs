@@ -27334,6 +27334,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c本来は私が助力を頼まれたんだが 少々たてこんでいてな・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T132827Z" creationid="土妹子" creationdate="20150106T132827Z">
+        <seg>\c本来是拜托我去帮忙的，不过事情稍微有些多……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c残念だけど 私の術式とは違うものよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154702Z" creationid="土妹子" creationdate="20150105T154702Z">
@@ -27538,6 +27546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050221Z" creationid="UUZ" creationdate="20140908T115535Z">
         <seg>\c在能够安顿下的地方的话，打开箱子把手上的人形跟里面的交换也是可以的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c虫のいい話だと重々承知なんだが 永遠亭に行って事件を解決してきてもらえないだろうか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T133045Z" creationid="土妹子" creationdate="20150106T133045Z">
+        <seg>\c我知道这很自私，不过能不能请你去永远亭解决事件呢？？</seg>
       </tuv>
     </tu>
     <tu>
