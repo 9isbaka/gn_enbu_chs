@@ -27318,6 +27318,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c生憎 あなたに割ける時間は一秒たりともないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090222Z" creationid="土妹子" creationdate="20150106T090222Z">
+        <seg>\c真不凑巧，我能花在你身上的时间连１秒都没有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c私 一応 異変解決の専門家をやってるの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055807Z" creationid="UUZ" creationdate="20140909T153322Z">
@@ -32798,6 +32806,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら また来たの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090242Z" creationid="土妹子" creationdate="20150106T090242Z">
+        <seg>啊啦，又来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら 他の世界とコンタクトを取りたいのかしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051851Z" creationid="土妹子" creationdate="20150105T051851Z">
@@ -34306,6 +34322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154339Z" creationid="土妹子" creationdate="20150105T154339Z">
         <seg>到这种地方难道有什么事吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>こんなところまで入ってきて 何か用があるのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090039Z" creationid="土妹子" creationdate="20150106T090039Z">
+        <seg>竟然到这种地方来，难道有什么事吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -57532,6 +57556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060609Z" creationid="UUZ" creationdate="20140908T060609Z">
         <seg>与我一决胜负吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私には やらなきゃいけないことが沢山あるの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090236Z" creationid="土妹子" creationdate="20150106T090236Z">
+        <seg>我有一大堆必须去做的事呢。</seg>
       </tuv>
     </tu>
     <tu>
