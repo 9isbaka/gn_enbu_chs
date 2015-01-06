@@ -35638,6 +35638,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どうです？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125536Z" creationid="土妹子" creationdate="20150106T125536Z">
+        <seg>如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どうでも。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T081857Z" creationid="妄想" creationdate="20150105T081803Z">
@@ -35650,6 +35658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T144927Z" creationid="妄想" creationdate="20150104T144927Z">
         <seg>但是怎么回去呢……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どうやら 河童のアジトが人形戦線に占領されたようです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125533Z" creationid="土妹子" creationdate="20150106T125533Z">
+        <seg>河童的根据地好像被人形战线占领了的样子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54828,6 +54844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T130326Z" creationid="UUZ" creationdate="20140908T124843Z">
         <seg>真是合得来呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気になる記事でしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125549Z" creationid="土妹子" creationdate="20150106T125549Z">
+        <seg>是你感兴趣的新闻吧？</seg>
       </tuv>
     </tu>
     <tu>
