@@ -28758,6 +28758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pさんに依頼してみてはどうでしょうか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T141053Z" creationid="土妹子" creationdate="20150106T141053Z">
+        <seg>试着拜托一下\p如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pさんは 多世界解釈というものに 興味はあるかしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051204Z" creationid="土妹子" creationdate="20150105T051204Z">
@@ -35062,6 +35070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そうです！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T141040Z" creationid="土妹子" creationdate="20150106T141040Z">
+        <seg>对了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そうはさせないわよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T120542Z" creationid="土妹子" creationdate="20150106T120542Z">
@@ -35154,6 +35170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T100918Z" creationid="UUZ" creationdate="20140908T100918Z">
         <seg>去那里的话说不定能知道什么。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そこを何とか頼む！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T141036Z" creationid="土妹子" creationdate="20150106T141013Z">
+        <seg>那里无论如何都拜托了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -36116,6 +36140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094807Z" creationid="土妹子" creationdate="20141231T094807Z">
         <seg>在某些气象状态时，集弹、集防、散弹、散防翻倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>な？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T141017Z" creationid="土妹子" creationdate="20150106T141017Z">
+        <seg>呐？</seg>
       </tuv>
     </tu>
     <tu>
