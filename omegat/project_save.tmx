@@ -26414,6 +26414,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cだいぶ お疲れのようですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T094222Z" creationid="土妹子" creationdate="20150106T094222Z">
+        <seg>\c似乎相当累了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cだけど 調子には乗らないことね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154455Z" creationid="UUZ" creationdate="20140909T154455Z">
@@ -34846,6 +34854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そうですか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T094320Z" creationid="土妹子" creationdate="20150106T094304Z">
+        <seg>这样吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そうですか・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055252Z" creationid="土妹子" creationdate="20150105T055252Z">
@@ -35026,6 +35042,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050518Z" creationid="UUZ" creationdate="20140909T132506Z">
         <seg>所以为了回到外面的世界，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それでは がんばってくださいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T094253Z" creationid="土妹子" creationdate="20150106T094253Z">
+        <seg>那么，请一定要加油。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50516,6 +50540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T123529Z" creationid="UUZ" creationdate="20140908T123519Z">
         <seg>小铃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>少し休んでいきますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T094234Z" creationid="土妹子" creationdate="20150106T094234Z">
+        <seg>稍微休息一下吗？</seg>
       </tuv>
     </tu>
     <tu>
