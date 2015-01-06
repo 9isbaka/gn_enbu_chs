@@ -26470,6 +26470,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cどう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T033540Z" creationid="土妹子" creationdate="20150106T033540Z">
+        <seg>\c这样如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cなぜ知っているのかって？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154946Z" creationid="土妹子" creationdate="20150105T154946Z">
@@ -27258,6 +27266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150055Z" creationid="UUZ" creationdate="20140909T145613Z">
         <seg>\c就我的调查来说，也会花不少时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c私なら あなたの運命の続く先を導いてあげられるわよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T034043Z" creationid="土妹子" creationdate="20150106T034043Z">
+        <seg>\c我可是可以引导你的命运的去向的哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41796,6 +41812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152442Z" creationid="土妹子" creationdate="20150102T152442Z">
         <seg>燃烧强袭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>パチェの用が済んだ後にでも 私に会いに来なさいよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T034013Z" creationid="土妹子" creationdate="20150106T034013Z">
+        <seg>和帕琪的事谈完之后，再来找我见一面吧。</seg>
       </tuv>
     </tu>
     <tu>
