@@ -26094,6 +26094,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cここまでの道のり 楽しめてもらえたかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055752Z" creationid="土妹子" creationdate="20150106T055752Z">
+        <seg>\c到这里来的路上，是不是好好地享受了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cここらで落し物して探してるんだけど 妖怪に会ったらどうしよう……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T092728Z" creationid="妄想" creationdate="20150103T092728Z">
@@ -26330,6 +26338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153012Z" creationid="土妹子" creationdate="20150105T153005Z">
         <seg>\c现在也差不多该用完了，试着去拜托他们借给你看看如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cそんな……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055320Z" creationid="土妹子" creationdate="20150106T055320Z">
+        <seg>\c怎么会……</seg>
       </tuv>
     </tu>
     <tu>
@@ -32718,6 +32734,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あらためて</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055422Z" creationid="土妹子" creationdate="20150106T055422Z">
+        <seg>重新介绍一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら美味しそうね貴方。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T081253Z" creationid="妄想" creationdate="20150103T120356Z">
@@ -33418,6 +33442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154028Z" creationid="土妹子" creationdate="20150105T154028Z">
         <seg>大小姐又要对我发火了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お嬢様に部屋に来いと言われたって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055315Z" creationid="土妹子" creationdate="20150106T055315Z">
+        <seg>你说是大小姐叫你来房间的？</seg>
       </tuv>
     </tu>
     <tu>
@@ -35844,6 +35876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035813Z" creationid="UUZ" creationdate="20140908T073248Z">
         <seg>不会吧，竟然被你驯服了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まさか ここまで強いなんて思いもしなかったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055245Z" creationid="土妹子" creationdate="20150106T055245Z">
+        <seg>万万没想到你竟然会如此之强啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46036,6 +46076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082612Z" creationid="妄想" creationdate="20150104T085815Z">
         <seg>人类的信仰心还真是脆弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間の血を糧に生きている吸血鬼の末裔よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055525Z" creationid="土妹子" creationdate="20150106T055525Z">
+        <seg>以人类的血液为食活着，末代的吸血鬼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57132,6 +57180,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022947Z" creationid="土妹子" creationdate="20141231T022947Z">
         <seg>灾祸之紫黑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私がお嬢様から何も聞かされてないなんて……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055352Z" creationid="土妹子" creationdate="20150106T055352Z">
+        <seg>我可是从大小姐那里什么也没听说啊……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私がここの主 レミリア・スカーレット。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055440Z" creationid="土妹子" creationdate="20150106T055440Z">
+        <seg>我是这里的主人　蕾米莉亚·斯卡雷特。</seg>
       </tuv>
     </tu>
     <tu>
