@@ -26070,6 +26070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cお役に立てなくてごめんなさいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093511Z" creationid="土妹子" creationdate="20150106T093511Z">
+        <seg>\c帮不上忙真是抱歉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cかといって 竹林は入りたくないよね……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101055Z" creationid="妄想" creationdate="20150103T101055Z">
@@ -26562,6 +26570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T142314Z" creationid="UUZ" creationdate="20140908T142314Z">
         <seg>\c不知道为什么突然的就把带着人形的那个魔理沙一下子打倒了…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cなんでも技術を駆使して 体を見えなくできるのだとか・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093300Z" creationid="土妹子" creationdate="20150106T093300Z">
+        <seg>\c竟然可以运用技术，使身体变得看不见……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46528,6 +46544,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>他には・・・\b特に思い当たらないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093525Z" creationid="土妹子" creationdate="20150106T093500Z">
+        <seg>其他的……\b也想不到什么了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>他に何か用はあるかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112638Z" creationid="土妹子" creationdate="20150105T112638Z">
@@ -53560,6 +53584,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>最近 巷では河童の技術が注目されているみたいですわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093233Z" creationid="土妹子" creationdate="20150106T093233Z">
+        <seg>最近，大众的注意力似乎都被河童的技术吸引了的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>最近「最強の人形遣い」が現われたらしいぜ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T142007Z" creationid="UUZ" creationdate="20140908T142007Z">
@@ -58004,6 +58036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113418Z" creationid="土妹子" creationdate="20150105T113418Z">
         <seg>红魔馆吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅魔館が原因ではなかったのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093318Z" creationid="土妹子" creationdate="20150106T093318Z">
+        <seg>红魔馆不是原因啊。</seg>
       </tuv>
     </tu>
     <tu>
