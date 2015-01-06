@@ -25854,6 +25854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c……すまないが よろしく頼むよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T143131Z" creationid="土妹子" creationdate="20150106T143131Z">
+        <seg>\c……虽然很过意不去，拜托你了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c……そこにある お供え物……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T141033Z" creationid="UUZ" creationdate="20140908T141033Z">
@@ -32730,6 +32738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140125Z" creationid="UUZ" creationdate="20140904T140125Z">
         <seg>阿求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あそこは迷いやすいから気をつけてくれ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T143111Z" creationid="土妹子" creationdate="20150106T143111Z">
+        <seg>那里很容易迷路，所以多加小心哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61716,6 +61732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133726Z" creationid="UUZ" creationdate="20140909T133726Z">
         <seg>听传闻说村落附近好像有什么别有用心的人在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>里南の門番には 私が許可したと伝えれば 通してくれるはずです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T143143Z" creationid="土妹子" creationdate="20150106T143143Z">
+        <seg>告诉村南的门卫有我的许可，应该就可以通行了。</seg>
       </tuv>
     </tu>
     <tu>
