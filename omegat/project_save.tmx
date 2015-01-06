@@ -26526,18 +26526,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>\cふーん…ま 良いけど。</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T151049Z" creationid="妄想" creationdate="20150104T151049Z">
-        <seg>\c嗯ー好吧…不过啊。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>\cはっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153421Z" creationid="土妹子" creationdate="20150105T153421Z">
         <seg>\c哈！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cふーん…ま 良いけど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T151049Z" creationid="妄想" creationdate="20150104T151049Z">
+        <seg>\c嗯ー好吧…不过啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34726,18 +34726,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>そんなに刺さりませ・・・\b</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153418Z" creationid="土妹子" creationdate="20150105T153418Z">
-        <seg>那样被刺到的话……\b</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>そろそろバザーの時期かぁ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082339Z" creationid="妄想" creationdate="20150105T082339Z">
         <seg>差不多到义卖会的时间了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そんなに刺さりませ・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153418Z" creationid="土妹子" creationdate="20150105T153418Z">
+        <seg>那样被刺到的话……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -34790,18 +34790,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>だから私が怪しいとでも踏んだのかしら？</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154642Z" creationid="土妹子" creationdate="20150105T154642Z">
-        <seg>难道因为这样就觉得我很可疑？</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>だから毎日ここに通っているのです！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T032526Z" creationid="妄想" creationdate="20150105T032526Z">
         <seg>所以每天都会来这里！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>だから私が怪しいとでも踏んだのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154642Z" creationid="土妹子" creationdate="20150105T154642Z">
+        <seg>难道因为这样就觉得我很可疑？</seg>
       </tuv>
     </tu>
     <tu>
@@ -49280,6 +49280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖怪の山だとは言うけど 実際仕切ってるのは天狗と河童なのよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150106T022010Z" creationid="妄想" creationdate="20150106T022010Z">
+        <seg>虽说妖怪之山现在是天狗和河童掌管着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖怪兎</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T161007Z" creationid="土妹子" creationdate="20150102T161007Z">
@@ -52892,6 +52900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110320Z" creationid="妄想" creationdate="20150103T110320Z">
         <seg>以前想要去冒险，不过继承了家业没有去成……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>昔は鬼の天下だったらしいけど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150106T022041Z" creationid="妄想" creationdate="20150106T022041Z">
+        <seg>但是过去可是鬼的天下。</seg>
       </tuv>
     </tu>
     <tu>
