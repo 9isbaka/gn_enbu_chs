@@ -27590,6 +27590,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c里南の門番には 私が許可したと伝えれば 通してくれるはずです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T140533Z" creationid="土妹子" creationdate="20150106T140533Z">
+        <seg>\c告诉村南的门卫有我的许可，应该就可以通行了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\d ね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T062236Z" creationid="土妹子" creationdate="20150106T062236Z">
@@ -55560,6 +55568,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>永遠亭は里の南を道なりに進むと見える竹林の中にあります。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T140455Z" creationid="土妹子" creationdate="20150106T140455Z">
+        <seg>永远亭在顺着村子南面的道路前进看到的竹林中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>汗</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151140Z" creationid="UUZ" creationdate="20150102T151140Z">
@@ -62972,6 +62988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023633Z" creationid="土妹子" creationdate="20141231T023633Z">
         <seg>顺风满帆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>頑張ってきてくださいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T140538Z" creationid="土妹子" creationdate="20150106T140538Z">
+        <seg>请加油呢。</seg>
       </tuv>
     </tu>
     <tu>
