@@ -26286,6 +26286,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cその先の運命は あなた自身で切り開いてみたらいいんじゃないかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061134Z" creationid="土妹子" creationdate="20150106T061134Z">
+        <seg>\c在那前方的命运，是不是试着由你自己去开辟比较好呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそれでは がんばってくださいね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T115837Z" creationid="UUZ" creationdate="20140908T115837Z">
@@ -34274,6 +34282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140247Z" creationid="UUZ" creationdate="20140909T140215Z">
         <seg>来吧，和我一起玩吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さぁ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061322Z" creationid="土妹子" creationdate="20150106T061322Z">
+        <seg>来吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -53552,6 +53568,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>本気でかかって来なさい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061332Z" creationid="土妹子" creationdate="20150106T061332Z">
+        <seg>全力一战！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>本醸造酒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144508Z" creationid="UUZ" creationdate="20140907T144508Z">
@@ -60556,6 +60580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T145012Z" creationid="UUZ" creationdate="20140904T153323Z">
         <seg>成败由天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>運命なんて いくらでも変わるものなのだからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T061314Z" creationid="土妹子" creationdate="20150106T061314Z">
+        <seg>因为命运什么的，是无论怎么都要改变的东西呢。</seg>
       </tuv>
     </tu>
     <tu>
