@@ -34414,6 +34414,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この道を橋のところまで下って 左方向に進めば 玄武の沢です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131632Z" creationid="土妹子" creationdate="20150106T131632Z">
+        <seg>从这条路向下走到桥的地方，再向左前进就是玄武之泽了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この頃お空での弾幕ごっこ見なくなったなぁ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T111252Z" creationid="妄想" creationdate="20150103T111252Z">
@@ -34634,6 +34642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T145128Z" creationid="妄想" creationdate="20150104T145128Z">
         <seg>快去吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さて 私はこのへんで仕事に戻りますか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131346Z" creationid="土妹子" creationdate="20150106T131346Z">
+        <seg>那我就回去这边的工作了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34942,6 +34958,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そうそう 道順を教えてませんでしたね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131603Z" creationid="土妹子" creationdate="20150106T131603Z">
+        <seg>对了对了，还没告诉你路怎么走呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そうそう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060405Z" creationid="土妹子" creationdate="20150106T060405Z">
@@ -35042,6 +35066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125950Z" creationid="土妹子" creationdate="20150106T125950Z">
         <seg>在那里的洞窟里就能到根据地了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そこの洞窟内からいけるみたいですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131645Z" creationid="土妹子" creationdate="20150106T131645Z">
+        <seg>似乎从那里的洞窟就能到了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36360,6 +36392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>まぁ 無理にとは言えませんからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131331Z" creationid="土妹子" creationdate="20150106T131329Z">
+        <seg>嘛，我就不说这很乱来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>まぁいいわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125728Z" creationid="UUZ" creationdate="20140909T125728Z">
@@ -36508,6 +36548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T141326Z" creationid="UUZ" creationdate="20140908T141326Z">
         <seg>恭候您的再次光临。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>またスクープをお願いしますよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131416Z" creationid="土妹子" creationdate="20150106T131416Z">
+        <seg>希望你还能有大新闻！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55500,6 +55548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155234Z" creationid="UUZ" creationdate="20140906T143239Z">
         <seg>河童根据地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>河童のアジトにはそこの洞窟内からいけるみたいですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131718Z" creationid="土妹子" creationdate="20150106T131718Z">
+        <seg>河童的根据地似乎从那里的洞窟就能到了。</seg>
       </tuv>
     </tu>
     <tu>
