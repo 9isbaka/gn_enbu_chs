@@ -26718,6 +26718,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cニックネームを変えたくなったら また私を頼りなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063611Z" creationid="土妹子" creationdate="20150106T063611Z">
+        <seg>\c想要改变昵称的话，请再来拜托我。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cボートに乗りますか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042727Z" creationid="UUZ" creationdate="20140908T042727Z">
@@ -33682,6 +33690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112255Z" creationid="土妹子" creationdate="20150105T112255Z">
         <seg>一定会在冒险中大放光彩的吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>きっと 素敵な名前をつけてあげるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063625Z" creationid="土妹子" creationdate="20150106T063625Z">
+        <seg>一定会帮你起一个很棒的名字的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57844,6 +57860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150245Z" creationid="UUZ" creationdate="20150102T150245Z">
         <seg>第六感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>答えは聞いてないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063554Z" creationid="土妹子" creationdate="20150106T063554Z">
+        <seg>没听到回答啊。</seg>
       </tuv>
     </tu>
     <tu>
