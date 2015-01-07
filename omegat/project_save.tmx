@@ -27598,6 +27598,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c次は紅魔館へ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T114500Z" creationid="土妹子" creationdate="20150107T114500Z">
+        <seg>\c接下来去红魔馆？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c残念だけど 私の術式とは違うものよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154702Z" creationid="土妹子" creationdate="20150105T154702Z">
@@ -46468,6 +46476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T152803Z" creationid="土妹子" creationdate="20150102T152803Z">
         <seg>三魂七魄离散。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>上白沢さんの頼まれ事は 無事終えられたのですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T114453Z" creationid="土妹子" creationdate="20150107T114453Z">
+        <seg>上白泽先生拜托的事平安结束了呢。</seg>
       </tuv>
     </tu>
     <tu>
