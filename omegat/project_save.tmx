@@ -25974,6 +25974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあと それはお譲りします。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073631Z" creationid="土妹子" creationdate="20150107T073631Z">
+        <seg>\c另外，把这个送给你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあなたにお願いするのは</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T022044Z" creationid="土妹子" creationdate="20150107T022044Z">
@@ -28906,6 +28914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150525Z" creationid="UUZ" creationdate="20140909T150525Z">
         <seg>我认为\p的话，一定可以好好使用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pさんには お世話になりました。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073300Z" creationid="土妹子" creationdate="20150107T073300Z">
+        <seg>承蒙\p多多关照了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33662,10 +33678,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ええ 用も済んでいますし 構いませんよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073534Z" creationid="土妹子" creationdate="20150107T073534Z">
+        <seg>嗯，已经用完了所以没关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ええ 私がアリスよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161308Z" creationid="UUZ" creationdate="20140909T161308Z">
         <seg>嗯，我就是爱丽丝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>えっと 何かお礼をしなくてはいけないですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073455Z" creationid="土妹子" creationdate="20150107T073442Z">
+        <seg>那个，什么礼物都不给可不行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34790,6 +34822,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これで何とか一件落着です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073244Z" creationid="土妹子" creationdate="20150107T073244Z">
+        <seg>这样总算是解决一件事了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これで助かるわっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010532Z" creationid="土妹子" creationdate="20150107T010532Z">
@@ -34818,6 +34858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161926Z" creationid="UUZ" creationdate="20140909T161926Z">
         <seg>这个是可以将路上的小树砍掉的道具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>これは 道にある細い木を切る道具。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073549Z" creationid="土妹子" creationdate="20150107T073549Z">
+        <seg>这个是能够砍断路上的小树的道具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48672,6 +48720,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>助かりました。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073211Z" creationid="土妹子" creationdate="20150107T073211Z">
+        <seg>得救了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>効果</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095324Z" creationid="土妹子" creationdate="20141231T095324Z">
@@ -62368,6 +62424,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>道を塞いでいる細い木の前で使えば 先に進むことができるんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073613Z" creationid="土妹子" creationdate="20150107T073613Z">
+        <seg>在挡路的小树前使用的话，就可以前进了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>道具メニューから自転車を選択する方法と\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T124727Z" creationid="UUZ" creationdate="20140909T124641Z">
@@ -63980,6 +64044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143322Z" creationid="UUZ" creationdate="20140906T143322Z">
         <seg>香霖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>香霖堂さんから買ったものを貸して欲しいのですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073515Z" creationid="土妹子" creationdate="20150107T073515Z">
+        <seg>是想要借从香霖堂那里买来的东西？</seg>
       </tuv>
     </tu>
     <tu>
