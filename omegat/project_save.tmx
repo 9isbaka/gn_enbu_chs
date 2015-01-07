@@ -27374,6 +27374,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c姫なら 屋敷のどこかにいると思いますよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110758Z" creationid="土妹子" creationdate="20150107T110758Z">
+        <seg>\c我想公主应该在房子里的某处。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c実は私も全てはわかっていない状態で 調べている最中なんです。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T132833Z" creationid="UUZ" creationdate="20140909T132833Z">
@@ -29042,6 +29050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T074809Z" creationid="土妹子" creationdate="20150107T074809Z">
         <seg>是\p呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pさんではありませんか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110732Z" creationid="土妹子" creationdate="20150107T110732Z">
+        <seg>这不是\p吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35798,6 +35814,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そこそこ満足できたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110703Z" creationid="土妹子" creationdate="20150107T110703Z">
+        <seg>还算满足吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そこのあんた！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T134859Z" creationid="UUZ" creationdate="20140909T134859Z">
@@ -37420,6 +37444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073048Z" creationid="土妹子" creationdate="20150107T073048Z">
         <seg>还想再和你对决看看呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>またいらっしゃったんですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110739Z" creationid="土妹子" creationdate="20150107T110739Z">
+        <seg>欢迎再来呢。</seg>
       </tuv>
     </tu>
     <tu>
