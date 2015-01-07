@@ -25974,6 +25974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあなたにお願いするのは</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T022044Z" creationid="土妹子" creationdate="20150107T022044Z">
+        <seg>\c想要拜托给你的是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあら 図書館にご用なのね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T033346Z" creationid="土妹子" creationdate="20150106T033334Z">
@@ -28810,6 +28818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161157Z" creationid="土妹子" creationdate="20150105T161157Z">
         <seg>\p吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pさん あなたに手伝ってもらいましょう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T022035Z" creationid="土妹子" creationdate="20150107T022035Z">
+        <seg>\p，希望你帮一个忙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33466,6 +33482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T161147Z" creationid="UUZ" creationdate="20140908T161147Z">
         <seg>呜，呜哇哇哇哇人类！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>うちの姫と ある者の 喧嘩の仲裁。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T022058Z" creationid="土妹子" creationdate="20150107T022058Z">
+        <seg>调节我们的公主和某个人的冲突。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52644,6 +52668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151150Z" creationid="UUZ" creationdate="20150102T151150Z">
         <seg>恐怖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>患者もいる 屋敷内で暴れられて 困っているのです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T022126Z" creationid="土妹子" creationdate="20150107T022126Z">
+        <seg>这里还有患者，在屋子里大闹很让人困惑的。</seg>
       </tuv>
     </tu>
     <tu>
