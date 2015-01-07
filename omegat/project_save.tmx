@@ -25984,8 +25984,8 @@
       <tuv lang="JA">
         <seg>\cあなたに止めていただくのは 白い髪の者です。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042659Z" creationid="土妹子" creationdate="20150107T042659Z">
-        <seg>\c要请你制止的是那个白头发的家伙。。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T043143Z" creationid="土妹子" creationdate="20150107T042659Z">
+        <seg>\c要请你制止的是那个白头发的家伙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26050,6 +26050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T010849Z" creationid="UUZ" creationdate="20140908T143344Z">
         <seg>\c还是像平时那样等博丽的巫女解决吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cえっと……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T044751Z" creationid="土妹子" creationdate="20150107T044751Z">
+        <seg>\c那个……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26546,6 +26554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155853Z" creationid="土妹子" creationdate="20150105T155853Z">
         <seg>\c不过呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cでもいい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T043011Z" creationid="土妹子" creationdate="20150107T043011Z">
+        <seg>\c不过也好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33262,6 +33278,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T043113Z" creationid="土妹子" creationdate="20150107T043113Z">
+        <seg>啊～。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あーあ 負けちゃった。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140322Z" creationid="UUZ" creationdate="20140909T140322Z">
@@ -36170,6 +36194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125533Z" creationid="土妹子" creationdate="20150106T125533Z">
         <seg>河童的根据地好像被人形战线占领了的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どう見ても あなたじゃ相手にならないだけよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T043005Z" creationid="土妹子" creationdate="20150107T043000Z">
+        <seg>不管怎么看，你都做不了我的对手啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45520,6 +45552,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・なに？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042914Z" creationid="土妹子" creationdate="20150107T042914Z">
+        <seg>……啥？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・なるほど。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040152Z" creationid="UUZ" creationdate="20140908T074615Z">
@@ -45540,6 +45580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T160601Z" creationid="UUZ" creationdate="20140909T160601Z">
         <seg>・・・不过请先帮点小忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・やめよ やめ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T044505Z" creationid="土妹子" creationdate="20150107T044505Z">
+        <seg>……算了吧。算了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48552,6 +48600,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>加減せずに戦ってあげるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T043107Z" creationid="土妹子" creationdate="20150107T043107Z">
+        <seg>不要留手，来打一场吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>加護</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093150Z" creationid="土妹子" creationdate="20141231T093150Z">
@@ -51044,6 +51100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040826Z" creationid="UUZ" creationdate="20140908T082123Z">
         <seg>这似乎并不完全呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>完全にやる気を削がれてしまったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T044512Z" creationid="土妹子" creationdate="20150107T044512Z">
+        <seg>干劲被完全打没了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58872,6 +58936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私の邪魔をしようっていうの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T043155Z" creationid="土妹子" creationdate="20150107T042931Z">
+        <seg>就是说你要碍我事了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私は 会話テスト兼 このプログラムの簡単な説明をします。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T055431Z" creationid="UUZ" creationdate="20140908T055431Z">
@@ -60656,6 +60728,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>色々と迷惑かけてたようね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T044806Z" creationid="土妹子" creationdate="20150107T044806Z">
+        <seg>好像给你们添了不少麻烦呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>芭蕉扇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123112Z" creationid="UUZ" creationdate="20140906T123112Z">
@@ -61300,6 +61380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132830Z" creationid="UUZ" creationdate="20140908T132830Z">
         <seg>没见过的面孔啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>見事なまでに負けちゃった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T044450Z" creationid="土妹子" creationdate="20150107T044450Z">
+        <seg>彻底输掉了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62276,6 +62364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140808Z" creationid="UUZ" creationdate="20140909T140515Z">
         <seg>不要来阻碍我们！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>邪魔するやつは排除すればいいだけだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T043044Z" creationid="土妹子" creationdate="20150107T043044Z">
+        <seg>碍事的家伙只要排除掉就好了。</seg>
       </tuv>
     </tu>
     <tu>
