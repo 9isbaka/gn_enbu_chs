@@ -26382,6 +26382,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそれじゃ 私は先を急ぐぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T080929Z" creationid="土妹子" creationdate="20150107T080929Z">
+        <seg>\c那么我就先走了ｚｅ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそれでは がんばってくださいね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T115837Z" creationid="UUZ" creationdate="20140908T115837Z">
@@ -35558,6 +35566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そういえば 今回のは慧音のお使いなんだろ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T081201Z" creationid="土妹子" creationdate="20150107T081201Z">
+        <seg>说起来，这次是慧音派你去的吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そういえば！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133534Z" creationid="UUZ" creationdate="20140909T133534Z">
@@ -36644,6 +36660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155434Z" creationid="UUZ" creationdate="20140909T155434Z">
         <seg>什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なら 紅魔館に行く前に寺子屋によっていくといい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T081225Z" creationid="土妹子" creationdate="20150107T081225Z">
+        <seg>那么，在去红魔馆之前顺便去一下寺子屋比较好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47740,6 +47764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073020Z" creationid="土妹子" creationdate="20150107T073020Z">
         <seg>这次就先这样，回竹林了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>今度はもっと強くなってるから 負けないようにお前も強くなっとけよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T081005Z" creationid="土妹子" creationdate="20150107T081005Z">
+        <seg>我会变得更强的，所以你也不要输给我，让自己变得更强哦！</seg>
       </tuv>
     </tu>
     <tu>
