@@ -25974,6 +25974,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cああいうことは何度も起こっていたんだが</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T112133Z" creationid="土妹子" creationdate="20150107T112133Z">
+        <seg>\c像那样的事情已经发生过很多次了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあそこでは色々な情報が聞けると思いますし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T101516Z" creationid="UUZ" creationdate="20140908T101137Z">
@@ -57396,6 +57404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T025058Z" creationid="UUZ" creationdate="20140908T141245Z">
         <seg>除了不存在的东西，其他的都有哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無事に永遠亭の問題を解決してくれたみたいだな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T112108Z" creationid="土妹子" creationdate="20150107T112108Z">
+        <seg>看样子是平安地解决了永远亭的问题呢。</seg>
       </tuv>
     </tu>
     <tu>
