@@ -26926,6 +26926,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c・・・大丈夫そうですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T021024Z" creationid="土妹子" creationdate="20150107T021024Z">
+        <seg>\c……似乎没问题了呢。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c・・・本もないし 嘘じゃなさそうだな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161635Z" creationid="土妹子" creationdate="20150105T161635Z">
@@ -58404,6 +58412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141547Z" creationid="土妹子" creationdate="20150101T141547Z">
         <seg>碧色的印章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>確かに 実力はお持ちのようね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T021009Z" creationid="土妹子" creationdate="20150107T021009Z">
+        <seg>确实是很有实力的样子呢。</seg>
       </tuv>
     </tu>
     <tu>
