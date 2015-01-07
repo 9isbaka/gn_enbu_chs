@@ -35110,6 +35110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これからも旅を続けるなら 贔屓に頼むよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T123008Z" creationid="土妹子" creationdate="20150107T123008Z">
+        <seg>之后也继续旅行的话，还请多关照这里的生意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これで みんな元気になりましたよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T032012Z" creationid="土妹子" creationdate="20150107T032012Z">
@@ -38020,6 +38028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135838Z" creationid="UUZ" creationdate="20140904T135838Z">
         <seg>紫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ゆっくり見ていくといいよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T123018Z" creationid="土妹子" creationdate="20150107T123018Z">
+        <seg>请馒馒挑选。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56280,6 +56296,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>毎度どうも。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T123025Z" creationid="土妹子" creationdate="20150107T123025Z">
+        <seg>感谢惠顾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>毎度！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093810Z" creationid="土妹子" creationdate="20150106T093810Z">
@@ -63092,6 +63116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073613Z" creationid="土妹子" creationdate="20150107T073613Z">
         <seg>在挡路的小树前使用的话，就可以前进了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>道中気をつけてね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T123031Z" creationid="土妹子" creationdate="20150107T123031Z">
+        <seg>路上多小心。</seg>
       </tuv>
     </tu>
     <tu>
