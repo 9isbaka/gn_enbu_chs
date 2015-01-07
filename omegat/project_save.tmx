@@ -25966,6 +25966,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあ 人形の体力を回復させてあげましょうか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T105331Z" creationid="土妹子" creationdate="20150107T105331Z">
+        <seg>\c啊，要让我回复人形的体力吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあそこでは色々な情報が聞けると思いますし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T101516Z" creationid="UUZ" creationdate="20140908T101137Z">
@@ -33414,6 +33422,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あれ また来たの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T105355Z" creationid="土妹子" creationdate="20150107T105355Z">
+        <seg>啊咧，又来了啊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あれ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034609Z" creationid="土妹子" creationdate="20150105T034609Z">
@@ -37668,6 +37684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143257Z" creationid="UUZ" creationdate="20140908T143257Z">
         <seg>据说可以将异变解决……什么的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もしかして 姫様に惚れちゃった？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T105413Z" creationid="土妹子" creationdate="20150107T105413Z">
+        <seg>难道是被公主大人迷住了？</seg>
       </tuv>
     </tu>
     <tu>
@@ -51308,6 +51332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073112Z" creationid="土妹子" creationdate="20150107T073112Z">
         <seg>公主，好啦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>姫様も もう少しおしとやかにならないものかしら……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T105220Z" creationid="土妹子" creationdate="20150107T105213Z">
+        <seg>公主大人也是的，行为不能端庄点吗……。</seg>
       </tuv>
     </tu>
     <tu>
