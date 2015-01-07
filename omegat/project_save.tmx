@@ -26894,6 +26894,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cアイツは義理堅いから 何かくれるかもしれないしな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T081735Z" creationid="土妹子" creationdate="20150107T081735Z">
+        <seg>\c那家伙不愿意欠别人人情，也许会给你点什么呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cアヤカシの類いも・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032309Z" creationid="UUZ" creationdate="20140908T063350Z">
@@ -27170,6 +27178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112120Z" creationid="UUZ" creationdate="20140908T112056Z">
         <seg>\c现在为了解决异变而不在家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c今度こそ行くぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T081743Z" creationid="土妹子" creationdate="20150107T081743Z">
+        <seg>\c这次真的要走了ｚｅ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35402,6 +35418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161052Z" creationid="UUZ" creationdate="20140909T161052Z">
         <seg>那么，就拜托你了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>じゃあな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T081750Z" creationid="土妹子" creationdate="20150107T081750Z">
+        <seg>拜。</seg>
       </tuv>
     </tu>
     <tu>
