@@ -34606,6 +34606,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここで学んでいったらどうだ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T113834Z" creationid="土妹子" creationdate="20150107T113834Z">
+        <seg>就来这里学习如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここで悪さしようとする奴なんて居ませんよねぇ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082526Z" creationid="妄想" creationdate="20150105T082526Z">
@@ -47420,6 +47428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T071041Z" creationid="妄想" creationdate="20150104T071041Z">
         <seg>但是空的人形不行吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形のことでわからないことがあったら</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T113810Z" creationid="土妹子" creationdate="20150107T113810Z">
+        <seg>人形的事情有了不懂的地方</seg>
       </tuv>
     </tu>
     <tu>
