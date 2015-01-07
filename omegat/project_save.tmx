@@ -27582,6 +27582,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c木こり人形は無事に手に入れたんだね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T120106Z" creationid="土妹子" creationdate="20150107T120106Z">
+        <seg>\c平安得到了樵夫人形呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c木こり人形を使いますか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054638Z" creationid="UUZ" creationdate="20140908T054638Z">
