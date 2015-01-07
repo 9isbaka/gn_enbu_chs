@@ -35958,6 +35958,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そのまま続けていれば きっと帰れるようになりますよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121502Z" creationid="土妹子" creationdate="20150107T121502Z">
+        <seg>这样继续下去的话，你一定能回去的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのターンの 最後に 受けた 拡散スキルの ダメージを ２倍にして 返す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115812Z" creationid="土妹子" creationdate="20150101T115812Z">
@@ -43908,6 +43916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T161550Z" creationid="UUZ" creationdate="20140904T161550Z">
         <seg>火球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ファイトですっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121522Z" creationid="土妹子" creationdate="20150107T121522Z">
+        <seg>Fight！</seg>
       </tuv>
     </tu>
     <tu>
@@ -58152,6 +58168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>異変の解決を始めたそうですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121448Z" creationid="土妹子" creationdate="20150107T121448Z">
+        <seg>好像异变的解决已经开始了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>異変を解決するために出払っていますし・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040907Z" creationid="UUZ" creationdate="20140908T084122Z">
@@ -60532,6 +60556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T153342Z" creationid="UUZ" creationdate="20140909T153342Z">
         <seg>没听说过吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>聞きましたよ \pさん！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121427Z" creationid="土妹子" creationdate="20150107T121427Z">
+        <seg>听好了 \p！</seg>
       </tuv>
     </tu>
     <tu>
