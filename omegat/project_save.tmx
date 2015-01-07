@@ -26318,6 +26318,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそういや これからどこ行くんだ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T080723Z" creationid="土妹子" creationdate="20150107T080723Z">
+        <seg>\c话说回来，接下来要去哪？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそうそう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051134Z" creationid="土妹子" creationdate="20150105T051134Z">
@@ -36648,6 +36656,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なるほど アリスがそんなことをな……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T080741Z" creationid="土妹子" creationdate="20150107T080741Z">
+        <seg>原来如此，爱丽丝这么说的……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんだ お気に入りはいないのか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034017Z" creationid="土妹子" creationdate="20150105T034017Z">
@@ -37204,6 +37220,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035813Z" creationid="UUZ" creationdate="20140908T073248Z">
         <seg>不会吧，竟然被你驯服了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まさか ここまで力付けてるとは思わなかったぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T080705Z" creationid="土妹子" creationdate="20150107T080705Z">
+        <seg>完全没想到你的实力到了如此程度ｚｅ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59700,6 +59724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093318Z" creationid="土妹子" creationdate="20150106T093318Z">
         <seg>红魔馆不是原因啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅魔館だって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T080730Z" creationid="土妹子" creationdate="20150107T080730Z">
+        <seg>你说红魔馆吗？</seg>
       </tuv>
     </tu>
     <tu>
