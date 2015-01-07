@@ -51464,6 +51464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>師匠！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T014456Z" creationid="土妹子" creationdate="20150107T014456Z">
+        <seg>师父！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>帯電</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031917Z" creationid="土妹子" creationdate="20141231T031917Z">
@@ -55884,6 +55892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T011818Z" creationid="土妹子" creationdate="20150107T011809Z">
         <seg>永琳大人说的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>永琳様のいる診療室は 屋敷西のつきあたりにありますよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T014452Z" creationid="土妹子" creationdate="20150107T014452Z">
+        <seg>永琳大人的门诊室在房子的西侧哦。</seg>
       </tuv>
     </tu>
     <tu>
