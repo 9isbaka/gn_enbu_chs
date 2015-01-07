@@ -25982,6 +25982,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあなたに止めていただくのは 白い髪の者です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042659Z" creationid="土妹子" creationdate="20150107T042659Z">
+        <seg>\c要请你制止的是那个白头发的家伙。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあら 図書館にご用なのね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T033346Z" creationid="土妹子" creationdate="20150106T033334Z">
@@ -27274,6 +27282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162206Z" creationid="土妹子" creationdate="20150104T162206Z">
         <seg>一旦解除了\c的封印，就再也遇不到了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c少々手ごわいですが きっとあなたなら大丈夫。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042745Z" creationid="土妹子" creationdate="20150107T042745Z">
+        <seg>\c虽然有点难缠，不过是你的话一定没问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33526,6 +33542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うちの姫の天敵で 名前を藤原 妹紅。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042713Z" creationid="土妹子" creationdate="20150107T042713Z">
+        <seg>她是我们公主的天敌，名字叫藤原妹红。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うつほ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140303Z" creationid="UUZ" creationdate="20140904T140303Z">
@@ -34882,6 +34906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140247Z" creationid="UUZ" creationdate="20140909T140215Z">
         <seg>来吧，和我一起玩吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さぁ 被害が広がる前に。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042758Z" creationid="土妹子" creationdate="20150107T042758Z">
+        <seg>那么，在被害扩大之前。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47924,6 +47956,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065815Z" creationid="土妹子" creationdate="20150101T065815Z">
         <seg>不能先发的话会失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>先ほども言ったように この喧嘩の仲裁に入ります。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042601Z" creationid="土妹子" creationdate="20150107T042601Z">
+        <seg>就像之前说过的那样，介入调解这场冲突。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61052,6 +61092,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T020513Z" creationid="土妹子" creationdate="20141231T020513Z">
         <seg>血气旺盛(Trial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>行きますよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042826Z" creationid="土妹子" creationdate="20150107T042826Z">
+        <seg>快去吧。</seg>
       </tuv>
     </tu>
     <tu>
