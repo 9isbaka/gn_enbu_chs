@@ -26510,6 +26510,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cでは 私はあなたのことを八意様に伝えてきますので</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010447Z" creationid="土妹子" creationdate="20150107T010447Z">
+        <seg>\c那么我先把你的事情告诉八意大人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cでも そうね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155853Z" creationid="土妹子" creationdate="20150105T155853Z">
@@ -28690,6 +28698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062111Z" creationid="UUZ" creationdate="20140908T062111Z">
         <seg>\o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\oてゐ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010654Z" creationid="土妹子" creationdate="20150107T010654Z">
+        <seg>\o帝</seg>
       </tuv>
     </tu>
     <tu>
@@ -34344,8 +34360,8 @@
       <tuv lang="JA">
         <seg>このままじゃ 大変なことになるって八意様が言ってました！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T154224Z" creationid="土妹子" creationdate="20150106T154224Z">
-        <seg>八意大人说这样下去会变得非常棘手了！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010426Z" creationid="土妹子" creationdate="20150106T154224Z">
+        <seg>八意大人说这样下去事情会变得非常棘手了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -34570,6 +34586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151009Z" creationid="UUZ" creationdate="20140909T151009Z">
         <seg>如果还没有决定接下来去哪里的话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>これで助かるわっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010532Z" creationid="土妹子" creationdate="20150107T010532Z">
+        <seg>这样一来就得救了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -34882,6 +34906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053711Z" creationid="UUZ" creationdate="20140909T141837Z">
         <seg>这么盯着看！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>じゃ 私は先に師匠に伝えてくる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010624Z" creationid="土妹子" creationdate="20150107T010624Z">
+        <seg>那么我就先去通知师父了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35726,6 +35758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>てゐはちゃんと この人を連れてくるのよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010649Z" creationid="土妹子" creationdate="20150107T010649Z">
+        <seg>帝你要好好地把那个人带过来哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>てんし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140230Z" creationid="UUZ" creationdate="20140904T140230Z">
@@ -36384,6 +36424,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>はーい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010704Z" creationid="土妹子" creationdate="20150107T010704Z">
+        <seg>好～的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ばくれつゲンコツ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114129Z" creationid="土妹子" creationdate="20150101T114129Z">
@@ -36396,6 +36444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140412Z" creationid="UUZ" creationdate="20140904T140412Z">
         <seg>圣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ひとまず先に失礼します！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010507Z" creationid="土妹子" creationdate="20150107T010507Z">
+        <seg>就失礼先走一步了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -37040,6 +37096,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>やっときた。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010520Z" creationid="土妹子" creationdate="20150107T010520Z">
+        <seg>终于来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>やっときたんだな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161210Z" creationid="土妹子" creationdate="20150105T161210Z">
@@ -37396,6 +37460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160248Z" creationid="土妹子" creationdate="20150105T160248Z">
         <seg>知道了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わかってるって。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010709Z" creationid="土妹子" creationdate="20150107T010709Z">
+        <seg>知道了啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45192,6 +45264,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・で 実際どうなの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010802Z" creationid="土妹子" creationdate="20150107T010802Z">
+        <seg>……不过，实际又如何呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・ところで リグルが見つかったって人間って アイツ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T052847Z" creationid="UUZ" creationdate="20140909T134705Z">
@@ -50728,6 +50808,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>実力があるなんて言われてるけど本当？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010831Z" creationid="土妹子" creationdate="20150107T010831Z">
+        <seg>说你很有实力什么的，是真的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>宮古芳香</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145045Z" creationid="UUZ" creationdate="20140906T145045Z">
@@ -52332,6 +52420,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014351Z" creationid="UUZ" creationdate="20140906T095500Z">
         <seg>用可疑的鳞粉洒向对手，使对手麻痹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>怪しいんだよね ものすごく。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010839Z" creationid="土妹子" creationdate="20150107T010839Z">
+        <seg>奇怪啊。很奇怪啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61964,6 +62060,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120244Z" creationid="UUZ" creationdate="20141230T120244Z">
         <seg>针妙丸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鈴仙</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010513Z" creationid="土妹子" creationdate="20150107T010513Z">
+        <seg>铃仙</seg>
       </tuv>
     </tu>
     <tu>
