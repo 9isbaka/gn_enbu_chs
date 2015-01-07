@@ -28950,6 +28950,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pさんは……\bなるほど 旅を。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073913Z" creationid="土妹子" creationdate="20150107T073913Z">
+        <seg>\p呢……\b原来是旅行啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pさんは元の場所に戻れないはずなんです。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040848Z" creationid="UUZ" creationdate="20140908T082727Z">
@@ -33606,6 +33614,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うちの物置にしまっておくよりは \pさんの方が有効活用できるでしょう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073708Z" creationid="土妹子" creationdate="20150107T073708Z">
+        <seg>比起放在我们这里落灰， \p应该能有效应用吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うつほ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140303Z" creationid="UUZ" creationdate="20140904T140303Z">
@@ -34686,6 +34702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この後は紅魔館へ向かうのですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073922Z" creationid="土妹子" creationdate="20150107T073922Z">
+        <seg>在这之后要去红魔馆啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この方があなたにとっても 最良だと思います。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T145810Z" creationid="UUZ" creationdate="20140909T145707Z">
@@ -35074,6 +35098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131346Z" creationid="土妹子" creationdate="20150106T131346Z">
         <seg>那我就回去这边的工作了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さて 私達はこれから後片付けですね……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073840Z" creationid="土妹子" creationdate="20150107T073840Z">
+        <seg>那么，我们这就进行善后工作……。</seg>
       </tuv>
     </tu>
     <tu>
