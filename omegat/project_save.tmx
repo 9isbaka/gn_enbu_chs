@@ -34958,6 +34958,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これから 片付けに駆り出されるのかぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T083012Z" creationid="土妹子" creationdate="20150107T083012Z">
+        <seg>这之后被赶出来打扫了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これからどこに行くか決まっていなければ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151009Z" creationid="UUZ" creationdate="20140909T151009Z">
@@ -37716,6 +37724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151322Z" creationid="UUZ" creationdate="20140904T151322Z">
         <seg>忍耐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やだなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T083020Z" creationid="土妹子" creationdate="20150107T083020Z">
+        <seg>真讨厌。</seg>
       </tuv>
     </tu>
     <tu>
