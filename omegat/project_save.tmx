@@ -25830,6 +25830,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c\pさんもそろそろこちらに慣れてきた頃ですし 自分で探してみてはどうでしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T142037Z" creationid="土妹子" creationdate="20150108T142037Z">
+        <seg>\c\p也差不多到了习惯这边的时候了，要不要试着自己去探索呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c\pさんも気が変わったら またいらしてくださいね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055620Z" creationid="土妹子" creationdate="20150105T055620Z">
@@ -26978,6 +26986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T113028Z" creationid="土妹子" creationdate="20150107T113028Z">
         <seg>\c虽然只是一点薄礼，请你收下这个吧。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cまぁ ここはあまり見るものは無いけどゆっくりしてきな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T141942Z" creationid="土妹子" creationdate="20150108T141942Z">
+        <seg>\c嘛，虽然这里几乎没什么可看的东西，不过还是希望你馒馒游览。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34222,6 +34238,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うーん・・・私も心当たりはないですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T142011Z" creationid="土妹子" creationdate="20150108T142011Z">
+        <seg>嗯～……我也没有想到呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>えいき</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140121Z" creationid="UUZ" creationdate="20140904T140121Z">
@@ -38196,6 +38220,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110739Z" creationid="土妹子" creationdate="20150107T110739Z">
         <seg>欢迎再来呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>またここに参拝できるようにね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T141905Z" creationid="土妹子" creationdate="20150108T141905Z">
+        <seg>希望你还能再来这里参拜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56884,6 +56916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154511Z" creationid="土妹子" creationdate="20150102T154511Z">
         <seg>放入碎片状态的人形的箱子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次に行くところがないんですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T141958Z" creationid="土妹子" creationdate="20150108T141958Z">
+        <seg>还没想好下一个要去的地方吗</seg>
       </tuv>
     </tu>
     <tu>
