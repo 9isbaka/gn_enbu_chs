@@ -25758,6 +25758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\bさとり様に案内するように言われてたんだけど道間違えちゃったよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160424Z" creationid="土妹子" creationdate="20150108T160424Z">
+        <seg>\b觉大人说过要让我带路的，不过却走错路了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\bそれで\pさんをこちらまで お連れしたということですね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T074830Z" creationid="UUZ" creationdate="20140908T074830Z">
@@ -26314,6 +26322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125003Z" creationid="UUZ" creationdate="20140909T125003Z">
         <seg>\c这两种输入方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cこの先が間欠泉地下センターになってるから気をつけてね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160452Z" creationid="土妹子" creationdate="20150108T160452Z">
+        <seg>\c这前面就是间歇泉地下中心了，请多加小心。</seg>
       </tuv>
     </tu>
     <tu>
