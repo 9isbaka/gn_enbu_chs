@@ -27950,6 +27950,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c残念ね 今はこれ以上進めないわよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160032Z" creationid="土妹子" creationdate="20150108T160032Z">
+        <seg>\c真可惜，现在不能再前进了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c毒状態の人形がもう一度毒を受けると 猛毒になります。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024233Z" creationid="UUZ" creationdate="20140908T131940Z">
@@ -28002,6 +28010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112528Z" creationid="土妹子" creationdate="20150105T112528Z">
         <seg>\c有准备的必要的话，看一下店里的货也好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c無理にでも通るって言うなら あたしが相手してあげる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160158Z" creationid="土妹子" creationdate="20150108T160158Z">
+        <seg>\c如果说强行也要通过的话，我就做你的对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33910,6 +33926,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら 負けちゃった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160206Z" creationid="土妹子" creationdate="20150108T160206Z">
+        <seg>啊啦，输掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161604Z" creationid="土妹子" creationdate="20150104T161604Z">
@@ -34122,6 +34146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T120016Z" creationid="土妹子" creationdate="20150107T120016Z">
         <seg>这是好事啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いいって言うまで 誰も通しちゃだめって さとり様が言ってたって言われた気がするもの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160135Z" creationid="土妹子" creationdate="20150108T160135Z">
+        <seg>我记得觉大人说过直到说可以之前，谁都不能通行的。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34450,6 +34482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073941Z" creationid="UUZ" creationdate="20140908T073904Z">
         <seg>唔~。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>うーん・・・\bま ちゃんと戦ったし通しても大丈夫よね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160229Z" creationid="土妹子" creationdate="20150108T160229Z">
+        <seg>嗯～……\b嘛，已经认真的战斗过了，通过也没关系啦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -59148,6 +59188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T112108Z" creationid="土妹子" creationdate="20150107T112108Z">
         <seg>看样子是平安地解决了永远亭的问题呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無事着けたみたいだね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160347Z" creationid="土妹子" creationdate="20150108T160347Z">
+        <seg>看起来平安到达了呢。</seg>
       </tuv>
     </tu>
     <tu>
