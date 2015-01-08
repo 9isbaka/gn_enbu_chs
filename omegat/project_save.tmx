@@ -27254,6 +27254,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c・・・ほら情報は与えましたよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155011Z" creationid="土妹子" creationdate="20150108T155011Z">
+        <seg>\c看，情报已经给你了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c・・・まぁ 少しお手伝いはしてもらうけど。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112322Z" creationid="土妹子" creationdate="20150105T112322Z">
@@ -28186,6 +28194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T133045Z" creationid="土妹子" creationdate="20150106T133045Z">
         <seg>\c我知道这很自私，不过能不能请你去永远亭解决事件呢？？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c行き方は簡単 このまま進むと灼熱地獄跡があり その先に目的の場所があるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155000Z" creationid="土妹子" creationdate="20150108T155000Z">
+        <seg>\c去的路很简单，就这样前进就是灼热地狱遗迹了，再前面就是目的地了哦。</seg>
       </tuv>
     </tu>
     <tu>
