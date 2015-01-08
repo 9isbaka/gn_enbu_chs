@@ -53224,6 +53224,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>山の麓に それらしき物があったから使ってみるといいかもしれないね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T140654Z" creationid="土妹子" creationdate="20150108T140654Z">
+        <seg>在山腰上有这样的东西的话，试着用一下也不错哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>山岳</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142432Z" creationid="UUZ" creationdate="20140906T142432Z">
