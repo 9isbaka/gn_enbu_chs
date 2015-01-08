@@ -34110,6 +34110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんた達の挑戦 受けてやろうじゃない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T162827Z" creationid="土妹子" creationdate="20150108T162827Z">
+        <seg>你们的挑战我就接下了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんまり危険な事はさせたくないんじゃが……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T155825Z" creationid="UUZ" creationdate="20140908T155825Z">
@@ -38508,6 +38516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T161110Z" creationid="土妹子" creationdate="20150108T161110Z">
         <seg>看，不管是对你还是对我们都是一石二鸟哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ほら みんな散らばるよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T162849Z" creationid="土妹子" creationdate="20150108T162849Z">
+        <seg>喂，大家分散！</seg>
       </tuv>
     </tu>
     <tu>
