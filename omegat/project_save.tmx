@@ -29334,6 +29334,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\pさん 解放戦線を解散させたって本当ですか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144114Z" creationid="土妹子" creationdate="20150108T144114Z">
+        <seg>\p，你把解放战线解散了是真的吗！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\pさん。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T064713Z" creationid="UUZ" creationdate="20140908T064713Z">
@@ -36114,6 +36122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153330Z" creationid="土妹子" creationdate="20150105T153330Z">
         <seg>呼　呼……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>すごいです！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144118Z" creationid="土妹子" creationdate="20150108T144118Z">
+        <seg>好厉害！</seg>
       </tuv>
     </tu>
     <tu>
@@ -50824,6 +50840,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>君が無事に外の世界へ帰れるよう 願っているよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144034Z" creationid="土妹子" creationdate="20150108T144034Z">
+        <seg>我在为你能够平安回到外侧的世界而祈愿哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>君も参拝かい！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T013101Z" creationid="妄想" creationdate="20150105T013101Z">
@@ -60932,6 +60956,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T135746Z" creationid="土妹子" creationdate="20150108T135746Z">
         <seg>我也早就想打一场了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私も負けていられませんね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144125Z" creationid="土妹子" creationdate="20150108T144125Z">
+        <seg>我也不能输呢！</seg>
       </tuv>
     </tu>
     <tu>
