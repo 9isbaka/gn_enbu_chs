@@ -26374,6 +26374,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cさぁ あなたはどんな風に自分と向き合い 私を納得させてくれるのかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T154217Z" creationid="土妹子" creationdate="20150108T154217Z">
+        <seg>\c那么，就让我了解一下，你是以什么态度面对自己的吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cさあ無駄な会話はこれくらいにして 楽しもうじゃない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T134409Z" creationid="土妹子" creationdate="20150107T134409Z">
@@ -26394,6 +26402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154940Z" creationid="土妹子" creationdate="20150105T154940Z">
         <seg>\c那么\b，蕾咪还要找你哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cさて話を戻して・・・\b間欠泉センターね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T154457Z" creationid="土妹子" creationdate="20150108T154457Z">
+        <seg>\c那么话说回来……\b间歇泉中心呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37390,6 +37406,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>でも己と向き合うのもたまには良いでしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T154442Z" creationid="土妹子" creationdate="20150108T154442Z">
+        <seg>不过偶尔和自己对抗也不错吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>と とりあえず ここは撤退しましょ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T031116Z" creationid="土妹子" creationdate="20150108T031116Z">
@@ -37658,6 +37682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T072355Z" creationid="UUZ" creationdate="20140908T072355Z">
         <seg>真是相当难对付啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なかなか強かったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T154224Z" creationid="土妹子" creationdate="20150108T154224Z">
+        <seg>挺强的啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60724,6 +60756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042241Z" creationid="UUZ" creationdate="20140908T042241Z">
         <seg>可以移动到认识的地方的羽翼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>知っての通り 今は解放戦線とやらの住処になっているらしいわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T154551Z" creationid="土妹子" creationdate="20150108T154551Z">
+        <seg>和你知道的一样，那里现在似乎已经变成解放战线的住处了。</seg>
       </tuv>
     </tu>
     <tu>
