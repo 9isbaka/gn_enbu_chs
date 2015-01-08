@@ -25798,6 +25798,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\b私と人形で勝負しましょう！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T092054Z" creationid="土妹子" creationdate="20150108T092054Z">
+        <seg>\b和我用人形一决胜负吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c\pさんが迷い込んでしまった以上</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040823Z" creationid="UUZ" creationdate="20140908T081901Z">
@@ -26842,6 +26850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093300Z" creationid="土妹子" creationdate="20150106T093300Z">
         <seg>\c竟然可以运用技术，使身体变得看不见……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cね \pさん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T092045Z" creationid="土妹子" creationdate="20150108T092045Z">
+        <seg>\c呐，\p。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36714,6 +36730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150917Z" creationid="UUZ" creationdate="20140909T150917Z">
         <seg>请偶尔给我看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>だ だめです 神奈子様。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T092022Z" creationid="土妹子" creationdate="20150108T092022Z">
+        <seg>不，不行哦，神奈子大人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48804,6 +48828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071053Z" creationid="UUZ" creationdate="20140824T160432Z">
         <seg>今天去博丽神社有事！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>今日は私が\pさんと遊ぶ日なんですから！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T092035Z" creationid="土妹子" creationdate="20150108T092035Z">
+        <seg>因为今天是我和\p玩的日子！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62444,6 +62476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162858Z" creationid="土妹子" creationdate="20150104T162858Z">
         <seg>太好了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>色々と話を交わしてみたいものね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T092013Z" creationid="土妹子" creationdate="20150108T092013Z">
+        <seg>真想和你谈谈各种各样的话题。</seg>
       </tuv>
     </tu>
     <tu>
