@@ -27070,6 +27070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cほら\p \bあんたも足を突っ込んだんだから 手伝いなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T163834Z" creationid="土妹子" creationdate="20150108T163834Z">
+        <seg>\c你看\p \b你都已经插进脚来了，就请帮帮忙吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cほんのお礼だが これを受け取ってくれないか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T113028Z" creationid="土妹子" creationdate="20150107T113028Z">
@@ -55568,6 +55576,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>手分けしてさっさとこの異変 解決するわよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T163901Z" creationid="土妹子" creationdate="20150108T163901Z">
+        <seg>我们分工合作，赶紧解决这个异变吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>手加減なんてしてやらないから しっかり準備しろよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T091208Z" creationid="UUZ" creationdate="20140908T091208Z">
@@ -61596,6 +61612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112147Z" creationid="UUZ" creationdate="20140908T112147Z">
         <seg>我被拜托留在这里看家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私はこっちに行くわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T163908Z" creationid="土妹子" creationdate="20150108T163908Z">
+        <seg>我去那边了。</seg>
       </tuv>
     </tu>
     <tu>
