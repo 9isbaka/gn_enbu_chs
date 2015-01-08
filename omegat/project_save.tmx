@@ -29054,10 +29054,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\oスター</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030211Z" creationid="土妹子" creationdate="20150108T030211Z">
+        <seg>\o斯塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\oチルノ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T134155Z" creationid="UUZ" creationdate="20140909T134155Z">
         <seg>\o琪露诺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\oルナ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030400Z" creationid="土妹子" creationdate="20150108T030400Z">
+        <seg>\o露娜</seg>
       </tuv>
     </tu>
     <tu>
@@ -33110,6 +33126,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あ あの私の能力で……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030356Z" creationid="土妹子" creationdate="20150108T030356Z">
+        <seg>啊，那个用我的能力就……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あ この間の・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093853Z" creationid="土妹子" creationdate="20150106T093853Z">
@@ -34458,6 +34482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155548Z" creationid="UUZ" creationdate="20140909T155548Z">
         <seg>尽管放马过来吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>かくれんぼも負けなしよっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030341Z" creationid="土妹子" creationdate="20150108T030341Z">
+        <seg>捉迷藏也不会输了哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -37424,6 +37456,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ふふふ そうね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030220Z" creationid="土妹子" creationdate="20150108T030220Z">
+        <seg>嘿嘿嘿，是呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ふふふ 私もあなたに興味があるの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T063919Z" creationid="UUZ" creationdate="20140908T063919Z">
@@ -37492,6 +37532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T011701Z" creationid="土妹子" creationdate="20150107T011701Z">
         <seg>喂喂，快点！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ほらほら！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030627Z" creationid="土妹子" creationdate="20150108T030627Z">
+        <seg>快看快看！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40508,6 +40556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140037Z" creationid="UUZ" creationdate="20140904T140037Z">
         <seg>桑尼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>サニーも楽しみだって。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030636Z" creationid="土妹子" creationdate="20150108T030636Z">
+        <seg>桑尼也很高兴的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46264,6 +46320,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・え？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030205Z" creationid="土妹子" creationdate="20150108T030205Z">
+        <seg>……诶？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・さて もういいでしょう？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T160036Z" creationid="土妹子" creationdate="20150105T160036Z">
@@ -48908,6 +48972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T024712Z" creationid="土妹子" creationdate="20141231T024712Z">
         <seg>受到的光、暗属性技能伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>光学迷彩のおかげで 色んな奴を驚かし放題っ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030249Z" creationid="土妹子" creationdate="20150108T030249Z">
+        <seg>多亏了光学迷彩，可以随便去吓各种家伙了！</seg>
       </tuv>
     </tu>
     <tu>
