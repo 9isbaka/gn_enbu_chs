@@ -25742,6 +25742,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\bいい所でしょう！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T042716Z" creationid="土妹子" creationdate="20150108T042716Z">
+        <seg>\b是个好地方吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\bごきげんいかが？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062510Z" creationid="UUZ" creationdate="20140908T062510Z">
@@ -27434,6 +27442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060403Z" creationid="UUZ" creationdate="20140908T060403Z">
         <seg>\c右边是建筑物与洞窟地图切换的测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c各地を旅しているのだとは聞いてましたが こちらにいらしてたんですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T042659Z" creationid="土妹子" creationdate="20150108T042659Z">
+        <seg>\c虽然听说你在各地旅行，不过这次来了这里呢。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35094,6 +35110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここ私のおうちなんですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T042711Z" creationid="土妹子" creationdate="20150108T042711Z">
+        <seg>这里是我的家哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>こすず</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140515Z" creationid="UUZ" creationdate="20140904T140515Z">
@@ -36210,6 +36234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055252Z" creationid="土妹子" creationdate="20150105T055252Z">
         <seg>这样吗……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そうですよ 神奈子様。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T042733Z" creationid="土妹子" creationdate="20150108T042733Z">
+        <seg>是啊，神奈子大人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55948,6 +55980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T074603Z" creationid="UUZ" creationdate="20140908T074603Z">
         <seg>早苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>早苗 お客さんかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T042721Z" creationid="土妹子" creationdate="20150108T042721Z">
+        <seg>早苗，有客人？</seg>
       </tuv>
     </tu>
     <tu>
