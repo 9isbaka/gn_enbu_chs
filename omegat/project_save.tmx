@@ -26054,6 +26054,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあなたが知りたいのは 間欠泉地下センターへの行き方でしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T154013Z" creationid="土妹子" creationdate="20150108T154013Z">
+        <seg>\c你想知道的是去间歇泉地下中心的路吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあなたにお願いするのは</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T022044Z" creationid="土妹子" creationdate="20150107T022044Z">
@@ -37102,6 +37110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>だけど そう易々と通すこともできないの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T154140Z" creationid="土妹子" creationdate="20150108T154140Z">
+        <seg>不过，这样轻松的通过是不行的哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>だったよね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082639Z" creationid="妄想" creationdate="20150105T082639Z">
@@ -38242,8 +38258,8 @@
       <tuv lang="JA">
         <seg>へぇ 勇儀に言われてここに来たと……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T153623Z" creationid="土妹子" creationdate="20150108T153623Z">
-        <seg>咦，勇仪倒是说过你要来这里……。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T153649Z" creationid="土妹子" creationdate="20150108T153623Z">
+        <seg>咦，是勇仪和你说要来这里吗……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47332,6 +47348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150126Z" creationid="妄想" creationdate="20150104T150126Z">
         <seg>・・・人类？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・嫌でも知ってしまうもの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T153941Z" creationid="土妹子" creationdate="20150108T153941Z">
+        <seg>……就算讨厌也还是会知道的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66316,6 +66340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055135Z" creationid="UUZ" creationdate="20140909T151032Z">
         <seg>建议你最好去香霖堂那边看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>驚いているようだけど あなたの考えを知ることは簡単だわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T153931Z" creationid="土妹子" creationdate="20150108T153931Z">
+        <seg>虽然会让你很吃惊，我知道你在想什么是很简单的哦。</seg>
       </tuv>
     </tu>
     <tu>
