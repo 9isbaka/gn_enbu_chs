@@ -27070,6 +27070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cほら ここでグズグズしてても意味ないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T171700Z" creationid="土妹子" creationdate="20150108T171700Z">
+        <seg>\c哎，再在这里磨蹭也没有意义了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cほら どいてどいて！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T125916Z" creationid="UUZ" creationdate="20140909T125916Z">
@@ -33846,6 +33854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あまりに遅いから 待ちくたびれたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T171643Z" creationid="土妹子" creationdate="20150108T171643Z">
+        <seg>真是慢啊，我都等很久了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あまり表には出てこないんだってさ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082602Z" creationid="妄想" creationdate="20150105T082602Z">
@@ -36266,6 +36282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153655Z" creationid="土妹子" creationdate="20150105T153655Z">
         <seg>到刚才为止一直在睡觉？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さっさと先に進むわよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T171709Z" creationid="土妹子" creationdate="20150108T171709Z">
+        <seg>赶快前进啊。</seg>
       </tuv>
     </tu>
     <tu>
