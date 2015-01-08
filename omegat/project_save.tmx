@@ -35928,8 +35928,8 @@
       <tuv lang="JA">
         <seg>さぁ 思う存分に暴れな。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T150923Z" creationid="土妹子" creationdate="20150108T150923Z">
-        <seg>来吧。尽情大闹一场吧</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T150926Z" creationid="土妹子" creationdate="20150108T150923Z">
+        <seg>来吧。尽情大闹一场吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66260,6 +66260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142713Z" creationid="UUZ" creationdate="20140907T142708Z">
         <seg>能高价卖出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鬼である私に勝つなんて大したもんだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T151013Z" creationid="土妹子" creationdate="20150108T151013Z">
+        <seg>能够打赢鬼族的我，真是了不起啊。</seg>
       </tuv>
     </tu>
     <tu>
