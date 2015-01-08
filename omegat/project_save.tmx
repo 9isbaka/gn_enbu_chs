@@ -33390,6 +33390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あ 紫様の言ってた人間だ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144432Z" creationid="土妹子" creationdate="20150108T144432Z">
+        <seg>啊，是紫大人说过的人类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あぁ \pか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T113155Z" creationid="土妹子" creationdate="20150107T113155Z">
@@ -33818,6 +33826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T105355Z" creationid="土妹子" creationdate="20150107T105355Z">
         <seg>啊咧，又来了啊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あれ 私好きだったんですよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144412Z" creationid="土妹子" creationdate="20150108T144412Z">
+        <seg>那个，我很喜欢的哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36290,6 +36306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T081201Z" creationid="土妹子" creationdate="20150107T081201Z">
         <seg>说起来，这次是慧音派你去的吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そういえば外の世界にいるとき 仲間を集めて冒険するゲームってありましたよね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144400Z" creationid="土妹子" creationdate="20150108T144400Z">
+        <seg>说起来，你在外侧世界的时候，有召集伙伴进行冒险的游戏吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -61420,6 +61444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142455Z" creationid="UUZ" creationdate="20140907T142455Z">
         <seg>能卖出好价钱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>結構強かったんですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144421Z" creationid="土妹子" creationdate="20150108T144421Z">
+        <seg>很强的来着哦。</seg>
       </tuv>
     </tu>
     <tu>
