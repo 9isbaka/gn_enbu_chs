@@ -26886,6 +26886,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cふむ 興味深いわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T091636Z" creationid="土妹子" creationdate="20150108T091636Z">
+        <seg>\c呜嗯，我很感兴趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cふーん…ま 良いけど。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T151049Z" creationid="妄想" creationdate="20150104T151049Z">
@@ -27298,6 +27306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T080838Z" creationid="UUZ" creationdate="20140908T080838Z">
         <seg>\c现在的幻想乡不知何故到处充斥着人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c今は帰るために異変を解決しようと 幻想郷を旅されてるのです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T091531Z" creationid="土妹子" creationdate="20150108T091531Z">
+        <seg>\c现在为了回去，正在幻想乡中旅行解决异变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35150,6 +35166,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>こちらは\pさんという方で 元は外の世界の方なんです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T091512Z" creationid="土妹子" creationdate="20150108T091512Z">
+        <seg>这位名叫\p，原本是外侧世界的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ことひめ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135424Z" creationid="UUZ" creationdate="20140904T135424Z">
@@ -37392,6 +37416,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんだか親近感を覚えませんか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T091600Z" creationid="土妹子" creationdate="20150108T091600Z">
+        <seg>不觉得有些莫名的亲切感吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんだがっかりだな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T091859Z" creationid="UUZ" creationdate="20140908T091825Z">
@@ -37820,6 +37852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055937Z" creationid="UUZ" creationdate="20140909T154128Z">
         <seg>我会击垮你的，放马过来吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>へぇ・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T091605Z" creationid="土妹子" creationdate="20150108T091605Z">
+        <seg>诶……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54452,6 +54492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T084612Z" creationid="妄想" creationdate="20150104T084612Z">
         <seg>我们也能得到外界的科学知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>我ら以外にも外からやってきた者がいたのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T091621Z" creationid="土妹子" creationdate="20150108T091621Z">
+        <seg>除了我们还有其他从外界来的人吗。</seg>
       </tuv>
     </tu>
     <tu>
