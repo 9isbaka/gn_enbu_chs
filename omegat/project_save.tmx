@@ -25774,6 +25774,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\bまずは起こっている 異変を解決しないと。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T143507Z" creationid="土妹子" creationdate="20150108T143507Z">
+        <seg>\b首先必须解决正在发生的异变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\bニゲロー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133912Z" creationid="UUZ" creationdate="20140909T133912Z">
@@ -27170,6 +27178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032356Z" creationid="UUZ" creationdate="20140908T064850Z">
         <seg>\c……听了这个消息后你要怎么办？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c・・・だが 手ぶらで帰らせるのも気がひけるわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T143814Z" creationid="土妹子" creationdate="20150108T143747Z">
+        <seg>\c……但是让你空着手回去也不好意思呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36322,6 +36338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T060405Z" creationid="土妹子" creationdate="20150106T060405Z">
         <seg>对了对了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そうだ では今後の旅に役立つアイテムをあげよう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T143840Z" creationid="土妹子" creationdate="20150108T143840Z">
+        <seg>这样吧，给你个在今后的旅行中会起作用的道具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56508,6 +56532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143912Z" creationid="UUZ" creationdate="20140906T143912Z">
         <seg>朝仓理香子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>期待させてしまって悪いんだけど 今のままでは願いを叶える事は難しいよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T143756Z" creationid="土妹子" creationdate="20150108T143456Z">
+        <seg>虽然让你白白期待了不太好，但是现在这样子是很难实现愿望的。</seg>
       </tuv>
     </tu>
     <tu>
