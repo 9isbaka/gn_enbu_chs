@@ -25878,6 +25878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\b待ちわびていたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T110419Z" creationid="土妹子" creationdate="20150109T110419Z">
+        <seg>\b我等的很着急啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\b情報を教えましょう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050034Z" creationid="土妹子" creationdate="20150109T050034Z">
@@ -26274,6 +26282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T010849Z" creationid="UUZ" creationdate="20140908T143344Z">
         <seg>\c还是像平时那样等博丽的巫女解决吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cえ 入り口が簡単すぎるって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T110533Z" creationid="土妹子" creationdate="20150109T110533Z">
+        <seg>\c诶，你说入口太简单了？</seg>
       </tuv>
     </tu>
     <tu>
@@ -34622,6 +34638,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あらこんな誘導式も珍しくていいでしょ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T110556Z" creationid="土妹子" creationdate="20150109T110556Z">
+        <seg>啊啦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あらためて</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055422Z" creationid="土妹子" creationdate="20150106T055422Z">
@@ -36234,6 +36258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T161348Z" creationid="土妹子" creationdate="20150108T161348Z">
         <seg>所有人都在这里，出口谁也不在所以就决定进来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここに忍び込もうだなんて 案外やるじゃない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T110520Z" creationid="土妹子" creationdate="20150109T110520Z">
+        <seg>想潜入这里什么的，意外地做得很好啊。</seg>
       </tuv>
     </tu>
     <tu>
