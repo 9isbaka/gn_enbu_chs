@@ -26646,6 +26646,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそれで まだ何かあるのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033810Z" creationid="土妹子" creationdate="20150109T033810Z">
+        <seg>\c那么，还有别的什么事吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそれでは がんばってくださいね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T115837Z" creationid="UUZ" creationdate="20140908T115837Z">
@@ -28070,6 +28078,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c残念だけど 人形の発生に私は何も手出しはしてないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033841Z" creationid="土妹子" creationdate="20150109T033841Z">
+        <seg>\c很可惜，人形的发生我是完全没有插手的啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c残念だけど 私の術式とは違うものよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154702Z" creationid="土妹子" creationdate="20150105T154702Z">
@@ -28378,6 +28394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155329Z" creationid="UUZ" creationdate="20140909T144555Z">
         <seg>\c虽然听说了解放战线在村里出没的消息···\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c解放戦線も解散したようだし 私のお遊びもここまでのようね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033758Z" creationid="土妹子" creationdate="20150109T033758Z">
+        <seg>\c解放战线好像也已经解散了，我的游戏也就到此为止了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48072,6 +48096,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・人形の異変について？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033819Z" creationid="土妹子" creationdate="20150109T033819Z">
+        <seg>……关于人形的异变？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・人間？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150126Z" creationid="妄想" creationdate="20150104T150126Z">
@@ -58132,6 +58164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025241Z" creationid="土妹子" creationdate="20141231T025241Z">
         <seg>业火之型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>楽しませてもらったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033725Z" creationid="土妹子" creationdate="20150109T033725Z">
+        <seg>也让我很愉快呢。</seg>
       </tuv>
     </tu>
     <tu>
