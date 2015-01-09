@@ -35198,6 +35198,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おや\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T041148Z" creationid="土妹子" creationdate="20150109T041148Z">
+        <seg>哦呀\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おやすみー すやぁ・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155626Z" creationid="土妹子" creationdate="20150108T155626Z">
@@ -38142,6 +38150,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ところで住職さんに何か用なの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T041143Z" creationid="土妹子" creationdate="20150109T041143Z">
+        <seg>顺便一问，找住持有什么事吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>とじこ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140452Z" creationid="UUZ" creationdate="20140904T140452Z">
@@ -39516,6 +39532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T091022Z" creationid="UUZ" creationdate="20140908T091022Z">
         <seg>还没好吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まだまだ修行不足なのね……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T041128Z" creationid="土妹子" creationdate="20150109T041128Z">
+        <seg>修行还不够呢……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62288,6 +62312,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私がその怠けきった根性を直してあげるっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T041105Z" creationid="土妹子" creationdate="20150109T041105Z">
+        <seg>我要纠正你不认真问候的作风！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私がパパッと解決してきてやるからさ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T084535Z" creationid="UUZ" creationdate="20140908T084535Z">
@@ -65348,6 +65380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093209Z" creationid="土妹子" creationdate="20141231T093209Z">
         <seg>不服输</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>負けたぁ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T041111Z" creationid="土妹子" creationdate="20150109T041111Z">
+        <seg>输了！</seg>
       </tuv>
     </tu>
     <tu>
