@@ -29070,6 +29070,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c継承は 継承元人形を設定することによって その人形のランクを一部だけ転生人形に引き継ぐ事が出来るわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172546Z" creationid="土妹子" creationdate="20150109T172546Z">
+        <seg>\c继承是通过设定继承来源人形，可以使那个人形的个体等级的一部分让转生人形继承。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c継承元の人形が高いランクを持っていれば 転生した人形が高いランクで転生するかもしれないって訳ね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172736Z" creationid="土妹子" creationdate="20150109T172736Z">
+        <seg>\c也就是说如果继承来源人形拥有高个体等级的话，转生的人形或许就能以高个体等级进行转生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c聞けば 便利なアイテムが揃えてあって</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151330Z" creationid="UUZ" creationdate="20140909T151149Z">
@@ -71844,6 +71860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063845Z" creationid="土妹子" creationdate="20150101T063845Z">
         <seg>第２回合攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２体設定した場合はそれぞれの人形からランダムに３箇所 １体の場合はその子からランダムに２箇所よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172701Z" creationid="土妹子" creationdate="20150109T172701Z">
+        <seg>设定２只的场合会从两个人形继承随机的３项，１只的场合就从那１只继承随机的２项。</seg>
       </tuv>
     </tu>
     <tu>
