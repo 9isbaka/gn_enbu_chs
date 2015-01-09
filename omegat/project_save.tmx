@@ -27886,6 +27886,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c・・・そろそろ喋りつかれたわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172934Z" creationid="土妹子" creationdate="20150109T172934Z">
+        <seg>\c……差不多说的有些累了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c・・・そんなことを訊いて どうするのかって？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032356Z" creationid="UUZ" creationdate="20140908T064850Z">
@@ -41328,6 +41336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ま 色々と試してみるといいんじゃないかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T173003Z" creationid="土妹子" creationdate="20150109T173003Z">
+        <seg>嘛，试着进行各种不同的尝试不是也不错吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ま 負けたー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053851Z" creationid="土妹子" creationdate="20150105T053847Z">
@@ -52976,6 +52992,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>他に伝えることは・・・んー 道具の事かしらね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172824Z" creationid="土妹子" creationdate="20150109T172824Z">
+        <seg>其他要告诉你的是……嗯～道具的事情吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>他に何か用はあるかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112638Z" creationid="土妹子" creationdate="20150105T112638Z">
@@ -54652,6 +54676,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T120510Z" creationid="UUZ" creationdate="20140908T120510Z">
         <seg>印的种类不同被强化的能力也不同，所以请注意看看！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>印や特定の道具を持たせることによって色々と転生後の能力も変わるんだけど……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172925Z" creationid="土妹子" creationdate="20150109T172925Z">
+        <seg>通过携带印和特定的道具，也可以对转生后的能力进行各种改变……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56396,6 +56428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T143702Z" creationid="UUZ" creationdate="20140907T143702Z">
         <seg>太阳之馅蜜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>失敗は成功の元 ね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T173010Z" creationid="土妹子" creationdate="20150109T173010Z">
+        <seg>失败是成功之母，呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58516,6 +58556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155259Z" creationid="土妹子" creationdate="20150108T155259Z">
         <seg>之后就像你想的一样，请试着挣扎去吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>後は自分で勝手に調べなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172944Z" creationid="土妹子" creationdate="20150109T172944Z">
+        <seg>之后就请你自己随意调查。</seg>
       </tuv>
     </tu>
     <tu>
