@@ -25758,6 +25758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\bさっきの威勢はどこにいったのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025700Z" creationid="土妹子" creationdate="20150109T025700Z">
+        <seg>\b刚才的气势都到哪里去了呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\bさとり様に案内するように言われてたんだけど道間違えちゃったよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160424Z" creationid="土妹子" creationdate="20150108T160424Z">
@@ -34422,6 +34430,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いてて・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025515Z" creationid="土妹子" creationdate="20150109T025511Z">
+        <seg>疼疼疼……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いないとされているモノが存在する世界。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T064421Z" creationid="UUZ" creationdate="20140908T063102Z">
@@ -36274,6 +36290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T042758Z" creationid="土妹子" creationdate="20150107T042758Z">
         <seg>那么，在被害扩大之前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さぁさぁ 私と勝負してもらおうじゃない！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025538Z" creationid="土妹子" creationdate="20150109T025538Z">
+        <seg>来吧来吧，该是和我一决胜负了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -38164,6 +38188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035307Z" creationid="土妹子" creationdate="20150105T035307Z">
         <seg>……有这样的传言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんで こんなところに石があるのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025523Z" creationid="土妹子" creationdate="20150109T025523Z">
+        <seg>为什么在这种地方会有石头啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48112,6 +48144,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>三人一緒じゃないと戦えないなんて思わないでよね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025502Z" creationid="土妹子" creationdate="20150109T025502Z">
+        <seg>可别以为我们三个人不在一起就不能战斗了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>三日月型の 弾幕を\n放って 相手を 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014535Z" creationid="UUZ" creationdate="20140906T140204Z">
@@ -49752,6 +49792,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今度は私一人でお相手よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025439Z" creationid="土妹子" creationdate="20150109T025439Z">
+        <seg>这次由我一个人做你的对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今日の文々。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T025837Z" creationid="妄想" creationdate="20150103T025249Z">
@@ -50004,6 +50052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055004Z" creationid="土妹子" creationdate="20150106T055004Z">
         <seg>作为人类的你，又没有任何预约，是不应该过去的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何よ 物足りなさそうね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025448Z" creationid="土妹子" creationdate="20150109T025448Z">
+        <seg>什么啊，一副不满足的样子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57608,6 +57664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>本気を出した私は妖精一最強なのよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025550Z" creationid="土妹子" creationdate="20150109T025550Z">
+        <seg>认真起来的我是妖精中最强的哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>本醸造酒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144508Z" creationid="UUZ" creationdate="20140907T144508Z">
@@ -58848,6 +58912,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>氷の妖精と言ってることが一緒だって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025615Z" creationid="土妹子" creationdate="20150109T025615Z">
+        <seg>你说和冰之妖精说的一样？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>氷の洞窟</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142510Z" creationid="UUZ" creationdate="20140906T142510Z">
@@ -59124,6 +59196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T152746Z" creationid="UUZ" creationdate="20150105T152746Z">
         <seg>波状攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>泣いたって許してあげないんだから！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025601Z" creationid="土妹子" creationdate="20150109T025601Z">
+        <seg>就算你哭着求饶我也不会原谅你！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61764,6 +61844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T041836Z" creationid="土妹子" creationdate="20150108T041836Z">
         <seg>还记得我的事情吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私の方が上に決まっているわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025633Z" creationid="土妹子" creationdate="20150109T025633Z">
+        <seg>绝对是我这边要更胜一筹啊。</seg>
       </tuv>
     </tu>
     <tu>
