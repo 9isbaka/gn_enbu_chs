@@ -26030,6 +26030,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\b結論から言えば ついにその方法を確立出来たの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171258Z" creationid="土妹子" creationdate="20150109T171258Z">
+        <seg>\b从结论来说的话，终于可以确立那个方法了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c\pさんが迷い込んでしまった以上</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040823Z" creationid="UUZ" creationdate="20140908T081901Z">
@@ -26218,6 +26226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T045844Z" creationid="UUZ" creationdate="20140908T114118Z">
         <seg>\c『封印之丝可以在战斗中的道具菜单中使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c『転生』と『継承』 とでも呼ぼうかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171322Z" creationid="土妹子" creationdate="20150109T171322Z">
+        <seg>\c就叫做『转生』和『继承』吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28322,6 +28338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T152909Z" creationid="土妹子" creationdate="20150105T152909Z">
         <seg>\c之前还在我这里的地板上扔着，不过已经卖给永远亭的妖怪了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c前に 人形を強くするために研究してるって言ったのは覚えてるわよね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171217Z" creationid="土妹子" creationdate="20150109T171217Z">
+        <seg>\c还记得我之前说过的为了强化人形在进行研究吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -35166,6 +35190,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら 転生と継承について聞きたくなったのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171617Z" creationid="土妹子" creationdate="20150109T171617Z">
+        <seg>啊啦，是要听关于转生和继承的说明吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161604Z" creationid="土妹子" creationdate="20150104T161604Z">
@@ -39238,6 +39270,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それなりに複雑な話になるけど・・・興味ある？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171438Z" creationid="土妹子" creationdate="20150109T171438Z">
+        <seg>会变得相应地复杂的谈话呢……有兴趣吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それなりの力は持ってるようね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055959Z" creationid="UUZ" creationdate="20140909T154209Z">
@@ -40344,6 +40384,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なら別にいいわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171546Z" creationid="土妹子" creationdate="20150109T171546Z">
+        <seg>那么也好吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なるほど これで全てが繋がったわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T164747Z" creationid="土妹子" creationdate="20150109T164747Z">
@@ -41236,6 +41284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T142556Z" creationid="UUZ" creationdate="20140909T142556Z">
         <seg>输，输掉了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まぁ いいわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171240Z" creationid="土妹子" creationdate="20150109T171240Z">
+        <seg>嘛，也好吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50492,6 +50548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T153431Z" creationid="土妹子" creationdate="20150108T153431Z">
         <seg>……对了，你是叫 \p的呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>・・・その顔は覚えてなさそうね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171232Z" creationid="土妹子" creationdate="20150109T171232Z">
+        <seg>……看你的脸似乎是想不起来了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67500,6 +67564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051833Z" creationid="土妹子" creationdate="20150105T051833Z">
         <seg>感兴趣的话请再来找我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>興味がでたら またいらっしゃい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171555Z" creationid="土妹子" creationdate="20150109T171555Z">
+        <seg>有兴趣的话再来。</seg>
       </tuv>
     </tu>
     <tu>
