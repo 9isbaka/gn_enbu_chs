@@ -26086,6 +26086,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあたしにはその気持ちが痛いくらいにわかる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032335Z" creationid="土妹子" creationdate="20150109T032335Z">
+        <seg>\c我能体会到这种心情有多么痛苦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cあと それはお譲りします。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T073631Z" creationid="土妹子" creationdate="20150107T073631Z">
@@ -26274,6 +26282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093511Z" creationid="土妹子" creationdate="20150106T093511Z">
         <seg>\c帮不上忙真是抱歉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cお願いだから もうそっとしておいて。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032902Z" creationid="土妹子" creationdate="20150109T032902Z">
+        <seg>\c因为是你希望的，我今后会安静下去了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26522,6 +26538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T153951Z" creationid="UUZ" creationdate="20140908T153951Z">
         <seg>\c难得想要的人形出现时封印丝却用完了……真不想发生这样的事！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cせっかく幽香に人間に復讐する方法教えてもらったのに……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032706Z" creationid="土妹子" creationdate="20150109T032706Z">
+        <seg>\c好不容易才让幽香教给我向人类复仇的方法……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26922,6 +26946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040633Z" creationid="UUZ" creationdate="20140908T081402Z">
         <seg>\c总之先加强了结界，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cどうせ 今回も同じよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032626Z" creationid="土妹子" creationdate="20150109T032620Z">
+        <seg>\c反正这次也是一样的啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37502,6 +37534,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>だから人形は人間から解放されなきゃいけないのよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032350Z" creationid="土妹子" creationdate="20150109T032350Z">
+        <seg>因此必须把人形从人类手中解放出来！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>だから毎日ここに通っているのです！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T032526Z" creationid="妄想" creationdate="20150105T032526Z">
@@ -38332,6 +38372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T085344Z" creationid="妄想" creationdate="20150105T085344Z">
         <seg>竟然训斥了雾雨之女一顿还不够，还和那样的人形使大闹了一场……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんで勝てないのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032358Z" creationid="土妹子" creationdate="20150109T032358Z">
+        <seg>为什么赢不了啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49600,6 +49648,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形解放戦線は解散よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032720Z" creationid="土妹子" creationdate="20150109T032715Z">
+        <seg>人形解放战线解散了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形解放戦線下っ端戦</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133823Z" creationid="土妹子" creationdate="20141230T133823Z">
@@ -49684,6 +49740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040706Z" creationid="土妹子" creationdate="20150108T040706Z">
         <seg>对人类来说是必要的道具吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間に人形を持たせたくないのに・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032603Z" creationid="土妹子" creationdate="20150109T032603Z">
+        <seg>明明只是不想让人类带着人形……。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65404,6 +65468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T012546Z" creationid="UUZ" creationdate="20140904T134611Z">
         <seg>连续攻击技能必然取最大次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>遊びたい時だけ遊んで 気に入らなかったり飽きたら捨てるんだから。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032644Z" creationid="土妹子" creationdate="20150109T032644Z">
+        <seg>想玩的时候就玩，不喜欢了，觉得厌烦了就扔掉了。</seg>
       </tuv>
     </tu>
     <tu>
