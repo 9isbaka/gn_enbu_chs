@@ -26230,6 +26230,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cいい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103631Z" creationid="土妹子" creationdate="20150109T103631Z">
+        <seg>\c如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cいきなりだけど あなたを試させてもらうわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015851Z" creationid="土妹子" creationdate="20150107T015851Z">
@@ -27318,6 +27326,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cまぁ手間の分散ができてちょうどだわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103559Z" creationid="土妹子" creationdate="20150109T103559Z">
+        <seg>\c嘛，正好可以分散劳动量啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cまぁ私たちに被害さえ無ければ別に良いんだけどね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T134913Z" creationid="UUZ" creationdate="20140908T134913Z">
@@ -27586,6 +27602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T021024Z" creationid="土妹子" creationdate="20150107T021024Z">
         <seg>\c……似乎没问题了呢。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c・・・情報源的に あながち間違ってもなさそうね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103329Z" creationid="土妹子" creationdate="20150109T103329Z">
+        <seg>\c从情报来源上来看，这未必是错误的情报呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34622,6 +34646,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんたが魔界 魔理沙が冥界なら 私は天界あたりでも目星をつけてみようかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103421Z" creationid="土妹子" creationdate="20150109T103421Z">
+        <seg>你去魔界，魔理沙去冥界的话，那我就试着以天界那边为目标吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんたでしょ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151731Z" creationid="UUZ" creationdate="20140909T151725Z">
@@ -36698,6 +36730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010532Z" creationid="土妹子" creationdate="20150107T010532Z">
         <seg>这样一来就得救了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>これで当たりなら異変の解決もできるわけだし。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103627Z" creationid="土妹子" creationdate="20150109T103627Z">
+        <seg>这样找中了的话，就应该能解决异变了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39260,6 +39300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023613Z" creationid="土妹子" creationdate="20150109T023037Z">
         <seg>哈……被打成渣渣了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>はぁ・・・\b魔理沙も魔理沙で乗り気ってわけね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103242Z" creationid="土妹子" creationdate="20150109T103242Z">
+        <seg>哈……\b所以说魔理沙也是有魔理沙的热情呢。</seg>
       </tuv>
     </tu>
     <tu>
