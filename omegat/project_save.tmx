@@ -25878,6 +25878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\b異変は幻想郷以外の世界が関係してる？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103043Z" creationid="土妹子" creationdate="20150109T103043Z">
+        <seg>\b异变与幻想乡之外的世界有关系？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\b目の前にいるあいつが人形だ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071546Z" creationid="UUZ" creationdate="20140908T071546Z">
@@ -26474,6 +26482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040504Z" creationid="土妹子" creationdate="20150108T040504Z">
         <seg>\c这不给你点礼物不行呢。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cこれ以上 事態をややこしくするなら 私にだって考えがあるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T102944Z" creationid="土妹子" creationdate="20150109T102944Z">
+        <seg>\c再继续下去会把事态更加复杂化，我是这么想的哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27370,6 +27386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T041044Z" creationid="UUZ" creationdate="20140908T085007Z">
         <seg>\c算了吧算了吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cよくよく考え直してみたら あんたがこっちに来てから異変が激化していったのよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T102605Z" creationid="土妹子" creationdate="20150109T102605Z">
+        <seg>\c我试着好好重新考虑了下，自从你从那边来了异变就激化了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34590,6 +34614,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんたがこの異変の一部だと考えても 筋が通るくらいには・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T102728Z" creationid="土妹子" creationdate="20150109T102728Z">
+        <seg>就算把你作为这次异变的一部分考虑，也能说得通的……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんたでしょ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151731Z" creationid="UUZ" creationdate="20140909T151725Z">
@@ -36870,6 +36902,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さぁ \p 私に大人しく成敗されなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103025Z" creationid="土妹子" creationdate="20150109T103025Z">
+        <seg>那么\p，请老老实实的听我处置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さぁ いってらっしゃい！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110432Z" creationid="妄想" creationdate="20150103T110432Z">
@@ -37922,6 +37962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153551Z" creationid="土妹子" creationdate="20150105T153551Z">
         <seg>来这里有什么事？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それで裏山から魔界に行こうとしてるってわけ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103107Z" creationid="土妹子" creationdate="20150109T103107Z">
+        <seg>所以说因此要从后山去魔界？</seg>
       </tuv>
     </tu>
     <tu>
@@ -39212,6 +39260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023613Z" creationid="土妹子" creationdate="20150109T023037Z">
         <seg>哈……被打成渣渣了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>はぁ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103028Z" creationid="土妹子" creationdate="20150109T103028Z">
+        <seg>哈？</seg>
       </tuv>
     </tu>
     <tu>
