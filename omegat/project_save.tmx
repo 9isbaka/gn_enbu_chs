@@ -25854,6 +25854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\b情報を教えましょう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050034Z" creationid="土妹子" creationdate="20150109T050034Z">
+        <seg>\b告诉你情报吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\b目の前にいるあいつが人形だ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071546Z" creationid="UUZ" creationdate="20140908T071546Z">
@@ -35626,6 +35634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T143012Z" creationid="UUZ" creationdate="20140907T142911Z">
         <seg>能以相当高的价格卖出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>が 約束は約束です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050028Z" creationid="土妹子" creationdate="20150109T050028Z">
+        <seg>不过，约定就是约定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50772,6 +50788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071220Z" creationid="UUZ" creationdate="20140908T070702Z">
         <seg>在发什么呆呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何故こうも人形を遣うことができるのに共存の道を選ばないのか 不思議でなりません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050023Z" creationid="土妹子" creationdate="20150109T050023Z">
+        <seg>为什么能够如此的指挥人形却不选择共存之道呢。这不是不可思议吗。</seg>
       </tuv>
     </tu>
     <tu>
