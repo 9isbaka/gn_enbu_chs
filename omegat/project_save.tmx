@@ -26726,6 +26726,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cじゃあ またね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122835Z" creationid="土妹子" creationdate="20150109T122835Z">
+        <seg>\c那么再会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cじゃあ 解放戦線のこと頼んだっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T140029Z" creationid="土妹子" creationdate="20150107T140029Z">
@@ -27518,6 +27526,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cまたいらっしゃい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122819Z" creationid="土妹子" creationdate="20150109T122819Z">
+        <seg>\c再来哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cまだ調べている途中ではあるけれど 人形のもつ才能をさらに伸ばすことができそうなの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T090938Z" creationid="土妹子" creationdate="20150106T090938Z">
@@ -27570,6 +27586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T041044Z" creationid="UUZ" creationdate="20140908T085007Z">
         <seg>\c算了吧算了吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cやることは・・・対戦でしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122740Z" creationid="土妹子" creationdate="20150109T122740Z">
+        <seg>\c要做的事……是对战吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -34766,6 +34790,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら また負けちゃった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122805Z" creationid="土妹子" creationdate="20150109T122805Z">
+        <seg>啊啦，又输掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら まだ手がかりを探してるのかしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035850Z" creationid="土妹子" creationdate="20150109T035850Z">
@@ -39162,6 +39194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154951Z" creationid="UUZ" creationdate="20140909T154951Z">
         <seg>但是还差得远呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>でもやっぱりあなたとの対戦は楽しいわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122815Z" creationid="土妹子" creationdate="20150109T122815Z">
+        <seg>不过果然和你对战很快乐呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51984,6 +52024,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何度だってお相手をしてあげるわっ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122831Z" creationid="土妹子" creationdate="20150109T122831Z">
+        <seg>不管多少次，都会做你的对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何故こうも人形を遣うことができるのに共存の道を選ばないのか 不思議でなりません。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050023Z" creationid="土妹子" creationdate="20150109T050023Z">
@@ -54564,6 +54612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035355Z" creationid="土妹子" creationdate="20150109T035355Z">
         <seg>外侧世界的达人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>外の世界の人間さん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122841Z" creationid="土妹子" creationdate="20150109T122841Z">
+        <seg>外侧世界的人类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64276,6 +64332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T135746Z" creationid="土妹子" creationdate="20150108T135746Z">
         <seg>我也早就想打一场了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私も暇してたし お付き合いしてあげるわっ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122756Z" creationid="土妹子" creationdate="20150109T122756Z">
+        <seg>我也闲下来了，就陪一陪你吧。</seg>
       </tuv>
     </tu>
     <tu>
