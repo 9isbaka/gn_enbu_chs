@@ -26574,6 +26574,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cさて ここに来たからには 私が華麗に退治をしてあげなきゃね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111059Z" creationid="土妹子" creationdate="20150109T111059Z">
+        <seg>\c那么，到了这里的话，就必须让我华丽地退治掉呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cさて\b レミィに呼ばれているのでしょう？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154940Z" creationid="土妹子" creationdate="20150105T154940Z">
@@ -34640,8 +34648,8 @@
       <tuv lang="JA">
         <seg>あらこんな誘導式も珍しくていいでしょ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T110556Z" creationid="土妹子" creationdate="20150109T110556Z">
-        <seg>啊啦</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111016Z" creationid="土妹子" creationdate="20150109T110556Z">
+        <seg>啊啦，这样的诱导式也是很少见的好吧。</seg>
       </tuv>
     </tu>
     <tu>
