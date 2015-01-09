@@ -26470,6 +26470,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cさぁ 私からの説法は以上ですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T051115Z" creationid="土妹子" creationdate="20150109T051115Z">
+        <seg>\c那么，我要说的就这些了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cさあ無駄な会話はこれくらいにして 楽しもうじゃない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T134409Z" creationid="土妹子" creationdate="20150107T134409Z">
@@ -27558,6 +27566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c一部の文献に博麗神社の裏山に繋がっていると書かれていたものがあった とも伝えられています。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050834Z" creationid="土妹子" creationdate="20150109T050834Z">
+        <seg>\c一部分文献记载是和博丽神社的后山连接在一起的，这个也告诉你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c下の2つは オブジェクト破壊のテストが出来ます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060255Z" creationid="UUZ" creationdate="20140908T060255Z">
@@ -28050,6 +28066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035320Z" creationid="土妹子" creationdate="20150105T035320Z">
         <seg>\c你说幻想乡是什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c幻想郷とは異なる軸に 魔界 という世界が存在しています。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050154Z" creationid="土妹子" creationdate="20150109T050154Z">
+        <seg>\c在和幻想乡不同的轴上，存在一个叫魔界的世界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33974,6 +33998,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あとは ご自分で確かめなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T051128Z" creationid="土妹子" creationdate="20150109T051128Z">
+        <seg>之后就请你自己确认了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あとは自分の力で頑張りなさい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035346Z" creationid="土妹子" creationdate="20150109T035346Z">
@@ -36106,6 +36138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T023033Z" creationid="UUZ" creationdate="20140908T023033Z">
         <seg>特色戒指</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>こちらとは違う概念で成り立っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050230Z" creationid="土妹子" creationdate="20150109T050230Z">
+        <seg>是由和这里不同的概念形成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38258,6 +38298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T031116Z" creationid="土妹子" creationdate="20150108T031116Z">
         <seg>总，总之先从这里撤退。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>とある力を持つ者によって作られたその世界は\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T050215Z" creationid="土妹子" creationdate="20150109T050215Z">
+        <seg>由某个实力者创造出的那个世界\b</seg>
       </tuv>
     </tu>
     <tu>
