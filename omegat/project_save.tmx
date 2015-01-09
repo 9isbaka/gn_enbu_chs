@@ -34102,6 +34102,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あぁ やっぱりユキに侵入者を止めることはできないのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111851Z" creationid="土妹子" creationdate="20150109T111851Z">
+        <seg>啊，果然雪没能阻止入侵者呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あぁ 負けた。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153813Z" creationid="土妹子" creationdate="20150105T153813Z">
@@ -38566,6 +38574,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ちなみに 一度入れば出られない仕様となっておりますので ご注意ください。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111751Z" creationid="土妹子" creationdate="20150109T111751Z">
+        <seg>顺便一说，这里面是一旦进去就出不来的样式，请多加注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ちゃんとお金稼がないとなぁ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082448Z" creationid="妄想" creationdate="20150105T082448Z">
@@ -38618,6 +38634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040509Z" creationid="土妹子" creationdate="20150108T040509Z">
         <seg>稍微来一下我家里吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ちょっと 無視しないでよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111833Z" creationid="土妹子" creationdate="20150109T111833Z">
+        <seg>等等，不要无视我啊！</seg>
       </tuv>
     </tu>
     <tu>
@@ -57392,6 +57416,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>扉は開きそうにない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111807Z" creationid="土妹子" creationdate="20150109T111807Z">
+        <seg>门没有打开的迹象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>手分けしてさっさとこの異変 解決するわよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T163901Z" creationid="土妹子" creationdate="20150108T163901Z">
@@ -67068,6 +67100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T012546Z" creationid="UUZ" creationdate="20140904T134611Z">
         <seg>连续攻击技能必然取最大次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>進むしかないようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111812Z" creationid="土妹子" creationdate="20150109T111812Z">
+        <seg>似乎只能前进了。</seg>
       </tuv>
     </tu>
     <tu>
