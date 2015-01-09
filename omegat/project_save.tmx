@@ -28206,6 +28206,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c毘沙門天の代理である私が お相手して差し上げましょう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042632Z" creationid="土妹子" creationdate="20150109T042632Z">
+        <seg>\c就让我这个毗沙门天的代理人来做你的对手吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c永遠亭にも どうせ何かしに行ったんだろう？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T075925Z" creationid="土妹子" creationdate="20150107T075925Z">
@@ -28546,6 +28554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T140533Z" creationid="土妹子" creationdate="20150106T140533Z">
         <seg>\c告诉村南的门卫有我的许可，应该就可以通行了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c雲山も張り切ってますし 今日はきっと絶好調ですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042242Z" creationid="土妹子" creationdate="20150109T042242Z">
+        <seg>\c云山也干劲十足，今天一定是绝佳的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33978,6 +33994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144714Z" creationid="UUZ" creationdate="20140824T144714Z">
         <seg>你的名字是？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あなたの実力を試してくれ・・・と。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042400Z" creationid="土妹子" creationdate="20150109T042400Z">
+        <seg>要测试你的实力……呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62744,6 +62768,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私も雲山もまだまだ精進せねば。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042338Z" creationid="土妹子" creationdate="20150109T042338Z">
+        <seg>我和云山都还需要继续修行呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T145105Z" creationid="土妹子" creationdate="20150108T145105Z">
@@ -63264,6 +63296,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>絶好調ではなく絶不調の間違いでしたね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042315Z" creationid="土妹子" creationdate="20150109T042315Z">
+        <seg>搞错了不是最好状态，而是最差状态呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>続けて\tを使いますか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T053414Z" creationid="UUZ" creationdate="20140908T052726Z">
@@ -63512,10 +63552,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>聖から話は聞いてますよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042349Z" creationid="土妹子" creationdate="20150109T042349Z">
+        <seg>已经从圣那里听说了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>聖様のように 誰にも分け隔てなく優しく接する事が出来るようになりたいです！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T032512Z" creationid="妄想" creationdate="20150105T032512Z">
         <seg>想要成为圣大人那样无论是谁都能够温柔的对待的人！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>聖様の命ですし 手加減なしでお相手しましょうか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042209Z" creationid="土妹子" creationdate="20150109T042209Z">
+        <seg>圣大人的命令，我会毫不留情的做你的对手。</seg>
       </tuv>
     </tu>
     <tu>
