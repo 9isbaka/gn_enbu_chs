@@ -26462,6 +26462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cこの先 私みたいに易々いけると思わないでよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111521Z" creationid="土妹子" creationdate="20150109T111521Z">
+        <seg>\c可别以为这前面会像我一样轻松通过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cこの先が間欠泉地下センターになってるから気をつけてね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160452Z" creationid="土妹子" creationdate="20150108T160452Z">
@@ -27522,6 +27530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113030Z" creationid="土妹子" creationdate="20150105T113030Z">
         <seg>\c……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c・・・ああ 持っているはずもないですよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111614Z" creationid="土妹子" creationdate="20150109T111614Z">
+        <seg>\c……啊，也不应该有的呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35190,6 +35206,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いらっしゃいませ パンデモニウムへようこそ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111552Z" creationid="土妹子" creationdate="20150109T111552Z">
+        <seg>欢迎光临。欢迎来到万魔殿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いらっしゃいませ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T100739Z" creationid="土妹子" creationdate="20150109T100739Z">
@@ -35842,6 +35866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T052706Z" creationid="UUZ" creationdate="20140908T052706Z">
         <seg>护身符的效果结束了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お客様 アポイントメントはお持ちで？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111602Z" creationid="土妹子" creationdate="20150109T111602Z">
+        <seg>客人有预约吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -38134,6 +38166,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>その慢心が命取りになるのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111533Z" creationid="土妹子" creationdate="20150109T111533Z">
+        <seg>自满是会丢掉性命的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>その手前に 香霖堂さんはありますわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151615Z" creationid="UUZ" creationdate="20140909T151534Z">
@@ -38730,6 +38770,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055418Z" creationid="土妹子" creationdate="20150105T055418Z">
         <seg>只要是能做到的，我也会尽力帮助。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>では 侵入者の方は 左手の入り口からどうぞ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111641Z" creationid="土妹子" creationdate="20150109T111641Z">
+        <seg>那么，入侵者的话请从左手边的入口走。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49636,6 +49684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150846Z" creationid="UUZ" creationdate="20150102T150846Z">
         <seg>不惜身命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>不意を取られて不完全燃焼気味だけど あとはマイがどうにかしてくれるはずだわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T111501Z" creationid="土妹子" creationdate="20150109T111501Z">
+        <seg>虽然被突然袭击有点不完全燃烧，不过之后舞应该会把你变成什么样啊。</seg>
       </tuv>
     </tu>
     <tu>
