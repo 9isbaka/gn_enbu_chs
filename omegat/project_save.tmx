@@ -37790,6 +37790,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これで転生の一連の流れは終了よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172142Z" creationid="土妹子" creationdate="20150109T172142Z">
+        <seg>这样转生的步骤就结束了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これは ゴムボート。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040526Z" creationid="土妹子" creationdate="20150108T040526Z">
@@ -37986,6 +37994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062835Z" creationid="土妹子" creationdate="20150109T062830Z">
         <seg>总是能听说你的活跃呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さ じゃあ次は継承についてね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172323Z" creationid="土妹子" creationdate="20150109T172323Z">
+        <seg>那么，接下来就是继承。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39450,6 +39466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T033345Z" creationid="妄想" creationdate="20150105T033345Z">
         <seg>不过最近信仰道教的也逐渐变多了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ただ転生するだけだと個体ランクは完全にランダムで決まる……ってのはさっき教えたわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172357Z" creationid="土妹子" creationdate="20150109T172357Z">
+        <seg>只是转生的话个体等级会完全随机决定……这个刚才已经告诉你了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53392,6 +53416,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>個体ランクは完全にランダムで決定される事ぐらいかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172311Z" creationid="土妹子" creationdate="20150109T172311Z">
+        <seg>个体等级则应该是完全随机决定的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>倒れたときは運んであげるから安心してね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160659Z" creationid="土妹子" creationdate="20150108T160659Z">
@@ -62816,6 +62848,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>注意点としては転生する前に持っていた人形のPPは全て０になること\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172230Z" creationid="土妹子" creationdate="20150109T172230Z">
+        <seg>需要注意的是转生前人形拥有的ＰＰ会完全归零\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>洞察力</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150839Z" creationid="UUZ" creationdate="20150102T150839Z">
@@ -63780,6 +63820,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094350Z" creationid="土妹子" creationdate="20141231T094350Z">
         <seg>蛮不讲理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>理解できてるかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172147Z" creationid="土妹子" creationdate="20150109T172147Z">
+        <seg>能理解了吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -68816,6 +68864,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>転生させたい人形は手持ちに持つこと。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172110Z" creationid="土妹子" creationdate="20150109T172110Z">
+        <seg>给想要转生的人形携带上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>転生するには魔力の欠片が１個必要になるわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172001Z" creationid="土妹子" creationdate="20150109T172001Z">
@@ -68828,6 +68884,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171845Z" creationid="土妹子" creationdate="20150109T171845Z">
         <seg>转生是通过让人形回到１级并把分配的ＰＰ全部重置，来重新设定个体等级的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>転生人形をセットしたら 後は転生ボタンを押すだけね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172131Z" creationid="土妹子" creationdate="20150109T172131Z">
+        <seg>设置好转生人形的话，之后按转生按钮就可以了。</seg>
       </tuv>
     </tu>
     <tu>
