@@ -38624,6 +38624,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ほらほら 次はあたしのるーみあと勝負よっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023155Z" creationid="土妹子" creationdate="20150109T023155Z">
+        <seg>喂喂，接下来和我和露米娅对决了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ほらほら！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030627Z" creationid="土妹子" creationdate="20150108T030627Z">
@@ -39084,6 +39092,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135537Z" creationid="UUZ" creationdate="20140904T135537Z">
         <seg>梦月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>むむ・・・ この数でも倒しきれないの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023126Z" creationid="土妹子" creationdate="20150109T023126Z">
+        <seg>呜呜……这个数量也没法打倒吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -66316,6 +66332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T055314Z" creationid="UUZ" creationdate="20140908T055314Z">
         <seg>灵梦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>霊夢さんに勝てるはずがないじゃない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023106Z" creationid="土妹子" creationdate="20150109T023106Z">
+        <seg>应该是没法赢了灵梦的。</seg>
       </tuv>
     </tu>
     <tu>
