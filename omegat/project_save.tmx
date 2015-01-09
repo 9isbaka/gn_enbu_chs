@@ -26838,6 +26838,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cだけどそれは本当に必要でしょうか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T043311Z" creationid="土妹子" creationdate="20150109T043311Z">
+        <seg>\c但是那真的是必要的吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cだったら 今ここで全員と戦いなさいよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T161048Z" creationid="土妹子" creationdate="20150108T161048Z">
@@ -28290,6 +28298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040223Z" creationid="土妹子" creationdate="20150109T040223Z">
         <seg>\c我确实是知道那样的情报的。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c確か・・・\pさん でしたね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T043153Z" creationid="土妹子" creationdate="20150109T043153Z">
+        <seg>\c你是叫……\p的吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34258,6 +34274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051851Z" creationid="土妹子" creationdate="20150105T051851Z">
         <seg>啊拉，难道是想取得和其他世界的联系？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あら 思ったよりもすんなりと勝ててしまったのですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T043141Z" creationid="土妹子" creationdate="20150109T043141Z">
+        <seg>啊啦，比我想的还要顺利地赢过来了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49292,6 +49316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134813Z" creationid="土妹子" creationdate="20141230T134813Z">
         <seg>击倒人形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形が溢れかえった異変を止めるために動いてるのでしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T043305Z" creationid="土妹子" creationdate="20150109T043305Z">
+        <seg>为了制止人形到处都是的异变而行动着吧？</seg>
       </tuv>
     </tu>
     <tu>
