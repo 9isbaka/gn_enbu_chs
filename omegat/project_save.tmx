@@ -27398,6 +27398,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c・・・なるほど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040132Z" creationid="土妹子" creationdate="20150109T040132Z">
+        <seg>\c……原来如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c・・・ほら情報は与えましたよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155011Z" creationid="土妹子" creationdate="20150108T155011Z">
@@ -28218,6 +28226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T041639Z" creationid="土妹子" creationdate="20150108T041639Z">
         <seg>\c累了就必须要休息哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c確かに私でしたら そういった情報も知っています。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040223Z" creationid="土妹子" creationdate="20150109T040223Z">
+        <seg>\c我确实是知道那样的情报的。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36118,6 +36134,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この寺に何かご入用ですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040126Z" creationid="土妹子" creationdate="20150109T040126Z">
+        <seg>来这个寺庙有何贵干？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この幸せになるアイテムいらない？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093640Z" creationid="土妹子" creationdate="20150106T093640Z">
@@ -36706,6 +36730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040826Z" creationid="土妹子" creationdate="20150108T040826Z">
         <seg>不过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>しかし そう簡単に人に教えられるものでもないのです。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040542Z" creationid="土妹子" creationdate="20150109T040542Z">
+        <seg>不过，这也不是那么简单就能告诉别人的事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55096,6 +55128,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想郷以外の世界の情報を求めて ここにたどり着いたということですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040200Z" creationid="土妹子" creationdate="20150109T040200Z">
+        <seg>为了寻找幻想乡以外的世界的情报到了这里，是这么一回事呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想郷直撃タイフーン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T122434Z" creationid="UUZ" creationdate="20140906T122434Z">
@@ -64252,6 +64292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T044806Z" creationid="土妹子" creationdate="20150107T044806Z">
         <seg>好像给你们添了不少麻烦呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>色々な所を歩いてみなさい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040011Z" creationid="土妹子" creationdate="20150109T040011Z">
+        <seg>请试着去各种各样的地方走一走吧？</seg>
       </tuv>
     </tu>
     <tu>
