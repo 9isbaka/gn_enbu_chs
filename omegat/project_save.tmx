@@ -36214,6 +36214,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>このイカリが重くないかって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062302Z" creationid="土妹子" creationdate="20150109T062302Z">
+        <seg>你问这个锚不重吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>このスキルは 自分の 持つ 他の スキルを すべて使うと 使えるように なる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063801Z" creationid="土妹子" creationdate="20150101T063801Z">
@@ -36730,6 +36738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161415Z" creationid="UUZ" creationdate="20140908T054440Z">
         <seg>请馒馒来！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ご活躍は常々耳にしていますわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062835Z" creationid="土妹子" creationdate="20150109T062830Z">
+        <seg>总是能听说你的活跃呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56416,6 +56432,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>慣れてしまえば どうということもないですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062404Z" creationid="土妹子" creationdate="20150109T062404Z">
+        <seg>习惯了的话，就不觉得有什么了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>慧眼</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151537Z" creationid="UUZ" creationdate="20150102T151537Z">
@@ -67412,6 +67436,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144948Z" creationid="UUZ" creationdate="20140906T144948Z">
         <seg>云居一轮 &amp; 云山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>雲山が何者か ですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062421Z" creationid="土妹子" creationdate="20150109T062421Z">
+        <seg>你问云山是什么人？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>雲山は雲山以外の何者でもないですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062432Z" creationid="土妹子" creationdate="20150109T062432Z">
+        <seg>云山不是云山以外的任何人哦。</seg>
       </tuv>
     </tu>
     <tu>
