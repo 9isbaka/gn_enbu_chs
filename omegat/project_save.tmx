@@ -34878,6 +34878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いやぁ 挨拶はいつでも気持ちいいものよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062242Z" creationid="土妹子" creationdate="20150109T062242Z">
+        <seg>哎呀，问候真的一直都是快乐的事呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いやぁ今年は豊作になりそうだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T120925Z" creationid="UUZ" creationdate="20140908T120638Z">
@@ -35250,6 +35258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T165447Z" creationid="土妹子" creationdate="20150102T165447Z">
         <seg>野丫头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おはようございますっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062208Z" creationid="土妹子" creationdate="20150109T062208Z">
+        <seg>早上好！</seg>
       </tuv>
     </tu>
     <tu>
