@@ -25870,6 +25870,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\b付き合ったまでよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122450Z" creationid="土妹子" creationdate="20150109T122450Z">
+        <seg>\b陪你玩的哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\b勝負に勝ちたい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T145558Z" creationid="土妹子" creationdate="20150108T145558Z">
@@ -36166,6 +36174,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お遊びなんでしょう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122422Z" creationid="土妹子" creationdate="20150109T122422Z">
+        <seg>这是游戏之类的哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お願いだから 黙っててね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103547Z" creationid="土妹子" creationdate="20150106T103547Z">
@@ -36474,6 +36490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033005Z" creationid="土妹子" creationdate="20150109T033005Z">
         <seg>这前面是解放战线的所属地！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここがそんなに気に入ったのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122505Z" creationid="土妹子" creationdate="20150109T122505Z">
+        <seg>难道在这里有什么在意的？</seg>
       </tuv>
     </tu>
     <tu>
