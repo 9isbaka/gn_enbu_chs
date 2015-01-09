@@ -26982,6 +26982,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそして継承は 継承元の人形の個体ランクを転生する人形に引き継ぐ方法ね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171925Z" creationid="土妹子" creationdate="20150109T171925Z">
+        <seg>\c然后继承则是将继承来源人形的个体等级继承给进行转生的人形的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cその他にも 水上や草むらを 歩いたり\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060511Z" creationid="UUZ" creationdate="20140908T060439Z">
@@ -29170,6 +29178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040823Z" creationid="土妹子" creationdate="20150108T040804Z">
         <seg>\c山顶上有个守矢神社，去向那里的神明许个愿也好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c順を追って説明してあげるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171937Z" creationid="土妹子" creationdate="20150109T171937Z">
+        <seg>\c我会依次进行说明的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41412,6 +41428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T114712Z" creationid="土妹子" creationdate="20150109T114712Z">
         <seg>难道你觉得能就这么走过去吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まず 人形の個体ランクが人形の能力値に影響を与えるのは勿論知ってるわよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171737Z" creationid="土妹子" creationdate="20150109T171737Z">
+        <seg>首先，人形的个体等级会影响人形的能力值，这个当然知道吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68792,6 +68816,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>転生するには魔力の欠片が１個必要になるわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172001Z" creationid="土妹子" creationdate="20150109T172001Z">
+        <seg>转生是需要１个魔力的碎片的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>転生は 人形のレベルを１に戻して人形に割り振ったＰＰを全てリセットする事によって 個体ランクを再設定する方法。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171845Z" creationid="土妹子" creationdate="20150109T171845Z">
+        <seg>转生是通过让人形回到１级并把分配的ＰＰ全部重置，来重新设定个体等级的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>転生用印セット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141411Z" creationid="土妹子" creationdate="20150101T141411Z">
@@ -71100,6 +71140,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135735Z" creationid="土妹子" creationdate="20150101T135735Z">
         <seg>魔力的碎片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔力の欠片は持ってる？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171948Z" creationid="土妹子" creationdate="20150109T171948Z">
+        <seg>带着魔力的碎片呢吧？</seg>
       </tuv>
     </tu>
     <tu>
