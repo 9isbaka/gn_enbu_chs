@@ -33622,6 +33622,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あぁ・・・こてんぱんにやられちゃったわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023623Z" creationid="土妹子" creationdate="20150109T023623Z">
+        <seg>啊……被打成渣渣了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ああ いえ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112550Z" creationid="UUZ" creationdate="20140908T112550Z">
@@ -33650,6 +33658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T143111Z" creationid="土妹子" creationdate="20150106T143111Z">
         <seg>那里很容易迷路，所以多加小心哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あたいと最強をかけて さいせんだ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023757Z" creationid="土妹子" creationdate="20150109T023757Z">
+        <seg>赌上我的最强之名，再来一战！</seg>
       </tuv>
     </tu>
     <tu>
@@ -34810,6 +34826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T140429Z" creationid="UUZ" creationdate="20140910T140348Z">
         <seg>妖怪 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おぼえていないけど このあいだの人間ね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023747Z" creationid="土妹子" creationdate="20150109T023747Z">
+        <seg>虽然不记得了，那个时候的人类！</seg>
       </tuv>
     </tu>
     <tu>
@@ -36654,6 +36678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>せいせいどうどう かかってきな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023843Z" creationid="土妹子" creationdate="20150109T023843Z">
+        <seg>堂堂正正的对决！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>せきばんき</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140551Z" creationid="UUZ" creationdate="20140904T140551Z">
@@ -38314,8 +38346,8 @@
       <tuv lang="JA">
         <seg>はぁ・・・ こてんぱんにやられちゃった。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023037Z" creationid="土妹子" creationdate="20150109T023037Z">
-        <seg>哈……被利落地干掉了。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023613Z" creationid="土妹子" creationdate="20150109T023037Z">
+        <seg>哈……被打成渣渣了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38724,6 +38756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061147Z" creationid="UUZ" creationdate="20140908T061147Z">
         <seg>承蒙关照！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まかせてっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023638Z" creationid="土妹子" creationdate="20150109T023638Z">
+        <seg>交给我吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61516,6 +61556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055440Z" creationid="土妹子" creationdate="20150106T055440Z">
         <seg>我是这里的主人　蕾米莉亚·斯卡雷特。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私がこてんぱんにやっつけてやるわっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023654Z" creationid="土妹子" creationdate="20150109T023654Z">
+        <seg>试试把我也打成渣渣啊！</seg>
       </tuv>
     </tu>
     <tu>
