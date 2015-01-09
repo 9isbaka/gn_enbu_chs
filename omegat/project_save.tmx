@@ -25774,6 +25774,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\bこの先に進みたいってこと？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T105755Z" creationid="土妹子" creationdate="20150109T105753Z">
+        <seg>\b想要向这前面前进？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\bごきげんいかが？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062510Z" creationid="UUZ" creationdate="20140908T062510Z">
@@ -59672,6 +59680,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>残念 この先に進もうとすることは許さないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T105820Z" creationid="土妹子" creationdate="20150109T105820Z">
+        <seg>可惜，向前面前进是不允许的哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>残念だけど 人形用の薬はないんですよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093924Z" creationid="土妹子" creationdate="20150106T093924Z">
@@ -66708,6 +66724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032953Z" creationid="土妹子" creationdate="20150109T032953Z">
         <seg>挡路的游戏也差不多快玩够了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>通りたいなら 私と勝負よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T105830Z" creationid="土妹子" creationdate="20150109T105830Z">
+        <seg>想要过去的话，就和我一决胜负哦。</seg>
       </tuv>
     </tu>
     <tu>
