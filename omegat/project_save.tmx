@@ -36678,6 +36678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さぁ正々堂々とかかってきなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042644Z" creationid="土妹子" creationdate="20150109T042644Z">
+        <seg>来吧，堂堂正正的对战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さぁ行きますよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T135800Z" creationid="土妹子" creationdate="20150108T135800Z">
@@ -39128,6 +39136,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ふむ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042651Z" creationid="土妹子" creationdate="20150109T042651Z">
+        <seg>嗯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ふわぁ 暇だ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082532Z" creationid="妄想" creationdate="20150105T082532Z">
@@ -39380,6 +39396,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055245Z" creationid="土妹子" creationdate="20150106T055245Z">
         <seg>万万没想到你竟然会如此之强啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まさか 私までもが負けてしまうとは……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042718Z" creationid="土妹子" creationdate="20150109T042718Z">
+        <seg>想不到连我也输了……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52596,6 +52620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161425Z" creationid="UUZ" creationdate="20141224T161425Z">
         <seg>咲夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>噂で聞くとおりにお強い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042657Z" creationid="土妹子" creationdate="20150109T042657Z">
+        <seg>就和传闻的一样强。</seg>
       </tuv>
     </tu>
     <tu>
