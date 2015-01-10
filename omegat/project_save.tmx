@@ -70080,6 +70080,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>足が無く 幽霊のように浮いているが 自由に足を出すこともできるらしい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032111Z" creationid="土妹子" creationdate="20150110T032111Z">
+        <seg>虽然像没有脚的幽灵一样飘着，不过似乎也能自由地长出脚来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>足止め</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152136Z" creationid="UUZ" creationdate="20140904T152136Z">
@@ -71916,6 +71924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T091759Z" creationid="UUZ" creationdate="20140908T091759Z">
         <seg>因为不能输给灵梦啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>霊夢の人形が持つ陰陽玉を狙っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032042Z" creationid="土妹子" creationdate="20150110T032042Z">
+        <seg>以灵梦人形带着的阴阳玉为目标。</seg>
       </tuv>
     </tu>
     <tu>
