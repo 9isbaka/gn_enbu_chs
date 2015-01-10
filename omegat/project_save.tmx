@@ -44504,6 +44504,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>オモチャの戦車で戦う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T033223Z" creationid="土妹子" creationdate="20150110T033223Z">
+        <seg>用玩具坦克进行战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>オリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T171412Z" creationid="土妹子" creationdate="20150102T171412Z">
@@ -53840,6 +53848,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>仏の人形の一種だが 額の一本角のせいで 鬼の人形と勘違いしやすい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032847Z" creationid="土妹子" creationdate="20150110T032847Z">
+        <seg>虽然是佛的人形的一种，但是因为额头上的１根角，容易被误认为是鬼的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>他に 用はあるかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T061506Z" creationid="UUZ" creationdate="20140908T061218Z">
@@ -56428,6 +56444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T122057Z" creationid="UUZ" creationdate="20141230T122057Z">
         <seg>地底洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地獄の剣士の力を持ち 刀を使って戦う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032810Z" creationid="土妹子" creationdate="20150110T032810Z">
+        <seg>有地狱剑士的力量，使用刀战斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70908,6 +70932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143606Z" creationid="UUZ" creationdate="20140906T143606Z">
         <seg>里香</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>里香の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T033211Z" creationid="土妹子" creationdate="20150110T033211Z">
+        <seg>拥有里香的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
