@@ -39670,6 +39670,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そばにいる猫の人形の名前はソクラテス。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034819Z" creationid="土妹子" creationdate="20150110T034819Z">
+        <seg>旁边的猫的人形名字叫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そもそも あんたがどうなろうと 私には関係ないもの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T041216Z" creationid="土妹子" creationdate="20150108T041216Z">
@@ -56848,6 +56856,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>変なものをみつけては 収集している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034836Z" creationid="土妹子" creationdate="20150110T034836Z">
+        <seg>寻找并收集着奇怪的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>変わった人間ね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T123036Z" creationid="土妹子" creationdate="20150109T123036Z">
@@ -58492,6 +58508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143646Z" creationid="UUZ" creationdate="20140906T143646Z">
         <seg>小兔姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>小兎姫の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034828Z" creationid="土妹子" creationdate="20150110T034828Z">
+        <seg>拥有小兔姬的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
