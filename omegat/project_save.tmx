@@ -55408,6 +55408,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>北白河ちゆりの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T040435Z" creationid="土妹子" creationdate="20150110T040435Z">
+        <seg>拥有北白河千百合的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>十一符·毒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141459Z" creationid="UUZ" creationdate="20140906T141459Z">
@@ -72524,6 +72532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T140538Z" creationid="土妹子" creationdate="20150106T140538Z">
         <seg>请加油呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>頭は良いはずなのだが あまり行動に現れない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T040457Z" creationid="土妹子" creationdate="20150110T040457Z">
+        <seg>头脑应该很好，但是不怎么体现在行动上。</seg>
       </tuv>
     </tu>
     <tu>
