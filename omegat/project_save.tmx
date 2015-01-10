@@ -27134,6 +27134,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cそんなあなたに朗報。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T013510Z" creationid="土妹子" creationdate="20150110T013510Z">
+        <seg>\c告诉这样的你一个好消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cそんなことより レミィのところへ行くのなら 先の扉からどうぞ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155716Z" creationid="土妹子" creationdate="20150105T155158Z">
@@ -28410,6 +28418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T014248Z" creationid="妄想" creationdate="20150105T014248Z">
         <seg>\c将核的力量给予了地底的妖怪们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\c外の世界のあなたにとっては 珍しいことだらけでしょう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T013347Z" creationid="土妹子" creationdate="20150110T013347Z">
+        <seg>\c对于外侧世界的你来说，这里到处都是稀奇的东西吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36662,6 +36678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お待ちしていましたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T013255Z" creationid="土妹子" creationdate="20150110T013252Z">
+        <seg>一直在等着你呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お掃除お掃除楽しいな〜♪\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150108T065251Z" creationid="UUZ" creationdate="20140908T144005Z">
@@ -39622,6 +39646,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>だけど そろそろ物足りなさも感じているのではないかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T013443Z" creationid="土妹子" creationdate="20150110T013443Z">
+        <seg>不过呢，是不是差不多要感觉有点不满足了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>だったよね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082639Z" creationid="妄想" creationdate="20150105T082639Z">
@@ -42228,6 +42260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112828Z" creationid="UUZ" creationdate="20140909T161325Z">
         <seg>终于来了呢，正等着呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やっと直接お会いできましたわね \p。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T013310Z" creationid="土妹子" creationdate="20150110T013310Z">
+        <seg>终于和你直接见面了呢，\p。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58156,6 +58196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T145159Z" creationid="土妹子" creationdate="20150108T145159Z">
         <seg>幻想乡是和各种各样的世界连接着的，这个你知道吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想郷を楽しんでいただけてるかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T013324Z" creationid="土妹子" creationdate="20150110T013324Z">
+        <seg>是不是享受着幻想乡的乐趣？</seg>
       </tuv>
     </tu>
     <tu>
