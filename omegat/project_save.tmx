@@ -26766,6 +26766,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cさあ 健康的に私と遊んで運動しましょ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T025802Z" creationid="土妹子" creationdate="20150110T025802Z">
+        <seg>\c来和我玩一玩，进行健康运动吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cさあ無駄な会話はこれくらいにして 楽しもうじゃない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T134409Z" creationid="土妹子" creationdate="20150107T134409Z">
@@ -41172,6 +41180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035307Z" creationid="土妹子" creationdate="20150105T035307Z">
         <seg>……有这样的传言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんて歌があるけど 冬眠もほどほどにしなきゃ 身体が鈍っちゃうのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T025742Z" creationid="土妹子" creationdate="20150110T025742Z">
+        <seg>虽说有这样的歌，不过冬眠不适量的话就会让身体迟钝了哦。</seg>
       </tuv>
     </tu>
     <tu>
