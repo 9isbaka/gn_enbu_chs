@@ -40630,6 +40630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>とても賢く 人形とは思えない知識を披露することもある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041113Z" creationid="土妹子" creationdate="20150110T041103Z">
+        <seg>非常聪明，有时会表现出作为人形不该有的知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>とにかく ここは通せないの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153744Z" creationid="土妹子" creationdate="20150105T153744Z">
@@ -57128,6 +57136,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>夢美の人形によく殴られている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T040623Z" creationid="土妹子" creationdate="20150110T040623Z">
+        <seg>经常被梦美人形殴打。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>大きな屋敷や博麗神社周辺でよく見かける。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T035315Z" creationid="土妹子" creationdate="20150110T035315Z">
@@ -58852,6 +58868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143924Z" creationid="UUZ" creationdate="20140906T143924Z">
         <seg>冈崎梦美</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>岡崎夢美の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T040701Z" creationid="土妹子" creationdate="20150110T040701Z">
+        <seg>拥有冈崎梦美的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71904,6 +71928,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>雑用を任せると意外と手際よく済ませてくれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T040613Z" creationid="土妹子" creationdate="20150110T040613Z">
+        <seg>派去干杂务的话会意外地处理得很好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>雛</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161707Z" creationid="UUZ" creationdate="20141224T161707Z">
@@ -72860,6 +72892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142515Z" creationid="UUZ" creationdate="20140907T142515Z">
         <seg>魔导书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔法に関連したものに非常に強い興味を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041134Z" creationid="土妹子" creationdate="20150110T041134Z">
+        <seg>对与魔法有关的事物有非常强烈的兴趣。</seg>
       </tuv>
     </tu>
     <tu>
