@@ -43240,10 +43240,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>よくチルノの人形と一緒に行動している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103313Z" creationid="土妹子" creationdate="20150110T103313Z">
+        <seg>经常和琪露诺人形一起行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>よく地獄で見かけられるが 幻想郷でも見かけることがある。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032214Z" creationid="土妹子" creationdate="20150110T032214Z">
         <seg>虽然经常在地狱见到，不过在幻想乡也能见到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>よく氷の塊を使って遊んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103432Z" creationid="土妹子" creationdate="20150110T103432Z">
+        <seg>经常用冰块玩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48324,6 +48340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140135Z" creationid="UUZ" creationdate="20140909T140135Z">
         <seg>琪露诺酱输掉了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>チルノの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103410Z" creationid="土妹子" creationdate="20150110T103410Z">
+        <seg>拥有琪露诺的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55388,6 +55412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014307Z" creationid="UUZ" creationdate="20140906T090848Z">
         <seg>用冰冷的雨水使对手冰冻的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>冷気を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103419Z" creationid="土妹子" creationdate="20150110T103419Z">
+        <seg>拥有操纵冷气程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66880,6 +66912,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>知能がやや低く 罠に引っかかりやすい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103451Z" creationid="土妹子" creationdate="20150110T103451Z">
+        <seg>智能略有点低，容易中陷阱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>石礫</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T094616Z" creationid="土妹子" creationdate="20150101T094616Z">
@@ -70900,6 +70940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035858Z" creationid="UUZ" creationdate="20141230T143153Z">
         <seg>迷路了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>追いかけると瞬間移動して 逃げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103401Z" creationid="土妹子" creationdate="20150110T103401Z">
+        <seg>去追赶的话就会用瞬间移动逃跑。</seg>
       </tuv>
     </tu>
     <tu>
