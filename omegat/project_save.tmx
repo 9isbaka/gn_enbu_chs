@@ -36558,6 +36558,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おっとりした性格だが 気に入らない相手には敵意をむき出しにすることもある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102031Z" creationid="土妹子" creationdate="20150110T102031Z">
+        <seg>虽然性格稳重，不过也会对不喜欢的对手毫无保留地表现出敌意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おっと！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T072104Z" creationid="UUZ" creationdate="20140908T072104Z">
@@ -51192,6 +51200,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ルイズの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T101844Z" creationid="土妹子" creationdate="20150110T101844Z">
+        <seg>拥有露易兹的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ルナ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140041Z" creationid="UUZ" creationdate="20140904T140041Z">
@@ -53728,6 +53744,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間界のものによく興味を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102042Z" creationid="土妹子" creationdate="20150110T102042Z">
+        <seg>对人间界的事物非常感兴趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150845Z" creationid="妄想" creationdate="20150104T150845Z">
@@ -54324,6 +54348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T164517Z" creationid="土妹子" creationdate="20150109T164517Z">
         <seg>你来多少次，我都会阻止你哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何故か弱く見られがち。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T101822Z" creationid="土妹子" creationdate="20150110T101822Z">
+        <seg>不知为何看起来有点弱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71828,6 +71860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135301Z" creationid="UUZ" creationdate="20140904T135301Z">
         <seg>斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>闘うこと自体は好きなようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T101835Z" creationid="土妹子" creationdate="20150110T101835Z">
+        <seg>似乎很喜欢战斗这件事本身。</seg>
       </tuv>
     </tu>
     <tu>
