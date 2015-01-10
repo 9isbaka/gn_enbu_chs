@@ -29142,6 +29142,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c耳障りになる音は排除しなくちゃ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T021920Z" creationid="土妹子" creationdate="20150110T021920Z">
+        <seg>\c刺耳的声音必须排除掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c聞けば 便利なアイテムが揃えてあって</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T151330Z" creationid="UUZ" creationdate="20140909T151149Z">
@@ -35086,6 +35094,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あら ここに訪問客が来るなんて・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022004Z" creationid="土妹子" creationdate="20150110T022004Z">
+        <seg>啊啦，这里会来访客什么的……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あら こんな場所になんの用？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155638Z" creationid="土妹子" creationdate="20150108T155638Z">
@@ -40114,6 +40130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T165113Z" creationid="土妹子" creationdate="20150109T165055Z">
         <seg>不过能和你认真的对战太好了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>でもちょうど良かった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022012Z" creationid="土妹子" creationdate="20150110T022012Z">
+        <seg>不过也有点好呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55640,6 +55664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>四人の姉妹がこちらを見て 楽しそうに微笑んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T021946Z" creationid="土妹子" creationdate="20150110T021946Z">
+        <seg>四人的姐妹看着这边，似乎很高兴地微笑着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>四姉妹の写真の下にあったお守り。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145247Z" creationid="土妹子" creationdate="20150102T145247Z">
@@ -61888,6 +61920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>楽しくない音ほど つまらないものはないわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T021909Z" creationid="土妹子" creationdate="20150110T021909Z">
+        <seg>越是不高兴的声音就越无聊不是吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>楽しませてもらったわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033725Z" creationid="土妹子" creationdate="20150109T033725Z">
@@ -64684,6 +64724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133035Z" creationid="UUZ" creationdate="20140906T133035Z">
         <seg>日全食</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>皿が割れている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T021950Z" creationid="土妹子" creationdate="20150110T021950Z">
+        <seg>盘子碎了。</seg>
       </tuv>
     </tu>
     <tu>
