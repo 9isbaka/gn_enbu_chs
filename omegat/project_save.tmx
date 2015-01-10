@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31830,6 +31830,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>……君 よくここの瘴気に耐えられるね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135454Z" creationid="UUZ" creationdate="20150110T135454Z">
+        <seg>……君 よくここの瘴気に耐えられるね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>……失礼いたしました。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050332Z" creationid="UUZ" creationdate="20140909T131433Z">
@@ -35486,6 +35494,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おぁ〜ひっく。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135508Z" creationid="UUZ" creationdate="20150110T135508Z">
+        <seg>おぁ〜ひっく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おいおい どこに行くんだ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112737Z" creationid="UUZ" creationdate="20140908T112737Z">
@@ -36886,6 +36902,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この先は行き止まりだぜ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135410Z" creationid="UUZ" creationdate="20150110T135410Z">
+        <seg>この先は行き止まりだぜ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この先は間欠泉地下センターだよ・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T084036Z" creationid="妄想" creationdate="20150108T084036Z">
@@ -37354,6 +37378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T083735Z" creationid="妄想" creationdate="20150103T080203Z">
         <seg>怎么能让这么可爱的人形参加战斗呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>こんな場所に来るなんて相当な物好きかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135507Z" creationid="UUZ" creationdate="20150110T135507Z">
+        <seg>こんな場所に来るなんて相当な物好きかい？</seg>
       </tuv>
     </tu>
     <tu>
@@ -49896,6 +49928,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>一仕事終えた後は酒！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135506Z" creationid="UUZ" creationdate="20150110T135506Z">
+        <seg>一仕事終えた後は酒！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>一刀両断</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142649Z" creationid="UUZ" creationdate="20140904T142649Z">
@@ -51396,6 +51436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161751Z" creationid="土妹子" creationdate="20150104T161751Z">
         <seg>为了解决人形异变正在周游各地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形はちゃんと技を覚ええるけど私が忘れちゃうの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135414Z" creationid="UUZ" creationdate="20150110T135414Z">
+        <seg>人形はちゃんと技を覚ええるけど私が忘れちゃうの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53980,6 +54028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144907Z" creationid="UUZ" creationdate="20140906T144907Z">
         <seg>古明地觉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>古明地のもんならこの橋を渡った先だよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135501Z" creationid="UUZ" creationdate="20150110T135501Z">
+        <seg>古明地のもんならこの橋を渡った先だよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62100,6 +62156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T025601Z" creationid="土妹子" creationdate="20150109T025601Z">
         <seg>就算你哭着求饶我也不会原谅你！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>泥だらけになっちゃったー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135500Z" creationid="UUZ" creationdate="20150110T135500Z">
+        <seg>泥だらけになっちゃったー。</seg>
       </tuv>
     </tu>
     <tu>
