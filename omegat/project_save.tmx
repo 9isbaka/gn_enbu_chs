@@ -41784,6 +41784,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ふわふわ頭がチャームポイント。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034102Z" creationid="土妹子" creationdate="20150110T034102Z">
+        <seg>轻飘飘的头是魅力点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ふーん。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T155556Z" creationid="UUZ" creationdate="20140909T155556Z">
@@ -44420,6 +44428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135421Z" creationid="UUZ" creationdate="20140904T135421Z">
         <seg>爱莲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>エレンの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T033956Z" creationid="土妹子" creationdate="20150110T033956Z">
+        <seg>拥有爱莲的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55568,6 +55584,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>博麗神社周辺で地面に埋まっていることが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T033943Z" creationid="土妹子" creationdate="20150110T033943Z">
+        <seg>经常埋在博丽神社周边的地面里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>博麗神社裏山</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T064822Z" creationid="UUZ" creationdate="20140824T160417Z">
@@ -55588,6 +55612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T132958Z" creationid="土妹子" creationdate="20141230T132958Z">
         <seg>博丽神社后山洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>博麗神社近くの魔法専用店で遊んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034121Z" creationid="土妹子" creationdate="20150110T034121Z">
+        <seg>在博丽神社附近的魔法专用店玩。</seg>
       </tuv>
     </tu>
     <tu>
