@@ -45712,6 +45712,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>サラの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T092832Z" creationid="土妹子" creationdate="20150110T092832Z">
+        <seg>拥有萨拉的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>サリエル</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T095053Z" creationid="UUZ" creationdate="20140904T135348Z">
@@ -50426,8 +50434,8 @@
       <tuv lang="JA">
         <seg>メガネが割れることもしばしば。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T035902Z" creationid="土妹子" creationdate="20150110T035902Z">
-        <seg>眼睛碎掉的事情也时有发生。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T091833Z" creationid="土妹子" creationdate="20150110T035902Z">
+        <seg>眼镜碎掉的事情也时有发生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57216,6 +57224,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>夢月の人形と合わせて一人前の実力と言う噂があるが 闘ったことがある者の証言では非常に強いとも言われる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T092822Z" creationid="土妹子" creationdate="20150110T092743Z">
+        <seg>谣言说与梦月人形合在一起是一个人的实力，不过战斗过的人也有说非常强力之类的证言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>夢月の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T092625Z" creationid="土妹子" creationdate="20150110T092625Z">
+        <seg>拥有梦月的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>夢美</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161241Z" creationid="UUZ" creationdate="20141224T161241Z">
@@ -59436,6 +59460,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144013Z" creationid="UUZ" creationdate="20140906T144013Z">
         <seg>幻月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻月の人形と合わせて一人前の実力と言う噂がある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T092745Z" creationid="土妹子" creationdate="20150110T092709Z">
+        <seg>谣言说与幻月人形合在一起是一个人的实力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻月の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T092719Z" creationid="土妹子" creationdate="20150110T092719Z">
+        <seg>拥有幻月的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69116,6 +69156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T100755Z" creationid="土妹子" creationdate="20141231T100755Z">
         <seg>从自身的技能中随机选取一个使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分のテリトリーに入ったものには容赦しない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T092643Z" creationid="土妹子" creationdate="20150110T092643Z">
+        <seg>对进入自己领地的事物绝不原谅。</seg>
       </tuv>
     </tu>
     <tu>
