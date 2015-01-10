@@ -37926,6 +37926,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この山に蛙の溜まり場みたいな場所があるんだけど そこの蛙が何か持ってたね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T025529Z" creationid="土妹子" creationdate="20150110T025529Z">
+        <seg>这山中有个青蛙的集会场一样的地方，那里的青蛙带着什么东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この幸せになるアイテムいらない？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093640Z" creationid="土妹子" creationdate="20150106T093640Z">
@@ -72028,6 +72036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T143218Z" creationid="妄想" creationdate="20150104T082144Z">
         <seg>真没意思。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>面白そうなものだったけど いったい何に使えるんだろうねぇ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T025549Z" creationid="土妹子" creationdate="20150110T025549Z">
+        <seg>虽然似乎是有趣的东西，不过到底是干什么用的呢。</seg>
       </tuv>
     </tu>
     <tu>
