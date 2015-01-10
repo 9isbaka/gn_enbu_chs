@@ -34886,6 +34886,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたも暇してるんですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012202Z" creationid="土妹子" creationdate="20150110T012202Z">
+        <seg>你也真是闲呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたらしいといえば らしいかしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063246Z" creationid="土妹子" creationdate="20150106T063246Z">
@@ -35090,6 +35098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T110331Z" creationid="土妹子" creationdate="20150109T110331Z">
         <seg>啊啦，又来了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あら また来たの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012156Z" creationid="土妹子" creationdate="20150110T012156Z">
+        <seg>啊啦，又来了？</seg>
       </tuv>
     </tu>
     <tu>
@@ -38766,6 +38782,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そういえば 藍様や紫様に挑戦してみた？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012242Z" creationid="土妹子" creationdate="20150110T012242Z">
+        <seg>说起来，要试着挑战下蓝大人和紫大人吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そういえば外の世界にいるとき 仲間を集めて冒険するゲームってありましたよね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T144400Z" creationid="土妹子" creationdate="20150108T144400Z">
@@ -40788,6 +40812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094514Z" creationid="妄想" creationdate="20150103T094514Z">
         <seg>你要去哪里？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ねぇねぇ 折角だからちょっと私と遊びましょう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012217Z" creationid="土妹子" creationdate="20150110T012217Z">
+        <seg>呐呐，难得来了，就稍微和我玩会吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45220,6 +45252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154808Z" creationid="土妹子" creationdate="20150102T154808Z">
         <seg>隙间地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スキマップで行けるようになってるって 紫様が言っていたわよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012324Z" creationid="土妹子" creationdate="20150110T012324Z">
+        <seg>现在已经可以用隙间地图过去了。紫大人这么说的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66352,6 +66392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紫様にお目通りかな？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012351Z" creationid="土妹子" creationdate="20150110T012351Z">
+        <seg>要拜见紫大人吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紫色の宝石。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021043Z" creationid="UUZ" creationdate="20140908T021043Z">
@@ -66780,6 +66828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T153342Z" creationid="UUZ" creationdate="20140909T153342Z">
         <seg>没听说过吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>聞いたとおりの実力なのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012228Z" creationid="土妹子" creationdate="20150110T012228Z">
+        <seg>和传说中一样的实力呢。</seg>
       </tuv>
     </tu>
     <tu>
