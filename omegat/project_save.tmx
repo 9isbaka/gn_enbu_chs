@@ -31918,10 +31918,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>←この先 大蝦蟇の池 迷うので注意されたし。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082635Z" creationid="妄想" creationdate="20150110T082635Z">
+        <seg>←前方 大蛤蟆之池 注意不要迷路了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>←人間の里</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024050Z" creationid="UUZ" creationdate="20140908T131659Z">
         <seg>←人间之里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>←玄武の沢　　　廃洋館→</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082155Z" creationid="妄想" creationdate="20150110T082155Z">
+        <seg>←玄武之沢           废洋馆→</seg>
       </tuv>
     </tu>
     <tu>
@@ -31934,10 +31950,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>↑人間の里</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081853Z" creationid="妄想" creationdate="20150110T081853Z">
+        <seg>↑人间之里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>↑博麗神社</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T160436Z" creationid="UUZ" creationdate="20140824T160436Z">
         <seg>↑博丽神社</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>↑紅魔館</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082016Z" creationid="妄想" creationdate="20150110T082016Z">
+        <seg>↑红魔馆</seg>
       </tuv>
     </tu>
     <tu>
@@ -31954,6 +31986,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112145Z" creationid="土妹子" creationdate="20150105T112145Z">
         <seg>↑香霖堂・魔法之森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>→命蓮寺</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081912Z" creationid="妄想" creationdate="20150110T081912Z">
+        <seg>→命莲寺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>↓迷いの竹林</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082007Z" creationid="妄想" creationdate="20150110T082007Z">
+        <seg>↓迷失竹林</seg>
       </tuv>
     </tu>
     <tu>
@@ -34994,6 +35042,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143854Z" creationid="UUZ" creationdate="20140908T143854Z">
         <seg>总有一天你会成为我的手下败将。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いつまで経っても 入山禁止</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082506Z" creationid="妄想" creationdate="20150110T082506Z">
+        <seg>无论何时都禁止入山</seg>
       </tuv>
     </tu>
     <tu>
@@ -40400,6 +40456,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>また 散防が高いほど拡散技の受けるダメージが減少する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081813Z" creationid="妄想" creationdate="20150110T081813Z">
+        <seg>另外，散防越高受到的扩散技伤害越低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>また 来たのかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T041759Z" creationid="土妹子" creationdate="20150108T041759Z">
@@ -42868,6 +42932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135359Z" creationid="UUZ" creationdate="20140904T135359Z">
         <seg>菊理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>キケン！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082343Z" creationid="妄想" creationdate="20150110T082343Z">
+        <seg>危险！</seg>
       </tuv>
     </tu>
     <tu>
@@ -51560,6 +51632,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間の里方面↓</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082217Z" creationid="妄想" creationdate="20150110T082217Z">
+        <seg>人间之里方向↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間は斯くも貪欲で 魅力的で 愚か……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T150619Z" creationid="土妹子" creationdate="20150108T150619Z">
@@ -59384,6 +59464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>散弾の能力値が高いほど 相手の人形に大きくダメージを与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081757Z" creationid="妄想" creationdate="20150110T081757Z">
+        <seg>散弹能力值越高，给对手人形造成的伤害越大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>散弾の薬</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040654Z" creationid="UUZ" creationdate="20140908T040645Z">
@@ -59936,6 +60024,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>有毒ガス充満につき</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082358Z" creationid="妄想" creationdate="20150110T082358Z">
+        <seg>有毒气体弥漫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>有頂天セット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T143917Z" creationid="UUZ" creationdate="20140907T143917Z">
@@ -60376,6 +60472,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>棺が邪魔で寝れない！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082719Z" creationid="妄想" creationdate="20150110T082719Z">
+        <seg>棺材妨碍导致睡不着！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>椛</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161711Z" creationid="UUZ" creationdate="20141224T161711Z">
@@ -60652,6 +60756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T130826Z" creationid="土妹子" creationdate="20150106T130826Z">
         <seg>走着的话可是非常受不了的哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>死にたい奴だけ 近寄ってよし</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082418Z" creationid="妄想" creationdate="20150110T082418Z">
+        <seg>不想死的请不要靠近</seg>
       </tuv>
     </tu>
     <tu>
@@ -69732,6 +69844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161817Z" creationid="UUZ" creationdate="20141224T161817Z">
         <seg>青娥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>青文字で表示される。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081842Z" creationid="妄想" creationdate="20150110T081842Z">
+        <seg>以青色文字显示。</seg>
       </tuv>
     </tu>
     <tu>
