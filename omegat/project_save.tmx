@@ -26510,6 +26510,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cおそらく探し回るのも一苦労ですから ゆっくりでいいですからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022605Z" creationid="土妹子" creationdate="20150110T022605Z">
+        <seg>\c恐怕四处寻找会非常辛苦的，所以馒馒来也没关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cおっと 静かにしておいてくれよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T161343Z" creationid="土妹子" creationdate="20150105T161343Z">
@@ -36790,6 +36798,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お渡しして頂いたときにお礼をさせていただきますね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022646Z" creationid="土妹子" creationdate="20150110T022646Z">
+        <seg>把它们交给我的时候我会给你礼物呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お燐</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161739Z" creationid="UUZ" creationdate="20141224T161739Z">
@@ -38806,6 +38822,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>すべて見つけ終わったら また声を掛けてください。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022619Z" creationid="土妹子" creationdate="20150110T022619Z">
+        <seg>如果全都找到了的话，请再来找我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>すべて集まったら 教えてくださいね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022751Z" creationid="土妹子" creationdate="20150110T022751Z">
+        <seg>全都集齐了的话请告诉我！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>すみません 今すごく急いでいて前を……</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T153222Z" creationid="土妹子" creationdate="20150106T153222Z">
@@ -40138,6 +40170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055306Z" creationid="土妹子" creationdate="20150105T055306Z">
         <seg>那么，我就回家继续调查了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ではまたお手伝い頂けるときにでも 声を掛けてくださいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022721Z" creationid="土妹子" creationdate="20150110T022721Z">
+        <seg>那么，又想帮忙了的时候请来找我。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60804,6 +60844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T101033Z" creationid="土妹子" creationdate="20150109T101033Z">
         <seg>不去找可不行呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>探し物は見つかりそうですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022739Z" creationid="土妹子" creationdate="20150110T022739Z">
+        <seg>找的东西找到了吗？</seg>
       </tuv>
     </tu>
     <tu>
