@@ -40622,6 +40622,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>でも痛くない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102900Z" creationid="土妹子" creationdate="20150110T102900Z">
+        <seg>不过不疼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>と とりあえず ここは撤退しましょ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T031116Z" creationid="土妹子" creationdate="20150108T031116Z">
@@ -51376,6 +51384,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ルーミアの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102813Z" creationid="土妹子" creationdate="20150110T102813Z">
+        <seg>拥有露米娅的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>レイジィミスト</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T091905Z" creationid="UUZ" creationdate="20140906T091905Z">
@@ -53464,6 +53480,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形の状態の魔界の住人を従わせることができるかどうかは不明。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102758Z" creationid="土妹子" creationdate="20150110T102758Z">
+        <seg>不知道是否能统领人形状态的魔界住人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形の異変を解決するために 各地を巡っていると。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161751Z" creationid="土妹子" creationdate="20150104T161751Z">
@@ -53816,6 +53840,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間を見つけるとすぐに噛み付く。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102854Z" creationid="土妹子" creationdate="20150110T102854Z">
+        <seg>一看到人类很快就会咬住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間界のものによく興味を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102042Z" creationid="土妹子" creationdate="20150110T102042Z">
@@ -54164,6 +54196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051924Z" creationid="土妹子" creationdate="20150105T051924Z">
         <seg>是不是遇到了其他的人形使呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>他の妖精人形たちよりも強い力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103259Z" creationid="土妹子" creationdate="20150110T103259Z">
+        <seg>拥有比其他妖精人形更强的力量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57500,6 +57540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T081156Z" creationid="妄想" creationdate="20150105T081156Z">
         <seg>以为是大妖精其实是人形 以为是人形其实是大妖精！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大妖精の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103243Z" creationid="土妹子" creationdate="20150110T103243Z">
+        <seg>拥有大妖精的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71928,6 +71976,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>闇を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102826Z" creationid="土妹子" creationdate="20150110T102826Z">
+        <seg>拥有操纵黑暗程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>闇・冥・毒属性のスキルを受けた時 自分の俊敏が一段階上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="土妹子" creationdate="20141231T024657Z">
@@ -72884,6 +72940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T140538Z" creationid="土妹子" creationdate="20150106T140538Z">
         <seg>请加油呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>頭のリボンをほどくと何かが起こる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102838Z" creationid="土妹子" creationdate="20150110T102838Z">
+        <seg>解开头上的丝带就会发生什么。</seg>
       </tuv>
     </tu>
     <tu>
