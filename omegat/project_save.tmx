@@ -44032,6 +44032,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アリス・マーガトロイドの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102252Z" creationid="土妹子" creationdate="20150110T102218Z">
+        <seg>拥有爱丽丝·玛格特洛依德的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>アリス邸</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155500Z" creationid="土妹子" creationdate="20150102T155500Z">
@@ -49896,6 +49904,30 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>マイの人形がやられると本気をだしちゃうらしい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102437Z" creationid="土妹子" creationdate="20150110T102437Z">
+        <seg>似乎在舞人形被干掉的时候就会全力以赴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>マイの人形と仲が良いようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102513Z" creationid="土妹子" creationdate="20150110T102403Z">
+        <seg>和舞人形关系很好的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>マイの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102447Z" creationid="土妹子" creationdate="20150110T102447Z">
+        <seg>拥有舞的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>マイコ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T175455Z" creationid="土妹子" creationdate="20150102T175455Z">
@@ -49996,6 +50028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T170131Z" creationid="土妹子" creationdate="20150102T170131Z">
         <seg>昌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>マジックアイテムを蒐集するのが好きなようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102343Z" creationid="土妹子" creationdate="20150110T102343Z">
+        <seg>似乎喜欢收集魔法道具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50756,6 +50796,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135618Z" creationid="UUZ" creationdate="20140904T135618Z">
         <seg>雪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ユキの人形がやられると本気を出せるらしい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102507Z" creationid="土妹子" creationdate="20150110T102507Z">
+        <seg>似乎在雪人形被干掉的时候就会全力以赴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ユキの人形と仲が良いようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102518Z" creationid="土妹子" creationdate="20150110T102457Z">
+        <seg>和雪人形关系很好的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ユキの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102353Z" creationid="土妹子" creationdate="20150110T102353Z">
+        <seg>拥有雪的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53436,6 +53500,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T041944Z" creationid="UUZ" creationdate="20140908T041944Z">
         <seg>将人形以拆分状态存放的箱子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形を使った魔法を好んで使う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102331Z" creationid="土妹子" creationdate="20150110T102331Z">
+        <seg>偏爱使用使役人形的魔法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57220,6 +57292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144040Z" creationid="UUZ" creationdate="20140906T144040Z">
         <seg>梦子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>夢子の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102527Z" creationid="土妹子" creationdate="20150110T102527Z">
+        <seg>拥有梦子的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66960,6 +67040,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>神綺の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102626Z" creationid="土妹子" creationdate="20150110T102626Z">
+        <seg>拥有神绮的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>神綺戦</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133857Z" creationid="土妹子" creationdate="20141230T133857Z">
@@ -70064,6 +70152,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>見た目どおりのメイドで 主には忠実に従う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102604Z" creationid="土妹子" creationdate="20150110T102604Z">
+        <seg>就和看起来一样是个女仆，忠实地跟着主人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>見た目は ただの廃神社だけど……\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T034727Z" creationid="UUZ" creationdate="20140908T125634Z">
@@ -73152,6 +73248,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>魔法を扱う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102303Z" creationid="土妹子" creationdate="20150110T102303Z">
+        <seg>拥有使用魔法程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>魔理沙</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T070716Z" creationid="UUZ" creationdate="20140908T070716Z">
@@ -73224,10 +73328,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>魔界の中では最強クラスの力を持っていると言われる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102617Z" creationid="土妹子" creationdate="20150110T102617Z">
+        <seg>据说有魔界中最强等级的力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>魔界の創造神</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115820Z" creationid="UUZ" creationdate="20141230T115820Z">
         <seg>魔界的创造神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界の神としての力はある程度発揮できるようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102654Z" creationid="土妹子" creationdate="20150110T102654Z">
+        <seg>似乎能以某种程度发挥作为魔界之神的力量。</seg>
       </tuv>
     </tu>
     <tu>
