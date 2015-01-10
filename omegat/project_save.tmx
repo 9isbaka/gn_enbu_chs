@@ -44376,6 +44376,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>エリスの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030745Z" creationid="土妹子" creationdate="20150110T030745Z">
+        <seg>拥有伊莉丝的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>エリナ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T172202Z" creationid="土妹子" creationdate="20150102T172202Z">
@@ -45200,6 +45208,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>コウモリの人形を操ったり 自分がコウモリの人形に変身することもできる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030835Z" creationid="土妹子" creationdate="20150110T030835Z">
+        <seg>既操纵着蝙蝠人形，自己也能变身成蝙蝠人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ココ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T165059Z" creationid="土妹子" creationdate="20150102T165059Z">
@@ -45552,6 +45568,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>サリエルの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030922Z" creationid="土妹子" creationdate="20150110T030922Z">
+        <seg>拥有萨丽艾尔的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>サンダーフォース</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104927Z" creationid="UUZ" creationdate="20140906T125808Z">
@@ -45858,8 +45882,8 @@
       <tuv lang="JA">
         <seg>シンギョクの力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030333Z" creationid="土妹子" creationdate="20150110T030333Z">
-        <seg>拥有神玉之力的人形。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030513Z" creationid="土妹子" creationdate="20150110T030333Z">
+        <seg>拥有神玉的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50468,6 +50492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T145100Z" creationid="UUZ" creationdate="20140904T135339Z">
         <seg>幽玄魔眼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ユウゲンマガンの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030648Z" creationid="土妹子" creationdate="20150110T030648Z">
+        <seg>拥有幽玄魔眼的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56912,6 +56944,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>大きな眼球から様々な弾幕を放つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030704Z" creationid="土妹子" creationdate="20150110T030704Z">
+        <seg>从大型的眼球中放出各种各样的弹幕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>大きな鬼が眠ってて通れそうにない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103737Z" creationid="土妹子" creationdate="20150109T103737Z">
@@ -59964,6 +60004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T132335Z" creationid="UUZ" creationdate="20140907T132335Z">
         <seg>恶梦的回忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>悪魔の力を 魔法のステッキから放つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030756Z" creationid="土妹子" creationdate="20150110T030756Z">
+        <seg>从魔法棒中放出恶魔之力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65052,6 +65100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154941Z" creationid="土妹子" creationdate="20150102T154941Z">
         <seg>申之凳子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>男の子と女の子と陰陽玉がそろって初めて力を発揮する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030637Z" creationid="土妹子" creationdate="20150110T030637Z">
+        <seg>具备男孩子、女孩子和阴阳玉的形态，发挥出原初之力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71144,6 +71200,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>門を見つけると何があっても守ろうとする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030544Z" creationid="土妹子" creationdate="20150110T030544Z">
+        <seg>只要看到了门就会不顾一切地去保护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>門番の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163930Z" creationid="土妹子" creationdate="20150102T163930Z">
@@ -72596,6 +72660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T115820Z" creationid="UUZ" creationdate="20141230T115820Z">
         <seg>魔界的创造神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界の門あたりをうろうろしていることが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030736Z" creationid="土妹子" creationdate="20150110T030736Z">
+        <seg>经常在魔界之门附近转来转去。</seg>
       </tuv>
     </tu>
     <tu>
