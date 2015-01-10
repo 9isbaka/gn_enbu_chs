@@ -62464,6 +62464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>普段は温厚だが 仲間の人形を守る時はすごい力を発揮する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T112910Z" creationid="土妹子" creationdate="20150110T112910Z">
+        <seg>平时个性温和，不过在守护同伴的人形时会发挥出惊人的力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>普通の人形は封印の糸を使わなきゃ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073409Z" creationid="UUZ" creationdate="20140908T073409Z">
@@ -63884,6 +63892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125549Z" creationid="土妹子" creationdate="20150106T125549Z">
         <seg>是你感兴趣的新闻吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>気を使う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T112831Z" creationid="土妹子" creationdate="20150110T112831Z">
+        <seg>拥有使用气程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68008,6 +68024,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紅美鈴の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T112819Z" creationid="土妹子" creationdate="20150110T112819Z">
+        <seg>拥有红美铃的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紅色の印章。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T141420Z" creationid="土妹子" creationdate="20150101T141420Z">
@@ -71412,6 +71436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032315Z" creationid="土妹子" creationdate="20150109T032315Z">
         <seg>讨厌被当做道具对待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>道端で見かけても だいたい寝ている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T112930Z" creationid="土妹子" creationdate="20150110T112930Z">
+        <seg>就算在路边看到，也多半在睡觉。</seg>
       </tuv>
     </tu>
     <tu>
