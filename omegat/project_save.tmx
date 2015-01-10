@@ -34854,6 +34854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いいなーまた行きたいな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075954Z" creationid="妄想" creationdate="20150110T075954Z">
+        <seg>好想再去一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いいものをあげるからさ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040515Z" creationid="土妹子" creationdate="20150108T040515Z">
@@ -38166,6 +38174,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そっちの世界でも人形バトルが流行ってるのか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080020Z" creationid="妄想" creationdate="20150110T080020Z">
+        <seg>那边的世界也在流行人形战斗吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのお金で色々買うの！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T073701Z" creationid="妄想" creationdate="20150110T035927Z">
@@ -40376,10 +40392,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>またあの人がなにかやってるのかな・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075857Z" creationid="妄想" creationdate="20150110T075857Z">
+        <seg>又是那个什么人做的吗···</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>またいらっしゃったんですね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110739Z" creationid="土妹子" creationdate="20150107T110739Z">
         <seg>欢迎再来呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>またきてね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080725Z" creationid="妄想" creationdate="20150110T080725Z">
+        <seg>再来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40428,6 +40460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T141326Z" creationid="UUZ" creationdate="20140908T141326Z">
         <seg>恭候您的再次光临。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>またよろしくね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080302Z" creationid="妄想" creationdate="20150110T080302Z">
+        <seg>请多多指教。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51448,6 +51488,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間界からきたの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075937Z" creationid="妄想" creationdate="20150110T075937Z">
+        <seg>人间界来的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間界の甘味も入荷してるよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080143Z" creationid="妄想" creationdate="20150110T080143Z">
+        <seg>人间界的甜点也进货了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150845Z" creationid="妄想" creationdate="20150104T150845Z">
@@ -51728,6 +51784,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>他になにかあるかい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080239Z" creationid="妄想" creationdate="20150110T080239Z">
+        <seg>其他还有什么吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>他にはどうする？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080616Z" creationid="妄想" creationdate="20150110T080616Z">
+        <seg>其他的怎么办？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>他には・・・\b特に思い当たらないわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093525Z" creationid="土妹子" creationdate="20150106T093500Z">
@@ -51860,6 +51932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T063811Z" creationid="土妹子" creationdate="20150109T063811Z">
         <seg>在卡在哪里的时候，试着在村子里取得情报如何呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何か買っていく？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080539Z" creationid="妄想" creationdate="20150110T080539Z">
+        <seg>买点什么吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -59700,6 +59780,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T144413Z" creationid="UUZ" creationdate="20140908T144413Z">
         <seg>最近慧音老师的课关于人形的内容变多了，好开心啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最近は人形用の道具をうってるの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080531Z" creationid="妄想" creationdate="20150110T080531Z">
+        <seg>最近人形用的道具不错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最近大量の人形が溢れ返ってるんだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075746Z" creationid="妄想" creationdate="20150110T075746Z">
+        <seg>最近大量的人形溢出归还了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70068,6 +70164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142820Z" creationid="UUZ" creationdate="20140906T142820Z">
         <seg>魔界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔界でも今は人形バトルが主流だよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080121Z" creationid="妄想" creationdate="20150110T080121Z">
+        <seg>现在的魔界，人形战斗也是主流。</seg>
       </tuv>
     </tu>
     <tu>
