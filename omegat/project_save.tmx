@@ -45856,6 +45856,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>シンギョクの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030333Z" creationid="土妹子" creationdate="20150110T030333Z">
+        <seg>拥有神玉之力的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ジェニー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164939Z" creationid="土妹子" creationdate="20150102T164939Z">
@@ -52432,6 +52440,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人の持ち物を持ち去り 自分の住処へ持ち帰る習性をもつ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030236Z" creationid="土妹子" creationdate="20150110T030236Z">
+        <seg>有着带走别人的携带物，带回自己的住处的习性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人の持っている人形には効果がないので注意！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131839Z" creationid="UUZ" creationdate="20140908T131839Z">
@@ -55490,8 +55506,8 @@
       <tuv lang="JA">
         <seg>博麗霊夢の力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T152807Z" creationid="UUZ" creationdate="20150105T152807Z">
-        <seg>博麗霊夢の力を持つ人形。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030004Z" creationid="UUZ" creationdate="20150105T152807Z">
+        <seg>拥有博丽灵梦的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57496,6 +57512,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖怪の人形を見るとグーで殴りかかる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030151Z" creationid="土妹子" creationdate="20150110T030151Z">
+        <seg>看到了妖怪的人形就会咚的打上去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖怪の力を持つ人形に強い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030108Z" creationid="土妹子" creationdate="20150110T030108Z">
+        <seg>善于对付拥有妖怪之力的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖怪の山</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143245Z" creationid="UUZ" creationdate="20140906T143245Z">
@@ -57748,6 +57780,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151910Z" creationid="UUZ" creationdate="20140904T151910Z">
         <seg>威风堂堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>嫌いな相手には魔法を放つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030248Z" creationid="土妹子" creationdate="20150110T030248Z">
+        <seg>对讨厌的对象会放出魔法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67098,8 +67138,8 @@
       <tuv lang="JA">
         <seg>空を飛ぶ程度の能力と 霊力を操る程度の能力を持つ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T162235Z" creationid="UUZ" creationdate="20150105T162235Z">
-        <seg>空を飛ぶ程度の能力と 霊力を操る程度の能力を持つ。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030027Z" creationid="UUZ" creationdate="20150105T162235Z">
+        <seg>拥有飞在空中程度的能力和操纵灵力程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71944,6 +71984,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>霧雨魔理沙の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030201Z" creationid="土妹子" creationdate="20150110T030201Z">
+        <seg>拥有雾雨魔理沙的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>青いピアス</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T150730Z" creationid="UUZ" creationdate="20140908T022558Z">
@@ -72468,6 +72516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143141Z" creationid="UUZ" creationdate="20140906T143141Z">
         <seg>魔法森林</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魔法を使う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030211Z" creationid="土妹子" creationdate="20150110T030211Z">
+        <seg>拥有使用魔法程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
