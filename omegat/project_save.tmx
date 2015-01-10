@@ -34574,6 +34574,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ある異変から地底と地上に行き来が出来るようになったんさ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T013645Z" creationid="妄想" creationdate="20150110T013645Z">
+        <seg>因为异变，所以地面与地底可以自由往返了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あれ ご存知なんですか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T080443Z" creationid="UUZ" creationdate="20140908T080317Z">
@@ -40036,6 +40044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T131331Z" creationid="土妹子" creationdate="20150106T131329Z">
         <seg>嘛，我就不说这很乱来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まぁ 言ってもこんなところに来るなんてお前さんみたいな変わり者しか居ないけどね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T013743Z" creationid="妄想" creationdate="20150110T013743Z">
+        <seg>嘛 这样说来，这里像你一样奇怪的人也不是没有。</seg>
       </tuv>
     </tu>
     <tu>
