@@ -38094,6 +38094,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そのお金で色々買うの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T035927Z" creationid="妄想" creationdate="20150110T035927Z">
+        <seg>因为想买各种各样的东西1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのまま続けていれば きっと帰れるようになりますよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121502Z" creationid="土妹子" creationdate="20150107T121502Z">
@@ -51252,6 +51260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133327Z" creationid="土妹子" creationdate="20141230T133327Z">
         <seg>发现了人类！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間の使うお金がほしくて働いてるの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T035912Z" creationid="妄想" creationdate="20150110T035912Z">
+        <seg>想要一份工作来挣人类用的钱呢！</seg>
       </tuv>
     </tu>
     <tu>
