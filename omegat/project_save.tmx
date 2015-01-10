@@ -43144,6 +43144,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>よく地獄で見かけられるが 幻想郷でも見かけることがある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032214Z" creationid="土妹子" creationdate="20150110T032214Z">
+        <seg>虽然经常在地狱见到，不过在幻想乡也能见到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>よしか</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140439Z" creationid="UUZ" creationdate="20140904T140439Z">
@@ -44840,6 +44848,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>キクリの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032120Z" creationid="土妹子" creationdate="20150110T032120Z">
+        <seg>拥有菊理的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>キサラギ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T170313Z" creationid="土妹子" creationdate="20150102T170313Z">
@@ -45284,6 +45300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135403Z" creationid="UUZ" creationdate="20140904T135403Z">
         <seg>矜羯罗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>コンガラの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032648Z" creationid="土妹子" creationdate="20150110T032648Z">
+        <seg>拥有矜羯罗的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54904,6 +54928,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>円盤状の物体から上半身が飛び出している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032154Z" creationid="土妹子" creationdate="20150110T032154Z">
+        <seg>从圆盘状的物体上凸出上半身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>円舞曲</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140837Z" creationid="UUZ" creationdate="20140907T140837Z">
@@ -56396,6 +56428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T122057Z" creationid="UUZ" creationdate="20141230T122057Z">
         <seg>地底洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地獄の神様の力を宿している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032636Z" creationid="土妹子" creationdate="20150110T032636Z">
+        <seg>寄宿着地狱之神的力量。</seg>
       </tuv>
     </tu>
     <tu>
