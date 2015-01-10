@@ -38838,6 +38838,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>とっとと光ある地上に帰った方がいいんじゃねぇか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T020202Z" creationid="妄想" creationdate="20150110T020202Z">
+        <seg>最好还是快回去睡一下吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>とにかく ここは通せないの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153744Z" creationid="土妹子" creationdate="20150105T153744Z">
@@ -53908,6 +53916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T122057Z" creationid="UUZ" creationdate="20141230T122057Z">
         <seg>地底洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地獄に来るにゃあ似あわない面構えだな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T015936Z" creationid="妄想" creationdate="20150110T015936Z">
+        <seg>真是和地狱的猫不相称的脸啊。</seg>
       </tuv>
     </tu>
     <tu>
