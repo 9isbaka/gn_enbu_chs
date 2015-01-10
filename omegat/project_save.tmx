@@ -37214,6 +37214,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>くるみの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041804Z" creationid="土妹子" creationdate="20150110T041804Z">
+        <seg>拥有胡桃的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>くろまくー。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T120500Z" creationid="土妹子" creationdate="20150109T120500Z">
@@ -43168,6 +43176,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>よくいる普通の妖怪。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041728Z" creationid="土妹子" creationdate="20150110T041728Z">
+        <seg>常见的普通的妖怪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>よくわからんな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073931Z" creationid="UUZ" creationdate="20140908T073931Z">
@@ -44588,6 +44604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135511Z" creationid="UUZ" creationdate="20140904T135511Z">
         <seg>奥莲姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オレンジの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041717Z" creationid="土妹子" creationdate="20150110T041717Z">
+        <seg>拥有奥莲姬的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54632,6 +54656,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>元々は湖の番人をしていた妖怪であった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T042815Z" creationid="土妹子" creationdate="20150110T042815Z">
+        <seg>原本是作为湖之守卫的妖怪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>元気にやってるみたいだね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T161513Z" creationid="土妹子" creationdate="20150109T161513Z">
@@ -57708,6 +57740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150925Z" creationid="UUZ" creationdate="20150102T150925Z">
         <seg>好奇心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>好戦的とうわけでもなく 危険度も低い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041753Z" creationid="土妹子" creationdate="20150110T041753Z">
+        <seg>也并不好战，危险度也很低。</seg>
       </tuv>
     </tu>
     <tu>
