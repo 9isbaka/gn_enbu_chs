@@ -39566,6 +39566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そのためか 何かを守らせると使命感に燃えるようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T043442Z" creationid="土妹子" creationdate="20150110T043442Z">
+        <seg>因此像是燃烧着要守护什么的使命感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そのまま続けていれば きっと帰れるようになりますよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121502Z" creationid="土妹子" creationdate="20150107T121502Z">
@@ -44460,6 +44468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135528Z" creationid="UUZ" creationdate="20140904T135528Z">
         <seg>艾丽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>エリーの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T043450Z" creationid="土妹子" creationdate="20150110T043450Z">
+        <seg>拥有艾莉的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57220,6 +57236,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030704Z" creationid="土妹子" creationdate="20150110T030704Z">
         <seg>从大型的眼球中放出各种各样的弹幕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大きな鎌がトレードマーク。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T043501Z" creationid="土妹子" creationdate="20150110T043501Z">
+        <seg>大镰刀是招牌标识。</seg>
       </tuv>
     </tu>
     <tu>
