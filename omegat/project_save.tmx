@@ -28142,6 +28142,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c拡散・・・拡散技は人形のステータスの散弾に関係する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081741Z" creationid="妄想" creationdate="20150110T081741Z">
+        <seg>\c扩散···扩散技受人形属性中的散弹影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c持ってる分だけ人形捕まえ放題！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T124309Z" creationid="UUZ" creationdate="20140909T124309Z">
@@ -28690,6 +28698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162541Z" creationid="UUZ" creationdate="20140908T055038Z">
         <seg>\g这孩子是吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\l   南 無 三 。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080815Z" creationid="妄想" creationdate="20150110T080815Z">
+        <seg>\l   南 无 三 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31622,6 +31638,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>——ここの花 折るべからず</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080844Z" creationid="妄想" creationdate="20150110T080844Z">
+        <seg>——这里的花 不许攀折</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>——分社</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T120040Z" creationid="UUZ" creationdate="20140908T120040Z">
@@ -33994,6 +34018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T023623Z" creationid="土妹子" creationdate="20150109T023623Z">
         <seg>啊……被打成渣渣了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あぁ・・・中から機械音が・・・</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081334Z" creationid="妄想" creationdate="20150110T081334Z">
+        <seg>啊啊···从里面传来了机械的声音···</seg>
       </tuv>
     </tu>
     <tu>
@@ -36434,6 +36466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154614Z" creationid="UUZ" creationdate="20140909T154614Z">
         <seg>这里就是这样的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここは われら人形解放戦線が占拠しているのよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080941Z" creationid="妄想" creationdate="20150110T080941Z">
+        <seg>这里被我们人形解放战线占领着！</seg>
       </tuv>
     </tu>
     <tu>
@@ -39776,6 +39816,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>はいっ とおせんぼっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081225Z" creationid="妄想" creationdate="20150110T081225Z">
+        <seg>被挡住了去路！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>はいよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T140047Z" creationid="土妹子" creationdate="20150107T140047Z">
@@ -40364,6 +40412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T052040Z" creationid="土妹子" creationdate="20150105T052019Z">
         <seg>还是感兴趣的话，请再来找我。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また 集防が高いほど集中技の受けるダメージが減少する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081644Z" creationid="妄想" creationdate="20150110T081644Z">
+        <seg>另外，集防越高受到的集中技伤害越低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45896,6 +45952,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ダメに決まっているわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081151Z" creationid="妄想" creationdate="20150110T081151Z">
+        <seg>肯定不行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ダメよ こういうのは自分で見つけるのが楽しいのよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035947Z" creationid="土妹子" creationdate="20150109T035947Z">
@@ -50052,6 +50116,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074515Z" creationid="妄想" creationdate="20150110T074515Z">
         <seg>这里有男浴场和女浴场的区别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>中に入りたいなら 合言葉が必要よ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081251Z" creationid="妄想" creationdate="20150110T081251Z">
+        <seg>想要进去 必要要有口令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>中に入りたい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081135Z" creationid="妄想" creationdate="20150110T081135Z">
+        <seg>想进去？</seg>
       </tuv>
     </tu>
     <tu>
@@ -54820,6 +54900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161241Z" creationid="UUZ" creationdate="20141224T161241Z">
         <seg>梦美</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大きな亀が眠っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080904Z" creationid="妄想" creationdate="20150110T080904Z">
+        <seg>大乌龟睡着了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67648,6 +67736,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>赤文字で表示される。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081700Z" creationid="妄想" creationdate="20150110T081700Z">
+        <seg>以红色文字显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>赤色の宝石。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020253Z" creationid="UUZ" creationdate="20140908T020253Z">
@@ -69152,6 +69248,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>集中・・・集中技は人形のステータスの集弾に関係する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081455Z" creationid="妄想" creationdate="20150110T081455Z">
+        <seg>集中···集中技受人形属性中的集弹影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>集中之構</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095542Z" creationid="UUZ" creationdate="20140906T121803Z">
@@ -69172,6 +69276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093438Z" creationid="土妹子" creationdate="20141231T093438Z">
         <seg>集弹变为１.５倍，但是技能命中变为０.８倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>集弾の能力値が高いほど 相手の人形に大きくダメージを与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081557Z" creationid="妄想" creationdate="20150110T081557Z">
+        <seg>集弹能力值越高，给对手人形造成的伤害越大。</seg>
       </tuv>
     </tu>
     <tu>
