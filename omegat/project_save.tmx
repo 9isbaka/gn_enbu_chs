@@ -39726,6 +39726,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それぞれ内部に核が搭載されている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041706Z" creationid="土妹子" creationdate="20150110T041625Z">
+        <seg>内部各自搭载有核物质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それで あなたの目的はなぁに？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T114854Z" creationid="土妹子" creationdate="20150109T114854Z">
@@ -50216,10 +50224,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ミミちゃんとる〜ことの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041202Z" creationid="土妹子" creationdate="20150110T041202Z">
+        <seg>拥有咪咪号和留琴的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ミミちゃんとるーこと</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161308Z" creationid="UUZ" creationdate="20141224T161252Z">
         <seg>咪咪号与留琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ミミちゃんは魔理沙の る〜ことは霊夢の人形を探している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041646Z" creationid="土妹子" creationdate="20150110T041646Z">
+        <seg>咪咪号和留琴在分别寻找着魔理沙和灵梦的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62664,6 +62688,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>核の力を内蔵している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041212Z" creationid="土妹子" creationdate="20150110T041212Z">
+        <seg>内置核动力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>核エネルギーさえあれば我々の技術もぐっと水準が上がるんだが……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T071021Z" creationid="妄想" creationdate="20150104T071021Z">
@@ -67444,6 +67476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T120116Z" creationid="UUZ" creationdate="20141230T120116Z">
         <seg>空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>空の人形に興味を持っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T041147Z" creationid="土妹子" creationdate="20150110T041147Z">
+        <seg>对空人形也有兴趣。</seg>
       </tuv>
     </tu>
     <tu>
