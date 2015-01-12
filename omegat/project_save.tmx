@@ -52480,6 +52480,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>リリーホワイトの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140752Z" creationid="土妹子" creationdate="20150112T140752Z">
+        <seg>拥有莉莉怀特力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>リル</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T171134Z" creationid="土妹子" creationdate="20150102T171134Z">
@@ -64428,6 +64436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074932Z" creationid="妄想" creationdate="20150110T074932Z">
         <seg>春 夏 秋 冬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>春が来たことを伝える程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140804Z" creationid="土妹子" creationdate="20150112T140804Z">
+        <seg>拥有传达春天的到来程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
