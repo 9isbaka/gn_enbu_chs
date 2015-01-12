@@ -51880,6 +51880,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>メルラン・プリズムリバーの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143106Z" creationid="土妹子" creationdate="20150112T143106Z">
+        <seg>拥有梅露兰·普利兹姆利巴的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>メンテナンス</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T133720Z" creationid="UUZ" creationdate="20140904T133720Z">
@@ -52572,6 +52580,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135821Z" creationid="UUZ" creationdate="20140904T135821Z">
         <seg>露娜萨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ルナサ メルランの人形と常に一緒。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143050Z" creationid="土妹子" creationdate="20150112T143050Z">
+        <seg>经常和露娜萨、梅露兰人形在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ルナサ リリカの人形と常に一緒。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143142Z" creationid="土妹子" creationdate="20150112T143142Z">
+        <seg>经常和露娜萨、莉莉卡人形在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61776,6 +61800,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>強い魔力をトランペットから放出する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143130Z" creationid="土妹子" creationdate="20150112T143130Z">
+        <seg>从小号中放出强力的魔力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>強くなる者の目じゃな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T083556Z" creationid="妄想" creationdate="20150110T083556Z">
@@ -62892,6 +62924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022256Z" creationid="土妹子" creationdate="20150110T022256Z">
         <seg>不帮帮忙吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>手元の鍵盤楽器で楽しげに演奏している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143040Z" creationid="土妹子" creationdate="20150112T143040Z">
+        <seg>快乐地演奏手边的键盘乐器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73316,6 +73356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T134330Z" creationid="土妹子" creationdate="20141230T134330Z">
         <seg>跳跃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>躁の音を演奏する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143120Z" creationid="土妹子" creationdate="20150112T143120Z">
+        <seg>拥有演奏躁动之音程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
