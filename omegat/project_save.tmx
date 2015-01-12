@@ -35766,6 +35766,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ありとあらゆるものを破壊する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135724Z" creationid="土妹子" creationdate="20150112T135724Z">
+        <seg>拥有破坏各种物品程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ある日いきなり現れて好き勝手暴れてやがる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071715Z" creationid="UUZ" creationdate="20140908T071715Z">
@@ -49488,6 +49496,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>チルノの人形と仲が良い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140030Z" creationid="土妹子" creationdate="20150112T140030Z">
+        <seg>与琪露诺人形关系好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>チルノの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103410Z" creationid="土妹子" creationdate="20150110T103410Z">
@@ -50794,8 +50810,8 @@
       <tuv lang="JA">
         <seg>フランドール・スカーレットの力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135652Z" creationid="土妹子" creationdate="20150112T135652Z">
-        <seg>拥有芙兰朵露·斯卡雷特力量的人形。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135708Z" creationid="土妹子" creationdate="20150112T135652Z">
+        <seg>拥有芙兰朵露·斯卡雷特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52704,6 +52720,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>レティ・ホワイトロックの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140002Z" creationid="土妹子" creationdate="20150112T140002Z">
+        <seg>拥有蕾蒂·霍瓦特洛克的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>レナ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T171119Z" creationid="土妹子" creationdate="20150102T171119Z">
@@ -52752,6 +52776,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>レミリアの人形に敵意を向けることがある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135747Z" creationid="土妹子" creationdate="20150112T135747Z">
+        <seg>有时会对蕾米莉亚人形表现出敌意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>レミリア・スカーレット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154557Z">
@@ -52762,8 +52794,8 @@
       <tuv lang="JA">
         <seg>レミリア・スカーレットの力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135405Z" creationid="土妹子" creationdate="20150112T135405Z">
-        <seg>拥有蕾米莉亚·斯卡雷特力量的人形。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135703Z" creationid="土妹子" creationdate="20150112T135405Z">
+        <seg>拥有蕾米莉亚·斯卡雷特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60404,6 +60436,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T160157Z" creationid="土妹子" creationdate="20150109T160157Z">
         <seg>讨厌冷的地方和杀虫剂哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>寒い場所か 冬にしか現われない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140023Z" creationid="土妹子" creationdate="20150112T140023Z">
+        <seg>只会在寒冷的地方或者冬季出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>寒気を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140013Z" creationid="土妹子" creationdate="20150112T140013Z">
+        <seg>拥有操纵冷气程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
