@@ -41550,6 +41550,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>とにかく水が苦手。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140717Z" creationid="土妹子" creationdate="20150112T140717Z">
+        <seg>总之最怕水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>とにかく！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T142504Z" creationid="UUZ" creationdate="20140909T142504Z">
@@ -60016,6 +60024,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖術を扱う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140710Z" creationid="土妹子" creationdate="20150112T140710Z">
+        <seg>拥有使用妖术程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妨害戦法</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T085107Z" creationid="土妹子" creationdate="20141231T085107Z">
@@ -65340,6 +65356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144153Z" creationid="UUZ" creationdate="20140906T144153Z">
         <seg>橙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>橙の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140703Z" creationid="土妹子" creationdate="20150112T140703Z">
+        <seg>拥有橙的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72324,6 +72348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161448Z" creationid="UUZ" creationdate="20141224T161448Z">
         <seg>蓝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>藍の人形を求めて各地で活動している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140740Z" creationid="土妹子" creationdate="20150112T140740Z">
+        <seg>为了寻找蓝人形而在各地活动。</seg>
       </tuv>
     </tu>
     <tu>
