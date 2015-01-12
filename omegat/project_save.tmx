@@ -52464,6 +52464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>リリカ・プリズムリバーの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142720Z" creationid="土妹子" creationdate="20150112T142720Z">
+        <seg>拥有莉莉卡·普利兹姆利巴的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>リリー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135753Z" creationid="UUZ" creationdate="20140904T135753Z">
@@ -52482,8 +52490,8 @@
       <tuv lang="JA">
         <seg>リリーホワイトの力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140752Z" creationid="土妹子" creationdate="20150112T140752Z">
-        <seg>拥有莉莉怀特力量的人形。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142727Z" creationid="土妹子" creationdate="20150112T140752Z">
+        <seg>拥有莉莉怀特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61328,6 +61336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想の音を演奏する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142736Z" creationid="土妹子" creationdate="20150112T142736Z">
+        <seg>拥有演奏幻想之音程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想人間女少年</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145650Z" creationid="UUZ" creationdate="20140906T145635Z">
@@ -68180,6 +68196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095229Z" creationid="UUZ" creationdate="20140906T095229Z">
         <seg>治愈之雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>白い衣装以外の服も持っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142425Z" creationid="土妹子" creationdate="20150112T142425Z">
+        <seg>也有白衣以外的衣服。</seg>
       </tuv>
     </tu>
     <tu>
