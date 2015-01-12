@@ -35390,6 +35390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたのお気に入りはどの人形？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062618Z" creationid="妄想" creationdate="20150112T062618Z">
+        <seg>你喜欢的是哪个人形？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたのお話聞かせて貰えないかしら。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T110305Z" creationid="土妹子" creationdate="20150109T110305Z">
@@ -35498,6 +35506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T023631Z" creationid="UUZ" creationdate="20140908T124819Z">
         <seg>你也听说那个传闻了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あなたも妖精と友達なの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062024Z" creationid="妄想" creationdate="20150112T062024Z">
+        <seg>你也要和妖精做朋友吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -53576,6 +53592,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・閃いたこと忘れちゃった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062005Z" creationid="妄想" creationdate="20150112T062005Z">
+        <seg>···忘记闪开了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・頑張れ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T053622Z" creationid="妄想" creationdate="20150103T053622Z">
@@ -55160,6 +55184,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形の能力で音消してたんだった！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062523Z" creationid="妄想" creationdate="20150112T062523Z">
+        <seg>用人形的能力消去了声音！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形の転生を行いますか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T170201Z" creationid="土妹子" creationdate="20150109T170201Z">
@@ -55460,6 +55492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112646Z" creationid="UUZ" creationdate="20140908T112646Z">
         <seg>从神社出来一直向西前进就能看到人类村落了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間がこんなところに！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062911Z" creationid="妄想" creationdate="20150112T062911Z">
+        <seg>人类居然在这种地方！</seg>
       </tuv>
     </tu>
     <tu>
@@ -58156,6 +58196,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T125124Z" creationid="土妹子" creationdate="20150106T125124Z">
         <seg>号外～！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>吃驚したー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062926Z" creationid="妄想" creationdate="20150112T062926Z">
+        <seg>吃惊~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69968,6 +70016,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私のお気に入りで勝負よ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062547Z" creationid="妄想" creationdate="20150112T062547Z">
+        <seg>我喜欢胜负！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私のこと覚えていますか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T041836Z" creationid="土妹子" creationdate="20150108T041836Z">
@@ -75988,6 +76044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T035004Z" creationid="土妹子" creationdate="20150110T035004Z">
         <seg>拥有骚灵之力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>驚いたなら力抜けてよー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062843Z" creationid="妄想" creationdate="20150112T062843Z">
+        <seg>感到吃惊的话，力量会遗漏掉哦。</seg>
       </tuv>
     </tu>
     <tu>
