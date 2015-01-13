@@ -52896,6 +52896,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>リグル・ナイトバグの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143444Z" creationid="土妹子" creationdate="20150113T143444Z">
+        <seg>拥有莉格露·奈特巴格的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>リグル任せたわよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140912Z" creationid="UUZ" creationdate="20140909T140912Z">
@@ -57648,6 +57656,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>内容を理解しているわけではないが とにかく本を読む。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143406Z" creationid="土妹子" creationdate="20150113T143406Z">
+        <seg>并不能理解内容，不过总之是读书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>円盤状の御守り。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T025035Z" creationid="UUZ" creationdate="20140908T024606Z">
@@ -62264,6 +62280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想郷中の蟲と意思疎通をとれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143528Z" creationid="土妹子" creationdate="20150113T143528Z">
+        <seg>可以和幻想乡中的虫心意相通。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想郷之地図</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154238Z" creationid="土妹子" creationdate="20150102T154238Z">
@@ -66084,6 +66108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112630Z" creationid="土妹子" creationdate="20150105T112630Z">
         <seg>要在进森林之前准备一下吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>森の中で蟲たちと遊んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143540Z" creationid="土妹子" creationdate="20150113T143540Z">
+        <seg>在森林中和虫子们一起玩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73528,6 +73560,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>蟲を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143455Z" creationid="土妹子" creationdate="20150113T143455Z">
+        <seg>拥有操纵虫程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>蟻地獄</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T112139Z" creationid="UUZ" creationdate="20140906T112139Z">
@@ -76304,6 +76344,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>霊夢の人形とは仲が悪い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143413Z" creationid="土妹子" creationdate="20150113T143413Z">
+        <seg>与灵梦人形关系差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>霊夢戦</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133844Z" creationid="土妹子" creationdate="20141230T133844Z">
@@ -76860,6 +76908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055135Z" creationid="UUZ" creationdate="20140909T151032Z">
         <seg>建议你最好去香霖堂那边看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>香霖堂で静かに本を読んでいる人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143347Z" creationid="土妹子" creationdate="20150113T143347Z">
+        <seg>在香霖堂安静地读书的人形。</seg>
       </tuv>
     </tu>
     <tu>
