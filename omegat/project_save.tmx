@@ -55360,6 +55360,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形のすぐ側には 半身である霊魂がついてまわる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T071052Z" creationid="土妹子" creationdate="20150113T071052Z">
+        <seg>在人形的身边绕着作为半身的灵魂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形のスキル1つのSPを10回復させる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T144552Z" creationid="UUZ" creationdate="20140907T144457Z">
@@ -57868,6 +57876,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023020Z" creationid="土妹子" creationdate="20141231T023020Z">
         <seg>刚健之山吹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>剣術を扱う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T071028Z" creationid="土妹子" creationdate="20150113T071028Z">
+        <seg>拥有使用剑术程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62276,6 +62292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161444Z" creationid="UUZ" creationdate="20141224T161444Z">
         <seg>幽幽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幽々子の人形を守るように行動する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T071100Z" creationid="土妹子" creationdate="20150113T071100Z">
+        <seg>为了守护幽幽子人形而行动。</seg>
       </tuv>
     </tu>
     <tu>
