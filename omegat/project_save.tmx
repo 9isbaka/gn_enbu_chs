@@ -41278,6 +41278,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ただ 歌は子供たちに人気。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T144342Z" creationid="土妹子" creationdate="20150113T144342Z">
+        <seg>不过歌在孩子中很有人气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ただ転生するだけだと個体ランクは完全にランダムで決まる……ってのはさっき教えたわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172357Z" creationid="土妹子" creationdate="20150109T172357Z">
@@ -51996,6 +52004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154621Z">
         <seg>米斯蒂娅·萝蕾拉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ミスティア・ローレライの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T144235Z" creationid="土妹子" creationdate="20150113T144235Z">
+        <seg>拥有米丝蒂娅·萝蕾拉的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66420,6 +66436,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014727Z" creationid="UUZ" creationdate="20140907T140106Z">
         <seg>唱歌鼓励自己，散弹提升2级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>歌で人を狂わす程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T144308Z" creationid="土妹子" creationdate="20150113T144308Z">
+        <seg>拥有用歌声使人发狂程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>歌声を聴いた生き物の視界を塞ぐことができる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T144326Z" creationid="土妹子" creationdate="20150113T144326Z">
+        <seg>可以用歌声阻挡听到的生物的视野。</seg>
       </tuv>
     </tu>
     <tu>
