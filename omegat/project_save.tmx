@@ -41694,6 +41694,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>てゐの能力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T145601Z" creationid="土妹子" creationdate="20150113T145601Z">
+        <seg>拥有帝的能力的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>てゐはちゃんと この人を連れてくるのよ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010649Z" creationid="土妹子" creationdate="20150107T010649Z">
@@ -56096,6 +56104,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間を幸運にする程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T145618Z" creationid="土妹子" creationdate="20150113T145618Z">
+        <seg>拥有使人变幸运程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間を見つけるとすぐに噛み付く。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102854Z" creationid="土妹子" creationdate="20150110T102854Z">
@@ -60632,6 +60648,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖怪に効果はない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T150008Z" creationid="土妹子" creationdate="20150113T150008Z">
+        <seg>对妖怪没有效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖怪に見つかった！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133340Z" creationid="土妹子" creationdate="20141230T133340Z">
@@ -60820,6 +60844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110304Z" creationid="土妹子" creationdate="20150107T110304Z">
         <seg>只是妹红还不够，这次要和我打一场吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妹紅の人形と行動する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T145545Z" creationid="土妹子" creationdate="20150113T145545Z">
+        <seg>与妹红人形一起行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74564,6 +74596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164522Z" creationid="UUZ" creationdate="20140910T140058Z">
         <seg>农民的 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>近くにいる人間の運気を上げることができる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T150002Z" creationid="土妹子" creationdate="20150113T150002Z">
+        <seg>能够让附近的人类运气变好。</seg>
       </tuv>
     </tu>
     <tu>
