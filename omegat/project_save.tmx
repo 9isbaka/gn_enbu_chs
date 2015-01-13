@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36102,6 +36102,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ありとあらゆるものを破壊する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135724Z" creationid="土妹子" creationdate="20150112T135724Z">
+        <seg>拥有破坏各种物品程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ある日いきなり現れて好き勝手暴れてやがる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071715Z" creationid="UUZ" creationdate="20140908T071715Z">
@@ -39600,8 +39608,8 @@
       <tuv lang="JA">
         <seg>さぁ仕切りなおしよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T024236Z" creationid="土妹子" creationdate="20150110T024236Z">
-        <seg>那么重新清算吧。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T021332Z" creationid="妄想" creationdate="20150107T021332Z">
+        <seg>那么，要继续加油了哦~！</seg>
       </tuv>
     </tu>
     <tu>
@@ -41938,6 +41946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153744Z" creationid="土妹子" creationdate="20150105T153744Z">
         <seg>总之这里不能通行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>とにかく水が苦手。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140717Z" creationid="土妹子" creationdate="20150112T140717Z">
+        <seg>总之最怕水。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49992,6 +50008,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>チルノの人形と仲が良い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140030Z" creationid="土妹子" creationdate="20150112T140030Z">
+        <seg>与琪露诺人形关系好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>チルノの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T103410Z" creationid="土妹子" creationdate="20150110T103410Z">
@@ -50760,10 +50784,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>パチュリーの人形と行動することが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T131749Z" creationid="土妹子" creationdate="20150112T131749Z">
+        <seg>经常和帕秋莉人形一起行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>パチュリー・ノーレッジ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154556Z">
         <seg>帕秋莉·诺蕾姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>パチュリー・ノーレッジの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T131806Z" creationid="土妹子" creationdate="20150112T131806Z">
+        <seg>拥有帕秋莉·诺蕾姬力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51284,6 +51324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154558Z">
         <seg>芙兰朵露·斯卡蕾特</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>フランドール・スカーレットの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135708Z" creationid="土妹子" creationdate="20150112T135652Z">
+        <seg>拥有芙兰朵露·斯卡雷特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52344,6 +52392,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>メルラン・プリズムリバーの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143106Z" creationid="土妹子" creationdate="20150112T143106Z">
+        <seg>拥有梅露兰·普利兹姆利巴的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>メンテナンス</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T133720Z" creationid="UUZ" creationdate="20140904T133720Z">
@@ -52928,6 +52984,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>リリカ・プリズムリバーの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142720Z" creationid="土妹子" creationdate="20150112T142720Z">
+        <seg>拥有莉莉卡·普利兹姆利巴的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>リリー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135753Z" creationid="UUZ" creationdate="20140904T135753Z">
@@ -52940,6 +53004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144205Z" creationid="UUZ" creationdate="20140906T144205Z">
         <seg>莉莉白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>リリーホワイトの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142727Z" creationid="土妹子" creationdate="20150112T140752Z">
+        <seg>拥有莉莉怀特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53020,6 +53092,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135821Z" creationid="UUZ" creationdate="20140904T135821Z">
         <seg>露娜萨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ルナサ メルランの人形と常に一緒。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143050Z" creationid="土妹子" creationdate="20150112T143050Z">
+        <seg>经常和露娜萨、梅露兰人形在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ルナサ リリカの人形と常に一緒。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143142Z" creationid="土妹子" creationdate="20150112T143142Z">
+        <seg>经常和露娜萨、莉莉卡人形在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53192,6 +53280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>レティ・ホワイトロックの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140002Z" creationid="土妹子" creationdate="20150112T140002Z">
+        <seg>拥有蕾蒂·霍瓦特洛克的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>レナ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T171119Z" creationid="土妹子" creationdate="20150102T171119Z">
@@ -53232,10 +53328,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>レミリアの人形に従事している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135353Z" creationid="土妹子" creationdate="20150112T135353Z">
+        <seg>在蕾米莉亚人形那里工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>レミリアの人形に敵意を向けることがある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135747Z" creationid="土妹子" creationdate="20150112T135747Z">
+        <seg>有时会对蕾米莉亚人形表现出敌意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>レミリア・スカーレット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154557Z">
         <seg>蕾米莉亚·斯卡蕾特</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>レミリア・スカーレットの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135703Z" creationid="土妹子" creationdate="20150112T135405Z">
+        <seg>拥有蕾米莉亚·斯卡雷特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54316,6 +54436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143402Z" creationid="UUZ" creationdate="20140906T143402Z">
         <seg>中有之道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>主に散らかった部屋の整理整頓をしている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T131740Z" creationid="土妹子" creationdate="20150112T131740Z">
+        <seg>主要在整理凌乱的房间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55804,6 +55932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082612Z" creationid="妄想" creationdate="20150104T085815Z">
         <seg>人类的信仰心还真是脆弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間の血が好物。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135453Z" creationid="土妹子" creationdate="20150112T135453Z">
+        <seg>喜欢人类的血。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57920,6 +58056,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>十六夜咲夜の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T134205Z" creationid="土妹子" creationdate="20150112T134205Z">
+        <seg>拥有十六夜咲夜的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>十四符·音</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140839Z" creationid="UUZ" creationdate="20140907T140839Z">
@@ -58564,6 +58708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162709Z" creationid="UUZ" creationdate="20140909T162709Z">
         <seg>因为那里有吸血鬼在，所以小心不要被吃了哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>吸血鬼の特性を受け継いでおり 太陽の光が届く場所にはいない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135445Z" creationid="土妹子" creationdate="20150112T135445Z">
+        <seg>继承了吸血鬼的特性，不会出现在太阳光能照到的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60512,6 +60664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖術を扱う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140710Z" creationid="土妹子" creationdate="20150112T140710Z">
+        <seg>拥有使用妖术程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妨害戦法</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T085107Z" creationid="土妹子" creationdate="20141231T085107Z">
@@ -60944,6 +61104,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>寒い場所か 冬にしか現われない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140023Z" creationid="土妹子" creationdate="20150112T140023Z">
+        <seg>只会在寒冷的地方或者冬季出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>寒気を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140013Z" creationid="土妹子" creationdate="20150112T140013Z">
+        <seg>拥有操纵冷气程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>寺の周辺に 仲間を５人ほど呼びました。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040709Z" creationid="土妹子" creationdate="20150109T040709Z">
@@ -61284,6 +61460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144107Z" creationid="UUZ" creationdate="20140906T144107Z">
         <seg>小恶魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>小悪魔の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T131520Z" creationid="土妹子" creationdate="20150112T131520Z">
+        <seg>拥有小恶魔的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61800,6 +61984,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>幻想の音を演奏する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142736Z" creationid="土妹子" creationdate="20150112T142736Z">
+        <seg>拥有演奏幻想之音程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>幻想人間女少年</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145650Z" creationid="UUZ" creationdate="20140906T145635Z">
@@ -62244,6 +62436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T061810Z" creationid="妄想" creationdate="20150112T061810Z">
         <seg>太强了，如果还是赢不了~...。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>強い魔力をトランペットから放出する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143130Z" creationid="土妹子" creationdate="20150112T143130Z">
+        <seg>从小号中放出强力的魔力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63364,6 +63564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022256Z" creationid="土妹子" creationdate="20150110T022256Z">
         <seg>不帮帮忙吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>手元の鍵盤楽器で楽しげに演奏している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143040Z" creationid="土妹子" creationdate="20150112T143040Z">
+        <seg>快乐地演奏手边的键盘乐器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64944,6 +65152,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>春が来たことを伝える程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140804Z" creationid="土妹子" creationdate="20150112T140804Z">
+        <seg>拥有传达春天的到来程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>春の訪れを伝える為に各地を転々とする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142414Z" creationid="土妹子" creationdate="20150112T142414Z">
+        <seg>为了报春在各地跑来跑去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>春一番</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123211Z" creationid="UUZ" creationdate="20140906T123211Z">
@@ -64984,6 +65208,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>時間を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T134214Z" creationid="土妹子" creationdate="20150112T134214Z">
+        <seg>拥有操纵时间程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>普段は温厚だが 仲間の人形を守る時はすごい力を発揮する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T112910Z" creationid="土妹子" creationdate="20150110T112910Z">
@@ -64996,6 +65228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073409Z" creationid="UUZ" creationdate="20140908T073409Z">
         <seg>一般的人形必须要用封印丝线才对。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>普通の悪魔の人形よりもやや弱い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T131539Z" creationid="土妹子" creationdate="20150112T131539Z">
+        <seg>比普通的恶魔人形略微弱一点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65852,6 +66092,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144153Z" creationid="UUZ" creationdate="20140906T144153Z">
         <seg>橙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>橙の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140703Z" creationid="土妹子" creationdate="20150112T140703Z">
+        <seg>拥有橙的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67672,6 +67920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>火＋水＋木＋金＋土＋日＋月を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T134113Z" creationid="土妹子" creationdate="20150112T134113Z">
+        <seg>拥有操纵火＋水＋木＋金＋土＋日＋月程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>灰色の宝石。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020725Z" creationid="UUZ" creationdate="20140908T020725Z">
@@ -68652,6 +68908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095229Z" creationid="UUZ" creationdate="20140906T095229Z">
         <seg>治愈之雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>白い衣装以外の服も持っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T142425Z" creationid="土妹子" creationdate="20150112T142425Z">
+        <seg>也有白衣以外的衣服。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72904,6 +73168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>藍の人形を求めて各地で活動している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140740Z" creationid="土妹子" creationdate="20150112T140740Z">
+        <seg>为了寻找蓝人形而在各地活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>藤原妹紅</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144512Z" creationid="UUZ" creationdate="20140906T144512Z">
@@ -73824,6 +74096,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>躁の音を演奏する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143120Z" creationid="土妹子" creationdate="20150112T143120Z">
+        <seg>拥有演奏躁动之音程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>身代りの木札</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152018Z" creationid="UUZ" creationdate="20140908T033131Z">
@@ -74352,10 +74632,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>遊んでくれなきゃいたずらしちゃうぞ！</seg>
+        <seg>運動が苦手だが 色々な魔法を使う。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133020Z" creationid="UUZ" creationdate="20150112T133020Z">
-        <seg>遊んでくれなきゃいたずらしちゃうぞ！</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T134146Z" creationid="土妹子" creationdate="20150112T134146Z">
+        <seg>不擅长运动，但可以使用丰富多彩的魔法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74380,6 +74660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162923Z" creationid="UUZ" creationdate="20140908T041447Z">
         <seg>命运之丝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>運命を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135412Z" creationid="土妹子" creationdate="20150112T135412Z">
+        <seg>拥有操纵命运程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74860,6 +75148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T033931Z" creationid="UUZ" creationdate="20140908T033931Z">
         <seg>银钗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>銀のナイフを武器にして戦う。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T134224Z" creationid="土妹子" creationdate="20150112T134224Z">
+        <seg>用银质小刀作为武器战斗。</seg>
       </tuv>
     </tu>
     <tu>
