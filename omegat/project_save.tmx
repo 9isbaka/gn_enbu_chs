@@ -65744,6 +65744,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>未知のアイテムの名称と用途がわかる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T135649Z" creationid="土妹子" creationdate="20150113T135649Z">
+        <seg>拥有能够知晓未知的道具的名称和用途程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>本人の前じゃあ言えませんね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T055215Z" creationid="妄想" creationdate="20150107T055215Z">
@@ -66100,6 +66108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144354Z" creationid="UUZ" creationdate="20140906T144354Z">
         <seg>森近霖之助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>森近霖之助の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T135627Z" creationid="土妹子" creationdate="20150113T135627Z">
+        <seg>拥有森近霖之助的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71488,6 +71504,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紫とは何かの関係があるかもしれない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T135611Z" creationid="土妹子" creationdate="20150113T135611Z">
+        <seg>或许和紫有什么关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紫の人形を守るように行動する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T134932Z" creationid="土妹子" creationdate="20150113T134932Z">
@@ -73016,6 +73040,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>色々なアイテムを集めて 人形達に売っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T135813Z" creationid="土妹子" creationdate="20150113T135813Z">
+        <seg>收集各种各样的道具，然后卖给人形们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>色々な所を歩いてみなさい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T040011Z" creationid="土妹子" creationdate="20150109T040011Z">
@@ -73316,6 +73348,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T125825Z" creationid="UUZ" creationdate="20140908T125825Z">
         <seg>莲子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>蓮子の人形とは仲良し。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T135559Z" creationid="土妹子" creationdate="20150113T135559Z">
+        <seg>与莲子人形关系很好。</seg>
       </tuv>
     </tu>
     <tu>
