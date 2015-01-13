@@ -66360,6 +66360,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>死を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T071436Z" creationid="土妹子" creationdate="20150113T071436Z">
+        <seg>拥有操纵死亡程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>死守</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150227Z" creationid="UUZ" creationdate="20150102T150227Z">
@@ -73508,6 +73516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144244Z" creationid="UUZ" creationdate="20140906T144244Z">
         <seg>西行寺幽幽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>西行寺幽々子の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T071428Z" creationid="土妹子" creationdate="20150113T071428Z">
+        <seg>拥有西行寺幽幽子的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
