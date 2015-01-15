@@ -53232,6 +53232,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ルナチャイルドの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T152146Z" creationid="土妹子" creationdate="20150115T152146Z">
+        <seg>拥有露娜切云德的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ルビー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020248Z" creationid="UUZ" creationdate="20140908T020248Z">
@@ -58948,6 +58956,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022831Z" creationid="土妹子" creationdate="20141231T022831Z">
         <seg>呼啸之萌黄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>周囲がうるさい時に利用されることが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T152237Z" creationid="土妹子" creationdate="20150115T152237Z">
+        <seg>经常在周围吵闹的时候被使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65460,6 +65476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T150734Z" creationid="妄想" creationdate="20150104T150734Z">
         <seg>白天……想睡觉呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>昼よりも夜になると活発に活動する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T152215Z" creationid="土妹子" creationdate="20150115T152215Z">
+        <seg>比起白天会在晚上更活泼地活动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76924,6 +76948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135305Z" creationid="UUZ" creationdate="20140904T135305Z">
         <seg>音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>音を消す程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T152200Z" creationid="土妹子" creationdate="20150115T152200Z">
+        <seg>拥有消去声音程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
