@@ -74648,6 +74648,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>迷いの竹林を放浪している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T135744Z" creationid="土妹子" creationdate="20150115T135744Z">
+        <seg>在迷途竹林中流浪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>迷い込んじゃったのかしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161658Z" creationid="土妹子" creationdate="20150104T161658Z">
@@ -75460,6 +75468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20140907T154623Z">
         <seg>铃仙·优昙华院·因幡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鈴仙・優曇華院・イナバの能力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T135803Z" creationid="土妹子" creationdate="20150115T135803Z">
+        <seg>拥有铃仙·优昙华院·因幡的能力的人形。</seg>
       </tuv>
     </tu>
     <tu>
