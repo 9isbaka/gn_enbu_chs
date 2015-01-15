@@ -25238,14 +25238,6 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>NULL</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155705Z" creationid="UUZ" creationdate="20140824T155705Z">
-        <seg>NULL</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>NULL,なし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T161247Z" creationid="UUZ" creationdate="20140824T154735Z">
@@ -47384,6 +47376,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>サニーミルクの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T141844Z" creationid="土妹子" creationdate="20150115T141844Z">
+        <seg>拥有桑妮米尔克的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>サファイア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T020311Z" creationid="UUZ" creationdate="20140908T020311Z">
@@ -57400,6 +57400,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>光を屈折させる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T141857Z" creationid="土妹子" creationdate="20150115T141857Z">
+        <seg>拥有弯折光线程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>光・闇属性のスキルで受けるダメージを半減する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T024712Z" creationid="土妹子" creationdate="20141231T024712Z">
@@ -58300,6 +58308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093601Z" creationid="土妹子" creationdate="20141231T093601Z">
         <seg>千变万化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>単独でいるよりも仲間といるほうが好き。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T141959Z" creationid="土妹子" creationdate="20150115T141959Z">
+        <seg>比起一个人更喜欢和伙伴在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72340,6 +72356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T135040Z" creationid="土妹子" creationdate="20150113T135040Z">
         <seg>由于能力而神出鬼没，很少遇到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>能力をよく悪戯に利用しているが 姿を見られると颯爽と逃げてしまう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T141943Z" creationid="土妹子" creationdate="20150115T141943Z">
+        <seg>能力经常用在恶作剧上，但是被看到了就会精神抖擞地逃走。</seg>
       </tuv>
     </tu>
     <tu>
