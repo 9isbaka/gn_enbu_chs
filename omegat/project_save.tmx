@@ -67992,6 +67992,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>永江衣玖の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T172742Z" creationid="土妹子" creationdate="20150116T172742Z">
+        <seg>拥有永江衣玖的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>永琳</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161515Z" creationid="UUZ" creationdate="20141224T161515Z">
@@ -71836,6 +71844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030027Z" creationid="UUZ" creationdate="20150105T162235Z">
         <seg>拥有飞在空中程度的能力和操纵灵力程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>空気を読む程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T172753Z" creationid="土妹子" creationdate="20150116T172753Z">
+        <seg>拥有感受气氛程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
