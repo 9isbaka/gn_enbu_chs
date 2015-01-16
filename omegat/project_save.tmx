@@ -40870,6 +40870,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>その体からは果物の甘い香りがする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145608Z" creationid="土妹子" creationdate="20150116T145608Z">
+        <seg>会从身体散发出水果的甜味。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>その子は これから \t よ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063327Z" creationid="土妹子" creationdate="20150106T063327Z">
@@ -57008,6 +57016,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>作物の成長を促進する効果があるといわれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145618Z" creationid="土妹子" creationdate="20150116T145618Z">
+        <seg>据说有促进作物成长的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使い捨ての勾玉。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T141442Z" creationid="UUZ" creationdate="20140907T141442Z">
@@ -58636,6 +58652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054337Z" creationid="土妹子" creationdate="20150105T054337Z">
         <seg>因为很危险，所以还是……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>厄をため込む程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145636Z" creationid="土妹子" creationdate="20150116T145636Z">
+        <seg>拥有吸入厄运程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62180,6 +62204,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042208Z" creationid="UUZ" creationdate="20140908T042208Z">
         <seg>渡河时所使用的小船。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>川に流すと良いことがあると言われる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145919Z" creationid="土妹子" creationdate="20150116T145919Z">
+        <seg>据说放在河里漂走会发生好事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>工具一式を持っているため 旅のお供に連れ歩くと便利。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T150125Z" creationid="土妹子" creationdate="20150116T150115Z">
+        <seg>因为有一整套工具，带着做旅行的陪伴很方便。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65880,6 +65920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>最近不幸なことがあった方にオススメの一品。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145658Z" creationid="土妹子" creationdate="20150116T145658Z">
+        <seg>强烈推荐给最近发生了不幸的各位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>最近大量の人形が溢れ返ってるんだよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075746Z" creationid="妄想" creationdate="20150110T075746Z">
@@ -67688,6 +67736,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>水を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145951Z" creationid="土妹子" creationdate="20150116T145947Z">
+        <seg>拥有操纵水程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>水上でボートに乗ることが出来るようになっています。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060525Z" creationid="UUZ" creationdate="20140908T060507Z">
@@ -67972,6 +68028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144818Z" creationid="UUZ" creationdate="20140906T144818Z">
         <seg>河城荷取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>河城にとりの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145938Z" creationid="土妹子" creationdate="20150116T145938Z">
+        <seg>拥有河城荷取的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73560,6 +73624,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>興味を持った物を分解するのが好き。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T150006Z" creationid="土妹子" creationdate="20150116T150006Z">
+        <seg>喜欢分解感兴趣的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>舞風</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T100313Z" creationid="土妹子" creationdate="20150101T100313Z">
@@ -76156,6 +76228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144815Z" creationid="UUZ" creationdate="20140906T144815Z">
         <seg>键山雏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鍵山雛の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145628Z" creationid="土妹子" creationdate="20150116T145628Z">
+        <seg>拥有键山雏的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
