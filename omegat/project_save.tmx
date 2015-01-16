@@ -59784,10 +59784,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>坤を創造する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T171701Z" creationid="土妹子" creationdate="20150116T171656Z">
+        <seg>拥有创造坤程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>垢なめ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160531Z" creationid="土妹子" creationdate="20150102T160531Z">
         <seg>舔垢妖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>基本的に穏やかな性格だが 怒らせると手に負えない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T171822Z" creationid="土妹子" creationdate="20150116T171822Z">
+        <seg>虽然基本上性格安稳，但是激怒了的话没法处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68320,6 +68336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>洩矢諏訪子の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T171647Z" creationid="土妹子" creationdate="20150116T171647Z">
+        <seg>拥有泄矢诹访子的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>活発</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025850Z" creationid="土妹子" creationdate="20141231T025850Z">
@@ -74256,6 +74280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>蛙が好きで 一緒に遊ばせると喜ぶ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T171709Z" creationid="土妹子" creationdate="20150116T171709Z">
+        <seg>喜欢青蛙，一起玩的话会很高兴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>蜃気楼</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131019Z" creationid="UUZ" creationdate="20140907T131019Z">
@@ -75028,6 +75060,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T030749Z" creationid="UUZ" creationdate="20140908T022434Z">
         <seg>红色戒指</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>赤く光り始めたら要注意。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T171833Z" creationid="土妹子" creationdate="20150116T171833Z">
+        <seg>开始发红光的话就需要注意了。</seg>
       </tuv>
     </tu>
     <tu>
