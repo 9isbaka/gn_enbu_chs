@@ -49314,8 +49314,8 @@
       <tuv lang="JA">
         <seg>スクープになりそうなことを探し チラシの裏に書き込んでいる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T142435Z" creationid="土妹子" creationdate="20150116T142435Z">
-        <seg>寻找看样子能成为大新闻的事物，写在传单的背面。</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144219Z" creationid="土妹子" creationdate="20150116T142435Z">
+        <seg>寻找看样子能成为大新闻的事，写在传单的背面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54120,6 +54120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>一度見た物を忘れない程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144202Z" creationid="土妹子" creationdate="20150116T144202Z">
+        <seg>拥有过目不忘程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>一心不乱</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T151540Z" creationid="UUZ" creationdate="20150102T151540Z">
@@ -55964,6 +55972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141225T150316Z" creationid="UUZ" creationdate="20141225T150316Z">
         <seg>人形説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形達が悪戯しているところを見つけ 説教している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T143801Z" creationid="土妹子" creationdate="20150116T143801Z">
+        <seg>看到人形们恶作剧的时候就会进行说教。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59288,6 +59304,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>四季映姫・ヤマザナドゥの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T143738Z" creationid="土妹子" creationdate="20150116T143738Z">
+        <seg>拥有四季映姬·亚玛萨那度的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>四神の加護</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151201Z" creationid="UUZ" creationdate="20140904T151201Z">
@@ -61812,6 +61836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161605Z" creationid="UUZ" creationdate="20141224T161605Z">
         <seg>小町</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>小町の人形には特に厳しい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T143817Z" creationid="土妹子" creationdate="20150116T143817Z">
+        <seg>对小町人形特别严格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69504,6 +69536,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>白黒はっきりつける程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T143745Z" creationid="土妹子" creationdate="20150116T143745Z">
+        <seg>拥有明辨黑白程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>皆既日食</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133035Z" creationid="UUZ" creationdate="20140906T133035Z">
@@ -69548,6 +69588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T121119Z" creationid="土妹子" creationdate="20150104T163436Z">
         <seg>等你睁开眼睛就回到以前的样子了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>目の前で起きたことを記録している。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144212Z" creationid="土妹子" creationdate="20150116T144212Z">
+        <seg>记录着眼前发生的事情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71444,6 +71492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144629Z" creationid="UUZ" creationdate="20140906T144629Z">
         <seg>稗田阿求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>稗田阿求の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144156Z" creationid="土妹子" creationdate="20150116T144156Z">
+        <seg>拥有稗田阿求的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
