@@ -61280,6 +61280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>嫉妬心を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T174552Z" creationid="土妹子" creationdate="20150116T174552Z">
+        <seg>拥有操纵嫉妒心程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>嫌いな相手には魔法を放つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030248Z" creationid="土妹子" creationdate="20150110T030248Z">
@@ -67908,6 +67916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144852Z" creationid="UUZ" creationdate="20140906T144852Z">
         <seg>水桥帕露西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>水橋パルスィの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T174537Z" creationid="土妹子" creationdate="20150116T174537Z">
+        <seg>拥有水桥帕露西的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
