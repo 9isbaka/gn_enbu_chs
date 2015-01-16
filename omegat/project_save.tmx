@@ -42254,6 +42254,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どの人形よりも素早い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T022137Z" creationid="土妹子" creationdate="20150116T022137Z">
+        <seg>比哪个人形都要快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どの子に するのかしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162120Z" creationid="土妹子" creationdate="20150104T162120Z">
@@ -61664,6 +61672,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>射命丸文の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T022117Z" creationid="土妹子" creationdate="20150116T022117Z">
+        <seg>拥有射命丸文的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>小さいイビルアイΣを見つけたら 彼女の人形が必ずそばにいる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T033314Z" creationid="土妹子" creationdate="20150110T033314Z">
@@ -77140,6 +77156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T122827Z" creationid="UUZ" creationdate="20140906T122827Z">
         <seg>风之列车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>風を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T022124Z" creationid="土妹子" creationdate="20150116T022124Z">
+        <seg>拥有操纵风程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
