@@ -37302,6 +37302,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おっとりとした性格だが 能力は高い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144855Z" creationid="土妹子" creationdate="20150116T144855Z">
+        <seg>虽然性格稳重，不过能力也很高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おっと！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T072104Z" creationid="UUZ" creationdate="20140908T072104Z">
@@ -58400,6 +58408,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>単体での実力はそこまでないが 数が揃うと厄介。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145243Z" creationid="土妹子" creationdate="20150116T145243Z">
+        <seg>虽然单只的实力没有那么强，但是数量聚集起来就会很麻烦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>単独でいるよりも仲間といるほうが好き。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T141959Z" creationid="土妹子" creationdate="20150115T141959Z">
@@ -61460,6 +61476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T140023Z" creationid="土妹子" creationdate="20150112T140023Z">
         <seg>只会在寒冷的地方或者冬季出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>寒くなると活動が低下する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145407Z" creationid="土妹子" creationdate="20150116T145407Z">
+        <seg>变冷的时候会减少活动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66312,6 +66336,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>桃とおしゃべりが好きなようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144918Z" creationid="土妹子" creationdate="20150116T144918Z">
+        <seg>似乎喜欢桃子和闲聊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>桃のかんざし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154835Z" creationid="土妹子" creationdate="20150102T154835Z">
@@ -68192,6 +68224,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>海と山を繋ぐ程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144833Z" creationid="土妹子" creationdate="20150116T144833Z">
+        <seg>拥有连结山与海程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>浸透戦術</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093656Z" creationid="土妹子" creationdate="20141231T093656Z">
@@ -69076,6 +69116,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144521Z" creationid="土妹子" creationdate="20150116T144521Z">
         <seg>不知为何对玉兔人形的态度严厉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>玉兎の人形同士に限って遠距離でも会話ができる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145323Z" creationid="土妹子" creationdate="20150116T145323Z">
+        <seg>仅限月兔人形的同伴之间，即使远距离也能对话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>玉兎の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144925Z" creationid="土妹子" creationdate="20150116T144925Z">
+        <seg>拥有玉兔的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71480,10 +71536,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>秋穣子の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145529Z" creationid="土妹子" creationdate="20150116T145529Z">
+        <seg>拥有秋穰子的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>秋静葉</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144732Z" creationid="UUZ" creationdate="20140906T144732Z">
         <seg>秋静叶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>秋静葉の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145332Z" creationid="土妹子" creationdate="20150116T145332Z">
+        <seg>拥有秋静叶的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71812,6 +71884,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T061757Z" creationid="妄想" creationdate="20150107T061757Z">
         <seg>今天的零食是红茶和巧克力蛋糕呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅葉を司る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145343Z" creationid="土妹子" creationdate="20150116T145343Z">
+        <seg>拥有司掌红叶程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>紅葉を見つけると喜ぶ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145349Z" creationid="土妹子" creationdate="20150116T145349Z">
+        <seg>看到红叶就会很高兴。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72156,6 +72244,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144634Z" creationid="UUZ" creationdate="20140906T144634Z">
         <seg>绵月丰姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>綿月豊姫の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T144819Z" creationid="土妹子" creationdate="20150116T144819Z">
+        <seg>拥有绵月丰姬的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74580,6 +74676,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161642Z" creationid="UUZ" creationdate="20141224T161642Z">
         <seg>丰姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>豊穣を司る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145544Z" creationid="土妹子" creationdate="20150116T145539Z">
+        <seg>拥有司掌丰收程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
