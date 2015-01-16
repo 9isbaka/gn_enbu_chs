@@ -49312,6 +49312,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スクープになりそうなことを探し チラシの裏に書き込んでいる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T142435Z" creationid="土妹子" creationdate="20150116T142435Z">
+        <seg>寻找看样子能成为大新闻的事物，写在传单的背面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スター</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140046Z" creationid="UUZ" creationdate="20140904T140046Z">
@@ -61796,6 +61804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144606Z" creationid="UUZ" creationdate="20140906T144606Z">
         <seg>小野塚小町</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>小野塚小町の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T142445Z" creationid="土妹子" creationdate="20150116T142445Z">
+        <seg>拥有小野塚小町的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74684,6 +74700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153250Z" creationid="土妹子" creationdate="20150102T153250Z">
         <seg>禁足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>距離を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T142455Z" creationid="土妹子" creationdate="20150116T142455Z">
+        <seg>拥有操纵距离程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
