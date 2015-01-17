@@ -55056,6 +55056,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形なので大きなエネルギーは扱えない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T020816Z" creationid="土妹子" creationdate="20150117T020816Z">
+        <seg>因为是人形，无法操纵大规模的能量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形について お話した以上のことはまだわかっていません・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055532Z" creationid="土妹子" creationdate="20150105T055532Z">
@@ -66592,6 +66600,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>核融合を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T020750Z" creationid="土妹子" creationdate="20150117T020750Z">
+        <seg>拥有操纵核聚变程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>根本を絶つのではなく 人形と共にある道も選ぶことは可能ではないですか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T043946Z" creationid="土妹子" creationdate="20150109T043946Z">
@@ -77444,6 +77460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160302Z" creationid="UUZ" creationdate="20140906T144912Z">
         <seg>灵乌路空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>霊烏路空の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T020742Z" creationid="土妹子" creationdate="20150117T020742Z">
+        <seg>拥有灵乌路空的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
