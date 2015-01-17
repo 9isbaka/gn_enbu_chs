@@ -48016,6 +48016,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>スキルを だした後に 攻撃を 受けて 瀕死に なった時 相手も 瀕死に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150117T123702Z" creationid="UUZ" creationdate="20150117T123702Z">
+        <seg>使用此技能后，受到攻击变为濒死时，对手也会濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>スキルを結界で阻んだ時 相手の散弾一段階低下させる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092055Z" creationid="土妹子" creationdate="20141231T092055Z">
