@@ -58944,6 +58944,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>古明地こいしの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T025328Z" creationid="土妹子" creationdate="20150117T025328Z">
+        <seg>拥有古明地恋的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>古明地さとり</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144907Z" creationid="UUZ" creationdate="20140906T144907Z">
@@ -68992,6 +69000,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>無意識を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T025336Z" creationid="土妹子" creationdate="20150117T025336Z">
+        <seg>拥有操纵无意识程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>無我の境地</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T132743Z" creationid="UUZ" creationdate="20140904T132743Z">
@@ -72788,6 +72804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T140240Z" creationid="土妹子" creationdate="20150115T140240Z">
         <seg>拥有不老不死程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>考える事は苦手で 目を離すと何をするかわからない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T025316Z" creationid="土妹子" creationdate="20150117T025257Z">
+        <seg>不善于思考，不看着就不知道做什么了。</seg>
       </tuv>
     </tu>
     <tu>
