@@ -61984,6 +61984,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>小動物の死骸を集める習性がある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T014957Z" creationid="土妹子" creationdate="20150117T014957Z">
+        <seg>有收集小动物的尸骸的习性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>小型ビット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152259Z" creationid="土妹子" creationdate="20150101T152259Z">
@@ -67112,6 +67120,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>死体や霊との意思伝達ができると言われている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T015035Z" creationid="土妹子" creationdate="20150117T015035Z">
+        <seg>据说可以向尸体和灵体传达意志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>死体を持ち去る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T014943Z" creationid="土妹子" creationdate="20150117T014943Z">
+        <seg>拥有带走尸体程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>死守</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150227Z" creationid="UUZ" creationdate="20150102T150227Z">
@@ -68788,6 +68812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160257Z" creationid="UUZ" creationdate="20140906T144911Z">
         <seg>火焰猫燐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>火焔猫燐の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T014934Z" creationid="土妹子" creationdate="20150117T014934Z">
+        <seg>拥有火焰猫燐的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
