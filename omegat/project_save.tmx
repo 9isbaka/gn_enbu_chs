@@ -58288,6 +58288,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>動物に好かれるため 連れ歩く際は猛獣の出没に注意。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T014502Z" creationid="土妹子" creationdate="20150117T014502Z">
+        <seg>因为受动物喜欢，带着的时候要注意猛兽出没。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>勝ったわ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060657Z" creationid="UUZ" creationdate="20140908T060657Z">
@@ -58932,6 +58940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144907Z" creationid="UUZ" creationdate="20140906T144907Z">
         <seg>古明地觉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>古明地さとりの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T013141Z" creationid="土妹子" creationdate="20150117T013141Z">
+        <seg>拥有古明地觉的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63396,6 +63412,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031401Z" creationid="土妹子" creationdate="20141231T031401Z">
         <seg>复仇的化身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>心が読めても人形なので意思の伝達には限界がある。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T014446Z" creationid="土妹子" creationdate="20150117T014428Z">
+        <seg>虽然能读心，但是作为人形，传达意志有极限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>心を読む程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T013150Z" creationid="土妹子" creationdate="20150117T013150Z">
+        <seg>拥有读心程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
