@@ -57016,6 +57016,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何でも喰う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T114822Z" creationid="土妹子" creationdate="20150119T114822Z">
+        <seg>拥有什么都能吞吃程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何と書いてあるのかは不明。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142530Z" creationid="UUZ" creationdate="20140907T142530Z">
@@ -60128,6 +60136,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>壁をすり抜けられる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115207Z" creationid="土妹子" creationdate="20150119T115207Z">
+        <seg>拥有穿墙程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>壊せる岩</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151621Z" creationid="UUZ" creationdate="20140906T151621Z">
@@ -61756,6 +61772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145045Z" creationid="UUZ" creationdate="20140906T145045Z">
         <seg>宮古芳香</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>宮古芳香の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T114812Z" creationid="土妹子" creationdate="20150119T114812Z">
+        <seg>拥有宫古芳香的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77096,6 +77120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>関節を曲げられないので ぴょんぴょん跳ねて移動する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115044Z" creationid="土妹子" creationdate="20150119T115044Z">
+        <seg>因为关节不能弯曲，一跳一跳地进行移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>闇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135249Z" creationid="UUZ" creationdate="20140904T135249Z">
@@ -77840,6 +77872,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>霍青娥の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115159Z" creationid="土妹子" creationdate="20150119T115159Z">
+        <seg>拥有霍青娥的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>霖之助</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131348Z" creationid="UUZ" creationdate="20140908T131348Z">
@@ -77972,6 +78012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161817Z" creationid="UUZ" creationdate="20141224T161817Z">
         <seg>青娥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>青娥の人形とよく柔軟体操をしている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115058Z" creationid="土妹子" creationdate="20150119T115058Z">
+        <seg>经常和青娥人形做柔软体操。</seg>
       </tuv>
     </tu>
     <tu>
