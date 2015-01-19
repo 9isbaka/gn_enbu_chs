@@ -62624,6 +62624,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>布都の人形と一緒に行動することが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115829Z" creationid="土妹子" creationdate="20150119T115829Z">
+        <seg>经常和布都人形一起行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>師匠！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T014456Z" creationid="土妹子" creationdate="20150107T014456Z">
@@ -63940,6 +63948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T164425Z" creationid="土妹子" creationdate="20150109T164425Z">
         <seg>不长记性，又来了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>性格はお世辞にも良いとはいえず 騙されることもしばしば。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115709Z" creationid="土妹子" creationdate="20150119T115709Z">
+        <seg>性格即使是恭维也远不能说是好，被骗的事时有发生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67396,6 +67412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T071436Z" creationid="土妹子" creationdate="20150113T071436Z">
         <seg>拥有操纵死亡程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>死んだふりが得意。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115718Z" creationid="土妹子" creationdate="20150119T115718Z">
+        <seg>擅长装死。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74752,6 +74776,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>蘇我屠自古の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115748Z" creationid="土妹子" creationdate="20150119T115748Z">
+        <seg>拥有苏我屠自古的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>虎視眈々</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095643Z" creationid="土妹子" creationdate="20150101T095643Z">
@@ -77632,6 +77664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>雷を起こす程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115802Z" creationid="土妹子" creationdate="20150119T115802Z">
+        <seg>拥有召雷程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>雷・光・幻属性のスキルを受けた時 自分の俊敏が一段階上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031848Z" creationid="土妹子" creationdate="20141231T024634Z">
@@ -77756,6 +77796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T123414Z" creationid="UUZ" creationdate="20140907T123330Z">
         <seg>震荡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>霊のようにふわふわ浮いている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115820Z" creationid="土妹子" creationdate="20150119T115820Z">
+        <seg>像灵体一样轻飘飘的浮着。</seg>
       </tuv>
     </tu>
     <tu>
