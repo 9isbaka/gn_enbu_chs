@@ -69552,6 +69552,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>物部布都の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T104836Z" creationid="土妹子" creationdate="20150123T104836Z">
+        <seg>拥有物部布都的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>犬走椛</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144819Z" creationid="UUZ" creationdate="20140906T144819Z">
@@ -71492,6 +71500,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161821Z" creationid="UUZ" creationdate="20141224T161821Z">
         <seg>神子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>神子の人形を探し回っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T104902Z" creationid="土妹子" creationdate="20150123T104902Z">
+        <seg>四处寻找神子人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78372,6 +78388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025342Z" creationid="土妹子" creationdate="20141231T025342Z">
         <seg>风月之型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>風水を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T104848Z" creationid="土妹子" creationdate="20150123T104848Z">
+        <seg>拥有操作风水程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
