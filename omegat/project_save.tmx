@@ -37798,6 +37798,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お皿を見ては割っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T105617Z" creationid="土妹子" creationdate="20150123T105617Z">
+        <seg>看到盘子会打碎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お礼でしたね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T022930Z" creationid="土妹子" creationdate="20150110T022916Z">
@@ -62404,6 +62412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161819Z" creationid="UUZ" creationdate="20141224T161819Z">
         <seg>屠自古</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>屠自古の人形と一緒に行動することが多い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T105625Z" creationid="土妹子" creationdate="20150123T105625Z">
+        <seg>经常和屠自古人形一起行动。</seg>
       </tuv>
     </tu>
     <tu>
