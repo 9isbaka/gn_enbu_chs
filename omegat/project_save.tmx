@@ -58568,6 +58568,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>十人の話を同時に聞く事が出来る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T105946Z" creationid="土妹子" creationdate="20150123T105946Z">
+        <seg>拥有能够同时听十人说话程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>十六夜咲夜</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144119Z" creationid="UUZ" creationdate="20140906T144119Z">
@@ -75540,6 +75548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145108Z" creationid="UUZ" creationdate="20140906T145108Z">
         <seg>丰聪耳神子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>豊聡耳神子の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T105918Z" creationid="土妹子" creationdate="20150123T105918Z">
+        <seg>拥有丰聪耳神子的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
