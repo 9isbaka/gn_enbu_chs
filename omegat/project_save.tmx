@@ -44600,6 +44600,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>やってやんよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150124T130536Z" creationid="土妹子" creationdate="20150124T130536Z">
+        <seg>放马过来吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>やっときた。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010520Z" creationid="土妹子" creationdate="20150107T010520Z">
@@ -58498,8 +58506,8 @@
       <tuv lang="JA">
         <seg>化けさせる程度の能力を持つ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T125541Z" creationid="土妹子" creationdate="20150123T125541Z">
-        <seg>拥有</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150124T130550Z" creationid="土妹子" creationdate="20150123T125541Z">
+        <seg>拥有化形程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
