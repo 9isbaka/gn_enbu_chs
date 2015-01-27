@@ -57096,6 +57096,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何でもひっくり返す程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T120207Z" creationid="土妹子" creationdate="20150127T120207Z">
+        <seg>拥有把任何事物整个颠倒程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何でも喰う程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T114822Z" creationid="土妹子" creationdate="20150119T114822Z">
@@ -63332,6 +63340,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161830Z" creationid="UUZ" creationdate="20141224T161830Z">
         <seg>弁弁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>弁々の人形とよく競い合っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T120141Z" creationid="土妹子" creationdate="20150127T120141Z">
+        <seg>经常和弁弁人形互相竞争。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78900,6 +78916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145219Z" creationid="UUZ" creationdate="20140906T145219Z">
         <seg>鬼人正邪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鬼人正邪の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T120150Z" creationid="土妹子" creationdate="20150127T120150Z">
+        <seg>拥有鬼人正邪的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
