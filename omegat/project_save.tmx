@@ -45152,6 +45152,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>わかさぎ姫の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085150Z" creationid="土妹子" creationdate="20150127T085150Z">
+        <seg>拥有若鹭姬的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>わかさぎ姫（水上）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151642Z" creationid="UUZ" creationdate="20140906T151642Z">
@@ -64232,6 +64240,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>感情を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085038Z" creationid="土妹子" creationdate="20150127T085038Z">
+        <seg>拥有操纵感情程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>感染</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141500Z" creationid="UUZ" creationdate="20140906T141500Z">
@@ -66260,6 +66276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T134214Z" creationid="土妹子" creationdate="20150112T134214Z">
         <seg>拥有操纵时间程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>普段は感情をあまり表に出さないが 面のバランスが崩れると感情が暴走する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085122Z" creationid="土妹子" creationdate="20150127T085122Z">
+        <seg>平时不怎么表现出感情，但是面具的平衡崩溃的话感情就会暴走。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68400,6 +68424,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>水中だと力が増す程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085203Z" creationid="土妹子" creationdate="20150127T085203Z">
+        <seg>拥有在水中力量就会增长程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>水属性のスキルを無効化し ＨＰが回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023431Z" creationid="土妹子" creationdate="20141231T023431Z">
@@ -69508,6 +69540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135206Z" creationid="UUZ" creationdate="20140907T135206Z">
         <seg>无限音阶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無類の妖魔本コレクターであり妖魔本のことになると周りが見えなくなってしまう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085019Z" creationid="土妹子" creationdate="20150127T085019Z">
+        <seg>是无与伦比的妖怪书收藏家，一提到妖怪书的事就在周围找不到了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72400,6 +72440,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>秦こころの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085027Z" creationid="土妹子" creationdate="20150127T085027Z">
+        <seg>拥有秦心的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>稗田さんの許可があるなら 通せんぼする理由もないからな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054507Z" creationid="土妹子" creationdate="20150105T054507Z">
@@ -73052,6 +73100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T053414Z" creationid="UUZ" creationdate="20140908T052726Z">
         <seg>继续使用\t吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>綺麗な石を集めるのが好きで 石をあげるとお礼に素敵な歌声で歌を披露してくれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085242Z" creationid="土妹子" creationdate="20150127T085242Z">
+        <seg>喜欢收集漂亮的石头，给石头作为礼物的话就会展现出美妙的歌声。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78252,6 +78308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161700Z" creationid="UUZ" creationdate="20141224T161700Z">
         <seg>静叶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>面を付け替えることで感情を変化させられる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085055Z" creationid="土妹子" creationdate="20150127T085055Z">
+        <seg>通过切换面具使感情变化。</seg>
       </tuv>
     </tu>
     <tu>
