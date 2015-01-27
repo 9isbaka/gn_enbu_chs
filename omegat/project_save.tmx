@@ -54816,10 +54816,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>九十九八橋の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101109Z" creationid="土妹子" creationdate="20150127T101109Z">
+        <seg>拥有九十九八桥的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>九十九弁々</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145211Z" creationid="UUZ" creationdate="20140906T145211Z">
         <seg>九十九弁弁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>九十九弁々の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101023Z" creationid="土妹子" creationdate="20150127T101023Z">
+        <seg>拥有九十九弁弁的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57932,6 +57948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161833Z" creationid="UUZ" creationdate="20141224T161833Z">
         <seg>八桥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>八橋の人形とよく競い合っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101101Z" creationid="土妹子" creationdate="20150127T101101Z">
+        <seg>经常和八桥人形互相竞争。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70088,6 +70112,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>琴の付喪神であり ゆったりとした曲を好む。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101125Z" creationid="土妹子" creationdate="20150127T101125Z">
+        <seg>作为古琴的付丧神，喜欢平缓的乐曲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>琵琶の付喪神であり スピード感のある直線的な曲を好む。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101052Z" creationid="土妹子" creationdate="20150127T101052Z">
+        <seg>作为琵琶的付丧神，喜欢有速度感的直线的乐曲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>瑠璃色の髪飾り</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T010419Z" creationid="UUZ" creationdate="20140906T152100Z">
@@ -73700,6 +73740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131029Z" creationid="UUZ" creationdate="20140907T131029Z">
         <seg>临死体验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自ら音を発して演奏できる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101035Z" creationid="土妹子" creationdate="20150127T101035Z">
+        <seg>拥有自行发音演奏程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
