@@ -36558,6 +36558,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いたそう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085623Z" creationid="土妹子" creationdate="20150127T085623Z">
+        <seg>很疼的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いちりん</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151405Z" creationid="UUZ" creationdate="20140906T151405Z">
@@ -56768,6 +56776,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今泉影狼の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085713Z" creationid="土妹子" creationdate="20150127T085713Z">
+        <seg>拥有今泉影狼的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今私の人形たちはちょっと元気が無くてだな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T145623Z" creationid="妄想" creationdate="20150104T145121Z">
@@ -69088,6 +69104,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>満月の夜に狼に変身する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085727Z" creationid="土妹子" creationdate="20150127T085727Z">
+        <seg>拥有在满月之夜变身成狼程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>準備が整ったら教えてくれ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T090339Z" creationid="UUZ" creationdate="20140908T090339Z">
@@ -75896,6 +75920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>赤蛮奇の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085253Z" creationid="土妹子" creationdate="20150127T085253Z">
+        <seg>拥有赤蛮奇的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>足が無く 幽霊のように浮いているが 自由に足を出すこともできるらしい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032111Z" creationid="土妹子" creationdate="20150110T032111Z">
@@ -78644,6 +78676,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084354Z" creationid="妄想" creationdate="20150110T084354Z">
         <seg>糕点怎么样？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>首を飛ばして人を驚かせるのが得意だが飛ばしすぎてよく頭をぶつけてしまう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085618Z" creationid="土妹子" creationdate="20150127T085618Z">
+        <seg>擅长把头飞出去吓人，不过飞过头了经常撞到头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>首を飛ばせる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085302Z" creationid="土妹子" creationdate="20150127T085302Z">
+        <seg>拥有让头飞出去程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
