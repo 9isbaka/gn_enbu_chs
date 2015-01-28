@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36254,6 +36254,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんたも一緒にお散歩する？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040311Z" creationid="妄想" creationdate="20150128T040311Z">
+        <seg>你也一起散步吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんた見たところ人間かい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083336Z" creationid="妄想" creationdate="20150108T083336Z">
@@ -37774,6 +37782,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お散歩お散歩楽しいな〜。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040255Z" creationid="妄想" creationdate="20150128T040255Z">
+        <seg>散步真快乐~。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お昼寝したいなぁ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T031347Z" creationid="妄想" creationdate="20150107T031347Z">
@@ -39130,6 +39146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112052Z" creationid="UUZ" creationdate="20140908T112052Z">
         <seg>这座神社的主人不是我，而是那个叫灵梦的人哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この結果も反転しないかな……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040206Z" creationid="妄想" creationdate="20150128T040206Z">
+        <seg>这个结果也是反转的吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -56784,6 +56808,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今日もいい天気だね〜・・・一戦やっとく？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040355Z" creationid="妄想" creationdate="20150128T040355Z">
+        <seg>今天天气真不错呢~···来站一场？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今泉影狼</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145202Z" creationid="UUZ" creationdate="20140906T145202Z">
@@ -57660,6 +57692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T042815Z" creationid="土妹子" creationdate="20150110T042815Z">
         <seg>原本是作为湖之守卫的妖怪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>元気があれば勝てるのよー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040543Z" creationid="妄想" creationdate="20150128T040543Z">
+        <seg>有精神的话就是胜利哟！</seg>
       </tuv>
     </tu>
     <tu>
@@ -64056,6 +64096,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>急ぐのもいいけどのんびりするのもいいよ〜。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040440Z" creationid="妄想" creationdate="20150128T040440Z">
+        <seg>匆忙的虽然不错，但是悠闲的也不错~。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>急襲</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T145604Z" creationid="UUZ" creationdate="20140904T145604Z">
@@ -68460,6 +68508,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131429Z" creationid="UUZ" creationdate="20140908T131347Z">
         <seg>美丽清澈的水！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>水や鏡の反転した景色が好きなんだー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040212Z" creationid="妄想" creationdate="20150128T040133Z">
+        <seg>水和镜子里反转的景色我最喜欢了~。</seg>
       </tuv>
     </tu>
     <tu>
