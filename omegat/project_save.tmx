@@ -36566,6 +36566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いたそう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085623Z" creationid="土妹子" creationdate="20150127T085623Z">
+        <seg>很疼的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いちりん</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T151405Z" creationid="UUZ" creationdate="20140906T151405Z">
@@ -41382,6 +41390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>たびたび化かされるので その時は笑って許すのが良い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T083547Z" creationid="土妹子" creationdate="20150127T083547Z">
+        <seg>因为经常会被变身骗到，到那时候笑着原谅比较好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>たまにでいいですから・・・ね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150949Z" creationid="UUZ" creationdate="20140909T150949Z">
@@ -44624,6 +44640,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>やってやんよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150124T130536Z" creationid="土妹子" creationdate="20150124T130536Z">
+        <seg>放马过来吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>やっときた。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T010520Z" creationid="土妹子" creationdate="20150107T010520Z">
@@ -45156,6 +45180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145158Z" creationid="UUZ" creationdate="20140906T145158Z">
         <seg>若鹭姬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わかさぎ姫の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085150Z" creationid="土妹子" creationdate="20150127T085150Z">
+        <seg>拥有若鹭姬的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54808,10 +54840,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>九十九八橋の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101109Z" creationid="土妹子" creationdate="20150127T101109Z">
+        <seg>拥有九十九八桥的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>九十九弁々</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145211Z" creationid="UUZ" creationdate="20140906T145211Z">
         <seg>九十九弁弁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>九十九弁々の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101023Z" creationid="土妹子" creationdate="20150127T101023Z">
+        <seg>拥有九十九弁弁的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56776,6 +56824,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今泉影狼の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085713Z" creationid="土妹子" creationdate="20150127T085713Z">
+        <seg>拥有今泉影狼的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今私の人形たちはちょっと元気が無くてだな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T145623Z" creationid="妄想" creationdate="20150104T145121Z">
@@ -57068,6 +57124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133013Z" creationid="UUZ" creationdate="20140908T133013Z">
         <seg>什么啊你，比想象中要能干呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>何でもひっくり返す程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T120207Z" creationid="土妹子" creationdate="20150127T120207Z">
+        <seg>拥有把任何事物整个颠倒程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57936,6 +58000,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>八橋の人形とよく競い合っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101101Z" creationid="土妹子" creationdate="20150127T101101Z">
+        <seg>经常和八桥人形互相竞争。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>八符·光</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133520Z" creationid="UUZ" creationdate="20140906T133520Z">
@@ -58538,8 +58610,8 @@
       <tuv lang="JA">
         <seg>化けさせる程度の能力を持つ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150123T125541Z" creationid="土妹子" creationdate="20150123T125541Z">
-        <seg>拥有</seg>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150124T130550Z" creationid="土妹子" creationdate="20150123T125541Z">
+        <seg>拥有化形程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63312,6 +63384,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>弁々の人形とよく競い合っている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T120141Z" creationid="土妹子" creationdate="20150127T120141Z">
+        <seg>经常和弁弁人形互相竞争。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>式神を使う程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T134617Z" creationid="土妹子" creationdate="20150113T134617Z">
@@ -64264,6 +64344,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>感情を操る程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085038Z" creationid="土妹子" creationdate="20150127T085038Z">
+        <seg>拥有操纵感情程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>感染</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141500Z" creationid="UUZ" creationdate="20140906T141500Z">
@@ -64388,6 +64476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152246Z" creationid="UUZ" creationdate="20140906T152246Z">
         <seg>战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戦闘そのものはそこまで得意というわけではないようだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T083601Z" creationid="土妹子" creationdate="20150127T083601Z">
+        <seg>对战斗本身似乎并不能说是多么的得意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66288,10 +66384,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>普段は感情をあまり表に出さないが 面のバランスが崩れると感情が暴走する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085122Z" creationid="土妹子" creationdate="20150127T085122Z">
+        <seg>平时不怎么表现出感情，但是面具的平衡崩溃的话感情就会暴走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>普段は温厚だが 仲間の人形を守る時はすごい力を発揮する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T112910Z" creationid="土妹子" creationdate="20150110T112910Z">
         <seg>平时个性温和，不过在守护同伴的人形时会发挥出惊人的力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>普通には読めない本を読むことができる能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T083627Z" creationid="土妹子" creationdate="20150127T083627Z">
+        <seg>拥有可以读一般不能读的书程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66732,6 +66844,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145128Z" creationid="UUZ" creationdate="20140906T145128Z">
         <seg>本居小铃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>本居小鈴の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T083611Z" creationid="土妹子" creationdate="20150127T083611Z">
+        <seg>拥有本居小铃的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68416,6 +68536,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>水中だと力が増す程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085203Z" creationid="土妹子" creationdate="20150127T085203Z">
+        <seg>拥有在水中力量就会增长程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>水属性のスキルを無効化し ＨＰが回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023431Z" creationid="土妹子" creationdate="20141231T023431Z">
@@ -69072,6 +69200,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>満月の夜に狼に変身する程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085727Z" creationid="土妹子" creationdate="20150127T085727Z">
+        <seg>拥有在满月之夜变身成狼程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>満月の日は毛深くなってしまうのを気にしている。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T090201Z" creationid="土妹子" creationdate="20150127T090201Z">
+        <seg>很介意在满月的时候会变得满身是毛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>準備が整ったら教えてくれ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T090339Z" creationid="UUZ" creationdate="20140908T090339Z">
@@ -69524,6 +69668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135206Z" creationid="UUZ" creationdate="20140907T135206Z">
         <seg>无限音阶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無類の妖魔本コレクターであり妖魔本のことになると周りが見えなくなってしまう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085019Z" creationid="土妹子" creationdate="20150127T085019Z">
+        <seg>是无与伦比的妖怪书收藏家，一提到妖怪书的事就在周围找不到了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70028,6 +70180,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152137Z" creationid="UUZ" creationdate="20140906T152137Z">
         <seg>琥珀色发饰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>琴の付喪神であり ゆったりとした曲を好む。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101125Z" creationid="土妹子" creationdate="20150127T101125Z">
+        <seg>作为古琴的付丧神，喜欢平缓的乐曲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>琵琶の付喪神であり スピード感のある直線的な曲を好む。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101052Z" creationid="土妹子" creationdate="20150127T101052Z">
+        <seg>作为琵琶的付丧神，喜欢有速度感的直线的乐曲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72416,6 +72584,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>秦こころの力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085027Z" creationid="土妹子" creationdate="20150127T085027Z">
+        <seg>拥有秦心的力量的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>稗田さんの許可があるなら 通せんぼする理由もないからな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054507Z" creationid="土妹子" creationdate="20150105T054507Z">
@@ -73072,6 +73248,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>綺麗な石を集めるのが好きで 石をあげるとお礼に素敵な歌声で歌を披露してくれる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085242Z" creationid="土妹子" creationdate="20150127T085242Z">
+        <seg>喜欢收集漂亮的石头，给石头作为礼物的话就会展现出美妙的歌声。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>綺麗な髪が自慢で手入れは欠かさない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T090134Z" creationid="土妹子" creationdate="20150127T090134Z">
+        <seg>漂亮的头发是骄傲所以修剪是必不可少的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>綿月依姫</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144630Z" creationid="UUZ" creationdate="20140906T144630Z">
@@ -73620,6 +73812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T131029Z" creationid="UUZ" creationdate="20140907T131029Z">
         <seg>临死体验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自ら音を発して演奏できる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T101035Z" creationid="土妹子" creationdate="20150127T101035Z">
+        <seg>拥有自行发音演奏程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75852,6 +76052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145201Z" creationid="UUZ" creationdate="20140906T145201Z">
         <seg>赤蛮奇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>赤蛮奇の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085253Z" creationid="土妹子" creationdate="20150127T085253Z">
+        <seg>拥有赤蛮奇的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78272,6 +78480,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>面を付け替えることで感情を変化させられる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085055Z" creationid="土妹子" creationdate="20150127T085055Z">
+        <seg>通过切换面具使感情变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>面白いものいっぱいあるんだけどな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T084145Z" creationid="妄想" creationdate="20150105T084145Z">
@@ -78600,6 +78816,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>首を飛ばして人を驚かせるのが得意だが飛ばしすぎてよく頭をぶつけてしまう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085618Z" creationid="土妹子" creationdate="20150127T085618Z">
+        <seg>擅长把头飞出去吓人，不过飞过头了经常撞到头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>首を飛ばせる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085302Z" creationid="土妹子" creationdate="20150127T085302Z">
+        <seg>拥有让头飞出去程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>香霖堂</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143322Z" creationid="UUZ" creationdate="20140906T143322Z">
@@ -78740,6 +78972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145219Z" creationid="UUZ" creationdate="20140906T145219Z">
         <seg>鬼人正邪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鬼人正邪の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T120150Z" creationid="土妹子" creationdate="20150127T120150Z">
+        <seg>拥有鬼人正邪的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
