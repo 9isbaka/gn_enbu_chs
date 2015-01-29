@@ -57136,6 +57136,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何でもリズムに乗らせる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T140745Z" creationid="土妹子" creationdate="20150129T140745Z">
+        <seg>拥有可以把任何事物带上节奏程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何でも喰う程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T114822Z" creationid="土妹子" creationdate="20150119T114822Z">
@@ -60180,6 +60188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145232Z" creationid="UUZ" creationdate="20140906T145232Z">
         <seg>堀川雷鼓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>堀川雷鼓の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T140730Z" creationid="土妹子" creationdate="20150129T140730Z">
+        <seg>拥有堀川雷鼓的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
