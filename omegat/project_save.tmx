@@ -50360,6 +50360,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>テンションが上がると雷がでるほどのビートを刻み演奏中は近づくと危険。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T141446Z" creationid="土妹子" creationdate="20150129T141446Z">
+        <seg>随着情绪上升会打出引发雷电程度的节拍，在演奏中靠近很危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>テンション急降下中……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133017Z" creationid="UUZ" creationdate="20150112T133017Z">
@@ -57700,6 +57708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T042815Z" creationid="土妹子" creationdate="20150110T042815Z">
         <seg>原本是作为湖之守卫的妖怪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>元が和太鼓なので叩いてあげると喜ぶが叩きすぎには注意。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T141517Z" creationid="土妹子" creationdate="20150129T141517Z">
+        <seg>因为原本是和太鼓，敲的话会很高兴但要注意不要敲得太多。</seg>
       </tuv>
     </tu>
     <tu>
