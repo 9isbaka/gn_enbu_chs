@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29518,6 +29518,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c美味しかったでしょ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T142002Z" creationid="土妹子" creationdate="20150129T142002Z">
+        <seg>\c很好吃的吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c耳障りになる音は排除しなくちゃ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T021920Z" creationid="土妹子" creationdate="20150110T021920Z">
@@ -31002,6 +31010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054637Z" creationid="UUZ" creationdate="20140909T145244Z">
         <seg>\p你可以试着调查一下遇到的人形吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pたちは お菓子を食べて元気になった！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T141953Z" creationid="土妹子" creationdate="20150129T141953Z">
+        <seg>\p们吃了点心变精神了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -35538,6 +35554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012202Z" creationid="土妹子" creationdate="20150110T012202Z">
         <seg>你也真是闲呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あなたも食べてみない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T142105Z" creationid="土妹子" creationdate="20150129T142105Z">
+        <seg>你不尝尝看吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -40582,6 +40606,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そうですか……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T142112Z" creationid="土妹子" creationdate="20150129T142112Z">
+        <seg>这样吗……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そうですか……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T074904Z" creationid="土妹子" creationdate="20150107T074904Z">
@@ -42066,6 +42098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T020202Z" creationid="妄想" creationdate="20150110T020202Z">
         <seg>最好还是快回去睡一下吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>とても残念です……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T142117Z" creationid="土妹子" creationdate="20150129T142117Z">
+        <seg>太可惜了……</seg>
       </tuv>
     </tu>
     <tu>
@@ -50360,6 +50400,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>テンションが上がると雷がでるほどのビートを刻み演奏中は近づくと危険。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T141628Z" creationid="土妹子" creationdate="20150129T141446Z">
+        <seg>随着情绪上升会打出的节拍甚至能引发雷电，在演奏中靠近很危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>テンション急降下中……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133017Z" creationid="UUZ" creationdate="20150112T133017Z">
@@ -57136,6 +57184,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何でもリズムに乗らせる程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T140745Z" creationid="土妹子" creationdate="20150129T140745Z">
+        <seg>拥有可以把任何事物带上节奏程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何でも喰う程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T114822Z" creationid="土妹子" creationdate="20150119T114822Z">
@@ -57692,6 +57748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T042815Z" creationid="土妹子" creationdate="20150110T042815Z">
         <seg>原本是作为湖之守卫的妖怪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>元が和太鼓なので叩いてあげると喜ぶが叩きすぎには注意。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T141517Z" creationid="土妹子" creationdate="20150129T141517Z">
+        <seg>因为原本是和太鼓，敲的话会很高兴但要注意不要敲得太多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59664,6 +59728,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>嘘をついたり人が嫌がることをやっては楽しんでいるやっかいな人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T123601Z" creationid="土妹子" creationdate="20150129T123601Z">
+        <seg>因为说谎之类的被人讨厌的话反而会高兴，别扭的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>噂で聞くとおりにお強い。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042657Z" creationid="土妹子" creationdate="20150109T042657Z">
@@ -60172,6 +60244,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145232Z" creationid="UUZ" creationdate="20140906T145232Z">
         <seg>堀川雷鼓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>堀川雷鼓の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T140730Z" creationid="土妹子" creationdate="20150129T140730Z">
+        <seg>拥有堀川雷鼓的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61052,6 +61132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094536Z" creationid="土妹子" creationdate="20141231T094536Z">
         <seg>天衣无缝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天邪鬼なので逆のことをやってみるといいかもしれない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T123641Z" creationid="土妹子" creationdate="20150129T123641Z">
+        <seg>因为是天邪鬼，试着从反方面看或许会比较好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62460,6 +62548,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145227Z" creationid="UUZ" creationdate="20140906T145227Z">
         <seg>少名针妙丸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>少名針妙丸の力を持つ人形。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T125046Z" creationid="土妹子" creationdate="20150129T125046Z">
+        <seg>拥有少名针妙丸的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64760,6 +64856,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>打ち出の小槌を扱う程度の能力を持つ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T125057Z" creationid="土妹子" creationdate="20150129T125057Z">
+        <seg>拥有使用万宝槌程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>技を 出すまでに 攻撃を 受けると 失敗する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T114041Z" creationid="土妹子" creationdate="20150101T114041Z">
@@ -65580,6 +65684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152425Z" creationid="土妹子" creationdate="20150101T152425Z">
         <seg>携带后，属性相性无效的技能也能命中自己。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持っている打ち出の小槌で願い事を叶えることが出来るが 小さいためたいした事はできない。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T125135Z" creationid="土妹子" creationdate="20150129T125135Z">
+        <seg>可以用拿着的万宝槌实现愿望，不过因为很小所以实现不了什么大事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76268,6 +76380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T021907Z" creationid="妄想" creationdate="20150110T021907Z">
         <seg>附近的竹林？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>近くの向日葵畑でとれた 向日葵の種のお菓子！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T142053Z" creationid="土妹子" creationdate="20150129T142038Z">
+        <seg>在附近的向日葵花田采的葵花籽制作的点心！</seg>
       </tuv>
     </tu>
     <tu>
