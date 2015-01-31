@@ -30270,6 +30270,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cイヒヒ……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150131T114948Z" creationid="土妹子" creationdate="20150131T114948Z">
+        <seg>\c咦嘻嘻……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cコホン。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153453Z" creationid="土妹子" creationdate="20150105T153453Z">
@@ -33162,6 +33170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161516Z" creationid="UUZ" creationdate="20140908T054806Z">
         <seg>\p和小伙伴们　经过休息恢复了精神！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pたちは元気になった……？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150131T114940Z" creationid="土妹子" creationdate="20150131T114940Z">
+        <seg>\p们变得精神了……？</seg>
       </tuv>
     </tu>
     <tu>
