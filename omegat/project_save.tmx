@@ -29886,6 +29886,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cどうです？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150131T143214Z" creationid="土妹子" creationdate="20150131T143214Z">
+        <seg>\c这样如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cどうなってもかまわないと言うのであれば 私は止めないから。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155847Z" creationid="土妹子" creationdate="20150105T155847Z">
@@ -40002,6 +40010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161739Z" creationid="UUZ" creationdate="20141224T161739Z">
         <seg>阿燐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お疲れのようですね……？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150131T143209Z" creationid="土妹子" creationdate="20150131T143209Z">
+        <seg>看起来很累了呢……？</seg>
       </tuv>
     </tu>
     <tu>
