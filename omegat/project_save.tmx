@@ -39638,6 +39638,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おやおや 人間さん……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150131T115018Z" creationid="土妹子" creationdate="20150131T115018Z">
+        <seg>哎呀哎呀，人类……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おやすみぃ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T025405Z" creationid="妄想" creationdate="20150107T025405Z">
@@ -41722,6 +41730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084125Z" creationid="妄想" creationdate="20150110T084046Z">
         <seg>咕呜···呼 终于吃完了···\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ごちそうさまです……</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150131T115010Z" creationid="土妹子" creationdate="20150131T115010Z">
+        <seg>多谢美味的款待……</seg>
       </tuv>
     </tu>
     <tu>
