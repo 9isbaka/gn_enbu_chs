@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39070,6 +39070,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うさうさウサギが現れた！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152615Z" creationid="UUZ" creationdate="20150130T152615Z">
+        <seg>うさうさウサギが現れた！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うちの姫と ある者の 喧嘩の仲裁。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T022058Z" creationid="土妹子" creationdate="20150107T022058Z">
@@ -39538,6 +39546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T165447Z" creationid="土妹子" creationdate="20150102T165447Z">
         <seg>野丫头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おとうとと一緒に遊んでるの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152614Z" creationid="UUZ" creationdate="20150130T152614Z">
+        <seg>おとうとと一緒に遊んでるの！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42030,6 +42046,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さっきから妹様の楽しそうな声が聞こえる……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152608Z" creationid="UUZ" creationdate="20150130T152608Z">
+        <seg>さっきから妹様の楽しそうな声が聞こえる……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さっきまで寝てたじゃないかって？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153655Z" creationid="土妹子" creationdate="20150105T153655Z">
@@ -43742,6 +43766,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ちぇっ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152616Z" creationid="UUZ" creationdate="20150130T152616Z">
+        <seg>ちぇっ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ちぇん</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140655Z" creationid="UUZ" creationdate="20140904T140655Z">
@@ -43938,6 +43970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T023449Z" creationid="土妹子" creationdate="20150110T023449Z">
         <seg>等等！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>っちぇー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152613Z" creationid="UUZ" creationdate="20150130T152613Z">
+        <seg>っちぇー。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52112,6 +52152,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>タケノコの数がヒントうさ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152617Z" creationid="UUZ" creationdate="20150130T152617Z">
+        <seg>タケノコの数がヒントうさ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>タケノコ定食！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T034641Z" creationid="妄想" creationdate="20150110T034641Z">
@@ -52492,6 +52540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063211Z" creationid="妄想" creationdate="20150107T062900Z">
         <seg>有看到琪露诺酱她们吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ツァトゥ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152604Z" creationid="UUZ" creationdate="20150130T152604Z">
+        <seg>ツァトゥ</seg>
       </tuv>
     </tu>
     <tu>
@@ -59760,6 +59816,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>俺は人間なんだ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152612Z" creationid="UUZ" creationdate="20150130T152612Z">
+        <seg>俺は人間なんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>個体ランクは完全にランダムで決定される事ぐらいかしら。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172311Z" creationid="土妹子" creationdate="20150109T172311Z">
@@ -61700,6 +61764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T085343Z" creationid="妄想" creationdate="20150103T085343Z">
         <seg>你也能在这里多休息一下就好了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>君らも試して見るといいんよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152618Z" creationid="UUZ" creationdate="20150130T152618Z">
+        <seg>君らも試して見るといいんよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74652,6 +74724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T121931Z" creationid="土妹子" creationdate="20150109T121931Z">
         <seg>用我的力量让你退场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私の担当箇所で好き勝手はさせません！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152607Z" creationid="UUZ" creationdate="20150130T152607Z">
+        <seg>私の担当箇所で好き勝手はさせません！</seg>
       </tuv>
     </tu>
     <tu>
