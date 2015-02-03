@@ -43470,6 +43470,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それではいきますわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T041218Z" creationid="妄想" creationdate="20150203T041218Z">
+        <seg>那么下次再见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それで何かご用？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153551Z" creationid="土妹子" creationdate="20150105T153551Z">
@@ -47372,6 +47380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035344Z" creationid="土妹子" creationdate="20150105T035344Z">
         <seg>欢迎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ようこそおいでなさいました。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T041207Z" creationid="妄想" creationdate="20150203T041207Z">
+        <seg>欢迎您的光临。</seg>
       </tuv>
     </tu>
     <tu>
