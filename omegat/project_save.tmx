@@ -43800,8 +43800,8 @@
       <tuv lang="JA">
         <seg>ちぇっ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152616Z" creationid="UUZ" creationdate="20150130T152616Z">
-        <seg>ちぇっ。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032201Z" creationid="UUZ" creationdate="20150130T152616Z">
+        <seg>哼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44090,6 +44090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135924Z" creationid="UUZ" creationdate="20140904T135924Z">
         <seg>帝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>てゐさんの人形を持ってると 幸福になる気がする。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032420Z" creationid="妄想" creationdate="20150203T032420Z">
+        <seg>帝小姐的人形有着幸福的感觉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44598,6 +44606,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どこいくの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032240Z" creationid="妄想" creationdate="20150203T032240Z">
+        <seg>去哪啊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どこか目指してるのかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T104128Z" creationid="妄想" creationdate="20150103T104128Z">
@@ -44634,6 +44650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T154351Z" creationid="UUZ" creationdate="20140908T154351Z">
         <seg>是哪里的语言吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どこへ行っても同じだよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032309Z" creationid="妄想" creationdate="20150203T032309Z">
+        <seg>无论去哪都一样哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52210,8 +52234,8 @@
       <tuv lang="JA">
         <seg>タケノコの数がヒントうさ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152617Z" creationid="UUZ" creationdate="20150130T152617Z">
-        <seg>タケノコの数がヒントうさ！</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T031907Z" creationid="UUZ" creationdate="20150130T152617Z">
+        <seg>提示：竹笋的数目！</seg>
       </tuv>
     </tu>
     <tu>
@@ -71296,6 +71320,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>永遠亭に行きたいうさ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T031813Z" creationid="妄想" creationdate="20150203T031813Z">
+        <seg>想到永远亭去吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>永遠亭は里の南を道なりに進むと見える竹林の中にあります。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T140455Z" creationid="土妹子" creationdate="20150106T140455Z">
@@ -78880,6 +78912,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>迷った時は戻ることも大事だよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032339Z" creationid="妄想" creationdate="20150203T032339Z">
+        <seg>迷茫的时候回头看看也很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>迷ってしまったよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035858Z" creationid="UUZ" creationdate="20141230T143153Z">
@@ -79080,6 +79120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>通っていいよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032209Z" creationid="妄想" creationdate="20150203T032209Z">
+        <seg>可以通过了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>通りすがった人を毒で操ることもある。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T021158Z" creationid="土妹子" creationdate="20150116T021158Z">
@@ -79252,6 +79300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T025340Z" creationid="土妹子" creationdate="20150110T025340Z">
         <seg>你来陪我玩了，所以把这个给你哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>遊んでくれたらヒントあげるうさ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T031917Z" creationid="妄想" creationdate="20150203T031838Z">
+        <seg>一起玩就告诉你提示！</seg>
       </tuv>
     </tu>
     <tu>
