@@ -41486,6 +41486,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この霧 心地よくて好きなの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035134Z" creationid="妄想" creationdate="20150203T035134Z">
+        <seg>这雾真舒服，我喜欢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この頃お空での弾幕ごっこ見なくなったなぁ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T111252Z" creationid="妄想" creationdate="20150103T111252Z">
@@ -42032,8 +42040,8 @@
       <tuv lang="JA">
         <seg>さあ おらの人形たちよもう一仕事だべ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133030Z" creationid="UUZ" creationdate="20150112T133030Z">
-        <seg>さあ おらの人形たちよもう一仕事だべ。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T034808Z" creationid="UUZ" creationdate="20150112T133030Z">
+        <seg>嗯 我所有的人形都在工作哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44040,8 +44048,8 @@
       <tuv lang="JA">
         <seg>っちぇー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152613Z" creationid="UUZ" creationdate="20150130T152613Z">
-        <seg>っちぇー。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035050Z" creationid="UUZ" creationdate="20150130T152613Z">
+        <seg>真的~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45746,8 +45754,8 @@
       <tuv lang="JA">
         <seg>ふふっ 私の人形とアンタの人形 どっちが強いか比べっこ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133029Z" creationid="UUZ" creationdate="20150112T133029Z">
-        <seg>ふふっ 私の人形とアンタの人形 どっちが強いか比べっこ！</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T034915Z" creationid="UUZ" creationdate="20150112T133029Z">
+        <seg>哈哈 我的人形和你的人形比，到底谁更强呢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -52636,6 +52644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135651Z" creationid="UUZ" creationdate="20140904T135651Z">
         <seg>琪露诺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>チルノちゃん 最強って言ってたのに……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035336Z" creationid="妄想" creationdate="20150203T035336Z">
+        <seg>琪露诺酱最强了的说......。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64240,6 +64256,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>嫌な事も隠してくれる……霧が好きなの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035209Z" creationid="妄想" creationdate="20150203T035209Z">
+        <seg>讨厌的事物也被隐藏了......我喜欢这雾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>嫌よ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T031043Z" creationid="土妹子" creationdate="20150109T031043Z">
@@ -66096,6 +66120,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>弾幕ごっこなら負けないしー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035102Z" creationid="妄想" creationdate="20150203T035102Z">
+        <seg>弹幕游戏不会输了~。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>弾幕ごっこにしか興味ないんだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T020725Z" creationid="妄想" creationdate="20150107T020725Z">
@@ -67020,6 +67052,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040441Z" creationid="UUZ" creationdate="20140908T040441Z">
         <seg>战斗的入门书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戦うよね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035026Z" creationid="妄想" creationdate="20150203T035026Z">
+        <seg>战斗吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戦う？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035016Z" creationid="妄想" creationdate="20150203T035016Z">
+        <seg>战斗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戦え！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035031Z" creationid="妄想" creationdate="20150203T035031Z">
+        <seg>战吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -69132,6 +69188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065115Z" creationid="土妹子" creationdate="20150101T065115Z">
         <seg>回复最大ＨＰ的一半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最強の妖精を持つ私も最強！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035236Z" creationid="妄想" creationdate="20150203T035236Z">
+        <seg>拥有最强的妖精的我也是最强的！</seg>
       </tuv>
     </tu>
     <tu>
@@ -78416,6 +78480,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>誰？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035010Z" creationid="妄想" creationdate="20150203T035010Z">
+        <seg>谁？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>調べていらっしゃると。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050504Z" creationid="土妹子" creationdate="20150105T050448Z">
@@ -78900,6 +78972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022911Z" creationid="土妹子" creationdate="20141231T022911Z">
         <seg>轰震之刈安</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>農作業も人形が手伝ってくれて助かるよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T034848Z" creationid="妄想" creationdate="20150203T034848Z">
+        <seg>农活也有人形帮忙 真是太感谢了。</seg>
       </tuv>
     </tu>
     <tu>
