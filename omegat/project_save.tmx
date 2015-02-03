@@ -39574,6 +39574,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おどろきました？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025420Z" creationid="妄想" creationdate="20150203T025420Z">
+        <seg>被吓到了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おはようございますっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T062208Z" creationid="土妹子" creationdate="20150109T062208Z">
@@ -44542,6 +44550,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どうも幽霊です。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025409Z" creationid="妄想" creationdate="20150203T025409Z">
+        <seg>真的是幽灵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どうも最近小さい勇儀さんがそこらへんを走り回ってるらしいぜ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T082558Z" creationid="妄想" creationdate="20150108T082547Z">
@@ -45788,6 +45804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055937Z" creationid="UUZ" creationdate="20140909T154128Z">
         <seg>我会击垮你的，放马过来吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ぷかぷか浮いてるだけで楽しいんよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025939Z" creationid="妄想" creationdate="20150203T025939Z">
+        <seg>吧嗒吧嗒的漂浮着很开心哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61810,8 +61834,8 @@
       <tuv lang="JA">
         <seg>君らも試して見るといいんよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152618Z" creationid="UUZ" creationdate="20150130T152618Z">
-        <seg>君らも試して見るといいんよ。</seg>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025951Z" creationid="UUZ" creationdate="20150130T152618Z">
+        <seg>你也试试看吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78940,6 +78964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T163747Z" creationid="土妹子" creationdate="20150108T163747Z">
         <seg>这帮家伙跑的真快呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>逆に驚いてしまいました！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025800Z" creationid="妄想" creationdate="20150203T025800Z">
+        <seg>反过来被吓了一跳！</seg>
       </tuv>
     </tu>
     <tu>
