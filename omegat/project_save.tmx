@@ -35086,6 +35086,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>……冗談よ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124734Z" creationid="土妹子" creationdate="20150216T124734Z">
+        <seg>……开玩笑的哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>……君 よくここの瘴気に耐えられるね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135454Z" creationid="UUZ" creationdate="20150110T135454Z">
@@ -37618,6 +37626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144714Z" creationid="UUZ" creationdate="20140824T144714Z">
         <seg>你的名字是？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あなたの好きな楽器は何かしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124637Z" creationid="土妹子" creationdate="20150216T124637Z">
+        <seg>你喜欢的乐器是什么呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -43734,6 +43750,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>たくさんの人形がいてパーティを考えるのも楽しいよね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124436Z" creationid="土妹子" creationdate="20150216T124436Z">
+        <seg>有了大量的人形，思考编队也很有乐趣呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>たくさん本が入っている！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074850Z" creationid="妄想" creationdate="20150110T074850Z">
@@ -46540,6 +46564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T085311Z" creationid="妄想" creationdate="20150110T085311Z">
         <seg>再一起玩吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また今度勝負する時は 負けないから！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124631Z" creationid="土妹子" creationdate="20150216T124631Z">
+        <seg>再次对决的时候，我可不会再输了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -54312,6 +54344,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ボクの人形とキミの人形 どっちが強いか勝負しよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124555Z" creationid="土妹子" creationdate="20150216T124555Z">
+        <seg>来比试一下我的人形和你的人形哪边更强吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ボックスの名前は？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144823Z" creationid="UUZ" creationdate="20140824T144823Z">
@@ -58648,6 +58688,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形勝負は誰でもウェルカムだい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124757Z" creationid="土妹子" creationdate="20150216T124757Z">
+        <seg>人形对决无论是谁都ｗｅｌｃｏｍｅ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形図鑑</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154053Z" creationid="土妹子" creationdate="20150102T154053Z">
@@ -59436,6 +59484,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T032847Z" creationid="土妹子" creationdate="20150110T032847Z">
         <seg>虽然是佛的人形的一种，但是因为额头上的１根角，容易被误认为是鬼的人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>仏教になんか負けないんだから！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124516Z" creationid="土妹子" creationdate="20150216T124516Z">
+        <seg>所以不会输给佛教什么的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>仏教の力こそ 最強！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124523Z" creationid="土妹子" creationdate="20150216T124523Z">
+        <seg>说到底还是佛教的力量最强！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62092,6 +62156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124125Z" creationid="土妹子" creationdate="20150216T124125Z">
         <seg>我对你非常感兴趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>君の人形達はどんな集まりなのかな？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124349Z" creationid="土妹子" creationdate="20150216T124349Z">
+        <seg>你的人形们收集到什么程度了？</seg>
       </tuv>
     </tu>
     <tu>
@@ -65556,6 +65628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115829Z" creationid="土妹子" creationdate="20150119T115829Z">
         <seg>经常和布都人形一起行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>希望の力がたりなかったかな？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124813Z" creationid="土妹子" creationdate="20150216T124813Z">
+        <seg>希望之力不够吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -75240,6 +75320,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私は……人間かじる時の音が好き！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124729Z" creationid="土妹子" creationdate="20150216T124729Z">
+        <seg>我喜欢……啃咬人类时候的声音！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私はいいから 早くあの人形を追いなさい！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T031125Z" creationid="土妹子" creationdate="20150109T031125Z">
@@ -79288,6 +79376,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>迷ったお前がここで負けたら ここで私に食べられて？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124855Z" creationid="土妹子" creationdate="20150216T124855Z">
+        <seg>迷路的你在这里输掉的话，就会在这里被我吃掉哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>迷ったの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124836Z" creationid="土妹子" creationdate="20150216T124836Z">
+        <seg>迷路了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>迷った時は戻ることも大事だよね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032339Z" creationid="妄想" creationdate="20150203T032339Z">
@@ -79868,6 +79972,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032315Z" creationid="土妹子" creationdate="20150109T032315Z">
         <seg>讨厌被当做道具对待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>道教になんか負けないんだから！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124533Z" creationid="土妹子" creationdate="20150216T124533Z">
+        <seg>所以不会输给道教什么的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>道教の力こそ 最強！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124450Z" creationid="土妹子" creationdate="20150216T124450Z">
+        <seg>说到底还是道教的力量最强！</seg>
       </tuv>
     </tu>
     <tu>
