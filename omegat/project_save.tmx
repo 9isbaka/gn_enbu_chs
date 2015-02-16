@@ -39790,6 +39790,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>およよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T132043Z" creationid="土妹子" creationdate="20150216T132043Z">
+        <seg>哦哟哟？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おーい でておいでー。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T061234Z" creationid="妄想" creationdate="20150103T061234Z">
@@ -58908,6 +58916,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110451Z" creationid="妄想" creationdate="20150103T110451Z">
         <seg>人形使吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形遣いさんですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T132053Z" creationid="土妹子" creationdate="20150216T132053Z">
+        <seg>你是人形使吗？</seg>
       </tuv>
     </tu>
     <tu>
