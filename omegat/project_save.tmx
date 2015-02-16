@@ -41462,6 +41462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この洞窟は複雑だから一気に奥まで行こうとすると大変だよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T134034Z" creationid="土妹子" creationdate="20150216T134034Z">
+        <seg>因为这个洞窟很复杂，一口气走到深处会很累人的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この異変に何かしら関係があるのかしらね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T032625Z" creationid="妄想" creationdate="20150103T032625Z">
@@ -43750,6 +43758,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そんなに急いで何処行くの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T134104Z" creationid="土妹子" creationdate="20150216T134104Z">
+        <seg>这么着急是要去哪里？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そんなに焦らなくても私に任せておけばすぐに戻れるさ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T041854Z" creationid="UUZ" creationdate="20140908T094834Z">
@@ -44006,6 +44022,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ちゃんと準備できてるみたいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T134053Z" creationid="土妹子" creationdate="20150216T134053Z">
+        <seg>看样子已经认真准备好了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ちゆり</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135439Z" creationid="UUZ" creationdate="20140904T135439Z">
@@ -44146,6 +44170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T055159Z" creationid="妄想" creationdate="20150107T055159Z">
         <seg>感觉有些难以理解呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ちょっと落ち着いて本でも読まない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T134115Z" creationid="土妹子" creationdate="20150216T134115Z">
+        <seg>不稍微冷静一下读读书吗？</seg>
       </tuv>
     </tu>
     <tu>
