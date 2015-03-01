@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40542,6 +40542,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>こ これはっ……大福っ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150216T124054Z" creationid="UUZ" creationdate="20150216T124054Z">
+        <seg>こ これはっ……大福っ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>こ これはスターの作戦だから 私のせいじゃないわよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T161039Z" creationid="土妹子" creationdate="20150109T161039Z">
@@ -62768,6 +62776,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>回り過ぎて目が回った……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150216T124052Z" creationid="UUZ" creationdate="20150216T124052Z">
+        <seg>回り過ぎて目が回った……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>回復</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T132241Z" creationid="土妹子" creationdate="20141230T132241Z">
@@ -70796,6 +70812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115718Z" creationid="土妹子" creationdate="20150119T115718Z">
         <seg>擅长装死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>死んでるから何も怖くないぜー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150216T124051Z" creationid="UUZ" creationdate="20150216T124051Z">
+        <seg>死んでるから何も怖くないぜー！</seg>
       </tuv>
     </tu>
     <tu>
