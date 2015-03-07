@@ -42654,6 +42654,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>じゃあ私と一戦交えようじゃないか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150307T120837Z" creationid="土妹子" creationdate="20150307T120837Z">
+        <seg>那不和我来打一场吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>すいか</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140033Z" creationid="UUZ" creationdate="20140904T140033Z">
@@ -62972,6 +62980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T085125Z" creationid="妄想" creationdate="20150108T085125Z">
         <seg>地底也可以看到人形战斗的场景哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地底に観光かい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150307T120823Z" creationid="土妹子" creationdate="20150307T120823Z">
+        <seg>要去地底观光啥的？</seg>
       </tuv>
     </tu>
     <tu>
