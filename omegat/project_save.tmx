@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42312,8 +42312,8 @@
       <tuv lang="JA">
         <seg>さっきから妹様の楽しそうな声が聞こえる……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152608Z" creationid="UUZ" creationdate="20150130T152608Z">
-        <seg>さっきから妹様の楽しそうな声が聞こえる……。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150407T062838Z" creationid="UUZ" creationdate="20150130T152608Z">
+        <seg>从刚才开始就一直听到妹妹大人好像很开心的声音……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76482,8 +76482,8 @@
       <tuv lang="JA">
         <seg>素晴らしい腕前ですね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084345Z" creationid="UUZ" creationdate="20150315T084345Z">
-        <seg>素晴らしい腕前ですね！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150407T062739Z" creationid="UUZ" creationdate="20150315T084345Z">
+        <seg>实力不错嘛！</seg>
       </tuv>
     </tu>
     <tu>
