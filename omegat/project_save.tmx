@@ -41376,8 +41376,8 @@
       <tuv lang="JA">
         <seg>この先は通さないよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133026Z" creationid="UUZ" creationdate="20150112T133026Z">
-        <seg>この先は通さないよ。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150407T063548Z" creationid="UUZ" creationdate="20150112T133026Z">
+        <seg>此路不通啦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47308,6 +47308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T013930Z" creationid="土妹子" creationdate="20150110T013930Z">
         <seg>如果你对紫大人有危害的话，我是不会原谅你的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もし出会ったら 逃げた方が良いと思いますわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150407T063531Z" creationid="140706inu" creationdate="20150407T063531Z">
+        <seg>万一遇上的话，我觉得还是逃走比较好哦。</seg>
       </tuv>
     </tu>
     <tu>
