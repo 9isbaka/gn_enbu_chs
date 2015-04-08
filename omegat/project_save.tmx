@@ -41142,6 +41142,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここを紅魔館と知ってのこと？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T162456Z" creationid="140706inu" creationdate="20150408T162456Z">
+        <seg>你知道这里是红魔馆吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここを通りたいなら 君の人形ちょうだいっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032927Z" creationid="土妹子" creationdate="20150109T032927Z">
@@ -59316,6 +59324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T030923Z" creationid="土妹子" creationdate="20150117T030923Z">
         <seg>虽然是以人类为范本的人形，但是和妖怪的关系好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間が自ら来るだなんて。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T162427Z" creationid="140706inu" creationdate="20150408T162427Z">
+        <seg>人类自己跑到这来算什么事儿。</seg>
       </tuv>
     </tu>
     <tu>
