@@ -37422,6 +37422,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あぁ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T163806Z" creationid="140706inu" creationdate="20150408T163806Z">
+        <seg>啊啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ああ いえ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112550Z" creationid="UUZ" creationdate="20140908T112550Z">
@@ -39552,8 +39560,8 @@
       <tuv lang="JA">
         <seg>おうチミィ…ワタシが勝ったら掃除手伝いたまえよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T160554Z" creationid="140706inu" creationdate="20150408T160554Z">
-        <seg>おうチミィ…要是我赢了你们可要帮忙打扫哦！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T163742Z" creationid="140706inu" creationdate="20150408T160554Z">
+        <seg>喔我说你…要是我赢了你可要帮忙打扫哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -43450,6 +43458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T141036Z" creationid="土妹子" creationdate="20150106T141013Z">
         <seg>那里无论如何都拜托了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そこ走らないでー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T163855Z" creationid="140706inu" creationdate="20150408T163855Z">
+        <seg>不许在那边奔跑—！</seg>
       </tuv>
     </tu>
     <tu>
@@ -75874,8 +75890,8 @@
       <tuv lang="JA">
         <seg>私の担当箇所で好き勝手はさせません！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T153520Z" creationid="UUZ" creationdate="20150130T152607Z">
-        <seg>只要在我看管的地盘上就别想任性妄为！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T163615Z" creationid="UUZ" creationdate="20150130T152607Z">
+        <seg>只要在我负责的范围就别想任性妄为！</seg>
       </tuv>
     </tu>
     <tu>
