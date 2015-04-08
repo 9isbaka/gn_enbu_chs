@@ -39206,6 +39206,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うわぁん！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T153526Z" creationid="140706inu" creationdate="20150408T153526Z">
+        <seg>呜哇！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うわっ手に負えないです！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084242Z" creationid="UUZ" creationdate="20150315T084242Z">
@@ -47972,6 +47980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T014525Z" creationid="妄想" creationdate="20150107T014525Z">
         <seg>啊 我什么都没看见！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わ 私は戦うの苦手なの……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T153132Z" creationid="140706inu" creationdate="20150408T153132Z">
+        <seg>我 我不擅长战斗啦……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75738,8 +75754,8 @@
       <tuv lang="JA">
         <seg>私の担当箇所で好き勝手はさせません！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152607Z" creationid="UUZ" creationdate="20150130T152607Z">
-        <seg>私の担当箇所で好き勝手はさせません！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T153520Z" creationid="UUZ" creationdate="20150130T152607Z">
+        <seg>只要在我看管的地盘上就别想任性妄为！</seg>
       </tuv>
     </tu>
     <tu>
