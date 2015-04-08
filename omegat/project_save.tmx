@@ -66688,6 +66688,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>広くてお掃除が終わらないの……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T161952Z" creationid="140706inu" creationdate="20150408T161952Z">
+        <seg>屋子太大了打扫起来根本没完没了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>広範囲に 拡がる ビームを\n相手に 放って 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014147Z" creationid="UUZ" creationdate="20140904T153150Z">
@@ -71698,8 +71706,8 @@
       <tuv lang="JA">
         <seg>気合い入れると変な言葉尻になるの…。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084335Z" creationid="UUZ" creationdate="20150315T084335Z">
-        <seg>気合い入れると変な言葉尻になるの…。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T161912Z" creationid="UUZ" creationdate="20150315T084335Z">
+        <seg>一兴奋起来语尾就变奇怪了…。</seg>
       </tuv>
     </tu>
     <tu>
