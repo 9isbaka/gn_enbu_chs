@@ -37744,8 +37744,8 @@
       <tuv lang="JA">
         <seg>あなたも掃除しなくちゃね？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T155703Z" creationid="140706inu" creationdate="20150408T155703Z">
-        <seg>你也别想逃掉扫除哦？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T155730Z" creationid="140706inu" creationdate="20150408T155703Z">
+        <seg>你也别想翘班逃掉扫除哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -76668,6 +76668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T135746Z" creationid="土妹子" creationdate="20150101T135746Z">
         <seg>结晶化魔力的碎片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>結構 身綺麗にしてるのね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T160105Z" creationid="140706inu" creationdate="20150408T160105Z">
+        <seg>你呀 穿着挺得体嘛。</seg>
       </tuv>
     </tu>
     <tu>
