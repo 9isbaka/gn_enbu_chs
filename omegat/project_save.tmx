@@ -42310,6 +42310,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>さあ あなたの人形を掃除しますわ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T162107Z" creationid="140706inu" creationdate="20150408T162107Z">
+        <seg>好 这就把你的人形给扫除掉！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さあ おらの人形たちよもう一仕事だべ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T034808Z" creationid="UUZ" creationdate="20150112T133030Z">
@@ -75792,6 +75800,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私の人形が掃除されてしまったわ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T162129Z" creationid="140706inu" creationdate="20150408T162129Z">
+        <seg>我的人形被扫除掉了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私の人形たちいつも喧嘩してるけど相性がよくないのかな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T125716Z" creationid="土妹子" creationdate="20150216T125716Z">
@@ -78116,6 +78132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T072002Z" creationid="UUZ" creationdate="20140908T072002Z">
         <seg>自己也有人形的话，也是可以对抗的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自動で掃除してる機械を河童が売ってるって聞いたけど……本当かしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T162035Z" creationid="140706inu" creationdate="20150408T162035Z">
+        <seg>听说河童有在卖能自动扫除的机器……是真的吗？</seg>
       </tuv>
     </tu>
     <tu>
