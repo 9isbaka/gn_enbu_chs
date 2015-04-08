@@ -38630,6 +38630,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あーんまたお掃除しないとー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T163937Z" creationid="140706inu" creationdate="20150408T163937Z">
+        <seg>啊—扫除还没做呢—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あー・・・もしかして外から来たのか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035533Z" creationid="UUZ" creationdate="20140908T071443Z">
@@ -68232,6 +68240,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>投げナイフの技術は料理の腕に比例するのよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T164303Z" creationid="140706inu" creationdate="20150408T164303Z">
+        <seg>掷小刀的技术和烹饪水平是成正比的哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>投影</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150243Z" creationid="UUZ" creationdate="20150102T150243Z">
@@ -75108,6 +75124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042241Z" creationid="UUZ" creationdate="20140908T042241Z">
         <seg>可以移动到认识的地方的羽翼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>知ってた？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T164319Z" creationid="140706inu" creationdate="20150408T164319Z">
+        <seg>你听说过了？</seg>
       </tuv>
     </tu>
     <tu>
