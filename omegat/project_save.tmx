@@ -39222,6 +39222,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うわぁ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T160638Z" creationid="140706inu" creationdate="20150408T160638Z">
+        <seg>呜哇！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うわっ手に負えないです！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084242Z" creationid="UUZ" creationdate="20150315T084242Z">
@@ -39530,6 +39538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035418Z" creationid="UUZ" creationdate="20140908T070616Z">
         <seg>喂！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おうチミィ…ワタシが勝ったら掃除手伝いたまえよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T160554Z" creationid="140706inu" creationdate="20150408T160554Z">
+        <seg>おうチミィ…要是我赢了你们可要帮忙打扫哦！</seg>
       </tuv>
     </tu>
     <tu>
