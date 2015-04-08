@@ -40774,6 +40774,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここから先は 通しません！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T160732Z" creationid="140706inu" creationdate="20150408T160732Z">
+        <seg>这边禁止通行！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここから先は掃除中！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T040351Z" creationid="妄想" creationdate="20150203T040351Z">
@@ -65364,6 +65372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T123554Z" creationid="土妹子" creationdate="20150109T123554Z">
         <seg>不应对可是不行的，希望她也能考虑下我的辛苦啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>対戦前よりひどくなってるぅー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T160709Z" creationid="140706inu" creationdate="20150408T160709Z">
+        <seg>比对战前还要过分—！</seg>
       </tuv>
     </tu>
     <tu>
