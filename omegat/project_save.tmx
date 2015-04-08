@@ -37342,6 +37342,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あ 貴方の為に言っているんですよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T161022Z" creationid="140706inu" creationdate="20150408T161022Z">
+        <seg>啊 明明是为你好才那么说的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あ…あんまり荒らさないでくださいまし…。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T040415Z" creationid="UUZ" creationdate="20150112T133028Z">
@@ -40786,6 +40794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T040351Z" creationid="妄想" creationdate="20150203T040351Z">
         <seg>这里开始是在打扫中！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここから先は行かせんぞい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T161054Z" creationid="140706inu" creationdate="20150408T161054Z">
+        <seg>前头不能过哦！</seg>
       </tuv>
     </tu>
     <tu>
