@@ -44918,6 +44918,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>どうした人間さん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150409T080002Z" creationid="140706inu" creationdate="20150409T080002Z">
+        <seg>怎么啦，这位人类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>どうしても欲しいの？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T023249Z" creationid="土妹子" creationdate="20150110T023249Z">
@@ -45572,6 +45580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T135552Z" creationid="UUZ" creationdate="20140908T135552Z">
         <seg>为什么我这个伪装成人类的妖怪被发现了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんでこんなところにいるんだい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150409T080026Z" creationid="140706inu" creationdate="20150409T080026Z">
+        <seg>为什么会跑到这种地方来呢？</seg>
       </tuv>
     </tu>
     <tu>
