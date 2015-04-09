@@ -60864,6 +60864,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>僕の戦略とどっちが上かな？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150409T075513Z" creationid="140706inu" creationdate="20150409T075513Z">
+        <seg>和我的战略比起来哪边更胜一筹呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>僕の捕まえた人形と勝負しよう！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084758Z" creationid="妄想" creationdate="20150110T084758Z">
@@ -62684,6 +62692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124125Z" creationid="土妹子" creationdate="20150216T124125Z">
         <seg>我对你非常感兴趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>君の人形バトルの戦略！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150409T075445Z" creationid="140706inu" creationdate="20150409T075445Z">
+        <seg>你的人形对战策略！</seg>
       </tuv>
     </tu>
     <tu>
