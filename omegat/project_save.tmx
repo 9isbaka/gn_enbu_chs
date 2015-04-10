@@ -37678,6 +37678,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたの人形欲しい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101238Z" creationid="140706inu" creationdate="20150410T101238Z">
+        <seg>好想要你的人形！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたの名前は？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144714Z" creationid="UUZ" creationdate="20140824T144714Z">
@@ -39378,6 +39386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T065522Z" creationid="妄想" creationdate="20150112T065522Z">
         <seg>恩~...哈！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>うーん……分かった！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101420Z" creationid="140706inu" creationdate="20150410T101420Z">
+        <seg>唔—嗯……我明白啦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -44578,6 +44594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T023449Z" creationid="土妹子" creationdate="20150110T023449Z">
         <seg>等等！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ちょーだい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101326Z" creationid="140706inu" creationdate="20150410T101326Z">
+        <seg>拜托啦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -58448,6 +58472,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人の人形を取ったらどろぼう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101359Z" creationid="140706inu" creationdate="20150410T101359Z">
+        <seg>拿了别人的人形就是小偷？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人の持ち物を持ち去り 自分の住処へ持ち帰る習性をもつ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030236Z" creationid="土妹子" creationdate="20150110T030236Z">
@@ -64116,6 +64148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034836Z" creationid="土妹子" creationdate="20150110T034836Z">
         <seg>寻找并收集着奇怪的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>変な人間だから変な場所にいるのか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101226Z" creationid="140706inu" creationdate="20150410T101226Z">
+        <seg>本来就是个奇怪的人所以会待在奇怪的地方吗。</seg>
       </tuv>
     </tu>
     <tu>
