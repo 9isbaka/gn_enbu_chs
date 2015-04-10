@@ -39848,8 +39848,8 @@
       <tuv lang="JA">
         <seg>おめかしなら負けてないもんね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084330Z" creationid="UUZ" creationdate="20150315T084330Z">
-        <seg>おめかしなら負けてないもんね。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094714Z" creationid="UUZ" creationdate="20150315T084330Z">
+        <seg>要比打扮我可不会输哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45928,10 +45928,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ねぇねぇ このリボン可愛いでしょ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094636Z" creationid="140706inu" creationdate="20150410T094636Z">
+        <seg>呐呐 这缎带很可爱吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ねぇねぇ 折角だからちょっと私と遊びましょう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012217Z" creationid="土妹子" creationdate="20150110T012217Z">
         <seg>呐呐，难得来了，就稍微和我玩会吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ねぇねぇしってる？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094726Z" creationid="140706inu" creationdate="20150410T094726Z">
+        <seg>呐呐你知道吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -59648,6 +59664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間に瘴気は良くないから さっさと離れなよー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094618Z" creationid="140706inu" creationdate="20150410T094618Z">
+        <seg>瘴气对人类没好处 所以最好尽快离开哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間に見つかった！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133327Z" creationid="土妹子" creationdate="20141230T133327Z">
@@ -69740,6 +69764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T130741Z" creationid="UUZ" creationdate="20140908T130741Z">
         <seg>被遗弃之后，过了多长时间呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>教えてあげよか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094801Z" creationid="140706inu" creationdate="20150410T094801Z">
+        <seg>告诉我嘛！</seg>
       </tuv>
     </tu>
     <tu>
