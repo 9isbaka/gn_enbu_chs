@@ -44150,6 +44150,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そんな能力無いよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100138Z" creationid="140706inu" creationdate="20150410T100124Z">
+        <seg>那种能力我才没有啦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>たいしたことないな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062055Z" creationid="UUZ" creationdate="20140908T062055Z">
@@ -45996,6 +46004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T155925Z" creationid="UUZ" creationdate="20140908T155925Z">
         <seg>呐~爷爷~！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>のりうつってやろうか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095935Z" creationid="140706inu" creationdate="20150410T095935Z">
+        <seg>让我附个身吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61780,6 +61796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T160522Z" creationid="UUZ" creationdate="20140909T160522Z">
         <seg>为了庆祝你的冒险，我就把这辆最新型的自行车转让给你吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>冗談だよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100147Z" creationid="140706inu" creationdate="20150410T100132Z">
+        <seg>开玩笑的啦！</seg>
       </tuv>
     </tu>
     <tu>
