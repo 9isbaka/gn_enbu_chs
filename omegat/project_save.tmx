@@ -35032,8 +35032,8 @@
       <tuv lang="JA">
         <seg>……どうなっても知らないからなー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133011Z" creationid="UUZ" creationdate="20150112T133011Z">
-        <seg>……どうなっても知らないからなー。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T133938Z" creationid="UUZ" creationdate="20150112T133011Z">
+        <seg>……我也不知道会变成什么样呢—。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41574,6 +41574,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この先には守矢神社しか無いよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T134152Z" creationid="140706inu" creationdate="20150410T134152Z">
+        <seg>前头除了守矢神社就没什么东西了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この先に休憩所があるから しっかりと人形を休ませてあげてね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132641Z" creationid="UUZ" creationdate="20140908T132641Z">
@@ -45130,6 +45138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162300Z" creationid="土妹子" creationdate="20150104T162300Z">
         <seg>总之\d就先交给我保管了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>とりあえず今は迷子じゃないみたいね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T134047Z" creationid="140706inu" creationdate="20150410T134047Z">
+        <seg>总之这回似乎并不是迷路了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59824,10 +59840,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人間がなんの用だい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T134210Z" creationid="140706inu" creationdate="20150410T134210Z">
+        <seg>人类来这里有什么事？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間が元になった人形だが 妖怪とは仲が良い。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150117T030923Z" creationid="土妹子" creationdate="20150117T030923Z">
         <seg>虽然是以人类为范本的人形，但是和妖怪的关系好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間が妖怪の山に……？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T134002Z" creationid="140706inu" creationdate="20150410T134002Z">
+        <seg>人类出现在妖怪之山上……？</seg>
       </tuv>
     </tu>
     <tu>
@@ -80968,6 +81000,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>迷ったら面倒だから さっさと帰ってよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T134129Z" creationid="140706inu" creationdate="20150410T134129Z">
+        <seg>万一之后迷路了就麻烦了 还是快回去吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>迷った時は戻ることも大事だよね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032339Z" creationid="妄想" creationdate="20150203T032339Z">
@@ -80996,6 +81036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T085144Z" creationid="妄想" creationdate="20150110T085144Z">
         <seg>迷路的人类被妖怪吃掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>迷子？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T134008Z" creationid="140706inu" creationdate="20150410T134008Z">
+        <seg>迷路了吗？</seg>
       </tuv>
     </tu>
     <tu>
