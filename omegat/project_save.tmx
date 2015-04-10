@@ -59504,6 +59504,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形解放戦線 魔法の森支部へようこそ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100214Z" creationid="140706inu" creationdate="20150410T100214Z">
+        <seg>欢迎来到人形解放战线 魔法森林支部！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形解放戦線ってのはいったいなんなんだい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040835Z" creationid="土妹子" creationdate="20150108T040835Z">
@@ -62660,6 +62668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T081416Z" creationid="UUZ" creationdate="20140908T081147Z">
         <seg>不知道为什么有这么多的数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>参加したのはいいけどやること無いの・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100406Z" creationid="140706inu" creationdate="20150410T100406Z">
+        <seg>要加入我们是很欢迎 可是并没什么工作要做・・・\b</seg>
       </tuv>
     </tu>
     <tu>
