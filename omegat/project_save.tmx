@@ -37742,6 +37742,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたもいかが？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T085701Z" creationid="140706inu" creationdate="20150410T085701Z">
+        <seg>你也要来吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたもどう？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063405Z" creationid="妄想" creationdate="20150103T063405Z">
@@ -49576,6 +49584,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>オーウ なんてこったい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T085644Z" creationid="140706inu" creationdate="20150410T085644Z">
+        <seg>呜—啊 这算什么事儿啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>オートヒーリング</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135055Z" creationid="UUZ" creationdate="20140904T135055Z">
@@ -59364,6 +59380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T033241Z" creationid="土妹子" creationdate="20150110T033241Z">
         <seg>人形自身也能制作坦克进行战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形解放ごっこしてるの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T085654Z" creationid="140706inu" creationdate="20150410T085654Z">
+        <seg>我们在玩人形解放游戏！</seg>
       </tuv>
     </tu>
     <tu>
@@ -71268,6 +71292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T111216Z" creationid="UUZ" creationdate="20140909T155650Z">
         <seg>下次可不能再这样了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次は何して遊ぼうかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T085710Z" creationid="140706inu" creationdate="20150410T085710Z">
+        <seg>下回玩什么好呢？</seg>
       </tuv>
     </tu>
     <tu>
