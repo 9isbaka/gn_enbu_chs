@@ -65856,6 +65856,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>対戦ついでに道を教えてもらえんかのう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100735Z" creationid="140706inu" creationdate="20150410T100735Z">
+        <seg>对战的时候顺便给你指个路如何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>対戦前よりひどくなってるぅー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T160709Z" creationid="140706inu" creationdate="20150408T160709Z">
@@ -81208,6 +81216,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>道に迷ってしまってのう・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100611Z" creationid="140706inu" creationdate="20150410T100611Z">
+        <seg>迷路了呢・・・\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>道を塞いでいる細い木の前で使えば 先に進むことができるの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162002Z" creationid="UUZ" creationdate="20140909T162002Z">
@@ -81308,6 +81324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023912Z" creationid="土妹子" creationdate="20141231T023912Z">
         <seg>达人的格挡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>違う遊びしようかしら。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100557Z" creationid="140706inu" creationdate="20150410T100557Z">
+        <seg>来玩些不一样的东西吧。</seg>
       </tuv>
     </tu>
     <tu>
