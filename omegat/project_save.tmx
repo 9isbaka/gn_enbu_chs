@@ -41206,6 +41206,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここは天狗の領域だ さっさと出ていけ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T133908Z" creationid="140706inu" creationdate="20150410T133908Z">
+        <seg>这里是天狗的领土 马上滚出去！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここは幻想郷につながってる</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035258Z" creationid="土妹子" creationdate="20150105T035258Z">
@@ -46628,6 +46636,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025939Z" creationid="妄想" creationdate="20150203T025939Z">
         <seg>吧嗒吧嗒的漂浮着很开心哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ぷしゅー……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T133850Z" creationid="140706inu" creationdate="20150410T133850Z">
+        <seg>噗咻……。</seg>
       </tuv>
     </tu>
     <tu>
