@@ -35086,6 +35086,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>……コンバンワー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102633Z" creationid="140706inu" creationdate="20150410T102633Z">
+        <seg>……晚 上 好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>……サヨウナラー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102652Z" creationid="140706inu" creationdate="20150410T102652Z">
+        <seg>……再 见 了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>……元々 聖白蓮って住職はさ 人間によって封印されてたらしいんだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T015501Z" creationid="妄想" creationdate="20150105T015501Z">
@@ -53210,8 +53226,8 @@
       <tuv lang="JA">
         <seg>タノシカッタ アリガトウ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133015Z" creationid="UUZ" creationdate="20150112T133015Z">
-        <seg>タノシカッタ アリガトウ。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102620Z" creationid="UUZ" creationdate="20150112T133015Z">
+        <seg>玩 得 很 开 心 谢 谢 你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57100,6 +57116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084601Z" creationid="妄想" creationdate="20150110T084601Z">
         <seg>与我钓起的人形一决胜负吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ワタシ ト イッショ ニ アソボウ ヨ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102544Z" creationid="140706inu" creationdate="20150410T102544Z">
+        <seg>和 我 一 起 玩 吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61284,6 +61308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T081407Z" creationid="妄想" creationdate="20150104T081407Z">
         <seg>我不相信。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>僕は無縁仏でね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102743Z" creationid="140706inu" creationdate="20150410T102743Z">
+        <seg>我就是无缘佛哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73836,6 +73868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155025Z" creationid="UUZ" creationdate="20140824T154945Z">
         <seg>无缘塚,muenzuka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無縁塚に行くのかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102711Z" creationid="140706inu" creationdate="20150410T102711Z">
+        <seg>你要去无缘塚吗？</seg>
       </tuv>
     </tu>
     <tu>
