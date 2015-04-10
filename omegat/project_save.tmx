@@ -38878,6 +38878,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いい眼をしているのね…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104517Z" creationid="140706inu" creationdate="20150410T104517Z">
+        <seg>这双眼睛很不错呢…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いい返事ね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T164859Z" creationid="土妹子" creationdate="20150109T164859Z">
@@ -39314,6 +39322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162128Z" creationid="UUZ" creationdate="20140909T162128Z">
         <seg>如果可以的话，请好好利用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>うらやましい限りだわ…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104544Z" creationid="140706inu" creationdate="20150410T104544Z">
+        <seg>真是羡慕得不得了…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41400,8 +41416,8 @@
       <tuv lang="JA">
         <seg>このへん よく変な物が落ちてるの！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084327Z" creationid="UUZ" creationdate="20150315T084327Z">
-        <seg>このへん よく変な物が落ちてるの！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104626Z" creationid="UUZ" creationdate="20150315T084327Z">
+        <seg>这附近 掉着很古怪的东西！</seg>
       </tuv>
     </tu>
     <tu>
@@ -45636,6 +45652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101150Z" creationid="140706inu" creationdate="20150410T101150Z">
         <seg>原来如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんかないかなー ふんふふーん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104603Z" creationid="140706inu" creationdate="20150410T104603Z">
+        <seg>哪有啦— 呼呼呼—。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59498,8 +59522,8 @@
       <tuv lang="JA">
         <seg>人形勝負はタクティクスよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133014Z" creationid="UUZ" creationdate="20150112T133014Z">
-        <seg>人形勝負はタクティクスよ！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104649Z" creationid="UUZ" creationdate="20150112T133014Z">
+        <seg>人形胜负讲究的是tactics哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -68488,6 +68512,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>戦略は勝敗を分ける最も重要な部分よ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104714Z" creationid="140706inu" creationdate="20150410T104714Z">
+        <seg>战略可是决定胜负的最关键部分哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>戦闘</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152246Z" creationid="UUZ" creationdate="20140906T152246Z">
@@ -74488,6 +74520,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>生きる気力のある眼ね…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104525Z" creationid="140706inu" creationdate="20150410T104525Z">
+        <seg>充满生气的眼睛…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>生命の符</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T005959Z" creationid="UUZ" creationdate="20140908T005959Z">
@@ -76564,6 +76604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063256Z" creationid="妄想" creationdate="20150112T063157Z">
         <seg>我的琪露诺酱冰凉很可爱！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私の人形 とってもかっこいいの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104728Z" creationid="140706inu" creationdate="20150410T104728Z">
+        <seg>我的人形 真是太帅了！</seg>
       </tuv>
     </tu>
     <tu>
