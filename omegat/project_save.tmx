@@ -43062,6 +43062,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ずいぶん変な場所に人間がいるのね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101144Z" creationid="140706inu" creationdate="20150410T101144Z">
+        <seg>人类居然出现在这么奇怪的地方啊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ずいぶん廃れてるわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T130743Z" creationid="UUZ" creationdate="20140908T130655Z">
@@ -45572,6 +45580,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T080741Z" creationid="土妹子" creationdate="20150107T080741Z">
         <seg>原来如此，爱丽丝这么说的……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なるほど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101150Z" creationid="140706inu" creationdate="20150410T101150Z">
+        <seg>原来如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48448,6 +48464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>わしゃ 一勝するまで帰らんぞ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100909Z" creationid="140706inu" creationdate="20150410T100909Z">
+        <seg>老子啊 在拿到一胜之前就没打算回去哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>わたしがリーダーのルーミア！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T142350Z" creationid="UUZ" creationdate="20140909T142247Z">
@@ -48554,8 +48578,8 @@
       <tuv lang="JA">
         <seg>んーなんか あなたと勝負したい気分かな？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133018Z" creationid="UUZ" creationdate="20150112T133018Z">
-        <seg>んーなんか あなたと勝負したい気分かな？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100941Z" creationid="UUZ" creationdate="20150112T133018Z">
+        <seg>嗯—不知怎么的 就是很想和你一决胜负呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73276,6 +73300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T090201Z" creationid="土妹子" creationdate="20150127T090201Z">
         <seg>很介意在满月的时候会变得满身是毛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>満足したわーありがとう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T100952Z" creationid="140706inu" creationdate="20150410T100952Z">
+        <seg>心满意足啦—谢谢你。</seg>
       </tuv>
     </tu>
     <tu>
