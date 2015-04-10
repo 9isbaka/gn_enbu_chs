@@ -48288,6 +48288,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>らんらん♪気分は上々 人形バトル！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101519Z" creationid="140706inu" creationdate="20150410T101519Z">
+        <seg>啦啦啦♪心情超赞 人形对战！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>らんらーららららら♪\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063438Z" creationid="妄想" creationdate="20150103T063438Z">
@@ -53658,8 +53666,8 @@
       <tuv lang="JA">
         <seg>テンション急降下中……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133017Z" creationid="UUZ" creationdate="20150112T133017Z">
-        <seg>テンション急降下中……。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T101558Z" creationid="UUZ" creationdate="20150112T133017Z">
+        <seg>心情飞速低落中……。</seg>
       </tuv>
     </tu>
     <tu>
