@@ -39110,6 +39110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いやっほう！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095307Z" creationid="140706inu" creationdate="20150410T095307Z">
+        <seg>呀嚯！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いよいよ私の出番ね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T141530Z" creationid="UUZ" creationdate="20140909T141530Z">
@@ -73672,6 +73680,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>焦り過ぎて罠にかかる前に叫んじゃった……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095441Z" creationid="140706inu" creationdate="20150410T095441Z">
+        <seg>性子太急 在你掉进陷阱前就喊出声来了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>焼いて食べようなんて考えてないわよね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053738Z" creationid="UUZ" creationdate="20140909T141918Z">
@@ -77476,6 +77492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093827Z" creationid="土妹子" creationdate="20141231T093827Z">
         <seg>纵横无尽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>罠にかかったわねー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095325Z" creationid="140706inu" creationdate="20150410T095325Z">
+        <seg>掉进陷阱啦—！</seg>
       </tuv>
     </tu>
     <tu>
