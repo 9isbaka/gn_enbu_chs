@@ -39272,8 +39272,8 @@
       <tuv lang="JA">
         <seg>う 嘘だよ行っていいよ……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104843Z" creationid="140706inu" creationdate="20150410T104843Z">
-        <seg>いよ……。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T133421Z" creationid="140706inu" creationdate="20150410T104843Z">
+        <seg>开 开玩笑的啦你可以走了……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75016,6 +75016,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>目標発見。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T133429Z" creationid="140706inu" creationdate="20150410T133429Z">
+        <seg>发现目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>目潰し玉</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040313Z" creationid="UUZ" creationdate="20140908T040313Z">
@@ -80092,6 +80100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T155643Z" creationid="土妹子" creationdate="20150108T155643Z">
         <seg>是观光还是？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>観察開始。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T133433Z" creationid="140706inu" creationdate="20150410T133433Z">
+        <seg>开始观察。</seg>
       </tuv>
     </tu>
     <tu>
