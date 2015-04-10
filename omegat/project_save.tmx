@@ -37462,6 +37462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ああん 人形にお説教されちゃう！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104745Z" creationid="140706inu" creationdate="20150410T104745Z">
+        <seg>啊啊 要被人形说教了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あいつらのテキ屋は悪質なんよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150409T170643Z" creationid="140706inu" creationdate="20150409T170643Z">
@@ -39258,6 +39266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T161147Z" creationid="UUZ" creationdate="20140908T161147Z">
         <seg>呜，呜哇哇哇哇人类！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>う 嘘だよ行っていいよ……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104843Z" creationid="140706inu" creationdate="20150410T104843Z">
+        <seg>いよ……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44158,6 +44174,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そんなにいやそうな顔しないで。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104805Z" creationid="140706inu" creationdate="20150410T104805Z">
+        <seg>别摆出那一脸嫌弃的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そんなにここが気に入ったの？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T123031Z" creationid="土妹子" creationdate="20150109T123031Z">
@@ -47604,6 +47628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135655Z" creationid="UUZ" creationdate="20140904T135655Z">
         <seg>美铃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>も もう一戦！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104830Z" creationid="140706inu" creationdate="20150410T104830Z">
+        <seg>再 再来一场！</seg>
       </tuv>
     </tu>
     <tu>
@@ -57740,6 +57772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T095829Z" creationid="土妹子" creationdate="20150101T095829Z">
         <seg>专心致志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>一戦だけ ね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T104819Z" creationid="140706inu" creationdate="20150410T104819Z">
+        <seg>就打一场 怎么样？</seg>
       </tuv>
     </tu>
     <tu>
