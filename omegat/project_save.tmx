@@ -45448,6 +45448,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なにかこの辺にありそうな気がするの！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T092559Z" creationid="140706inu" creationdate="20150410T092559Z">
+        <seg>总觉得好像有什么东西在附近！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なにか企んで・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035645Z" creationid="UUZ" creationdate="20140908T073027Z">
@@ -46196,6 +46204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112854Z" creationid="UUZ" creationdate="20140909T161552Z">
         <seg>呼…… 是叫\p吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ふう…この辺は空気が汚いな…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T092522Z" creationid="140706inu" creationdate="20150410T092522Z">
+        <seg>呼…这一带的空气好差…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60352,6 +60368,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>体の強い子だね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T092533Z" creationid="140706inu" creationdate="20150410T092533Z">
+        <seg>真是健壮的孩子呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>体力があっても スキルが出せなくなってしまうからの。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T043315Z" creationid="妄想" creationdate="20150103T043315Z">
@@ -62924,6 +62948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032712Z" creationid="妄想" creationdate="20150203T032712Z">
         <seg>你在担心着啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>君は大丈夫なのかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T092527Z" creationid="140706inu" creationdate="20150410T092527Z">
+        <seg>你没事吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -76186,8 +76218,8 @@
       <tuv lang="JA">
         <seg>私のひまわりひねっちゃだめぇ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133020Z" creationid="UUZ" creationdate="20150112T133020Z">
-        <seg>私のひまわりひねっちゃだめぇ！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T092512Z" creationid="UUZ" creationdate="20150112T133020Z">
+        <seg>不许掐我的向日葵—！</seg>
       </tuv>
     </tu>
     <tu>
@@ -76226,8 +76258,8 @@
       <tuv lang="JA">
         <seg>私の人形でひねりつぶしてあげるわ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T091736Z" creationid="140706inu" creationdate="20150410T091736Z">
-        <seg>乖乖被我的人形捻碎吧！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T092501Z" creationid="140706inu" creationdate="20150410T091736Z">
+        <seg>乖乖被我的人形掐碎吧！</seg>
       </tuv>
     </tu>
     <tu>
