@@ -47456,6 +47456,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>むー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095027Z" creationid="140706inu" creationdate="20150410T095027Z">
+        <seg>唔—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>めいら</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T135415Z" creationid="UUZ" creationdate="20140904T135415Z">
@@ -48460,6 +48468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T140025Z" creationid="UUZ" creationdate="20140909T140025Z">
         <seg>哇哇！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わーいわーい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095011Z" creationid="140706inu" creationdate="20150410T095011Z">
+        <seg>哇—啊哇—啊！</seg>
       </tuv>
     </tu>
     <tu>
@@ -60682,8 +60698,8 @@
       <tuv lang="JA">
         <seg>何言うか忘れちゃった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084330Z" creationid="UUZ" creationdate="20150315T084330Z">
-        <seg>何言うか忘れちゃった！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094918Z" creationid="UUZ" creationdate="20150315T084330Z">
+        <seg>忘记到底要说什么了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -66152,6 +66168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>少しぐらい手ー抜きなさいよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095210Z" creationid="140706inu" creationdate="20150410T095210Z">
+        <seg>也稍微放点水嘛！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>少し休んでいきますか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T094234Z" creationid="土妹子" creationdate="20150106T094234Z">
@@ -69772,6 +69796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094801Z" creationid="140706inu" creationdate="20150410T094801Z">
         <seg>告诉我嘛！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>教えてくれない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T094933Z" creationid="140706inu" creationdate="20150410T094933Z">
+        <seg>不能告诉我吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -76156,6 +76188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060609Z" creationid="UUZ" creationdate="20140908T060609Z">
         <seg>与我一决胜负吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私と遊ぼ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T095017Z" creationid="140706inu" creationdate="20150410T095017Z">
+        <seg>来和我玩吧！</seg>
       </tuv>
     </tu>
     <tu>
