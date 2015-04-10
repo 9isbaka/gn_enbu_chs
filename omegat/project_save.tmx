@@ -43510,6 +43510,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そこからの奇襲！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102102Z" creationid="140706inu" creationdate="20150410T102102Z">
+        <seg>从那里发动奇袭！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そこそこの値段で売れる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T142405Z" creationid="UUZ" creationdate="20140907T142122Z">
@@ -62256,6 +62264,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>勝てる！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102112Z" creationid="140706inu" creationdate="20150410T102112Z">
+        <seg>赢了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>勾玉</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T141435Z" creationid="UUZ" creationdate="20140907T141435Z">
@@ -73140,6 +73156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T113626Z" creationid="UUZ" creationdate="20140906T113626Z">
         <seg>投掷泥团子攻击对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>泥沼大変そうね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102033Z" creationid="140706inu" creationdate="20150410T102033Z">
+        <seg>泥潭看起来真是麻烦呢。</seg>
       </tuv>
     </tu>
     <tu>
