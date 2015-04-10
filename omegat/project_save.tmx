@@ -70432,6 +70432,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>時間は有限 だから思いっきり楽しい勝負しましょ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102400Z" creationid="140706inu" creationdate="20150410T102400Z">
+        <seg>人生短暂 所以尽情去愉快地对战吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>時間を操る程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T134214Z" creationid="土妹子" creationdate="20150112T134214Z">
@@ -73148,6 +73156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135500Z" creationid="UUZ" creationdate="20150110T135500Z">
         <seg>泥だらけになっちゃったー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>泥にまみれたよ…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102202Z" creationid="140706inu" creationdate="20150410T102202Z">
+        <seg>弄得满身是泥了…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80292,6 +80308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T103452Z" creationid="土妹子" creationdate="20150106T103452Z">
         <seg>输掉了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>負けちゃったけど いい時間過ごせたわ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T102443Z" creationid="140706inu" creationdate="20150410T102443Z">
+        <seg>虽然是输掉了 但这场打得很愉快！</seg>
       </tuv>
     </tu>
     <tu>
