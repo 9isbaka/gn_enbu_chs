@@ -69680,6 +69680,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>敵襲！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T075554Z" creationid="140706inu" creationdate="20150410T075554Z">
+        <seg>敌袭！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>文</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161601Z" creationid="UUZ" creationdate="20141224T161601Z">
@@ -74148,6 +74156,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T170336Z" creationid="土妹子" creationdate="20150109T170336Z">
         <seg>解决异变辛苦了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>疑いに疑ってこそ良い発明品は出来るのさ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T075543Z" creationid="140706inu" creationdate="20150410T075543Z">
+        <seg>只有对疑点不断探根究底才能做出优秀的发明啊。</seg>
       </tuv>
     </tu>
     <tu>
