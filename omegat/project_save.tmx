@@ -37238,6 +37238,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>『人間の人形遣い 山で暴れまわる！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T033252Z" creationid="140706inu" creationdate="20150411T033252Z">
+        <seg>『人类人形使 上山耀武扬威！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>『封印の糸』\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T162824Z" creationid="UUZ" creationdate="20140908T162824Z">
@@ -38974,6 +38982,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いきますよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T032915Z" creationid="140706inu" creationdate="20150411T032915Z">
+        <seg>要上咯！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いく</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140227Z" creationid="UUZ" creationdate="20140904T140227Z">
@@ -39306,6 +39322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T021852Z" creationid="妄想" creationdate="20150107T021852Z">
         <seg>不需要吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いらんかねー 河童特注ミサイルはいらんかねー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T032740Z" creationid="140706inu" creationdate="20150411T032740Z">
+        <seg>不来一发吗—河童特别订制导弹不来一发吗—。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41346,6 +41370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T025134Z" creationid="土妹子" creationdate="20150110T025134Z">
         <seg>到了这里就是说，已经和早苗和神奈子玩过了吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここまで来るなんて相当な達人と見ました！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T032909Z" creationid="140706inu" creationdate="20150411T032909Z">
+        <seg>能一路前进到这里可真是个不得了的高手呢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61280,6 +61312,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使用後の責任は一切負う気は無いよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T032833Z" creationid="140706inu" creationdate="20150411T032833Z">
+        <seg>使用造成的一切后果我们概不负责哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>侍女</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145543Z" creationid="UUZ" creationdate="20140906T145543Z">
@@ -72024,6 +72064,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>次のタイトルはこれかな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T033338Z" creationid="140706inu" creationdate="20150411T033338Z">
+        <seg>下回的标题就这么写吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>次のターン反動で動けない</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T141548Z" creationid="UUZ" creationdate="20140904T141501Z">
@@ -75036,6 +75084,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040907Z" creationid="UUZ" creationdate="20140908T084122Z">
         <seg>为了解决异变而出去了……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>異変中の為 警備強化中です！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T033452Z" creationid="140706inu" creationdate="20150411T033452Z">
+        <seg>异变期间 警备加强中！</seg>
       </tuv>
     </tu>
     <tu>
