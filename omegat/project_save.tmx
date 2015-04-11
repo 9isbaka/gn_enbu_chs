@@ -39534,6 +39534,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うーん そんな警戒しなくても。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T135117Z" creationid="140706inu" creationdate="20150411T135117Z">
+        <seg>唔—嗯 也不用那么警惕吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うーん なかなかキュートなお人形さんね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T141831Z" creationid="140706inu" creationdate="20150410T141831Z">
@@ -44802,6 +44810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T024102Z" creationid="土妹子" creationdate="20150110T024102Z">
         <seg>你们稍微有点烦人哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ちょっとお付き合い願えるかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T135047Z" creationid="140706inu" creationdate="20150411T135047Z">
+        <seg>能否陪我一遭呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -84188,6 +84204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084354Z" creationid="妄想" creationdate="20150110T084354Z">
         <seg>糕点怎么样？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>首も人形も置いていかないわよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134938Z" creationid="140706inu" creationdate="20150411T134938Z">
+        <seg>把脑袋和人形都留下 不许过去啦！</seg>
       </tuv>
     </tu>
     <tu>
