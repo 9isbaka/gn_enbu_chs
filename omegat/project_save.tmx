@@ -39686,6 +39686,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>えっと・・・『まにゅある』によると人形遣いを見つけたら襲い掛かる・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134203Z" creationid="140706inu" creationdate="20150411T134203Z">
+        <seg>呃・・・按照『操作指南』的记载 发现人形使的时候就要发起袭击・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>えーそれ文々。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T142529Z" creationid="UUZ" creationdate="20140908T142529Z">
@@ -41578,6 +41586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150307T120338Z" creationid="土妹子" creationdate="20150307T120338Z">
         <seg>不喝一下这个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>このあとどうすれば…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134238Z" creationid="140706inu" creationdate="20150411T134238Z">
+        <seg>变成这样以后要怎么办啊…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44510,6 +44526,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ただで通れると思った？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134401Z" creationid="140706inu" creationdate="20150411T134401Z">
+        <seg>你以为能平安无事地通过吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ただ転生するだけだと個体ランクは完全にランダムで決まる……ってのはさっき教えたわね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172357Z" creationid="土妹子" creationdate="20150109T172357Z">
@@ -46532,6 +46556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T161551Z" creationid="土妹子" creationdate="20150109T161551Z">
         <seg>哈哈，果然很强呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>はわわ…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134215Z" creationid="140706inu" creationdate="20150411T134215Z">
+        <seg>啊哇哇…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58940,6 +58972,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152022Z" creationid="UUZ" creationdate="20140908T033148Z">
         <seg>人形的木牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形おいてけー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134547Z" creationid="140706inu" creationdate="20150411T134547Z">
+        <seg>乖乖把人形留下—！</seg>
       </tuv>
     </tu>
     <tu>
@@ -72548,6 +72588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T105820Z" creationid="土妹子" creationdate="20150109T105820Z">
         <seg>可惜，向前面前进是不允许的哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>残念 人形解放戦線よ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134501Z" creationid="140706inu" creationdate="20150411T134501Z">
+        <seg>非常抱歉 人形解放战线在此！</seg>
       </tuv>
     </tu>
     <tu>
