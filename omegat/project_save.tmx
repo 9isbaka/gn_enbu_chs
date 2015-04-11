@@ -37566,6 +37566,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あっ あなた人形遣いね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130550Z" creationid="140706inu" creationdate="20150411T130550Z">
+        <seg>啊 你是人形使啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あっ 負けちゃった……あ 違う違う！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T161739Z" creationid="UUZ" creationdate="20140908T161739Z">
@@ -37882,6 +37890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012202Z" creationid="土妹子" creationdate="20150110T012202Z">
         <seg>你也真是闲呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あなたも聞いてみる？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130534Z" creationid="140706inu" creationdate="20150411T130534Z">
+        <seg>你也要听听看吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -42504,16 +42520,16 @@
       <tuv lang="JA">
         <seg>ご飯って歩くの？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T034008Z" creationid="140706inu" creationdate="20150411T034008Z">
-        <seg>要去吃饭吗？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130130Z" creationid="140706inu" creationdate="20150411T034008Z">
+        <seg>会走路的食物吗？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>ご飯？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T033953Z" creationid="140706inu" creationdate="20150411T033953Z">
-        <seg>饭？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130107Z" creationid="140706inu" creationdate="20150411T033953Z">
+        <seg>也就是食物？</seg>
       </tuv>
     </tu>
     <tu>
@@ -43962,6 +43978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T145311Z" creationid="土妹子" creationdate="20150108T145311Z">
         <seg>在那其中似乎也有被厌恶和避讳的家伙们被放逐到的地方哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>その人形を手放しなさい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130737Z" creationid="140706inu" creationdate="20150411T130737Z">
+        <seg>请把那些人形放走！</seg>
       </tuv>
     </tu>
     <tu>
@@ -72280,6 +72304,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>歩くご飯の癖に強い！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130341Z" creationid="140706inu" creationdate="20150411T130341Z">
+        <seg>明明只是走地的食物却意外的强！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>歴史を食べる（隠す）程度の能力と 歴史を創る程度の能力。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T145525Z" creationid="土妹子" creationdate="20150113T145525Z">
@@ -77132,6 +77164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063256Z" creationid="妄想" creationdate="20150112T063157Z">
         <seg>我的琪露诺酱冰凉很可爱！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私のミスティア 夜は子守唄歌ってくれるのよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T130525Z" creationid="140706inu" creationdate="20150411T130525Z">
+        <seg>我的米斯蒂娅 到了晚上就会唱起摇篮曲哦！</seg>
       </tuv>
     </tu>
     <tu>
