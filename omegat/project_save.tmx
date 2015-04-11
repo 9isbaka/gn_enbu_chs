@@ -39390,6 +39390,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ううっ 負けたものは潔く人形を手放すのよ……\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T133221Z" creationid="140706inu" creationdate="20150411T133221Z">
+        <seg>呜呜 输掉的一方就要痛痛快快地把人形放走……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うさうさウサギが現れた！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152615Z" creationid="UUZ" creationdate="20150130T152615Z">
@@ -48252,6 +48260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062405Z" creationid="UUZ" creationdate="20140908T062405Z">
         <seg>终于起来了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やっぱやーだー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T133248Z" creationid="140706inu" creationdate="20150411T133248Z">
+        <seg>我—不—要—嘛—！</seg>
       </tuv>
     </tu>
     <tu>
