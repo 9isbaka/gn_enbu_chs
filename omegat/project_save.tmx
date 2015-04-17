@@ -44230,6 +44230,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>その元気が眩しいねぇ……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T133904Z" creationid="140706inu" creationdate="20150417T133904Z">
+        <seg>那份活力真是炫目啊……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>その元気のままでおるんじゃよ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032909Z" creationid="妄想" creationdate="20150203T032909Z">
@@ -63464,6 +63472,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>勝負のあとに甘味物はいかがですかー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T134042Z" creationid="140706inu" creationdate="20150417T134042Z">
+        <seg>战斗结束以后来吃甜点吗—。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>勝負を舐めてしまった……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T144541Z" creationid="140706inu" creationdate="20150410T144541Z">
@@ -75940,6 +75956,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060733Z" creationid="UUZ" creationdate="20140908T060733Z">
         <seg>甜食怎么样？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>甘味物はいかがですかー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T134025Z" creationid="140706inu" creationdate="20150417T134025Z">
+        <seg>来吃甜点吗—。</seg>
       </tuv>
     </tu>
     <tu>
