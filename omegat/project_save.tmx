@@ -44110,6 +44110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>その鞄の中にある数々の発明品 泣かせちゃ駄目だよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T101229Z" creationid="140706inu" creationdate="20150417T101229Z">
+        <seg>那个包里装着好多的发明品 你可别浪费了它们害它们伤心哭泣哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>その顔見るあたり いつものねつ造かな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T085441Z" creationid="妄想" creationdate="20150105T085441Z">
@@ -46708,6 +46716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T163441Z" creationid="UUZ" creationdate="20140906T150107Z">
         <seg>焦点般的家伙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ふっ 哀しいね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T101550Z" creationid="140706inu" creationdate="20150417T101550Z">
+        <seg>呼 真遗憾呢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -60536,6 +60552,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>今の時代 弾幕ごっこだって道具を使うんだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T100617Z" creationid="140706inu" creationdate="20150417T100617Z">
+        <seg>当今的时代 就算是弹幕游戏也少不了要使用道具哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>今の状態を記録します。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144639Z" creationid="UUZ" creationdate="20140824T144639Z">
@@ -63748,6 +63772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T092527Z" creationid="140706inu" creationdate="20150410T092527Z">
         <seg>你没事吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>君は道具を上手く使ってるかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T100912Z" creationid="140706inu" creationdate="20150417T100912Z">
+        <seg>你能够得心应手地使用道具吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -71356,6 +71388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T084757Z" creationid="妄想" creationdate="20150108T084757Z">
         <seg>最近很热闹啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最速の種族が使う人形は 負けず劣らず速いのさ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T101514Z" creationid="140706inu" creationdate="20150417T101514Z">
+        <seg>最高速种族所使役的人形 自然与主人一样迅捷！</seg>
       </tuv>
     </tu>
     <tu>
@@ -79792,6 +79832,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>良い尻子玉の匂いがしたんだがね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T100244Z" creationid="140706inu" creationdate="20150417T100244Z">
+        <seg>虽然你身上是带着很不错的尻子玉的味道啦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>良かったわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162858Z" creationid="土妹子" creationdate="20150104T162858Z">
@@ -82180,6 +82228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T135946Z" creationid="土妹子" creationdate="20150108T135946Z">
         <seg>这个就在道具的重要物品里面，请从那里选择并使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>道具を制す者が勝負を制す！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T100650Z" creationid="140706inu" creationdate="20150417T100650Z">
+        <seg>掌握了道具就等于掌握了胜负！</seg>
       </tuv>
     </tu>
     <tu>
