@@ -39086,6 +39086,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いっちょ勝負すっかい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124248Z" creationid="140706inu" creationdate="20150417T124248Z">
+        <seg>来一场胜负哇！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いつかお手合わせしたいものじゃのう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143854Z" creationid="UUZ" creationdate="20140908T143854Z">
@@ -40098,6 +40106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035602Z" creationid="UUZ" creationdate="20140908T072016Z">
         <seg>不过你的话……\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おめぇさんも人形遣いかい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124053Z" creationid="140706inu" creationdate="20150417T124053Z">
+        <seg>你也是人形使哇？</seg>
       </tuv>
     </tu>
     <tu>
@@ -54528,6 +54544,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ナァナァ オレトアソンデイコウゼ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124716Z" creationid="140706inu" creationdate="20150417T124716Z">
+        <seg>喂 喂 和 我 一 起 玩 吧 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ナイフはもうっ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T153406Z" creationid="土妹子" creationdate="20150105T153356Z">
@@ -55692,6 +55716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141433Z" creationid="UUZ" creationdate="20140906T141433Z">
         <seg>淤泥球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ヘヘッ タノシカッタゼ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124737Z" creationid="140706inu" creationdate="20150417T124737Z">
+        <seg>嘿 嘿 好 开 心 呀 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -60200,6 +60232,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形バトルしに来たのかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124443Z" creationid="140706inu" creationdate="20150417T124443Z">
+        <seg>是来进行人形对战的吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形バトルって難しくてよく分からないのよー。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T030119Z" creationid="妄想" creationdate="20150107T030119Z">
@@ -60492,6 +60532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062911Z" creationid="妄想" creationdate="20150112T062911Z">
         <seg>人类居然在这种地方！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間がこんな所に何の用？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124425Z" creationid="140706inu" creationdate="20150417T124425Z">
+        <seg>人类来这种地方做什么？</seg>
       </tuv>
     </tu>
     <tu>
@@ -65116,6 +65164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034836Z" creationid="土妹子" creationdate="20150110T034836Z">
         <seg>寻找并收集着奇怪的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>変な人ね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124447Z" creationid="140706inu" creationdate="20150417T124447Z">
+        <seg>怪人呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71700,6 +71756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T110533Z" creationid="妄想" creationdate="20150103T110533Z">
         <seg>最近人形存在的风景也看腻了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最近じゃあ戦いと言ったら人形バトルばかりになってしまったねぃ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T124412Z" creationid="140706inu" creationdate="20150417T124412Z">
+        <seg>这阵子只要说起战斗 百分百都是人形对战呢。</seg>
       </tuv>
     </tu>
     <tu>
