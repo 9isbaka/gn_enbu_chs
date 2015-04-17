@@ -35110,6 +35110,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>……ダレ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T132035Z" creationid="140706inu" creationdate="20150417T132035Z">
+        <seg>…… 你 是 谁 ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>……元々 聖白蓮って住職はさ 人間によって封印されてたらしいんだ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T015501Z" creationid="妄想" creationdate="20150105T015501Z">
@@ -39422,6 +39430,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うう・・・ゾンビに扮してるのはいいけど こう暑いとメイクが・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131923Z" creationid="140706inu" creationdate="20150417T131923Z">
+        <seg>呜呜・・・虽然扮成僵尸很棒 但是这么热的话妆就要掉了・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うさうさウサギが現れた！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152615Z" creationid="UUZ" creationdate="20150130T152615Z">
@@ -40438,6 +40454,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お前のようなやつが生前いてくれれば……！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131336Z" creationid="140706inu" creationdate="20150417T131336Z">
+        <seg>要是我生前能像你这样……！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お前も人形遣いだな！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132658Z" creationid="UUZ" creationdate="20140908T132658Z">
@@ -41270,6 +41294,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここに居るやつは生前昔悪いことしたやつらなんだぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T130709Z" creationid="140706inu" creationdate="20150417T130709Z">
+        <seg>住在这里的都是些生前作恶的家伙嘛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここに居る奴ぁどいつもこいつもんな奴ばっかりだしねぇ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T082853Z" creationid="妄想" creationdate="20150108T082853Z">
@@ -41562,6 +41594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032927Z" creationid="土妹子" creationdate="20150109T032927Z">
         <seg>想要通过这里的话，就把你的人形交出来！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここを通りたければ俺を倒してから行くんだな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131158Z" creationid="140706inu" creationdate="20150417T131158Z">
+        <seg>想从此路过除非打倒我！</seg>
       </tuv>
     </tu>
     <tu>
@@ -43338,6 +43378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150307T120837Z" creationid="土妹子" creationdate="20150307T120837Z">
         <seg>那不和我来打一场吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>じーっ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T130953Z" creationid="140706inu" creationdate="20150417T130953Z">
+        <seg>盯—。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47056,6 +47104,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ふよよんふよよーん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131717Z" creationid="140706inu" creationdate="20150417T131717Z">
+        <seg>飘忽忽飘忽忽—。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ふよよんよーん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131727Z" creationid="140706inu" creationdate="20150417T131727Z">
+        <seg>飘忽忽忽—。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ふわぁ 暇だ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082532Z" creationid="妄想" creationdate="20150105T082532Z">
@@ -47124,6 +47188,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T055937Z" creationid="UUZ" creationdate="20140909T154128Z">
         <seg>我会击垮你的，放马过来吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ぷいっ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131005Z" creationid="140706inu" creationdate="20150417T131005Z">
+        <seg>噗咿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49904,6 +49976,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>アーソーボー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131026Z" creationid="140706inu" creationdate="20150417T131015Z">
+        <seg>来 — 玩 — 吧 — ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>アーマーパージ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092115Z" creationid="土妹子" creationdate="20141231T092115Z">
@@ -50416,6 +50496,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>オラー タチサレー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131759Z" creationid="140706inu" creationdate="20150417T131759Z">
+        <seg>哈 呀 — 滚 出 去 —！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>オリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T171412Z" creationid="土妹子" creationdate="20150102T171412Z">
@@ -50524,6 +50612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T162710Z" creationid="土妹子" creationdate="20150109T162710Z">
         <seg>你这样的全能王牌总觉得很嫉妒啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オ前モ此処デ一緒ニ苦シミ続ケロ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T130853Z" creationid="140706inu" creationdate="20150417T130853Z">
+        <seg>你 也 一 起 留 在 此 地 忍 受 痛 苦 吧 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -51228,6 +51324,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T174340Z" creationid="土妹子" creationdate="20150102T174340Z">
         <seg>九重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>コスプレよ この服。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T132123Z" creationid="140706inu" creationdate="20150417T132123Z">
+        <seg>是COSPLAY啦 这身衣服。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56808,6 +56912,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>モウチョットユックリシテイケヨ ナ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131134Z" creationid="140706inu" creationdate="20150417T131134Z">
+        <seg>慢 点 走 不 行 嘛 ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>モウヤダ人間コワイ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T130948Z" creationid="140706inu" creationdate="20150417T130948Z">
+        <seg>已 经 够 了 人 类 好 可 怕 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>モウ光ヲ見ル事ハ叶ワヌノカ……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T123413Z" creationid="140706inu" creationdate="20150417T123413Z">
@@ -56908,6 +57028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T170316Z" creationid="土妹子" creationdate="20150102T170316Z">
         <seg>弥生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ヤーラーレーター。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T132104Z" creationid="140706inu" creationdate="20150417T132104Z">
+        <seg>被 — 干 — 掉 — 了 — 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61656,6 +61784,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何回でも復活するゾンビと妖精は相性が良いと思うの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T132028Z" creationid="140706inu" creationdate="20150417T132028Z">
+        <seg>能无限次复活的僵尸和妖精总觉得很般配呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何度だってお相手をしてあげるわっ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T122831Z" creationid="土妹子" creationdate="20150109T122831Z">
@@ -62028,6 +62164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172311Z" creationid="土妹子" creationdate="20150109T172311Z">
         <seg>个体等级则应该是完全随机决定的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>倒されても倒されても復活するわ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131945Z" creationid="140706inu" creationdate="20150417T131945Z">
+        <seg>无论被击倒几次都会复活！</seg>
       </tuv>
     </tu>
     <tu>
@@ -68440,6 +68584,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>強い……！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131209Z" creationid="140706inu" creationdate="20150417T131209Z">
+        <seg>好强……！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>強いな おまえ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T062024Z" creationid="UUZ" creationdate="20140908T062024Z">
@@ -72954,8 +73106,16 @@
       <tuv lang="JA">
         <seg>死んでるから何も怖くないぜー！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150216T124051Z" creationid="UUZ" creationdate="20150216T124051Z">
-        <seg>死んでるから何も怖くないぜー！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131357Z" creationid="UUZ" creationdate="20150216T124051Z">
+        <seg>因为已经死掉了所以什么也不怕—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>死人に鞭打ち過ぎぃ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131421Z" creationid="140706inu" creationdate="20150417T131421Z">
+        <seg>你鞭尸鞭的太狠了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -82092,6 +82252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T132439Z" creationid="土妹子" creationdate="20141230T132439Z">
         <seg>辉针城</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>輪廻転生の輪に戻るまでは ずっと暇なのさ……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T130827Z" creationid="140706inu" creationdate="20150417T130827Z">
+        <seg>在重返轮回转生之前 一直是闲得发慌的……。</seg>
       </tuv>
     </tu>
     <tu>
