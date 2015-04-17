@@ -44502,6 +44502,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>そんなに急がんでも 目的は逃げないよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T110225Z" creationid="140706inu" creationdate="20150417T110225Z">
+        <seg>就算不急成那副模样 目的地也不会长脚溜掉呀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>そんなに焦らなくても私に任せておけばすぐに戻れるさ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T041854Z" creationid="UUZ" creationdate="20140908T094834Z">
@@ -44816,8 +44824,8 @@
       <tuv lang="JA">
         <seg>ちょいとじじいに付き合っとくれ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T104545Z" creationid="140706inu" creationdate="20150417T104545Z">
-        <seg>就稍稍陪爷爷一会儿吧。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T105726Z" creationid="140706inu" creationdate="20150417T104545Z">
+        <seg>就停一会儿稍稍陪爷爷吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45826,6 +45834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T031150Z" creationid="土妹子" creationdate="20150109T031150Z">
         <seg>什～么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なあに 単なるお遊びじゃ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T105737Z" creationid="140706inu" creationdate="20150417T105656Z">
+        <seg>没什么 只是陪爷爷玩一玩嘛。</seg>
       </tuv>
     </tu>
     <tu>
