@@ -39462,6 +39462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うふふ 貴方 迷子かしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T113838Z" creationid="140706inu" creationdate="20150417T113838Z">
+        <seg>嗯哼哼 你呀 迷路了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うまく活用してみてちょうだい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T162128Z" creationid="UUZ" creationdate="20140909T162128Z">
@@ -46264,6 +46272,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんでここに居るかは分かりはしねぇが いっちょ戦うか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T113657Z" creationid="140706inu" creationdate="20150417T113657Z">
+        <seg>虽然搞不懂怎么会在这里 不过先来打一场好了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんでこの私が人間に化けている妖怪だと分かったんだ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T135552Z" creationid="UUZ" creationdate="20140908T135552Z">
@@ -46684,6 +46700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160317Z" creationid="UUZ" creationdate="20140904T140422Z">
         <seg>羽立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>はっは 気に入ったぜ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T113759Z" creationid="140706inu" creationdate="20150417T113759Z">
+        <seg>哈哈 我很中意你哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -48620,6 +48644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094435Z" creationid="土妹子" creationdate="20141231T094419Z">
         <seg>运筹帷幄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>やるじゃねぇか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T113721Z" creationid="140706inu" creationdate="20150417T113721Z">
+        <seg>挺厉害的嘛！</seg>
       </tuv>
     </tu>
     <tu>
@@ -63036,6 +63068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T113924Z" creationid="土妹子" creationdate="20150119T113924Z">
         <seg>拥有引导动物的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>勝ったら案内してあげてもいいわよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T113927Z" creationid="140706inu" creationdate="20150417T113927Z">
+        <seg>要是赢了我 可以帮你带路哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -82012,6 +82052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035858Z" creationid="UUZ" creationdate="20141230T143153Z">
         <seg>迷路了啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>迷子じゃない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T113938Z" creationid="140706inu" creationdate="20150417T113938Z">
+        <seg>没迷路啊？</seg>
       </tuv>
     </tu>
     <tu>
