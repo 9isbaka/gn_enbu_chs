@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40646,6 +40646,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お待ちどおさま。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150419T114236Z" creationid="UUZ" creationdate="20150419T114236Z">
+        <seg>お待ちどおさま。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お掃除お掃除楽しいな〜♪\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150108T065251Z" creationid="UUZ" creationdate="20140908T144005Z">
@@ -40810,6 +40818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074225Z" creationid="妄想" creationdate="20150110T074225Z">
         <seg>需要下酒菜的请来一份吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>お金が 足りないじゃない！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150419T114402Z" creationid="UUZ" creationdate="20150419T114402Z">
+        <seg>お金が 足りないじゃない！</seg>
       </tuv>
     </tu>
     <tu>
@@ -46138,6 +46154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042023Z" creationid="UUZ" creationdate="20140908T041614Z">
         <seg>什么人形都可以封印的最高性能的丝线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どんな衣装がいいかしら？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150419T114228Z" creationid="UUZ" creationdate="20150419T114228Z">
+        <seg>どんな衣装がいいかしら？</seg>
       </tuv>
     </tu>
     <tu>
@@ -60612,6 +60636,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062523Z" creationid="妄想" creationdate="20150112T062523Z">
         <seg>用人形的能力消去了声音！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形の衣装は 森の人形師さんに作ってもらってるんですって。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150419T114227Z" creationid="UUZ" creationdate="20150419T114227Z">
+        <seg>人形の衣装は 森の人形師さんに作ってもらってるんですって。</seg>
       </tuv>
     </tu>
     <tu>
