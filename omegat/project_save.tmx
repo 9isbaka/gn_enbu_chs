@@ -37990,6 +37990,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなた持ってる？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150419T091324Z" creationid="140706inu" creationdate="20150419T091324Z">
+        <seg>你有这样的人形吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなた知ってる？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T145410Z" creationid="土妹子" creationdate="20150108T145410Z">
@@ -49612,6 +49620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T023810Z" creationid="土妹子" creationdate="20150110T023810Z">
         <seg>嗯～说起来，神社后面的水井附近掉了什么呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>んー どっかにいないのかなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150419T091424Z" creationid="140706inu" creationdate="20150419T091424Z">
+        <seg>嗯— 哪儿都找不到呢。</seg>
       </tuv>
     </tu>
     <tu>
