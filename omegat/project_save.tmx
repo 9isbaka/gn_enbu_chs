@@ -41502,6 +41502,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここの用事？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150509T104346Z" creationid="140706inu" creationdate="20150509T104346Z">
+        <seg>有何贵干？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここの神様は産業革命に協力的でさ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T143315Z" creationid="妄想" creationdate="20150104T084554Z">
@@ -46098,6 +46106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083942Z" creationid="妄想" creationdate="20150108T083942Z">
         <seg>去哪里了呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>どなた？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150509T104338Z" creationid="140706inu" creationdate="20150509T104338Z">
+        <seg>您哪位？</seg>
       </tuv>
     </tu>
     <tu>
