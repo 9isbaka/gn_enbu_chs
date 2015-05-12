@@ -40190,6 +40190,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>おぬしが来たせいで魚が逃げたじゃないか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T111156Z" creationid="140706inu" creationdate="20150512T111107Z">
+        <seg>你这小鬼一来鱼都要逃走了啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>おねいちゃんと一緒に遊んでるんだ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T033019Z" creationid="妄想" creationdate="20150203T033019Z">
@@ -43432,8 +43440,8 @@
       <tuv lang="JA">
         <seg>しくしく……もっと精進致します。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T092944Z" creationid="140706inu" creationdate="20150512T092944Z">
-        <seg> ……もっと精進致します。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T110938Z" creationid="140706inu" creationdate="20150512T092944Z">
+        <seg> 呜呜……我还要继续修行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44890,6 +44898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T111306Z" creationid="140706inu" creationdate="20150417T111306Z">
         <seg>这么强的话应该没问题啦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>そんなに急いでどこへ行くんだい？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T110950Z" creationid="140706inu" creationdate="20150512T110950Z">
+        <seg>这么急匆匆的是要去哪里呀？</seg>
       </tuv>
     </tu>
     <tu>
@@ -63920,6 +63936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>勝利の定石は先手必勝！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T111700Z" creationid="140706inu" creationdate="20150512T111700Z">
+        <seg>胜利的基础就是先手必胜！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>勝手にもってちゃ怒られちゃうからね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T071413Z" creationid="140706inu" creationdate="20150512T071413Z">
@@ -69640,6 +69664,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>後手必殺……かぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T111715Z" creationid="140706inu" creationdate="20150512T111715Z">
+        <seg>结果是后手必杀……吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>後攻で攻撃した時 スキルの威力が１.３倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093652Z" creationid="土妹子" creationdate="20141231T093652Z">
@@ -69980,6 +70012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T144939Z" creationid="UUZ" creationdate="20140909T144939Z">
         <seg>如我所料，你拥有成为人形使的才能呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>急がば回れって知ってる？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T111004Z" creationid="140706inu" creationdate="20150512T111004Z">
+        <seg>欲速则不达 这话听过吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -75980,6 +76020,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150127T085019Z" creationid="土妹子" creationdate="20150127T085019Z">
         <seg>是无与伦比的妖怪书收藏家，一提到妖怪书的事就在周围找不到了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>焦りは禁物だよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T111013Z" creationid="140706inu" creationdate="20150512T111013Z">
+        <seg>切忌焦躁哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83820,6 +83868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T111725Z" creationid="140706inu" creationdate="20150417T111725Z">
         <seg>适度娱乐放松心情也是很重要的哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>運も逃げてしまったかの…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T111127Z" creationid="140706inu" creationdate="20150512T111127Z">
+        <seg>好运气也逃走了…。</seg>
       </tuv>
     </tu>
     <tu>
