@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="JA">
+        <seg>(次回起動から)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182928Z" creationid="140706inu" creationdate="20150512T182928Z">
+        <seg>(下次启动后生效)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>,NULL,無,炎,水,自然,大地,鋼鉄,風,雷,光,闇,冥,毒,闘,幻,音,幻想</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T161231Z" creationid="UUZ" creationdate="20140824T161231Z">
@@ -31680,8 +31688,8 @@
       <tuv lang="JA">
         <seg>\c美味しかったでしょ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T142002Z" creationid="土妹子" creationdate="20150129T142002Z">
-        <seg>\c很好吃的吧！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182747Z" creationid="土妹子" creationdate="20150129T142002Z">
+        <seg>\c很好吃对吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -33312,8 +33320,8 @@
       <tuv lang="JA">
         <seg>\t で出会った。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T152927Z" creationid="UUZ" creationdate="20140824T144444Z">
-        <seg>\t 处相遇了。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T183435Z" creationid="UUZ" creationdate="20140824T144444Z">
+        <seg>在\t 相遇了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56784,6 +56792,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>プロフィールのお気に入りキャラ表示設定を変更します。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182843Z" creationid="140706inu" creationdate="20150512T182843Z">
+        <seg>变更PROFIRE处喜爱角色的显示设定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ヘイ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T124758Z" creationid="140706inu" creationdate="20150512T124758Z">
@@ -64824,6 +64840,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>半分にすると多少軽くなります。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T183310Z" creationid="140706inu" creationdate="20150512T183310Z">
+        <seg>描画周期设为原值的一半会稍微减轻负荷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>単体での実力はそこまでないが 数が揃うと厄介。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145243Z" creationid="土妹子" creationdate="20150116T145243Z">
@@ -72512,6 +72536,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>描画周期を変更します。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T183126Z" creationid="140706inu" creationdate="20150512T183126Z">
+        <seg>变更描画周期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>揺らすものじゃないわよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T023527Z" creationid="土妹子" creationdate="20150110T023527Z">
@@ -77524,6 +77556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030637Z" creationid="土妹子" creationdate="20150110T030637Z">
         <seg>具备男孩子、女孩子和阴阳玉的形态，发挥出原初之力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>画面サイズ固定の可否を設定します。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182912Z" creationid="140706inu" creationdate="20150512T182912Z">
+        <seg>设定画面大小是否锁定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84210,8 +84250,8 @@
       <tuv lang="JA">
         <seg>近くの向日葵畑でとれた 向日葵の種のお菓子！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150129T142053Z" creationid="土妹子" creationdate="20150129T142038Z">
-        <seg>在附近的向日葵花田采的葵花籽制作的点心！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182736Z" creationid="土妹子" creationdate="20150129T142038Z">
+        <seg>这点心是用附近的向日葵花田出产的瓜子作的！</seg>
       </tuv>
     </tu>
     <tu>
@@ -84834,8 +84874,8 @@
       <tuv lang="JA">
         <seg>運命的な出会いをした。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144400Z" creationid="UUZ" creationdate="20140824T144400Z">
-        <seg>命运般地相遇了。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T183405Z" creationid="UUZ" creationdate="20140824T144400Z">
+        <seg>在命运的指引下相遇了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87434,8 +87474,8 @@
       <tuv lang="JA">
         <seg>魔理沙から借りた。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T144521Z" creationid="UUZ" creationdate="20140824T144521Z">
-        <seg>从魔理沙那借来了。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T183440Z" creationid="UUZ" creationdate="20140824T144521Z">
+        <seg>从魔理沙那里借来了。</seg>
       </tuv>
     </tu>
     <tu>
