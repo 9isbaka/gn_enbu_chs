@@ -49256,6 +49256,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>よくないよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T034930Z" creationid="140706inu" creationdate="20150512T034930Z">
+        <seg>是不对的哦！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>よくわからんな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073931Z" creationid="UUZ" creationdate="20140908T073931Z">
@@ -67004,6 +67012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145750Z" creationid="UUZ" creationdate="20140906T145750Z">
         <seg>妖兽狼女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖精いじめはよくないよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T034925Z" creationid="140706inu" creationdate="20150512T034925Z">
+        <seg>虐待妖精是不对的！</seg>
       </tuv>
     </tu>
     <tu>
