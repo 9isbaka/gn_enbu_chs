@@ -35240,8 +35240,8 @@
       <tuv lang="JA">
         <seg>……驚いた。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T145935Z" creationid="妄想" creationdate="20150104T145935Z">
-        <seg>……惊讶。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165709Z" creationid="妄想" creationdate="20150104T145935Z">
+        <seg>……好惊讶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38690,6 +38690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T132614Z" creationid="140706inu" creationdate="20150417T132614Z">
         <seg>啊呀啊呀？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あれは嘘だ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165432Z" creationid="140706inu" creationdate="20150512T165432Z">
+        <seg>那是骗你的啦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42200,8 +42208,8 @@
       <tuv lang="JA">
         <seg>この先は行き止まりだぜ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135410Z" creationid="UUZ" creationdate="20150110T135410Z">
-        <seg>この先は行き止まりだぜ！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165327Z" creationid="UUZ" creationdate="20150110T135410Z">
+        <seg>前进就到此为止啦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -45454,6 +45462,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ちょっとそこのあなた 私と遊んでかない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170307Z" creationid="140706inu" creationdate="20150512T170307Z">
+        <seg>慢着那边的那位 不和我玩玩吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ちょっと一息 休憩いかがでしょうか。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133749Z" creationid="UUZ" creationdate="20140908T133749Z">
@@ -47052,6 +47068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T031030Z" creationid="土妹子" creationdate="20150108T031030Z">
         <seg>呐，听说过除了灵梦她们以外还有强大的人类吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ねぇ 驚いた？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165459Z" creationid="140706inu" creationdate="20150512T165459Z">
+        <seg>嘿 吓到了？</seg>
       </tuv>
     </tu>
     <tu>
@@ -50792,6 +50816,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ウフフ トーセンボー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165231Z" creationid="140706inu" creationdate="20150512T165231Z">
+        <seg>嗯 哼 哼  铁 板 烧—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ウリア</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T171535Z" creationid="土妹子" creationdate="20150102T171535Z">
@@ -51036,6 +51068,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021423Z" creationid="UUZ" creationdate="20140908T021423Z">
         <seg>玛瑙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オバケが喋るなんてやっぱ驚くよね それでは勝負！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165921Z" creationid="140706inu" creationdate="20150512T165921Z">
+        <seg>撞见妖怪来搭话果然会被吓到呢 那么来一决胜负吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55264,6 +55304,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ドライブって言っても乗り物のれねーや！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170144Z" creationid="140706inu" creationdate="20150512T170144Z">
+        <seg>就算说Drive到头来也没车呀！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ドレインシード</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T093506Z" creationid="UUZ" creationdate="20140906T095015Z">
@@ -56492,6 +56540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T122031Z" creationid="140706inu" creationdate="20150417T122031Z">
         <seg>奇 怪 的 家 伙・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ヘーイ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165944Z" creationid="140706inu" creationdate="20150512T165944Z">
+        <seg>嘿—！</seg>
       </tuv>
     </tu>
     <tu>
@@ -60088,6 +60144,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人の嫌がることをするのがいいんだよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165303Z" creationid="140706inu" creationdate="20150512T165303Z">
+        <seg>别尽是惹人讨厌了行吗！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人の持ち物を持ち去り 自分の住処へ持ち帰る習性をもつ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030236Z" creationid="土妹子" creationdate="20150110T030236Z">
@@ -61372,6 +61436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T121227Z" creationid="UUZ" creationdate="20140908T163203Z">
         <seg>人气稀少的路上要小心啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人生のな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165335Z" creationid="140706inu" creationdate="20150512T165335Z">
+        <seg>你的人生路！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62868,6 +62940,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T141839Z" creationid="140706inu" creationdate="20150410T141839Z">
         <seg>最爱修行和锻炼！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>俺と一緒に洞窟ドライブしない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170114Z" creationid="140706inu" creationdate="20150512T170114Z">
+        <seg>要和我一起去洞窟Drive吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -65186,8 +65266,8 @@
       <tuv lang="JA">
         <seg>君も洞窟好きなのかい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084245Z" creationid="UUZ" creationdate="20150315T084245Z">
-        <seg>君も洞窟好きなのかい？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170156Z" creationid="UUZ" creationdate="20150315T084245Z">
+        <seg>你也喜欢洞窟吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -69544,6 +69624,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>引き返すなら今のうちよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170545Z" creationid="140706inu" creationdate="20150512T170545Z">
+        <seg>要掉头回去就趁现在了哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>弱い私でも 人形と一緒なら戦える！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T061740Z" creationid="妄想" creationdate="20150112T061740Z">
@@ -69820,6 +69908,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060553Z" creationid="UUZ" creationdate="20140908T060553Z">
         <seg>请等一下！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>待って ここらへんは危険よ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170448Z" creationid="140706inu" creationdate="20150512T170448Z">
+        <seg>等一下 这一带很危险哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -74152,6 +74248,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>死んでるからそういうのがわかるの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170430Z" creationid="140706inu" creationdate="20150512T170430Z">
+        <seg>这话什么意思死过一次就明白咯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>死んでるから何も怖くないぜー！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131357Z" creationid="UUZ" creationdate="20150216T124051Z">
@@ -75652,6 +75756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T154943Z" creationid="UUZ" creationdate="20140824T154943Z">
         <seg>洞窟,dokutsu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>洞窟いいよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170206Z" creationid="140706inu" creationdate="20150512T170206Z">
+        <seg>洞窟很棒呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82448,6 +82560,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>行き止まりといったな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165434Z" creationid="140706inu" creationdate="20150512T165425Z">
+        <seg>我说到此为止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>行くのが大変だし色々危険で……\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T122914Z" creationid="UUZ" creationdate="20140908T122914Z">
@@ -86152,6 +86272,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>音の反響とか湿り気とかがさ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170236Z" creationid="140706inu" creationdate="20150512T170236Z">
+        <seg>回声啦湿气啦什么的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>音を反射させる程度の能力を持つ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T114546Z" creationid="土妹子" creationdate="20150119T114546Z">
@@ -86584,6 +86712,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>驚かなかったなんて……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T165938Z" creationid="140706inu" creationdate="20150512T165938Z">
+        <seg>完全没被吓到嘛……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>高い 音域の 声を 発して\n相手を 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014738Z" creationid="UUZ" creationdate="20140907T140832Z">
@@ -86692,6 +86828,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T065518Z" creationid="妄想" creationdate="20150107T065518Z">
         <seg>鬼的住处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>魂がイケメンなのよ あなた。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T170357Z" creationid="140706inu" creationdate="20150512T170357Z">
+        <seg>你啊 有个帅气的灵魂呢。</seg>
       </tuv>
     </tu>
     <tu>
