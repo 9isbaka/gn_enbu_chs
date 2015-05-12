@@ -37926,6 +37926,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたもゾンビになーあれ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T154349Z" creationid="140706inu" creationdate="20150512T154349Z">
+        <seg>你也快给我变成僵尸—吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたも人形も きちんと休めたみたいね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T113026Z" creationid="UUZ" creationdate="20140909T162322Z">
@@ -38962,6 +38970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T065438Z" creationid="妄想" creationdate="20150112T065438Z">
         <seg>啊~好困好困。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あー私の芳香ちゃんがー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T154259Z" creationid="140706inu" creationdate="20150512T154259Z">
+        <seg>啊—我的小芳香—！</seg>
       </tuv>
     </tu>
     <tu>
@@ -49772,6 +49788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053515Z" creationid="UUZ" creationdate="20140909T141209Z">
         <seg>我竟然会输掉……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>わたしに罰が…。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T153946Z" creationid="140706inu" creationdate="20150512T153946Z">
+        <seg>反而是我被惩处了…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60936,6 +60960,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形も腐ってからが可愛いのよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T154249Z" creationid="140706inu" creationdate="20150512T154249Z">
+        <seg>腐掉的人形才最可爱哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形をカケラの状態にして入れておく箱。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T041944Z" creationid="UUZ" creationdate="20140908T041944Z">
@@ -64808,6 +64840,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>可愛さは罪ってやつ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T153959Z" creationid="140706inu" creationdate="20150512T153959Z">
+        <seg>可爱也是罪过吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>台詞</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T023857Z" creationid="土妹子" creationdate="20150110T023857Z">
@@ -66404,6 +66444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T040623Z" creationid="土妹子" creationdate="20150110T040623Z">
         <seg>经常被梦美人形殴打。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>大々的に仮装イベントがやりたいので 良ければ参加してくださいね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T155305Z" creationid="140706inu" creationdate="20150512T155305Z">
+        <seg>我想办个超大型的化装派对 可以的话你也来参加吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -76224,6 +76272,22 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>燃やしつくしてあげますん！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T154120Z" creationid="140706inu" creationdate="20150512T154120Z">
+        <seg>把你燃烧殆尽！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>燃やし尽くされてしまいましたん。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T154142Z" creationid="140706inu" creationdate="20150512T154142Z">
+        <seg>被燃烧殆尽了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>燕の様な 速さで 相手に\n弾幕を 放って 攻撃する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141108T014907Z" creationid="UUZ" creationdate="20140904T144641Z">
@@ -79010,8 +79074,8 @@
       <tuv lang="JA">
         <seg>私の人形で あなたの罪を罰してあげるわ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084310Z" creationid="UUZ" creationdate="20150315T084310Z">
-        <seg>私の人形で あなたの罪を罰してあげるわ！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T153931Z" creationid="UUZ" creationdate="20150315T084310Z">
+        <seg>用我的人形 惩处你的罪恶！</seg>
       </tuv>
     </tu>
     <tu>
