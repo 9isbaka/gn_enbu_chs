@@ -37750,6 +37750,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あなたなら私みたいにはならないわね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171001Z" creationid="140706inu" creationdate="20150512T171001Z">
+        <seg>你是不可能变得像我一样的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あなたに もう片方を止めて欲しいのです。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T024527Z" creationid="土妹子" creationdate="20150107T024527Z">
@@ -37850,6 +37858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T042400Z" creationid="土妹子" creationdate="20150109T042400Z">
         <seg>要测试你的实力……呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あなたの心に解放を！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171031Z" creationid="140706inu" creationdate="20150512T171031Z">
+        <seg>让你的心迎来解放！</seg>
       </tuv>
     </tu>
     <tu>
@@ -38002,6 +38018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T063246Z" creationid="土妹子" creationdate="20150106T063246Z">
         <seg>是不是“有你的感觉”的这种风格？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あなたを通すわけにはいかないのです！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171346Z" creationid="140706inu" creationdate="20150512T171346Z">
+        <seg>不可能让你通过！</seg>
       </tuv>
     </tu>
     <tu>
@@ -39680,8 +39704,8 @@
       <tuv lang="JA">
         <seg>うわっ手に負えないです！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150315T084242Z" creationid="UUZ" creationdate="20150315T084242Z">
-        <seg>うわっ手に負えないです！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171448Z" creationid="UUZ" creationdate="20150315T084242Z">
+        <seg>呜哇 根本挡不住！</seg>
       </tuv>
     </tu>
     <tu>
@@ -39794,6 +39818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T073941Z" creationid="UUZ" creationdate="20140908T073904Z">
         <seg>唔~。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>うーんまあ そんだけなついてれば解放しなくていいんじゃない？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T172212Z" creationid="140706inu" creationdate="20150512T172212Z">
+        <seg>唔嗯—算了 已经变得这么亲密的话不解放也无所谓吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41782,6 +41814,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ここは解放戦線アジトマヨヒガ支部よ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T172538Z" creationid="140706inu" creationdate="20150512T172538Z">
+        <seg>这里是解放战线指挥部 迷途之家支部！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ここは話好きな人たちが集まるから 情報を集めるにはぴったりだよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T142902Z" creationid="UUZ" creationdate="20140908T142902Z">
@@ -41874,6 +41914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032927Z" creationid="土妹子" creationdate="20150109T032927Z">
         <seg>想要通过这里的话，就把你的人形交出来！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ここを通りたくば 人形を置いていくことね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171543Z" creationid="140706inu" creationdate="20150512T171543Z">
+        <seg>要想从此过 留下人形来！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42018,6 +42066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155948Z" creationid="土妹子" creationdate="20150105T155948Z">
         <seg>就这样前进会很辛苦的，所以回复人形这样的事我可以帮你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>このわたくしがこのアジトのボスよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T172329Z" creationid="140706inu" creationdate="20150512T172329Z">
+        <seg>本人便是这个指挥部的BOSS！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42258,6 +42314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T101518Z" creationid="妄想" creationdate="20150103T101518Z">
         <seg>上次被人形袭击真是太倒霉了……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この口上 私が考えたんだけどどう？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171127Z" creationid="140706inu" creationdate="20150512T171127Z">
+        <seg>这登场台词我想的 感觉怎么样？</seg>
       </tuv>
     </tu>
     <tu>
@@ -44718,6 +44782,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それだけ強いならどうです？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171335Z" creationid="140706inu" creationdate="20150512T171312Z">
+        <seg>有了这份实力 你打算做什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それで あなたの目的はなぁに？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T114854Z" creationid="土妹子" creationdate="20150109T114854Z">
@@ -45154,6 +45226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150106T024533Z" creationid="妄想" creationdate="20150106T024533Z">
         <seg>偶尔也会有哦~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>たまに来たお客さんに殲滅されちゃう・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T172645Z" creationid="140706inu" creationdate="20150512T172645Z">
+        <seg>被罕见的客人歼灭了・・・。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46512,6 +46592,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なぜこのアジトがバレたのか 小一時間問い詰めたい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T173134Z" creationid="140706inu" creationdate="20150512T173134Z">
+        <seg>首先我想知道 这个指挥部是怎么暴露的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なにか 欲しい物があるのかい？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T060915Z" creationid="UUZ" creationdate="20140908T060915Z">
@@ -47372,6 +47460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140157Z" creationid="UUZ" creationdate="20140904T140157Z">
         <seg>雏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ひまわりのようにかわいい人形たちは自然に返すべき！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171634Z" creationid="140706inu" creationdate="20150512T171634Z">
+        <seg>如同向日葵一般可爱的人形们必须回到自然的怀抱！</seg>
       </tuv>
     </tu>
     <tu>
@@ -49588,6 +49684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140634Z" creationid="UUZ" creationdate="20140904T140634Z">
         <seg>雷鼓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>らっせらー 人形解放せーやー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T172018Z" creationid="140706inu" creationdate="20150512T172018Z">
+        <seg>交—出来呀— 把人形解放—呀—。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59392,6 +59496,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>一緒にやりません？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171330Z" creationid="140706inu" creationdate="20150512T171330Z">
+        <seg>不一起来大干一场吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>一般人に周りをウロウロされるとね！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T153213Z" creationid="UUZ" creationdate="20140909T153213Z">
@@ -59508,6 +59620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143257Z" creationid="UUZ" creationdate="20140906T143257Z">
         <seg>三号路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>三人しかいないけど細かいことは気にしちゃだめなのよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T172358Z" creationid="140706inu" creationdate="20150512T172358Z">
+        <seg>虽然整个部只有三个人 但是这种小事不要在意啦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61328,6 +61448,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形解放戦線です！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171043Z" creationid="140706inu" creationdate="20150512T171043Z">
+        <seg>我们是人形解放战线！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形解放戦線の</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T135639Z" creationid="UUZ" creationdate="20140910T135639Z">
@@ -61924,6 +62052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T040620Z" creationid="土妹子" creationdate="20150108T040620Z">
         <seg>应该能去到之前过不去的地方吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>今メンバーを募集しています！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171153Z" creationid="140706inu" creationdate="20150512T171153Z">
+        <seg>现在成员募集中！</seg>
       </tuv>
     </tu>
     <tu>
@@ -78952,6 +79088,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>私が自然に還される！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171645Z" creationid="140706inu" creationdate="20150512T171645Z">
+        <seg>我被回归自然了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>私が調べるにしても 時間は掛かってしまいますし。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T152614Z" creationid="土妹子" creationdate="20150105T054749Z">
@@ -79228,6 +79372,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062547Z" creationid="妄想" creationdate="20150112T062547Z">
         <seg>我喜欢胜负！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私のかわいい人形ちゃんになにするのよ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171603Z" creationid="140706inu" creationdate="20150512T171603Z">
+        <seg>你要对我可爱的人形宝宝做什么啊！</seg>
       </tuv>
     </tu>
     <tu>
@@ -83956,6 +84108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T013455Z" creationid="UUZ" creationdate="20140908T013455Z">
         <seg>退场劝告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>退散！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T171530Z" creationid="140706inu" creationdate="20150512T171530Z">
+        <seg>撤退！</seg>
       </tuv>
     </tu>
     <tu>
