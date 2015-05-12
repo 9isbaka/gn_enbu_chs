@@ -41038,6 +41038,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>きょ 今日は調子が悪かったんだ……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023515Z" creationid="140706inu" creationdate="20150512T023515Z">
+        <seg>今 今天我身体有点不舒服……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>きょうこ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140433Z" creationid="UUZ" creationdate="20140904T140433Z">
@@ -63520,6 +63528,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>出口がわからなくなっちゃった・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023547Z" creationid="140706inu" creationdate="20150512T023547Z">
+        <seg>找不到出口了・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>分かるよ 君。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T032006Z" creationid="妄想" creationdate="20150105T032006Z">
@@ -69976,6 +69992,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>意味は無いがとりあえず勝負しろー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023124Z" creationid="140706inu" creationdate="20150512T023124Z">
+        <seg>虽然没什么意义但总之来一决胜负吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>意外と人懐っこい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T163710Z" creationid="土妹子" creationdate="20150116T163710Z">
@@ -75848,6 +75872,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>物事全てのものに意味があるなんて思ってないよね？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023311Z" creationid="140706inu" creationdate="20150512T023311Z">
+        <seg>世间万物都自有存在的意义什么的 根本扯淡不是嘛？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>物部布都</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145055Z" creationid="UUZ" creationdate="20140906T145055Z">
@@ -76356,6 +76388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141523Z" creationid="UUZ" creationdate="20140906T141523Z">
         <seg>生者必衰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>用事って二個重なるとすぐ忘れちゃったりするんだよね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023059Z" creationid="140706inu" creationdate="20150512T023059Z">
+        <seg>预定事项不止一件的时候就很容易忘掉呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78818,8 +78858,8 @@
       <tuv lang="JA">
         <seg>私も君に用あるよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150509T110133Z" creationid="140706inu" creationdate="20150509T110133Z">
-        <seg> 我也？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023021Z" creationid="140706inu" creationdate="20150509T110133Z">
+        <seg>我也有一事相谈哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -82436,6 +82476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163231Z" creationid="UUZ" creationdate="20140908T060642Z">
         <seg>输了啊……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>負けた時の言い訳を考えておくんだね！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023452Z" creationid="140706inu" creationdate="20150512T023452Z">
+        <seg>好好考虑输掉的时候要怎么辩解吧！</seg>
       </tuv>
     </tu>
     <tu>
