@@ -39582,6 +39582,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>うふ うふふ お人形遊び楽しい 楽しいよう。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T150206Z" creationid="140706inu" creationdate="20150512T150206Z">
+        <seg>嘻嘻 嘻嘻嘻 人形游戏真有趣 真有趣呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>うふふ 貴方 迷子かしら？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T113838Z" creationid="140706inu" creationdate="20150417T113838Z">
@@ -47276,6 +47284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140157Z" creationid="UUZ" creationdate="20140904T140157Z">
         <seg>雏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ひまわりの向いた方向にアタック！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T150346Z" creationid="140706inu" creationdate="20150512T150346Z">
+        <seg>对着向日葵的朝向Attack！</seg>
       </tuv>
     </tu>
     <tu>
@@ -59580,6 +59596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143358Z" creationid="UUZ" creationdate="20140906T143358Z">
         <seg>山中洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>中々良い人形をお持ちのようで！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T150022Z" creationid="140706inu" creationdate="20150512T150022Z">
+        <seg>看样子你的人形相当不错嘛！</seg>
       </tuv>
     </tu>
     <tu>
@@ -82972,6 +82996,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T133514Z" creationid="140706inu" creationdate="20150417T133319Z">
         <seg>决不允许败北的战斗 在此展开了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>負けると楽しくないんだよう……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T150223Z" creationid="140706inu" creationdate="20150512T150223Z">
+        <seg>输掉就不那么有趣了……。</seg>
       </tuv>
     </tu>
     <tu>
