@@ -35288,8 +35288,8 @@
       <tuv lang="JA">
         <seg>←人間の里</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024050Z" creationid="UUZ" creationdate="20140908T131659Z">
-        <seg>←人间之里</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="UUZ" creationdate="20140908T131659Z">
+        <seg>←人类村落</seg>
       </tuv>
     </tu>
     <tu>
@@ -35304,16 +35304,16 @@
       <tuv lang="JA">
         <seg>←魔法の森　  →人間の里</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074031Z" creationid="妄想" creationdate="20150110T074031Z">
-        <seg>←魔法之森　  →人间之里</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="妄想" creationdate="20150110T074031Z">
+        <seg>←魔法之森　  →人类村落</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>↑人間の里</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081853Z" creationid="妄想" creationdate="20150110T081853Z">
-        <seg>↑人间之里</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="妄想" creationdate="20150110T081853Z">
+        <seg>↑人类村落</seg>
       </tuv>
     </tu>
     <tu>
@@ -42240,8 +42240,8 @@
       <tuv lang="JA">
         <seg>この先 人間の里</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024112Z" creationid="UUZ" creationdate="20140908T131719Z">
-        <seg>这前面是人间之里</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="UUZ" creationdate="20140908T131719Z">
+        <seg>这前面是人类村落</seg>
       </tuv>
     </tu>
     <tu>
@@ -47514,8 +47514,8 @@
       <tuv lang="JA">
         <seg>はたて</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160317Z" creationid="UUZ" creationdate="20140904T140422Z">
-        <seg>羽立</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115500Z" creationid="UUZ" creationdate="20140904T140422Z">
+        <seg>果</seg>
       </tuv>
     </tu>
     <tu>
@@ -49682,8 +49682,8 @@
       <tuv lang="JA">
         <seg>ようこそ人里へ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024643Z" creationid="UUZ" creationdate="20140908T135244Z">
-        <seg>欢迎来到人间之里！</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="UUZ" creationdate="20140908T135244Z">
+        <seg>欢迎来到人类村落！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61778,8 +61778,8 @@
       <tuv lang="JA">
         <seg>人里から離れれば離れるほど野生の人形も強くなるからね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T071253Z" creationid="妄想" creationdate="20150103T071208Z">
-        <seg>从人间之里离开后，所遇到的人形会变强哦。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="妄想" creationdate="20150103T071208Z">
+        <seg>从人类村落离开后，所遇到的人形会变强哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62010,8 +62010,8 @@
       <tuv lang="JA">
         <seg>人間の里方面↓</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082217Z" creationid="妄想" creationdate="20150110T082217Z">
-        <seg>人间之里方向↓</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="妄想" creationdate="20150110T082217Z">
+        <seg>人类村落方向↓</seg>
       </tuv>
     </tu>
     <tu>
@@ -68018,16 +68018,16 @@
       <tuv lang="JA">
         <seg>姫海棠はたて</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160314Z" creationid="UUZ" creationdate="20140906T145030Z">
-        <seg>姬海棠羽立</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115500Z" creationid="UUZ" creationdate="20140906T145030Z">
+        <seg>姬海棠果</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>姫海棠はたての力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T113820Z" creationid="土妹子" creationdate="20150119T113820Z">
-        <seg>拥有姬海棠羽立的力量的人形。</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115500Z" creationid="土妹子" creationdate="20150119T113820Z">
+        <seg>拥有姬海棠果的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
