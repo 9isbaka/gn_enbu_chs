@@ -30880,8 +30880,8 @@
       <tuv lang="JA">
         <seg>\c使用すると野良人形を封印状態にすることができ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T114238Z" creationid="UUZ" creationdate="20140908T114238Z">
-        <seg>\c使用的话可以使野生人形进入封印状态，</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T084340Z" creationid="UUZ" creationdate="20140908T114238Z">
+        <seg>\c使用后可以使野生人形进入封印状态，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31080,8 +31080,8 @@
       <tuv lang="JA">
         <seg>\c封印の糸は戦闘中の道具メニューから使用できます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131806Z" creationid="UUZ" creationdate="20140908T131806Z">
-        <seg>\c封印之线可以在战斗中的道具菜单中使用。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T084620Z" creationid="UUZ" creationdate="20140908T131806Z">
+        <seg>\c封印之丝可以在战斗中进入道具菜单使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31368,8 +31368,8 @@
       <tuv lang="JA">
         <seg>\c毒状態の人形がもう一度毒を受けると 猛毒になります。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024233Z" creationid="UUZ" creationdate="20140908T131940Z">
-        <seg>\c毒状态的人形再中一次毒就会变成猛毒状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T084651Z" creationid="UUZ" creationdate="20140908T131940Z">
+        <seg>\c处于毒状态中的人形再次中毒就会陷入猛毒状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37288,8 +37288,8 @@
       <tuv lang="JA">
         <seg>『役立ち情報！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T120107Z" creationid="UUZ" creationdate="20140824T161002Z">
-        <seg>『有用的情报！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T084211Z" creationid="UUZ" creationdate="20140824T161002Z">
+        <seg>『重要的资讯！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42368,8 +42368,8 @@
       <tuv lang="JA">
         <seg>この先も人形バトルをしたがってる人がいっぱいいるから 気を付けなよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132357Z" creationid="UUZ" creationdate="20140908T132357Z">
-        <seg>在这前面进行人形战斗的人有很多，要小心哦。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T090201Z" creationid="UUZ" creationdate="20140908T132357Z">
+        <seg>前面有很多拦路等着人形对战的家伙 要小心哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60474,8 +60474,8 @@
       <tuv lang="JA">
         <seg>人の持っている人形には効果がないので注意！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T131839Z" creationid="UUZ" creationdate="20140908T131839Z">
-        <seg>对别人的人形使用是没有效果的，这点请注意！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T084423Z" creationid="UUZ" creationdate="20140908T131839Z">
+        <seg>对有主人的人形使用是无效的，这点请注意！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61788,6 +61788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112646Z" creationid="UUZ" creationdate="20140908T112646Z">
         <seg>从神社出来一直向西前进就能看到人类村落了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人里内部・休憩所</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T090513Z" creationid="140706inu" creationdate="20150515T090513Z">
+        <seg>村落内部・休憩所</seg>
       </tuv>
     </tu>
     <tu>
@@ -64330,8 +64338,8 @@
       <tuv lang="JA">
         <seg>初心者同士 お手合わせしましょ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132549Z" creationid="UUZ" creationdate="20140908T132549Z">
-        <seg>来场初学者之间的互相较量吧！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T090223Z" creationid="UUZ" creationdate="20140908T132549Z">
+        <seg>来场初学者之间的较量吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -75530,8 +75538,8 @@
       <tuv lang="JA">
         <seg>気軽にお寄り下さい。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132137Z" creationid="UUZ" creationdate="20140908T132137Z">
-        <seg>请随意地使用。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T085338Z" creationid="UUZ" creationdate="20140908T132137Z">
+        <seg>使用请自便。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77226,8 +77234,8 @@
       <tuv lang="JA">
         <seg>猛毒状態は普通の毒よりもＨＰが早く減ります！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132026Z" creationid="UUZ" creationdate="20140908T132026Z">
-        <seg>猛毒状态下比普通中毒HP减得要快！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T084819Z" creationid="UUZ" creationdate="20140908T132026Z">
+        <seg>猛毒状态下HP扣减比普通毒状态更快！</seg>
       </tuv>
     </tu>
     <tu>
@@ -77666,8 +77674,8 @@
       <tuv lang="JA">
         <seg>疲れた時は休憩所！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132054Z" creationid="UUZ" creationdate="20140908T132054Z">
-        <seg>疲劳时候的休息处！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T090449Z" creationid="UUZ" creationdate="20140908T132054Z">
+        <seg>疲惫之时的休憩处！</seg>
       </tuv>
     </tu>
     <tu>
@@ -78002,8 +78010,8 @@
       <tuv lang="JA">
         <seg>目線を合わせた時 人形遣いはバトルの合図！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132443Z" creationid="UUZ" creationdate="20140908T132250Z">
-        <seg>视线重合时，就是人形使战斗的信号！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T085459Z" creationid="UUZ" creationdate="20140908T132250Z">
+        <seg>对人形使而言 视线相会便是战斗的信号！</seg>
       </tuv>
     </tu>
     <tu>
