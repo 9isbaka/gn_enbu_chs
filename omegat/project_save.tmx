@@ -46694,14 +46694,6 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>なし</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T131205Z" creationid="UUZ" creationdate="20140824T162237Z">
-        <seg>无</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>なし
 燃え滾る朱</seg>
       </tuv>
@@ -61768,14 +61760,6 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>人里</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143033Z" creationid="UUZ" creationdate="20140906T143033Z">
-        <seg>人类村落</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>人里から離れれば離れるほど野生の人形も強くなるからね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="妄想" creationdate="20150103T071208Z">
@@ -61788,14 +61772,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T112646Z" creationid="UUZ" creationdate="20140908T112646Z">
         <seg>从神社出来一直向西前进就能看到人类村落了！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
-        <seg>人里内部・休憩所</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T090513Z" creationid="140706inu" creationdate="20150515T090513Z">
-        <seg>村落内部・休憩所</seg>
       </tuv>
     </tu>
     <tu>
@@ -75720,14 +75696,6 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>氷の洞窟</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142510Z" creationid="UUZ" creationdate="20140906T142510Z">
-        <seg>冰之洞窟</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>氷の洞窟,korinodokutsu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155042Z" creationid="UUZ" creationdate="20140824T154952Z">
@@ -80588,14 +80556,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150116T145349Z" creationid="土妹子" creationdate="20150116T145349Z">
         <seg>看到红叶就会很高兴。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
-        <seg>紅魔館</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142516Z" creationid="UUZ" creationdate="20140906T142516Z">
-        <seg>红魔馆</seg>
       </tuv>
     </tu>
     <tu>
@@ -85700,14 +85660,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T091912Z" creationid="UUZ" creationdate="20140906T091912Z">
         <seg>间歇泉</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
-        <seg>間欠泉地下センター</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20141230T121840Z" creationid="UUZ" creationdate="20140906T142804Z">
-        <seg>间歇泉地下中心</seg>
       </tuv>
     </tu>
     <tu>
