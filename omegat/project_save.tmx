@@ -38918,6 +38918,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんたら人間からしたら気味悪ぃ場所かもしれんが 良い奴らだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190212Z" creationid="CJ" creationdate="20150521T190212Z">
+        <seg>在你们人类看来可能是不舒服的地方，不过她们都是好人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんた見たところ人間かい。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083336Z" creationid="妄想" creationdate="20150108T083336Z">
@@ -41502,6 +41510,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>こいつを守れねぇ奴が旧都にいる訳ねーよなぁ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190318Z" creationid="CJ" creationdate="20150521T190318Z">
+        <seg>旧都里人人都这样！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>こう なんか 響きがさ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T174325Z" creationid="妄想" creationdate="20150105T082003Z">
@@ -43128,8 +43144,8 @@
       <tuv lang="JA">
         <seg>こんな場所に来るなんて相当な物好きかい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135507Z" creationid="UUZ" creationdate="20150110T135507Z">
-        <seg>こんな場所に来るなんて相当な物好きかい？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190350Z" creationid="UUZ" creationdate="20150110T135507Z">
+        <seg>竟然来到这种地方，你也真是有够好事的？</seg>
       </tuv>
     </tu>
     <tu>
@@ -59666,8 +59682,8 @@
       <tuv lang="JA">
         <seg>一仕事終えた後は酒！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135506Z" creationid="UUZ" creationdate="20150110T135506Z">
-        <seg>一仕事終えた後は酒！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190259Z" creationid="UUZ" creationdate="20150110T135506Z">
+        <seg>干完一桩活之后要喝酒！</seg>
       </tuv>
     </tu>
     <tu>
@@ -65490,8 +65506,8 @@
       <tuv lang="JA">
         <seg>古明地のもんならこの橋を渡った先だよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135501Z" creationid="UUZ" creationdate="20150110T135501Z">
-        <seg>古明地のもんならこの橋を渡った先だよ。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190120Z" creationid="UUZ" creationdate="20150110T135501Z">
+        <seg>古明地家就在过了这座桥之后。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70920,6 +70936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>怖がってあげなさんな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190224Z" creationid="CJ" creationdate="20150521T190224Z">
+        <seg>请不要害怕她们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>思った通り あなたは人形遣いの才をお持ちなのですね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T144939Z" creationid="UUZ" creationdate="20140909T144939Z">
@@ -76340,6 +76364,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T093006Z" creationid="UUZ" creationdate="20140906T093006Z">
         <seg>泥泞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>泥遊びたーのしいっ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190047Z" creationid="CJ" creationdate="20150521T190047Z">
+        <seg>泥巴真好玩！</seg>
       </tuv>
     </tu>
     <tu>
