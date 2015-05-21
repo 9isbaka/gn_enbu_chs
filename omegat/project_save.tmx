@@ -30936,8 +30936,8 @@
       <tuv lang="JA">
         <seg>\c割り振ったPPとレベルに応じて 能力が強化されます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T124533Z" creationid="UUZ" creationdate="20140908T124249Z">
-        <seg>\c根据PP的分配和等级的提升，能力会得以提升。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164556Z" creationid="UUZ" creationdate="20140908T124249Z">
+        <seg>\c根据分配的PP量和当时的等级，能力会得以强化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37296,8 +37296,8 @@
       <tuv lang="JA">
         <seg>『役立ち情報！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T084211Z" creationid="UUZ" creationdate="20140824T161002Z">
-        <seg>『重要的资讯！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164309Z" creationid="UUZ" creationdate="20140824T161002Z">
+        <seg>『有用的资讯！</seg>
       </tuv>
     </tu>
     <tu>
@@ -63098,8 +63098,8 @@
       <tuv lang="JA">
         <seg>使えるスキルは習得しないと増えないので注意！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T124122Z" creationid="UUZ" creationdate="20140908T124122Z">
-        <seg>要注意不使用的话是无法学到技能的！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164329Z" creationid="UUZ" creationdate="20140908T124122Z">
+        <seg>要注意不学习的话是无法使用新技能的！</seg>
       </tuv>
     </tu>
     <tu>
@@ -64106,8 +64106,8 @@
       <tuv lang="JA">
         <seg>冒険が辛くなったら 試してみましょう！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T124633Z" creationid="UUZ" creationdate="20140908T124633Z">
-        <seg>冒险辛苦了，试试看吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164612Z" creationid="UUZ" creationdate="20140908T124633Z">
+        <seg>如果感到冒险困难了，就试试看吧！</seg>
       </tuv>
     </tu>
     <tu>
