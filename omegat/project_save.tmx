@@ -38944,8 +38944,8 @@
       <tuv lang="JA">
         <seg>あんた見たところ人間かい。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083336Z" creationid="妄想" creationdate="20150108T083336Z">
-        <seg>你看起来是人类吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191313Z" creationid="妄想" creationdate="20150108T083336Z">
+        <seg>你看起来是人类啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40272,8 +40272,8 @@
       <tuv lang="JA">
         <seg>おう聞いたかい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T082420Z" creationid="妄想" creationdate="20150108T082420Z">
-        <seg>您听说了吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191045Z" creationid="妄想" creationdate="20150108T082420Z">
+        <seg>你听说了吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -40840,8 +40840,8 @@
       <tuv lang="JA">
         <seg>お前さんもどうだい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T082227Z" creationid="妄想" creationdate="20150108T082227Z">
-        <seg>你也是这样认为的吧？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191024Z" creationid="妄想" creationdate="20150108T082227Z">
+        <seg>你也来一杯吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41904,8 +41904,8 @@
       <tuv lang="JA">
         <seg>ここは あまり人形の異変に興味無い者もいるよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083052Z" creationid="妄想" creationdate="20150108T083052Z">
-        <seg>这里的人对人形异变没有什么兴趣。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191206Z" creationid="妄想" creationdate="20150108T083052Z">
+        <seg>这里也有对人形异变没有什么兴趣的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45230,6 +45230,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>それも複数だとか！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191108Z" creationid="CJ" creationdate="20150521T191108Z">
+        <seg>而且还有好多只！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>それ以外なら 勝手にしてもいいから。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154708Z" creationid="UUZ" creationdate="20140909T154708Z">
@@ -46560,8 +46568,8 @@
       <tuv lang="JA">
         <seg>どうも最近小さい勇儀さんがそこらへんを走り回ってるらしいぜ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T082558Z" creationid="妄想" creationdate="20150108T082547Z">
-        <seg>好像最近勇仪小姐总是在那一带奔走？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191055Z" creationid="妄想" creationdate="20150108T082547Z">
+        <seg>好像最近小个子的勇仪小姐总是在那一带奔走？</seg>
       </tuv>
     </tu>
     <tu>
@@ -47042,8 +47050,8 @@
       <tuv lang="JA">
         <seg>なんか買っていくかい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T082945Z" creationid="妄想" creationdate="20150108T082945Z">
-        <seg>买了什么回去吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191132Z" creationid="妄想" creationdate="20150108T082945Z">
+        <seg>买些什么回去吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -62090,8 +62098,8 @@
       <tuv lang="JA">
         <seg>人間にはこの温泉はやめといた方が良いんじゃないかな。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083352Z" creationid="妄想" creationdate="20150108T083352Z">
-        <seg>人类还是放弃这个温泉比较好哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191329Z" creationid="妄想" creationdate="20150108T083352Z">
+        <seg>人类还是不要泡这个温泉比较好哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66402,8 +66410,8 @@
       <tuv lang="JA">
         <seg>地上にゃあねぇもんばかりだぜ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083001Z" creationid="妄想" creationdate="20150108T083001Z">
-        <seg>全是地上的猫粮啊！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191145Z" creationid="妄想" creationdate="20150108T083001Z">
+        <seg>全是地上没有的东西啊！</seg>
       </tuv>
     </tu>
     <tu>
@@ -76520,6 +76528,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>流行りも何も無い 自分が楽しいと思う事をする自由の国なのさ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191240Z" creationid="CJ" creationdate="20150521T191240Z">
+        <seg>不管流行的是什么，只做自己开心的事，这里就是如此自由的国度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>流電磁波</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T125109Z" creationid="UUZ" creationdate="20140906T125109Z">
@@ -83674,8 +83690,8 @@
       <tuv lang="JA">
         <seg>見知らぬ他人でも 酒を酌み交わせば友人さ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T082248Z" creationid="妄想" creationdate="20150108T082248Z">
-        <seg>素不相识的人一起喝几杯就能成为朋友了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191028Z" creationid="妄想" creationdate="20150108T082248Z">
+        <seg>素不相识的人一起喝几杯也就能成为朋友了。</seg>
       </tuv>
     </tu>
     <tu>
