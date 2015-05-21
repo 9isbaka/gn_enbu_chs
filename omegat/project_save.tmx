@@ -28622,6 +28622,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c……ん？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181923Z" creationid="CJ" creationdate="20150521T181923Z">
+        <seg>\c……嗯？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c……ブルルッ 人里から出られる気なんてしないよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T095952Z" creationid="UUZ" creationdate="20140908T140826Z">
@@ -37458,6 +37466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T113155Z" creationid="土妹子" creationdate="20150107T113155Z">
         <seg>啊啊， \p吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あぁ これ携帯電話って奴なんだけど。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181938Z" creationid="CJ" creationdate="20150521T181938Z">
+        <seg>啊啊，这个东西叫做手机。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63234,8 +63250,8 @@
       <tuv lang="JA">
         <seg>侵入者なんかいないから ははは 早く行け！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T014621Z" creationid="妄想" creationdate="20150107T014621Z">
-        <seg>因为侵入者早就走掉了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T182103Z" creationid="妄想" creationdate="20150107T014621Z">
+        <seg>根本就没有什么侵入者，你快点走开啦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -80584,6 +80600,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>精度は正直糸電話の方が良いわね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T182008Z" creationid="CJ" creationdate="20150521T182008Z">
+        <seg>老实说精度还不如拉线电话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紅くなった瞳を見た生き物は 気が狂ってしまう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T135856Z" creationid="土妹子" creationdate="20150115T135856Z">
@@ -84346,8 +84370,8 @@
       <tuv lang="JA">
         <seg>近頃妖怪の山に腕試しと称して入ってくる命知らずな人間がたまに居て面倒なんですよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T015008Z" creationid="妄想" creationdate="20150107T015008Z">
-        <seg>最近进入妖怪之山的不怕死的人类，偶尔也会停留在这里。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T182204Z" creationid="妄想" creationdate="20150107T015008Z">
+        <seg>最近偶尔会有声称是要试试身手而进入妖怪之山的不怕死的人类，真是麻烦啊。</seg>
       </tuv>
     </tu>
     <tu>
