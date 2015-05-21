@@ -38776,8 +38776,8 @@
       <tuv lang="JA">
         <seg>ある異変から地底と地上に行き来が出来るようになったんさ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T013645Z" creationid="妄想" creationdate="20150110T013645Z">
-        <seg>因为异变，所以地面与地底可以自由往返了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192402Z" creationid="妄想" creationdate="20150110T013645Z">
+        <seg>自某次异变以来，地面与地底可以自由往返了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48458,8 +48458,8 @@
       <tuv lang="JA">
         <seg>まぁ 言ってもこんなところに来るなんてお前さんみたいな変わり者しか居ないけどね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T013743Z" creationid="妄想" creationdate="20150110T013743Z">
-        <seg>嘛 这样说来，这里像你一样奇怪的人也不是没有。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192515Z" creationid="妄想" creationdate="20150110T013743Z">
+        <seg>嘛 即使如此，回到这里来的也只有像你一样奇怪的人了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66434,8 +66434,8 @@
       <tuv lang="JA">
         <seg>地上のもんかい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191759Z" creationid="妄想" creationdate="20150108T084938Z">
-        <seg>地上的人吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192416Z" creationid="妄想" creationdate="20150108T084938Z">
+        <seg>地面上的人吗？</seg>
       </tuv>
     </tu>
     <tu>
