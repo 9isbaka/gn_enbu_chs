@@ -30616,8 +30616,8 @@
       <tuv lang="JA">
         <seg>\c一度東風谷さんを異物として排除しようとしてたし……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T084543Z" creationid="妄想" creationdate="20150108T084543Z">
-        <seg>\c东风谷小姐也曾经被当作异物而打算排除掉....</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191643Z" creationid="妄想" creationdate="20150108T084543Z">
+        <seg>\c东风谷小姐也曾经有次被当作异物而打算排除掉....</seg>
       </tuv>
     </tu>
     <tu>
@@ -41072,8 +41072,8 @@
       <tuv lang="JA">
         <seg>お空さんのお陰で仕事は楽なんだけど たまーに訪問者全てを異物と見なして攻撃し始めて怖いんだよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T084500Z" creationid="妄想" creationdate="20150108T084500Z">
-        <seg>托空小姐的福，工作很轻松，不过偶尔的拜访者也全部被视为异物而攻击太可怕了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191636Z" creationid="妄想" creationdate="20150108T084500Z">
+        <seg>托空小姐的福，工作很轻松，不过偶尔她会把拜访者全部视为异物而进行攻击，太可怕了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41856,8 +41856,8 @@
       <tuv lang="JA">
         <seg>ここの温泉にゃあ幻想郷の名だたる方達も結構来たりするんよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083550Z" creationid="妄想" creationdate="20150108T083550Z">
-        <seg>这里的温泉在幻想乡里很出名哦，大家都可以来。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191406Z" creationid="妄想" creationdate="20150108T083550Z">
+        <seg>幻想乡里的名人们也经常来这里的温泉哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42496,8 +42496,8 @@
       <tuv lang="JA">
         <seg>この先は間欠泉地下センターだよ・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T084036Z" creationid="妄想" creationdate="20150108T084036Z">
-        <seg>前面是间歇泉的地下中心...\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191522Z" creationid="妄想" creationdate="20150108T084036Z">
+        <seg>前面是间歇泉地下中心...\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -45936,8 +45936,8 @@
       <tuv lang="JA">
         <seg>って そっちから来たのか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T084053Z" creationid="妄想" creationdate="20150108T084053Z">
-        <seg>你是从哪里来的？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191536Z" creationid="妄想" creationdate="20150108T084053Z">
+        <seg>啊你就是从那边来的啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47034,8 +47034,8 @@
       <tuv lang="JA">
         <seg>なんか凄い勢いで誰か走っていったけど……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T083922Z" creationid="妄想" creationdate="20150108T083922Z">
-        <seg>谁用厉害的气势跑了出去，不过...</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191510Z" creationid="妄想" creationdate="20150108T083922Z">
+        <seg>刚才谁一下子跑了过去，不过...</seg>
       </tuv>
     </tu>
     <tu>
@@ -66436,6 +66436,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T085125Z" creationid="妄想" creationdate="20150108T085125Z">
         <seg>地底也可以看到人形战斗的场景哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>地底にも知ってる奴は結構いるぜ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191430Z" creationid="CJ" creationdate="20150521T191430Z">
+        <seg>地底也有不少人知道你哦？</seg>
       </tuv>
     </tu>
     <tu>
