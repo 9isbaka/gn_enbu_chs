@@ -45104,8 +45104,8 @@
       <tuv lang="JA">
         <seg>そろそろバザーの時期かぁ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175026Z" creationid="妄想" creationdate="20150105T082339Z">
-        <seg>差不多到集市的时间了呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175047Z" creationid="妄想" creationdate="20150105T082339Z">
+        <seg>差不多到集市的日子了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45520,8 +45520,8 @@
       <tuv lang="JA">
         <seg>ちゃんとお金稼がないとなぁ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082448Z" creationid="妄想" creationdate="20150105T082448Z">
-        <seg>要好好的储存资金才行呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175040Z" creationid="妄想" creationdate="20150105T082448Z">
+        <seg>要好好的赚一笔才行呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62920,6 +62920,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何をぼったくろうかなっと。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175213Z" creationid="CJ" creationdate="20150521T175213Z">
+        <seg>这次靠什么去坑人呢呵呵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何を目的として行動しているのか 人形自身もわかっていない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T031105Z" creationid="土妹子" creationdate="20150110T031105Z">
@@ -63266,8 +63274,8 @@
       <tuv lang="JA">
         <seg>信じられないよねぇ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T084227Z" creationid="妄想" creationdate="20150104T084227Z">
-        <seg>你不相信啊。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175245Z" creationid="妄想" creationdate="20150104T084227Z">
+        <seg>难以置信是吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83290,8 +83298,8 @@
       <tuv lang="JA">
         <seg>見てるだけなのに なんかこう 怖気ついちゃうよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T084431Z" creationid="妄想" creationdate="20150104T084431Z">
-        <seg>光是这样看着就让人感觉的了恐怖的气息。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175309Z" creationid="妄想" creationdate="20150104T084431Z">
+        <seg>光是这样看着就让人敬畏了。</seg>
       </tuv>
     </tu>
     <tu>
