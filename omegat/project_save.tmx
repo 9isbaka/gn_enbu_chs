@@ -40224,8 +40224,8 @@
       <tuv lang="JA">
         <seg>おぁ〜ひっく。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135508Z" creationid="UUZ" creationdate="20150110T135508Z">
-        <seg>おぁ〜ひっく。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190940Z" creationid="UUZ" creationdate="20150110T135508Z">
+        <seg>哦啊~嗝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40328,8 +40328,8 @@
       <tuv lang="JA">
         <seg>おこしやす旧都へ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T080157Z" creationid="妄想" creationdate="20150108T080157Z">
-        <seg>方便旧都的发展。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190721Z" creationid="妄想" creationdate="20150108T080157Z">
+        <seg>欢迎来到旧都。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44978,6 +44978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054659Z" creationid="土妹子" creationdate="20150105T054659Z">
         <seg>我认为这样很好！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>それが明日の活力源となるんだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190917Z" creationid="CJ" creationdate="20150521T190917Z">
+        <seg>这将成为明天的活力源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65920,6 +65928,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>呑んで騒いでいきな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190901Z" creationid="CJ" creationdate="20150521T190901Z">
+        <seg>喝吧闹吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>周囲がうるさい時に利用されることが多い。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T152237Z" creationid="土妹子" creationdate="20150115T152237Z">
@@ -73620,6 +73636,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T163409Z" creationid="土妹子" creationdate="20150109T163409Z">
         <seg>现在正闲着呢吧？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>暗くも明るい 静かでも騒がしい 地上にゃどこにも無い都さね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190835Z" creationid="CJ" creationdate="20150521T190835Z">
+        <seg>这里是既昏暗又明亮，既安静又喧闹的，在地面上何处都找不到的都城。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81636,6 +81660,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012228Z" creationid="土妹子" creationdate="20150110T012228Z">
         <seg>和传说中一样的实力呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>聞いてくれよぉ〜最近姐さんが冷たくてさぁ〜ひっく。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191005Z" creationid="CJ" creationdate="20150521T191005Z">
+        <seg>你听我说啊~大姐最近好冷淡啊~嗝。</seg>
       </tuv>
     </tu>
     <tu>
