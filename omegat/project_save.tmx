@@ -30616,8 +30616,8 @@
       <tuv lang="JA">
         <seg>\c一度東風谷さんを異物として排除しようとしてたし……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191643Z" creationid="妄想" creationdate="20150108T084543Z">
-        <seg>\c东风谷小姐也曾经有次被当作异物而打算排除掉....</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191706Z" creationid="妄想" creationdate="20150108T084543Z">
+        <seg>\c曾经有次把东风谷小姐也当作异物而打算排除掉....</seg>
       </tuv>
     </tu>
     <tu>
@@ -44174,6 +44174,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ずっとここに居るからあんま関係ないけどなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191747Z" creationid="CJ" creationdate="20150521T191747Z">
+        <seg>不过我一直待在这所以和我没什么关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>せいが</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140701Z" creationid="UUZ" creationdate="20140904T140701Z">
@@ -50274,8 +50282,8 @@
       <tuv lang="JA">
         <seg>わざわざここまで来るなんて よっぽど大事なもん抱えてんのかね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T085017Z" creationid="妄想" creationdate="20150108T085017Z">
-        <seg>特地到这里来，是相当重要的东西吧？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191807Z" creationid="妄想" creationdate="20150108T085017Z">
+        <seg>特地到这里来，是相当重要的事吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -66418,8 +66426,8 @@
       <tuv lang="JA">
         <seg>地上のもんかい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T084938Z" creationid="妄想" creationdate="20150108T084938Z">
-        <seg>地上的东西吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191759Z" creationid="妄想" creationdate="20150108T084938Z">
+        <seg>地上的人吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -66434,8 +66442,8 @@
       <tuv lang="JA">
         <seg>地底でも人形バトルの光景は見るよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T085125Z" creationid="妄想" creationdate="20150108T085125Z">
-        <seg>地底也可以看到人形战斗的场景哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T191918Z" creationid="妄想" creationdate="20150108T085125Z">
+        <seg>地底也可以看到人形战斗的场面哦。</seg>
       </tuv>
     </tu>
     <tu>
