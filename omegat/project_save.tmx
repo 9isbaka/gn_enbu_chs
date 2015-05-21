@@ -48368,6 +48368,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>まぁその噂は紅魔館でしか聞いたことありませんがね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185245Z" creationid="CJ" creationdate="20150521T185245Z">
+        <seg>不过这个传闻只在红魔馆内才听到过呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>まぁ楽しく戦えて 私は満足かな。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T025253Z" creationid="土妹子" creationdate="20150110T025253Z">
@@ -52636,6 +52644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T041654Z" creationid="土妹子" creationdate="20150108T041654Z">
         <seg>没有偷懒哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>サボるのが楽しいので働くんです！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185129Z" creationid="CJ" creationdate="20150521T185129Z">
+        <seg>工作是因为翘班的时候很开心！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62226,8 +62242,8 @@
       <tuv lang="JA">
         <seg>今 メイドの中でも人形ごっこが流行っているんです。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T060723Z" creationid="妄想" creationdate="20150107T060723Z">
-        <seg>现在人形游戏在女仆当中很流行哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185147Z" creationid="妄想" creationdate="20150107T060723Z">
+        <seg>现在人形游戏在女仆当中也很流行哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78146,8 +78162,8 @@
       <tuv lang="JA">
         <seg>目を合わせたら戦いを挑まれるかもしれませんよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T060809Z" creationid="妄想" creationdate="20150107T060809Z">
-        <seg>如果被看上了的话，也许会被挑战的哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185206Z" creationid="妄想" creationdate="20150107T060809Z">
+        <seg>如果视线相对了的话，也许会被挑战的哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87698,8 +87714,8 @@
       <tuv lang="JA">
         <seg>魔理沙さんはいつの間にか侵入してるんですよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T061148Z" creationid="妄想" creationdate="20150107T061148Z">
-        <seg>魔理沙小姐不知不觉地入侵了哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185349Z" creationid="妄想" creationdate="20150107T061148Z">
+        <seg>魔理沙小姐不知不觉地入侵了呢。</seg>
       </tuv>
     </tu>
     <tu>
