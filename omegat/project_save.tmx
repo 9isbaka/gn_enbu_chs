@@ -64088,6 +64088,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>内容は知りませんがまぁ多分ねつ造なんじゃないですかね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181536Z" creationid="CJ" creationdate="20150521T181536Z">
+        <seg>虽然不知道具体内容，不过多半是捏造的吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>内容を理解しているわけではないが とにかく本を読む。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T143406Z" creationid="土妹子" creationdate="20150113T143406Z">
@@ -72872,6 +72880,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>文さんのお手伝いをしているんですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181409Z" creationid="CJ" creationdate="20150521T181409Z">
+        <seg>我在帮文做事呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>文の人形と競い合っている。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T113837Z" creationid="土妹子" creationdate="20150119T113837Z">
@@ -74514,8 +74530,8 @@
       <tuv lang="JA">
         <seg>次のメカの構想中だ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T035439Z" creationid="妄想" creationdate="20150105T035439Z">
-        <seg>正在构想下一次的机械中。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181257Z" creationid="妄想" creationdate="20150105T035439Z">
+        <seg>正在构想下一次的机械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77322,8 +77338,8 @@
       <tuv lang="JA">
         <seg>玄武様に怒られたって知らないよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T035730Z" creationid="妄想" creationdate="20150105T035730Z">
-        <seg>不知道玄武大人会生气吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181327Z" creationid="妄想" creationdate="20150105T035730Z">
+        <seg>玄武大人生气了我可不管哦？</seg>
       </tuv>
     </tu>
     <tu>
