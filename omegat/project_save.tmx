@@ -44456,8 +44456,8 @@
       <tuv lang="JA">
         <seg>そこ 高値をふっかけてきたり店主のお気に入りだったら売ってくれなかったりするんよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T083928Z" creationid="妄想" creationdate="20150105T083928Z">
-        <seg>那里不是漫天要价，就是店主自己喜欢上的，根本卖不掉的东西。。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T171004Z" creationid="妄想" creationdate="20150105T083928Z">
+        <seg>那里不是漫天要价，就是店主自己喜欢上的根本不卖的东西。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44496,8 +44496,8 @@
       <tuv lang="JA">
         <seg>そこのお地蔵さんにお供え物してたんだ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T144359Z" creationid="妄想" creationdate="20150104T144248Z">
-        <seg>这是为地藏菩萨准备的贡品。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T171135Z" creationid="妄想" creationdate="20150104T144248Z">
+        <seg>我在为这里的地藏菩萨上贡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60554,8 +60554,8 @@
       <tuv lang="JA">
         <seg>人形さんと一緒だから 最近は安心してここまで来れるの！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T144348Z" creationid="妄想" creationdate="20150104T144348Z">
-        <seg>与人形一起，最近也能放心的到这里来了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T171152Z" creationid="妄想" creationdate="20150104T144348Z">
+        <seg>因为有人形一起，最近也能放心的到这里来了！</seg>
       </tuv>
     </tu>
     <tu>
