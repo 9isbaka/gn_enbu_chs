@@ -30680,8 +30680,8 @@
       <tuv lang="JA">
         <seg>\c人形は道具じゃないんだから 疲れてると思ったらすぐ休ませてあげてね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133458Z" creationid="UUZ" creationdate="20140908T133448Z">
-        <seg>\c人形不是道具，累了就休息一下吧。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091728Z" creationid="UUZ" creationdate="20140908T133448Z">
+        <seg>\c人形不是道具 觉得累了就让它们休息一下吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30704,8 +30704,8 @@
       <tuv lang="JA">
         <seg>\c人里までもう少しあるから ここの休憩所で休むといいと思います！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133230Z" creationid="UUZ" creationdate="20140908T133230Z">
-        <seg>\c到人类村落还有点距离，就在这里的休憩处好好休息吧！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091458Z" creationid="UUZ" creationdate="20140908T133230Z">
+        <seg>\c到人类村落还有点距离 就在这个休憩处好好休息一下吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -38656,8 +38656,8 @@
       <tuv lang="JA">
         <seg>あら？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133021Z" creationid="UUZ" creationdate="20140908T133021Z">
-        <seg>啊啦？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091502Z" creationid="UUZ" creationdate="20140908T133021Z">
+        <seg>哎呀？</seg>
       </tuv>
     </tu>
     <tu>
@@ -40272,8 +40272,8 @@
       <tuv lang="JA">
         <seg>おっと 畑を歩く時は注意してくれよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024545Z" creationid="UUZ" creationdate="20140908T133942Z">
-        <seg>哎呀，在农田里移动的时候要小心。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091951Z" creationid="UUZ" creationdate="20140908T133942Z">
+        <seg>哎呀 走在农田里要小心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40976,8 +40976,8 @@
       <tuv lang="JA">
         <seg>お茶菓子も販売しております。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024533Z" creationid="UUZ" creationdate="20140908T133828Z">
-        <seg>也有茶点销售哦。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091934Z" creationid="UUZ" creationdate="20140908T133828Z">
+        <seg>这里也有茶点销售哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42280,8 +42280,8 @@
       <tuv lang="JA">
         <seg>この先に休憩所があるから しっかりと人形を休ませてあげてね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132641Z" creationid="UUZ" creationdate="20140908T132641Z">
-        <seg>这里前面是休憩处，好好地让人形休息吧！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091202Z" creationid="UUZ" creationdate="20140908T132641Z">
+        <seg>前面就是休憩处，好好让人形休息一下吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -45672,8 +45672,8 @@
       <tuv lang="JA">
         <seg>ちょっと一息 休憩いかがでしょうか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133749Z" creationid="UUZ" creationdate="20140908T133749Z">
-        <seg>稍微喘口气，来休息一下吗。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091919Z" creationid="UUZ" creationdate="20140908T133749Z">
+        <seg>稍微喘口气 来休息一下吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61234,8 +61234,8 @@
       <tuv lang="JA">
         <seg>人形の回復を待っているの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133405Z" creationid="UUZ" creationdate="20140908T133405Z">
-        <seg>正在等待人形的恢复。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091653Z" creationid="UUZ" creationdate="20140908T133405Z">
+        <seg>我正在等待人形恢复体力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62818,8 +62818,8 @@
       <tuv lang="JA">
         <seg>何だキミ 思ったよりやるなぁ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133013Z" creationid="UUZ" creationdate="20140908T133013Z">
-        <seg>什么啊你，比想象中要能干呢。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091420Z" creationid="UUZ" creationdate="20140908T133013Z">
+        <seg>什么啊你 出乎意料的厉害啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63290,8 +63290,8 @@
       <tuv lang="JA">
         <seg>俺の最強の人形達と勝負だ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024348Z" creationid="UUZ" creationdate="20140908T132732Z">
-        <seg>与我最强的人形一决胜负吧！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091232Z" creationid="UUZ" creationdate="20140908T132732Z">
+        <seg>和我的最强人形们一决胜负吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -66794,8 +66794,8 @@
       <tuv lang="JA">
         <seg>外の連中は目を合わせたらすぐ戦いを挑んでくるからへとへとだよ……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T024515Z" creationid="UUZ" creationdate="20140908T133720Z">
-        <seg>外面的那些家伙只要对上眼神就马上过来挑战，真是让人感到筋疲力尽……。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091857Z" creationid="UUZ" creationdate="20140908T133720Z">
+        <seg>外面的那些家伙只要视线相交就会冲上来挑战 真是累坏我了……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74490,8 +74490,8 @@
       <tuv lang="JA">
         <seg>次戦うときは俺が勝つからな！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132807Z" creationid="UUZ" creationdate="20140908T132807Z">
-        <seg>下次战斗我一定会赢的！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091258Z" creationid="UUZ" creationdate="20140908T132807Z">
+        <seg>下次赢的一定是我！</seg>
       </tuv>
     </tu>
     <tu>
@@ -79626,8 +79626,8 @@
       <tuv lang="JA">
         <seg>私に戦いに挑みにきたのかい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132905Z" creationid="UUZ" creationdate="20140908T132905Z">
-        <seg>要向我挑战吗？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091322Z" creationid="UUZ" creationdate="20140908T132905Z">
+        <seg>是来向我挑战的吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -82546,8 +82546,8 @@
       <tuv lang="JA">
         <seg>草むらに居ると急に人形が出てくるから なるべく避けて歩いてるんだ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T133335Z" creationid="UUZ" creationdate="20140908T133335Z">
-        <seg>草丛中会有人形突然跳出来，所以我尽可能避免在其中行走。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091630Z" creationid="UUZ" creationdate="20140908T133335Z">
+        <seg>走在草丛中会有人形突然跳出来 所以我会尽量绕行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83274,8 +83274,8 @@
       <tuv lang="JA">
         <seg>見ない顔だね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T132830Z" creationid="UUZ" creationdate="20140908T132830Z">
-        <seg>没见过的面孔啊。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091308Z" creationid="UUZ" creationdate="20140908T132830Z">
+        <seg>生面孔啊。</seg>
       </tuv>
     </tu>
     <tu>
