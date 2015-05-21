@@ -40032,8 +40032,8 @@
       <tuv lang="JA">
         <seg>えーっと まずは深く二拝 柏手を二回 最後にもう一度一拝……\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T090512Z" creationid="妄想" creationdate="20150104T090139Z">
-        <seg>那个~首先深鞠躬两次 然后拍手两次 最后深鞠躬一次……\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175625Z" creationid="妄想" creationdate="20150104T090139Z">
+        <seg>那个~首先深鞠躬两次 然后拍手两次 最后再深鞠躬一次……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -41752,8 +41752,8 @@
       <tuv lang="JA">
         <seg>ここの神様は産業革命に協力的でさ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T143315Z" creationid="妄想" creationdate="20150104T084554Z">
-        <seg>在这里，神为了产业革命而与我们合作。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175424Z" creationid="妄想" creationdate="20150104T084554Z">
+        <seg>这里的神支持我们的产业革命。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59610,8 +59610,8 @@
       <tuv lang="JA">
         <seg>一応警備なのですが……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082505Z" creationid="妄想" creationdate="20150105T082505Z">
-        <seg>姑且安排了警备……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175508Z" creationid="妄想" creationdate="20150105T082505Z">
+        <seg>我姑且是这里的警备……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63026,8 +63026,8 @@
       <tuv lang="JA">
         <seg>作法しっかりしないと怒られちゃう！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082659Z" creationid="妄想" creationdate="20150104T090400Z">
-        <seg>礼仪不好好记住可是要生气的哦！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175640Z" creationid="妄想" creationdate="20150104T090400Z">
+        <seg>礼仪不好好遵守可是要生气的哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -68402,8 +68402,8 @@
       <tuv lang="JA">
         <seg>実はここの神様ってもう一人居るらしいんだけど……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082556Z" creationid="妄想" creationdate="20150105T082556Z">
-        <seg>其实啊这里的神大人也是一个人住的样子呢……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175544Z" creationid="妄想" creationdate="20150105T082556Z">
+        <seg>其实啊这里的神明大人还有另一位的样子呢……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79154,8 +79154,8 @@
       <tuv lang="JA">
         <seg>神様が幻想入り なぁ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T085825Z" creationid="妄想" creationdate="20150104T085739Z">
-        <seg>神大人也幻想入了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175556Z" creationid="妄想" creationdate="20150104T085739Z">
+        <seg>神明大人也幻想入了。</seg>
       </tuv>
     </tu>
     <tu>
