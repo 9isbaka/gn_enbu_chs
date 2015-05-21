@@ -38152,8 +38152,8 @@
       <tuv lang="JA">
         <seg>あまりこの先はお勧めしないなぁ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T033633Z" creationid="妄想" creationdate="20150105T033633Z">
-        <seg>我不建议你去前面。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T180934Z" creationid="妄想" creationdate="20150105T033633Z">
+        <seg>我不建议你继续前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41736,8 +41736,8 @@
       <tuv lang="JA">
         <seg>ここの奴らは聖白蓮を慕ってるようで 実は戒律を全く守ってないんだとか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T032947Z" creationid="妄想" creationdate="20150105T032947Z">
-        <seg>这里的家伙全都是仰慕着白莲而来的，实际上完全没有遵守戒条啦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T180638Z" creationid="妄想" creationdate="20150105T032947Z">
+        <seg>这里的家伙看上去全都是仰慕着白莲的，而实际上完全没有遵守戒条啦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65448,6 +65448,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>同じ墓参りのエサ狙いだらけで競争率高いんさ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T180906Z" creationid="CJ" creationdate="20150521T180906Z">
+        <seg>这里有好多人都看准了扫墓者的祭品，竞争率很高的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>同じ性能の人形でも 人形遣いによって強さを変える ねぇ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T174816Z" creationid="妄想" creationdate="20150104T081359Z">
@@ -71396,6 +71404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T171950Z" creationid="妄想" creationdate="20150104T144835Z">
         <seg>折返回去也是前进方向的选择之一哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>所詮我々は妖怪は 妖怪って事だね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T180704Z" creationid="CJ" creationdate="20150521T180704Z">
+        <seg>说到底我们还是妖怪啊。</seg>
       </tuv>
     </tu>
     <tu>
