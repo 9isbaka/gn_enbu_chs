@@ -34992,8 +34992,8 @@
       <tuv lang="JA">
         <seg>……あれ上手くいかない？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T062141Z" creationid="妄想" creationdate="20150107T062141Z">
-        <seg>...不顺利吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185621Z" creationid="妄想" creationdate="20150107T062141Z">
+        <seg>...咦不顺利啊？</seg>
       </tuv>
     </tu>
     <tu>
@@ -38602,6 +38602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T040157Z" creationid="妄想" creationdate="20150203T040157Z">
         <seg>哎呀 客人？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あらお客様・・・お分け致しませんよ？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185531Z" creationid="CJ" creationdate="20150521T185531Z">
+        <seg>哎呀是客人吗・・・我可不会分给你哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -67850,8 +67858,8 @@
       <tuv lang="JA">
         <seg>妖怪さんですか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T062024Z" creationid="妄想" creationdate="20150107T062024Z">
-        <seg>妖怪先生吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185551Z" creationid="妄想" creationdate="20150107T062024Z">
+        <seg>是妖怪先生吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -68842,8 +68850,8 @@
       <tuv lang="JA">
         <seg>封印してやるー！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T062132Z" creationid="妄想" creationdate="20150107T062132Z">
-        <seg>封印呢！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185610Z" creationid="妄想" creationdate="20150107T062132Z">
+        <seg>看我封印你！</seg>
       </tuv>
     </tu>
     <tu>
@@ -79602,8 +79610,8 @@
       <tuv lang="JA">
         <seg>私たちでは捕まえられるなんて思ってないので よく談笑していますよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T061426Z" creationid="妄想" creationdate="20150107T061426Z">
-        <seg>因为我们没想过能抓住她，所以只能在这里谈笑风声。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185442Z" creationid="妄想" creationdate="20150107T061426Z">
+        <seg>因为我们没想过能抓住她，所以经常和她谈笑风声。</seg>
       </tuv>
     </tu>
     <tu>
