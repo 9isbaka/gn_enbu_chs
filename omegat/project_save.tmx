@@ -38200,8 +38200,8 @@
       <tuv lang="JA">
         <seg>あまり人形と出くわさないようにそろーり そろーり歩いてるんだよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T024209Z" creationid="妄想" creationdate="20150107T024209Z">
-        <seg>不要像人形那样在周围游荡哦</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183319Z" creationid="妄想" creationdate="20150107T024209Z">
+        <seg>为了不碰到人形，我在小心翼翼地前进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38808,8 +38808,8 @@
       <tuv lang="JA">
         <seg>あれ結構気持ちいいのよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T024723Z" creationid="妄想" creationdate="20150107T024723Z">
-        <seg>那真是让人心情愉快啊。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183421Z" creationid="妄想" creationdate="20150107T024723Z">
+        <seg>红雾挺舒服的哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38912,8 +38912,8 @@
       <tuv lang="JA">
         <seg>あんた迷子さね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T023701Z" creationid="妄想" creationdate="20150107T022541Z">
-        <seg>迷路的孩子！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183210Z" creationid="妄想" creationdate="20150107T022541Z">
+        <seg>你是迷路了吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -44304,8 +44304,8 @@
       <tuv lang="JA">
         <seg>そうかい！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T023645Z" creationid="妄想" creationdate="20150107T023613Z">
-        <seg>这样的！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183221Z" creationid="妄想" creationdate="20150107T023613Z">
+        <seg>没错吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -60642,8 +60642,8 @@
       <tuv lang="JA">
         <seg>人形って紅い霧出せないかな？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T024637Z" creationid="妄想" creationdate="20150107T024637Z">
-        <seg>人形是不能离开红雾的吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183410Z" creationid="妄想" creationdate="20150107T024637Z">
+        <seg>人形能放出红雾吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73058,8 +73058,8 @@
       <tuv lang="JA">
         <seg>旅っていいよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T024254Z" creationid="妄想" creationdate="20150107T024254Z">
-        <seg>旅行真好啊</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183337Z" creationid="妄想" creationdate="20150107T024254Z">
+        <seg>旅行真好啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82418,8 +82418,8 @@
       <tuv lang="JA">
         <seg>自由気ままに歩き回ってさ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T024409Z" creationid="妄想" creationdate="20150107T024409Z">
-        <seg>能够自由到处去。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183346Z" creationid="妄想" creationdate="20150107T024409Z">
+        <seg>能够自由到各处去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83716,6 +83716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T104238Z" creationid="140706inu" creationdate="20150417T104056Z">
         <seg>我不会输给任何人！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>誰に話しかけられてるかよく分からないんだけどねー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T183510Z" creationid="CJ" creationdate="20150521T183510Z">
+        <seg>就是不知道对话的对方是谁哈~。</seg>
       </tuv>
     </tu>
     <tu>
