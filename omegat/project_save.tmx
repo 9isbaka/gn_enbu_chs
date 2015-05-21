@@ -29064,8 +29064,8 @@
       <tuv lang="JA">
         <seg>\cここらで落し物して探してるんだけど 妖怪に会ったらどうしよう……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T092728Z" creationid="妄想" creationdate="20150103T092728Z">
-        <seg>\c要是在找东西的时候碰到了妖怪该怎么办好呢……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T165114Z" creationid="妄想" creationdate="20150103T092728Z">
+        <seg>\c我在这附近找掉落的东西，可是如果碰到了妖怪该怎么办好呢……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61866,8 +61866,8 @@
       <tuv lang="JA">
         <seg>人間さんだ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T094435Z" creationid="妄想" creationdate="20150103T094435Z">
-        <seg>人类先生！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T165208Z" creationid="妄想" creationdate="20150103T094435Z">
+        <seg>是人类哎！</seg>
       </tuv>
     </tu>
     <tu>
@@ -65602,8 +65602,8 @@
       <tuv lang="JA">
         <seg>君も少し休んでいくと良いよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T085343Z" creationid="妄想" creationdate="20150103T085343Z">
-        <seg>你也能在这里多休息一下就好了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T165010Z" creationid="妄想" creationdate="20150103T085343Z">
+        <seg>你也在这里休息一下比较好哦。</seg>
       </tuv>
     </tu>
     <tu>
