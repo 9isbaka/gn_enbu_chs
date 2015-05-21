@@ -30558,6 +30558,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c・・・盗ったら尻子玉取るからね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181109Z" creationid="CJ" creationdate="20150521T181109Z">
+        <seg>\c・・・如果你敢偷，我就取走你的尻子玉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c・・・盟友だもん きっと助けてくれるよね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T135625Z" creationid="土妹子" creationdate="20150107T135625Z">
@@ -37554,6 +37562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T101755Z" creationid="140706inu" creationdate="20150417T101755Z">
         <seg>啊啊要截稿了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>あいつのきゅうりをこののびーるアームでゲットするんだ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181016Z" creationid="CJ" creationdate="20150521T181016Z">
+        <seg>我要用着可伸长的手腕偷走她的黄瓜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69242,8 +69258,8 @@
       <tuv lang="JA">
         <seg>山童の奴ら 山で遊んで何が楽しいんだか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T035156Z" creationid="妄想" creationdate="20150105T035105Z">
-        <seg>河童的那些家伙在山上似乎在玩什么很有趣的东西。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181211Z" creationid="妄想" creationdate="20150105T035105Z">
+        <seg>山童的那些家伙，在山上哪有什么好玩的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75978,8 +75994,8 @@
       <tuv lang="JA">
         <seg>河童なら川辺で機械弄りよね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T035224Z" creationid="妄想" creationdate="20150105T035224Z">
-        <seg>河童的话，在河边玩机械吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181225Z" creationid="妄想" creationdate="20150105T035224Z">
+        <seg>说到河童的话，就是要在河边摆弄机械吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -79490,8 +79506,8 @@
       <tuv lang="JA">
         <seg>私たちの機械は全て防水仕様だよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T035345Z" creationid="妄想" creationdate="20150105T035323Z">
-        <seg>我们的机械全部都有防水机能？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181236Z" creationid="妄想" creationdate="20150105T035323Z">
+        <seg>我们的机械全部都有防水机能的啊？</seg>
       </tuv>
     </tu>
     <tu>
