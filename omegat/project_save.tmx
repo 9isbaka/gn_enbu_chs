@@ -29734,6 +29734,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cちと好戦的だから勝負ふっかけてくる事も多いけどな。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192119Z" creationid="CJ" creationdate="20150521T192037Z">
+        <seg>\c就是她有点好战，会提出挑战的时候也有不少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cちゅーことは</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T123350Z" creationid="UUZ" creationdate="20140909T122104Z">
@@ -59506,8 +59514,8 @@
       <tuv lang="JA">
         <seg>・・・まぁ 人形放って本人たちで殴り合ってること多いけど。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T085159Z" creationid="妄想" creationdate="20150108T085159Z">
-        <seg>···嘛 虽然常常是放出了人形，人们相互殴打在一起。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192001Z" creationid="妄想" creationdate="20150108T085159Z">
+        <seg>···嘛 虽然常常是把人形晾在一边，本人们相互殴打起来。</seg>
       </tuv>
     </tu>
     <tu>
