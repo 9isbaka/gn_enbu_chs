@@ -38864,8 +38864,8 @@
       <tuv lang="JA">
         <seg>あんたみたいにところ構わずガンガン歩む人間。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150106T024554Z" creationid="妄想" creationdate="20150106T024554Z">
-        <seg>像你一样到处乱走的人类。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181821Z" creationid="妄想" creationdate="20150106T024554Z">
+        <seg>像你一样啥都不怕到处乱走的人类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42146,6 +42146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T182501Z" creationid="土妹子" creationdate="20150307T120338Z">
         <seg>只要一口就能让精神振奋得近乎灵魂出窍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>このあたりの空気美味しいなぁ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181854Z" creationid="CJ" creationdate="20150521T181854Z">
+        <seg>这附近空气真新鲜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67842,8 +67850,8 @@
       <tuv lang="JA">
         <seg>妖怪の山だとは言うけど 実際仕切ってるのは天狗と河童なのよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150106T022010Z" creationid="妄想" creationdate="20150106T022010Z">
-        <seg>虽说妖怪之山现在是天狗和河童掌管着。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181705Z" creationid="妄想" creationdate="20150106T022010Z">
+        <seg>虽说名叫妖怪之山，现在实际是天狗和河童在掌管着。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70978,8 +70986,8 @@
       <tuv lang="JA">
         <seg>恐怖ってもんを知らんのかいな。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150106T024619Z" creationid="妄想" creationdate="20150106T024619Z">
-        <seg>都是不知道这里的恐怖之处的人</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181839Z" creationid="妄想" creationdate="20150106T024619Z">
+        <seg>你不知到什么是恐怖吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73170,8 +73178,8 @@
       <tuv lang="JA">
         <seg>昔は鬼の天下だったらしいけど。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150106T022041Z" creationid="妄想" creationdate="20150106T022041Z">
-        <seg>但是过去可是鬼的天下。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181720Z" creationid="妄想" creationdate="20150106T022041Z">
+        <seg>据说过去可是鬼的天下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74532,6 +74540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181257Z" creationid="妄想" creationdate="20150105T035439Z">
         <seg>正在构想下一次的机械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>次の住処ここらにしよっかなー。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T181914Z" creationid="CJ" creationdate="20150521T181914Z">
+        <seg>下次搬家就住到这来吧。</seg>
       </tuv>
     </tu>
     <tu>
