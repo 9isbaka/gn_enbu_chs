@@ -35176,8 +35176,8 @@
       <tuv lang="JA">
         <seg>……君 よくここの瘴気に耐えられるね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135454Z" creationid="UUZ" creationdate="20150110T135454Z">
-        <seg>……君 よくここの瘴気に耐えられるね。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185756Z" creationid="UUZ" creationdate="20150110T135454Z">
+        <seg>……你竟然能抵抗这里的瘴气呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44592,8 +44592,8 @@
       <tuv lang="JA">
         <seg>そこの家に住んでるアリスさんは そっけなく見えて困ってる人が居たら助けてくれるんだ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T062558Z" creationid="妄想" creationdate="20150107T062558Z">
-        <seg>住在那里的爱丽丝小姐总是热心帮助有困难的人。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185733Z" creationid="妄想" creationdate="20150107T062558Z">
+        <seg>住在那里的爱丽丝小姐虽然看上去很冷淡，但总是会帮助有困难的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55410,8 +55410,8 @@
       <tuv lang="JA">
         <seg>チルノ達見なかった？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063211Z" creationid="妄想" creationdate="20150107T062900Z">
-        <seg>有看到琪露诺酱她们吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185824Z" creationid="妄想" creationdate="20150107T062900Z">
+        <seg>有看到琪露诺她们吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -61978,8 +61978,8 @@
       <tuv lang="JA">
         <seg>人間が落としていったんだけど このお煎餅美味しいわー！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T063442Z" creationid="妄想" creationdate="20150107T063442Z">
-        <seg>虽然是人类丢掉的，但是这个煎饼很好吃呢~！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185920Z" creationid="妄想" creationdate="20150107T063442Z">
+        <seg>虽然是人类掉落的，但是这个煎饼很好吃呢~！</seg>
       </tuv>
     </tu>
     <tu>
@@ -67968,6 +67968,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>妖怪志望かな？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185812Z" creationid="CJ" creationdate="20150521T185812Z">
+        <seg>是打算成为妖怪吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>妖怪（二口女）</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145731Z" creationid="UUZ" creationdate="20140906T145731Z">
@@ -68068,6 +68076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T133741Z" creationid="土妹子" creationdate="20150216T133741Z">
         <seg>妖精之力！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>妖精の癖に人間みたいな生活してたからよく覚えてるの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185857Z" creationid="CJ" creationdate="20150521T185857Z">
+        <seg>明明是妖精却过着像人类一样的生活，所以记得很清楚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76282,8 +76298,8 @@
       <tuv lang="JA">
         <seg>泥だらけになっちゃったー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150110T135500Z" creationid="UUZ" creationdate="20150110T135500Z">
-        <seg>泥だらけになっちゃったー。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190038Z" creationid="UUZ" creationdate="20150110T135500Z">
+        <seg>浑身都是泥了~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87738,8 +87754,8 @@
       <tuv lang="JA">
         <seg>魔理沙人形がそこらへんのキノコ集めてばっかで進めないんだ……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T063713Z" creationid="妄想" creationdate="20150107T063713Z">
-        <seg>魔理沙的人形在那一带一个劲的收集着蘑菇......。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190006Z" creationid="妄想" creationdate="20150107T063713Z">
+        <seg>魔理沙的人形在那一带一个劲的收集着蘑菇，都没法前进......。</seg>
       </tuv>
     </tu>
     <tu>
