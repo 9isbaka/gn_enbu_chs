@@ -30976,8 +30976,8 @@
       <tuv lang="JA">
         <seg>\c地底の妖怪に核の力を与えたり封印された妖怪たちが出てきたり。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T014248Z" creationid="妄想" creationdate="20150105T014248Z">
-        <seg>\c将核的力量给予了地底的妖怪们。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175934Z" creationid="妄想" creationdate="20150105T014248Z">
+        <seg>\c地底的妖怪们得到了核的力量，被封印的妖怪们跑了出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42576,8 +42576,8 @@
       <tuv lang="JA">
         <seg>この神社が突如やってきてから 幻想郷は変わったんだ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T014215Z" creationid="妄想" creationdate="20150105T014215Z">
-        <seg>这个神社突然来到幻想乡之后。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175858Z" creationid="妄想" creationdate="20150105T014215Z">
+        <seg>这个神社突然来到这里之后，幻想乡开始改变了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44016,8 +44016,8 @@
       <tuv lang="JA">
         <seg>す・・・っごく美味しいんだよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T013839Z" creationid="妄想" creationdate="20150105T013839Z">
-        <seg>做的・・・超级好吃哦！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175820Z" creationid="妄想" creationdate="20150105T013839Z">
+        <seg>超——级好吃哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -63546,8 +63546,8 @@
       <tuv lang="JA">
         <seg>僕も人形のお陰で 無事にここまで来れたよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T013142Z" creationid="妄想" creationdate="20150105T013142Z">
-        <seg>多亏了我的人形才能平安的到这里来！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175657Z" creationid="妄想" creationdate="20150105T013142Z">
+        <seg>我也是多亏了人形才能平安的到这里来！</seg>
       </tuv>
     </tu>
     <tu>
@@ -79130,8 +79130,8 @@
       <tuv lang="JA">
         <seg>神奈子様の御粥食べたことある？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T013808Z" creationid="妄想" creationdate="20150105T013808Z">
-        <seg>神奈治大人做的粥你吃过了吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175727Z" creationid="妄想" creationdate="20150105T013808Z">
+        <seg>神奈子大人做的粥你吃过了吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -83964,6 +83964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T123723Z" creationid="UUZ" creationdate="20140908T161344Z">
         <seg>你这家伙也是人形使吗……？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>賑やかで良いこったね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175959Z" creationid="CJ" creationdate="20150521T175959Z">
+        <seg>一片热闹的景象也挺好啊。</seg>
       </tuv>
     </tu>
     <tu>
