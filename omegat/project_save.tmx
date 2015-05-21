@@ -41440,8 +41440,8 @@
       <tuv lang="JA">
         <seg>こう なんか 響きがさ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150105T082014Z" creationid="妄想" creationdate="20150105T082003Z">
-        <seg>这样总觉得非常厉害呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T174325Z" creationid="妄想" creationdate="20150105T082003Z">
+        <seg>听上去就很带感。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47794,8 +47794,8 @@
       <tuv lang="JA">
         <seg>ふふ……良いよぉこの回路……可愛いよぉ……\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T073149Z" creationid="妄想" creationdate="20150104T071953Z">
-        <seg>呼呼……这美丽的花纹……太可爱了……\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T174358Z" creationid="妄想" creationdate="20150104T071953Z">
+        <seg>呼呼……这美丽的电路……太可爱了……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -61082,8 +61082,8 @@
       <tuv lang="JA">
         <seg>人形のお空ちゃんじゃ駄目かね？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T071041Z" creationid="妄想" creationdate="20150104T071041Z">
-        <seg>但是空的人形不行吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T174147Z" creationid="妄想" creationdate="20150104T071041Z">
+        <seg>用人形的阿空行不行呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -74042,8 +74042,8 @@
       <tuv lang="JA">
         <seg>核エネルギーさえあれば我々の技術もぐっと水準が上がるんだが……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T071021Z" creationid="妄想" creationdate="20150104T071021Z">
-        <seg>只要有核能，我们的技术也能提高了……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T174100Z" creationid="妄想" creationdate="20150104T071021Z">
+        <seg>只要有核能，我们的技术水准也能提高一个层次了……。</seg>
       </tuv>
     </tu>
     <tu>
