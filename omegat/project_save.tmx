@@ -29728,8 +29728,8 @@
       <tuv lang="JA">
         <seg>\cちょっかいかけられたら？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T053606Z" creationid="妄想" creationdate="20150103T053606Z">
-        <seg>\c如果一定要管呢？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164731Z" creationid="妄想" creationdate="20150103T053606Z">
+        <seg>\c如果是妖怪找上门来呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -37968,8 +37968,8 @@
       <tuv lang="JA">
         <seg>あなたもどう？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T063405Z" creationid="妄想" creationdate="20150103T063405Z">
-        <seg>你要一起唱吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164751Z" creationid="妄想" creationdate="20150103T063405Z">
+        <seg>你也要一起唱吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -61770,8 +61770,8 @@
       <tuv lang="JA">
         <seg>人里から離れれば離れるほど野生の人形も強くなるからね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="妄想" creationdate="20150103T071208Z">
-        <seg>从人类村落离开后，所遇到的人形会变强哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164857Z" creationid="妄想" creationdate="20150103T071208Z">
+        <seg>离人类村落越远，所遇到的人形也会越强哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63458,8 +63458,8 @@
       <tuv lang="JA">
         <seg>備えあれば憂いなしともいうし 準備は万端に！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150103T071244Z" creationid="妄想" creationdate="20150103T071244Z">
-        <seg>请做好万全的准备再出发哦！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164914Z" creationid="妄想" creationdate="20150103T071244Z">
+        <seg>有言道有备无患，请做好万全的准备再出发哦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -65042,8 +65042,8 @@
       <tuv lang="JA">
         <seg>印の種類によって 強化される能力が違うので 注意して見てみましょう！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T120510Z" creationid="UUZ" creationdate="20140908T120510Z">
-        <seg>印的种类不同被强化的能力也不同，所以请注意看看！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T164639Z" creationid="UUZ" creationdate="20140908T120510Z">
+        <seg>印的种类不同强化的能力也不同，所以请注意看看！</seg>
       </tuv>
     </tu>
     <tu>
