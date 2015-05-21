@@ -28854,6 +28854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cあん？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190539Z" creationid="CJ" creationdate="20150521T190539Z">
+        <seg>\c嗯？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cいいわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T110307Z" creationid="土妹子" creationdate="20150107T110307Z">
@@ -38846,6 +38854,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんたが何者なんか聞きやしないよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190605Z" creationid="CJ" creationdate="20150521T190605Z">
+        <seg>我才不管你是什么来头呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんたが魔界 魔理沙が冥界なら 私は天界あたりでも目星をつけてみようかしら。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T103421Z" creationid="土妹子" creationdate="20150109T103421Z">
@@ -39362,6 +39378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T143854Z" creationid="UUZ" creationdate="20140908T143854Z">
         <seg>总有一天你会成为我的手下败将。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>いつだって己を信じてたら嘘なんて必要ねぇよなぁ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190701Z" creationid="CJ" creationdate="20150521T190701Z">
+        <seg>只要时时刻刻都相信自己，谎言就没有必要！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40822,6 +40846,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お前さんも嘘はやめときな！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190709Z" creationid="CJ" creationdate="20150521T190709Z">
+        <seg>你也不要说谎啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お前のようなやつが生前いてくれれば……！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131336Z" creationid="140706inu" creationdate="20150417T131336Z">
@@ -41584,8 +41616,8 @@
       <tuv lang="JA">
         <seg>ここ 地獄。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T065411Z" creationid="妄想" creationdate="20150107T065411Z">
-        <seg>这里的地狱。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190420Z" creationid="妄想" creationdate="20150107T065411Z">
+        <seg>这里是地狱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43394,6 +43426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T144920Z" creationid="140706inu" creationdate="20150410T144920Z">
         <seg>好 那就把你解体吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さぁさ あんたも楽しんでおいき。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190531Z" creationid="CJ" creationdate="20150521T190531Z">
+        <seg>来来，你也好好享受吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46062,6 +46102,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>でも ここの奴らぁんなこと気にせず心底楽しそうに笑ってるのさ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190517Z" creationid="CJ" creationdate="20150521T190517Z">
+        <seg>但是这里的家伙们都不在意这些，能发自内心快乐的大笑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>でも もう少し付き合ってもらうわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T055850Z" creationid="土妹子" creationdate="20150106T055850Z">
@@ -47626,8 +47674,8 @@
       <tuv lang="JA">
         <seg>はっは 良い目だ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T065248Z" creationid="妄想" creationdate="20150107T065248Z">
-        <seg>哈哈 好眼力！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190402Z" creationid="妄想" creationdate="20150107T065248Z">
+        <seg>哈哈 眼神不错！</seg>
       </tuv>
     </tu>
     <tu>
@@ -85440,6 +85488,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>酒かっくらえば全員同じさ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190626Z" creationid="CJ" creationdate="20150521T190626Z">
+        <seg>灌下酒之后大家都一样啦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>酒でも飲もうじゃねぇか！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T065317Z" creationid="妄想" creationdate="20150107T065038Z">
@@ -87572,6 +87628,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T120805Z" creationid="140706inu" creationdate="20150417T120805Z">
         <seg>特意前往鬼的居所什么的 还真是奇怪啊你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>鬼は嘘をつかねぇ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T190637Z" creationid="CJ" creationdate="20150521T190637Z">
+        <seg>鬼是不说谎的！</seg>
       </tuv>
     </tu>
     <tu>
