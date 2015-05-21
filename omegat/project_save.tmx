@@ -39006,6 +39006,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あんまりちょこまか動いてねぇでもっと堂々と歩け！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192714Z" creationid="CJ" creationdate="20150521T192714Z">
+        <seg>不要到处乱窜，摆正了架子走路！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>あんまり人が通らないか呼び込みしてるんですよ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150419T090557Z" creationid="140706inu" creationdate="20150419T090557Z">
@@ -40258,6 +40266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035418Z" creationid="UUZ" creationdate="20140908T070616Z">
         <seg>喂！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おう 小さくて見えなかったぜ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192624Z" creationid="CJ" creationdate="20150521T192624Z">
+        <seg>噢，太小了都没看到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56394,8 +56410,8 @@
       <tuv lang="JA">
         <seg>パルスィさんは良いところを見つける天才なんだけど 妬んでばっかで素直に言えないんだよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T015403Z" creationid="妄想" creationdate="20150110T015258Z">
-        <seg>帕露西小姐是发现好地方的天才，不过因为嫉妒不能坦率的说出来。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192851Z" creationid="妄想" creationdate="20150110T015258Z">
+        <seg>帕露西小姐是发现优点的天才，不过因为嫉妒不能坦率的说出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69938,8 +69954,8 @@
       <tuv lang="JA">
         <seg>幻想郷に異変は数あれど 地上も地底も巻き込むなんて豪快だねぇ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T014709Z" creationid="妄想" creationdate="20150110T014709Z">
-        <seg>幻想乡的异变范围会将地面呀、地底呀什么的都卷入，真是豪爽啊。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192755Z" creationid="妄想" creationdate="20150110T014709Z">
+        <seg>虽然幻想乡有很多异变，而像这次会将地面呀、地底呀什么的都卷入，真是豪爽啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74090,8 +74106,8 @@
       <tuv lang="JA">
         <seg>本人は妬んでること自体が楽しそうだけどさ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T015359Z" creationid="妄想" creationdate="20150110T015359Z">
-        <seg>她本人嫉妒着，但是本身也很高兴。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192928Z" creationid="妄想" creationdate="20150110T015359Z">
+        <seg>她本人嫉妒着也是乐在其中啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82762,8 +82778,8 @@
       <tuv lang="JA">
         <seg>良いお祭りじゃあないか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T014726Z" creationid="妄想" creationdate="20150110T014726Z">
-        <seg>祭典有那么好吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T192811Z" creationid="妄想" creationdate="20150110T014726Z">
+        <seg>是次不错的祭典啊。</seg>
       </tuv>
     </tu>
     <tu>
