@@ -30536,8 +30536,8 @@
       <tuv lang="JA">
         <seg>\c・・・少し抜けてるところもありますがね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T033813Z" creationid="妄想" creationdate="20150107T033813Z">
-        <seg>\c···稍稍也有些不太靠谱的地方。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184244Z" creationid="妄想" creationdate="20150107T033813Z">
+        <seg>\c···虽然稍稍也有些不太靠谱的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62434,8 +62434,8 @@
       <tuv lang="JA">
         <seg>今日のお仕事は……いいや 明日やろっと。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T034403Z" creationid="妄想" creationdate="20150107T034403Z">
-        <seg>今天的工作是....好！每天一定会干的。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184418Z" creationid="妄想" creationdate="20150107T034403Z">
+        <seg>今天的工作是...算了明天再干吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70506,8 +70506,8 @@
       <tuv lang="JA">
         <seg>後片付けするメイド長が大変なんですから。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T033400Z" creationid="妄想" creationdate="20150107T033400Z">
-        <seg>女仆长的善后工作很辛苦的。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184141Z" creationid="妄想" creationdate="20150107T033400Z">
+        <seg>善后的女仆长的会很辛苦的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79572,6 +79572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T135925Z" creationid="土妹子" creationdate="20150107T135925Z">
         <seg>要来我们的根据地吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私たちの中でも不評だし お嬢様も機嫌が悪くなるというのに なんで毎年豆まきをやるんでしょう……？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184224Z" creationid="CJ" creationdate="20150521T184224Z">
+        <seg>在我们之间评价也不好，大小姐也不高兴，可为什么还是每年都要撒豆子呢……？</seg>
       </tuv>
     </tu>
     <tu>
