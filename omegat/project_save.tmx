@@ -38104,8 +38104,8 @@
       <tuv lang="JA">
         <seg>あなた働かない？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T060510Z" creationid="妄想" creationdate="20150107T060510Z">
-        <seg>你不用工作？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185100Z" creationid="妄想" creationdate="20150107T060510Z">
+        <seg>你来不来工作？</seg>
       </tuv>
     </tu>
     <tu>
@@ -40546,6 +40546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150107T025405Z" creationid="妄想" creationdate="20150107T025405Z">
         <seg>晚安哦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おやすみなさい。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185044Z" creationid="CJ" creationdate="20150521T185044Z">
+        <seg>晚安。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47788,6 +47796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140456Z" creationid="UUZ" creationdate="20140904T140456Z">
         <seg>布都</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ふははー妖精といって侮るなかれー この大戦争が幻想郷のパワーバランスを……！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185048Z" creationid="CJ" creationdate="20150521T185003Z">
+        <seg>呼哈哈可不要小瞧妖精哦，这次大战争将会颠覆幻想乡的势力平衡……！</seg>
       </tuv>
     </tu>
     <tu>
@@ -59176,6 +59192,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>・・・あ お客様ですか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185014Z" creationid="CJ" creationdate="20150521T185014Z">
+        <seg>・・・啊，是客人吗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>・・・あぁん？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150108T081249Z" creationid="妄想" creationdate="20150108T081249Z">
@@ -62564,6 +62588,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150104T145623Z" creationid="妄想" creationdate="20150104T145121Z">
         <seg>现在我的人形们只是稍稍没有精神！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>今良いとこなのでまた寝ますね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T185032Z" creationid="CJ" creationdate="20150521T185032Z">
+        <seg>好梦正做到一半我接着睡了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71076,6 +71108,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030756Z" creationid="土妹子" creationdate="20150110T030756Z">
         <seg>从魔法棒中放出恶魔之力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>悪魔の棲む館 紅魔館とは言われていますが 量的に言えば妖精の棲む館ですね。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184821Z" creationid="CJ" creationdate="20150521T184821Z">
+        <seg>红魔馆虽然被称作是恶魔栖居的洋馆，不过就数量上来说其实是妖精栖居的洋馆呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84132,6 +84172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T175959Z" creationid="CJ" creationdate="20150521T175959Z">
         <seg>一片热闹的景象也挺好啊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>質より量ですよ 量。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184842Z" creationid="CJ" creationdate="20150521T184842Z">
+        <seg>比起质量更重要的是数量哦，数量。</seg>
       </tuv>
     </tu>
     <tu>
