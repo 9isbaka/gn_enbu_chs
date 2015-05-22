@@ -41062,6 +41062,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>お疲れのとこお手合わせよろしいですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T084441Z" creationid="CJ" creationdate="20150522T084422Z">
+        <seg>抱歉在你疲劳的时候能否和我一战呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>お疲れのようですね……？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150131T143209Z" creationid="土妹子" creationdate="20150131T143209Z">
@@ -50042,8 +50050,8 @@
       <tuv lang="JA">
         <seg>よければ一戦 試合をしましょう。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T064551Z" creationid="妄想" creationdate="20150112T064551Z">
-        <seg>如果可以 与我一战吧。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T084057Z" creationid="妄想" creationdate="20150112T064551Z">
+        <seg>如果可以 与我比试一下吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50386,8 +50394,8 @@
       <tuv lang="JA">
         <seg>わたしのも触ってみる？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T064300Z" creationid="妄想" creationdate="20150112T064300Z">
-        <seg>我能摸摸吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083651Z" creationid="妄想" creationdate="20150112T064300Z">
+        <seg>我的也摸摸看吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -61546,8 +61554,8 @@
       <tuv lang="JA">
         <seg>人形の尻尾も ふさふさしてて気持ちいいわよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T064244Z" creationid="妄想" creationdate="20150112T064244Z">
-        <seg>人形的尾巴毛茸茸的，看着让人心情舒畅哟。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083624Z" creationid="妄想" creationdate="20150112T064244Z">
+        <seg>人形的尾巴毛茸茸的很舒服哟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62434,8 +62442,8 @@
       <tuv lang="JA">
         <seg>今なんかあった？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T065539Z" creationid="妄想" creationdate="20150112T065539Z">
-        <seg>现在有什么事吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T084359Z" creationid="妄想" creationdate="20150112T065539Z">
+        <seg>刚才发生什么事了吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73226,8 +73234,8 @@
       <tuv lang="JA">
         <seg>新しいお人形は使ってみた？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T064540Z" creationid="妄想" creationdate="20150112T064540Z">
-        <seg>新的人形使吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083811Z" creationid="妄想" creationdate="20150112T064540Z">
+        <seg>新的人形试着用过吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73892,6 +73900,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T112043Z" creationid="140706inu" creationdate="20150417T112043Z">
         <seg>最近都没什么异变能形成撼动幻想乡的大危机 真是无聊呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最近は紙じゃなくて人形を舞わせるの。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083748Z" creationid="CJ" creationdate="20150522T083748Z">
+        <seg>最近不再用纸而是让人形跳舞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79226,8 +79242,8 @@
       <tuv lang="JA">
         <seg>眠すぎて戦っちゃうわー……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T065458Z" creationid="妄想" creationdate="20150112T065458Z">
-        <seg>太困了不能战斗了~...。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T084346Z" creationid="妄想" creationdate="20150112T065458Z">
+        <seg>太困了我就会想找人打架~...。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80202,8 +80218,8 @@
       <tuv lang="JA">
         <seg>私の人形と踊ってくれる？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T064322Z" creationid="妄想" creationdate="20150112T064322Z">
-        <seg>和我的人形跳舞吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083707Z" creationid="妄想" creationdate="20150112T064322Z">
+        <seg>能和我的人形跳支舞吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -82848,6 +82864,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>良い試合でしたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T084315Z" creationid="CJ" creationdate="20150522T084315Z">
+        <seg>这真是一场有益的比试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>良かったわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162858Z" creationid="土妹子" creationdate="20150104T162858Z">
@@ -83906,8 +83930,8 @@
       <tuv lang="JA">
         <seg>試し合うと書いて試合ってね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133035Z" creationid="UUZ" creationdate="20150112T133035Z">
-        <seg>試し合うと書いて試合ってね。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T084226Z" creationid="UUZ" creationdate="20150112T133035Z">
+        <seg>比较试探写作比试。</seg>
       </tuv>
     </tu>
     <tu>
