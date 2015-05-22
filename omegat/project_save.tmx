@@ -47658,8 +47658,8 @@
       <tuv lang="JA">
         <seg>はいっ とおせんぼっ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081225Z" creationid="妄想" creationdate="20150110T081225Z">
-        <seg>被挡住了去路！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T071104Z" creationid="妄想" creationdate="20150110T081225Z">
+        <seg>此路不通！</seg>
       </tuv>
     </tu>
     <tu>
@@ -48706,8 +48706,8 @@
       <tuv lang="JA">
         <seg>またあの人がなにかやってるのかな・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075857Z" creationid="妄想" creationdate="20150110T075857Z">
-        <seg>又是那个什么人做的吗···</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070501Z" creationid="妄想" creationdate="20150110T075857Z">
+        <seg>又是那个人做了什么的吗···</seg>
       </tuv>
     </tu>
     <tu>
@@ -48738,8 +48738,8 @@
       <tuv lang="JA">
         <seg>またきてね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080725Z" creationid="妄想" creationdate="20150110T080725Z">
-        <seg>再来。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070639Z" creationid="妄想" creationdate="20150110T080725Z">
+        <seg>请再来哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48834,8 +48834,8 @@
       <tuv lang="JA">
         <seg>またよろしくね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080302Z" creationid="妄想" creationdate="20150110T080302Z">
-        <seg>请多多指教。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070555Z" creationid="妄想" creationdate="20150110T080302Z">
+        <seg>还请再请多多指教。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62794,8 +62794,8 @@
       <tuv lang="JA">
         <seg>他にはどうする？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080616Z" creationid="妄想" creationdate="20150110T080616Z">
-        <seg>其他的怎么办？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070626Z" creationid="妄想" creationdate="20150110T080616Z">
+        <seg>还需要什么吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73842,8 +73842,8 @@
       <tuv lang="JA">
         <seg>最近は人形用の道具をうってるの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T080531Z" creationid="妄想" creationdate="20150110T080531Z">
-        <seg>最近人形用的道具不错。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070613Z" creationid="妄想" creationdate="20150110T080531Z">
+        <seg>最近在贩卖人形用的道具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73874,8 +73874,8 @@
       <tuv lang="JA">
         <seg>最近大量の人形が溢れ返ってるんだよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075746Z" creationid="妄想" creationdate="20150110T075746Z">
-        <seg>最近大量的人形溢出归还了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070446Z" creationid="妄想" creationdate="20150110T075746Z">
+        <seg>最近大量的人形溢出了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78018,8 +78018,8 @@
       <tuv lang="JA">
         <seg>疲れたところに休憩所。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T075336Z" creationid="妄想" creationdate="20150110T075336Z">
-        <seg>疲倦的时候的休息所。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070419Z" creationid="妄想" creationdate="20150110T075336Z">
+        <seg>疲倦的时候正好有个休息所。</seg>
       </tuv>
     </tu>
     <tu>
