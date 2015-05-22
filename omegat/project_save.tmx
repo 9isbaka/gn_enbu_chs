@@ -38800,8 +38800,8 @@
       <tuv lang="JA">
         <seg>あれ どっちをふさいでたんだっけ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150408T152921Z" creationid="140706inu" creationdate="20150408T152921Z">
-        <seg>咦 什么地方堵住了？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T093457Z" creationid="140706inu" creationdate="20150408T152921Z">
+        <seg>咦 我要堵住的路是哪条来着？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41712,8 +41712,8 @@
       <tuv lang="JA">
         <seg>ここから先は掃除中！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T040351Z" creationid="妄想" creationdate="20150203T040351Z">
-        <seg>这里开始是在打扫中！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T093257Z" creationid="妄想" creationdate="20150203T040351Z">
+        <seg>这前面正在打扫中！</seg>
       </tuv>
     </tu>
     <tu>
@@ -45152,8 +45152,8 @@
       <tuv lang="JA">
         <seg>それではいきますわ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T041218Z" creationid="妄想" creationdate="20150203T041218Z">
-        <seg>那么下次再见。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T093350Z" creationid="妄想" creationdate="20150203T041218Z">
+        <seg>那么请接招。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46008,8 +46008,8 @@
       <tuv lang="JA">
         <seg>っちぇー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035050Z" creationid="UUZ" creationdate="20150130T152613Z">
-        <seg>真的~.</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092823Z" creationid="UUZ" creationdate="20150130T152613Z">
+        <seg>啧~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46138,6 +46138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T161021Z" creationid="土妹子" creationdate="20150109T161021Z">
         <seg>不过，就和一直以来一样的被干掉了哦桑妮？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>であえであえー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T093149Z" creationid="CJ" creationdate="20150522T093149Z">
+        <seg>来人啊来人啊~！</seg>
       </tuv>
     </tu>
     <tu>
@@ -47452,6 +47460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T033857Z" creationid="140706inu" creationdate="20150411T033857Z">
         <seg>人 人类？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>にげろにげろー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T093159Z" creationid="CJ" creationdate="20150522T093159Z">
+        <seg>快跑啊快跑啊~！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55562,8 +55578,8 @@
       <tuv lang="JA">
         <seg>チルノちゃん 最強って言ってたのに……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035336Z" creationid="妄想" creationdate="20150203T035336Z">
-        <seg>琪露诺酱最强了的说......。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092922Z" creationid="妄想" creationdate="20150203T035336Z">
+        <seg>琪露诺酱明明说这是最强了的......。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61810,8 +61826,8 @@
       <tuv lang="JA">
         <seg>人形バトルにておもてなし致します。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T040223Z" creationid="妄想" creationdate="20150203T040223Z">
-        <seg>人形战斗中不能接受款待哟。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T093221Z" creationid="妄想" creationdate="20150203T040223Z">
+        <seg>用人形战斗来接待。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68578,8 +68594,8 @@
       <tuv lang="JA">
         <seg>嫌な事も隠してくれる……霧が好きなの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035209Z" creationid="妄想" creationdate="20150203T035209Z">
-        <seg>讨厌的事物也被隐藏了......我喜欢这雾。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092845Z" creationid="妄想" creationdate="20150203T035209Z">
+        <seg>讨厌的事物也被隐藏了......我喜欢雾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70570,8 +70586,8 @@
       <tuv lang="JA">
         <seg>弾幕ごっこなら負けないしー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035102Z" creationid="妄想" creationdate="20150203T035102Z">
-        <seg>弹幕游戏不会输了~。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092831Z" creationid="妄想" creationdate="20150203T035102Z">
+        <seg>如果是弹幕游戏就不会输了~。</seg>
       </tuv>
     </tu>
     <tu>
