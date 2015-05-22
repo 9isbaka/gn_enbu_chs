@@ -29168,8 +29168,8 @@
       <tuv lang="JA">
         <seg>\cこれは あなたを示す大事なモノですもの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032551Z" creationid="UUZ" creationdate="20140908T065320Z">
-        <seg>\c这是要告诉你的非常重要的事项。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T145745Z" creationid="UUZ" creationdate="20140908T065320Z">
+        <seg>\c这是表明你身份的非常重要的事项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46400,8 +46400,8 @@
       <tuv lang="JA">
         <seg>ということは 東方Projectって知ってるよな！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T032645Z" creationid="土妹子" creationdate="20150105T032645Z">
-        <seg>也就是说，你知道东方ｐｒｏｊｅｃｔ呢！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T145843Z" creationid="土妹子" creationdate="20150105T032645Z">
+        <seg>也就是说，你知道东方Project呢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -74834,8 +74834,8 @@
       <tuv lang="JA">
         <seg>楽しみにしていますわ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T070519Z" creationid="UUZ" creationdate="20140908T070519Z">
-        <seg>我很期待看到那一天。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T145807Z" creationid="UUZ" creationdate="20140908T070519Z">
+        <seg>我很期待那一天。</seg>
       </tuv>
     </tu>
     <tu>
