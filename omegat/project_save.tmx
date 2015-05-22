@@ -41808,8 +41808,8 @@
       <tuv lang="JA">
         <seg>ここなら人形箱を開けられそうだ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161314Z" creationid="UUZ" creationdate="20140908T053140Z">
-        <seg>这里似乎可以打开人形箱！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T125622Z" creationid="UUZ" creationdate="20140908T053140Z">
+        <seg>这里可以打开人形箱！</seg>
       </tuv>
     </tu>
     <tu>
@@ -43352,8 +43352,8 @@
       <tuv lang="JA">
         <seg>ごゆっくりどうぞ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T161415Z" creationid="UUZ" creationdate="20140908T054440Z">
-        <seg>请馒馒来！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T125802Z" creationid="UUZ" creationdate="20140908T054440Z">
+        <seg>请自便！</seg>
       </tuv>
     </tu>
     <tu>
@@ -46038,6 +46038,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>って その子を 手放したら 山を降りられないじゃない！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T130150Z" creationid="CJ" creationdate="20150522T130150Z">
+        <seg>等下，放生这孩子之后你不就没法下山了吗！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>って その子を 手放したら 山を降りられなるじゃない！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T163053Z" creationid="土妹子" creationdate="20150104T163053Z">
@@ -46824,8 +46832,8 @@
       <tuv lang="JA">
         <seg>どの子に するのかしら？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162120Z" creationid="土妹子" creationdate="20150104T162120Z">
-        <seg>要对哪孩子动手呢？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T130005Z" creationid="土妹子" creationdate="20150104T162120Z">
+        <seg>要解除哪个孩子的封印呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -49850,8 +49858,8 @@
       <tuv lang="JA">
         <seg>やめにするのね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T162840Z" creationid="土妹子" creationdate="20150104T162840Z">
-        <seg>住手哪！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T130045Z" creationid="土妹子" creationdate="20150104T162840Z">
+        <seg>回心转意了吗！</seg>
       </tuv>
     </tu>
     <tu>
