@@ -42918,6 +42918,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>これから先挫ける事があっても 心をしっかり じゃよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T073935Z" creationid="CJ" creationdate="20150522T073935Z">
+        <seg>今后即使是受到挫折，也要保持一颗坚强的心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>これが伝統ってもんよ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T085155Z" creationid="妄想" creationdate="20150110T085155Z">
@@ -47456,6 +47464,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>にんへんよあはひをしょうふひおー！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T074348Z" creationid="CJ" creationdate="20150522T074348Z">
+        <seg>拿变的任磊赖合窝队展吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ぬえ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140417Z" creationid="UUZ" creationdate="20140904T140417Z">
@@ -48058,8 +48074,8 @@
       <tuv lang="JA">
         <seg>ふむ 良い目をしておる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T083534Z" creationid="妄想" creationdate="20150110T083534Z">
-        <seg>恩 你的目光很好。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T073435Z" creationid="妄想" creationdate="20150110T083534Z">
+        <seg>嗯 你的眼神不错。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49340,6 +49356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T030857Z" creationid="土妹子" creationdate="20150108T030857Z">
         <seg>可恶！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>もぐもぐ・・・\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T074009Z" creationid="CJ" creationdate="20150522T074009Z">
+        <seg>嚼嚼・・・\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -70378,8 +70402,8 @@
       <tuv lang="JA">
         <seg>強くなる者の目じゃな。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T083556Z" creationid="妄想" creationdate="20150110T083556Z">
-        <seg>有着一种强者的目光。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T073454Z" creationid="妄想" creationdate="20150110T083556Z">
+        <seg>有着一种强者的眼神。</seg>
       </tuv>
     </tu>
     <tu>
