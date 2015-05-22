@@ -33416,8 +33416,8 @@
       <tuv lang="JA">
         <seg>\っていつの間にか負けてた。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084154Z" creationid="妄想" creationdate="20150110T084154Z">
-        <seg>\不知不觉的输掉了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T074549Z" creationid="妄想" creationdate="20150110T084154Z">
+        <seg>\咦不知不觉的输掉了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43256,8 +43256,8 @@
       <tuv lang="JA">
         <seg>ごくん・・・ふぅ 食べ終わった・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084125Z" creationid="妄想" creationdate="20150110T084046Z">
-        <seg>咕呜···呼 终于吃完了···\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T074702Z" creationid="妄想" creationdate="20150110T084046Z">
+        <seg>（咽下）···呼 终于吃完了···\b</seg>
       </tuv>
     </tu>
     <tu>
