@@ -35000,8 +35000,8 @@
       <tuv lang="JA">
         <seg>……ありがとうございました。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T024949Z" creationid="妄想" creationdate="20150203T024949Z">
-        <seg>......谢谢大家了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091020Z" creationid="妄想" creationdate="20150203T024949Z">
+        <seg>......多谢指教了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40112,8 +40112,8 @@
       <tuv lang="JA">
         <seg>えっと……勝負 ですか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T024931Z" creationid="妄想" creationdate="20150203T024931Z">
-        <seg>恩.....胜负呢？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091010Z" creationid="妄想" creationdate="20150203T024931Z">
+        <seg>嗯.....要比试吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -46624,8 +46624,8 @@
       <tuv lang="JA">
         <seg>どうも幽霊です。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025409Z" creationid="妄想" creationdate="20150203T025409Z">
-        <seg>真的是幽灵。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091134Z" creationid="妄想" creationdate="20150203T025409Z">
+        <seg>你好我是幽灵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49242,8 +49242,8 @@
       <tuv lang="JA">
         <seg>みーっつけた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T025202Z" creationid="UUZ" creationdate="20150112T133033Z">
-        <seg>试着打开了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091121Z" creationid="UUZ" creationdate="20150112T133033Z">
+        <seg>找到你了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55732,6 +55732,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T175224Z" creationid="土妹子" creationdate="20150102T175224Z">
         <seg>狄波拉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>デロデロデロ〜・・・。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091419Z" creationid="CJ" creationdate="20150522T091337Z">
+        <seg>嘟嘟嘟〜・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>デローン……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091413Z" creationid="CJ" creationdate="20150522T091413Z">
+        <seg>嘟……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63898,16 +63914,16 @@
       <tuv lang="JA">
         <seg>元気があれば勝てるのよー！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040543Z" creationid="妄想" creationdate="20150128T040543Z">
-        <seg>有精神的话就是胜利哟！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090932Z" creationid="妄想" creationdate="20150128T040543Z">
+        <seg>有精神的话就能胜利哟！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>元気だけじゃ駄目なのね……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T024911Z" creationid="妄想" creationdate="20150203T024911Z">
-        <seg>只是有精神是不行的......</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090940Z" creationid="妄想" creationdate="20150203T024911Z">
+        <seg>只是有精神是不行的啊......</seg>
       </tuv>
     </tu>
     <tu>
@@ -71146,8 +71162,8 @@
       <tuv lang="JA">
         <seg>急ぐのもいいけどのんびりするのもいいよ〜。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040440Z" creationid="妄想" creationdate="20150128T040440Z">
-        <seg>匆忙的虽然不错，但是悠闲的也不错~。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090911Z" creationid="妄想" creationdate="20150128T040440Z">
+        <seg>匆忙的人生虽然没错，但是悠闲的人生也很好~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74204,6 +74220,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035728Z" creationid="妄想" creationdate="20150203T035728Z">
         <seg>是真的哦~！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>本当だよ 良いバケバケだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091216Z" creationid="CJ" creationdate="20150522T091216Z">
+        <seg>真的哦，是善良的幽灵哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79716,6 +79740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022947Z" creationid="土妹子" creationdate="20141231T022947Z">
         <seg>灾祸之紫黑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>私 いいバケバケだよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091159Z" creationid="CJ" creationdate="20150522T091159Z">
+        <seg>我是善良的幽灵哦。</seg>
       </tuv>
     </tu>
     <tu>
