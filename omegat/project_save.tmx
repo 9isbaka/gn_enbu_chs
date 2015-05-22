@@ -30416,8 +30416,8 @@
       <tuv lang="JA">
         <seg>\c・・・その ついでなのですが\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054800Z" creationid="土妹子" creationdate="20150105T054800Z">
-        <seg>\c关于这件事的话\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154344Z" creationid="土妹子" creationdate="20150105T054800Z">
+        <seg>\c……顺便\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -33216,8 +33216,8 @@
       <tuv lang="JA">
         <seg>\pさん自身で 人形について調べてみてませんか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054637Z" creationid="UUZ" creationdate="20140909T145244Z">
-        <seg>\p你可以试着调查一下遇到的人形吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154302Z" creationid="UUZ" creationdate="20140909T145244Z">
+        <seg>\p你可以试着自己调查一下人形吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41824,8 +41824,8 @@
       <tuv lang="JA">
         <seg>ここにいらっしゃったのですね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054538Z" creationid="UUZ" creationdate="20140909T144506Z">
-        <seg>欢迎来到这里呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154241Z" creationid="UUZ" creationdate="20140909T144506Z">
+        <seg>原来在这里啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43120,8 +43120,8 @@
       <tuv lang="JA">
         <seg>これをあなたにお願いしたいのです。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T152611Z" creationid="UUZ" creationdate="20140909T150319Z">
-        <seg>希望拜托给你。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154350Z" creationid="UUZ" creationdate="20140909T150319Z">
+        <seg>这个希望拜托给你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47730,8 +47730,8 @@
       <tuv lang="JA">
         <seg>はぁはぁ……\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T144332Z" creationid="UUZ" creationdate="20140909T144332Z">
-        <seg>哈哈……\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154224Z" creationid="UUZ" creationdate="20140909T144332Z">
+        <seg>呼…呼…\b</seg>
       </tuv>
     </tu>
     <tu>
