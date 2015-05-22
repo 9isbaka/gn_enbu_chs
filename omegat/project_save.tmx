@@ -40384,8 +40384,8 @@
       <tuv lang="JA">
         <seg>おっと ここからはアポが無いと駄目なんだよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150419T084358Z" creationid="140706inu" creationdate="20150419T083750Z">
-        <seg>啊呀 这里规定没有事先AP就不能进去哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113043Z" creationid="140706inu" creationdate="20150419T083750Z">
+        <seg>啊呀 这里规定没有事先AP（预约）就不能进去哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40904,8 +40904,8 @@
       <tuv lang="JA">
         <seg>お前のようなやつが生前いてくれれば……！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T131336Z" creationid="140706inu" creationdate="20150417T131336Z">
-        <seg>要是我生前能像你这样……！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T112605Z" creationid="140706inu" creationdate="20150417T131336Z">
+        <seg>要是我生前能遇到你这样的人……！</seg>
       </tuv>
     </tu>
     <tu>
@@ -46616,8 +46616,8 @@
       <tuv lang="JA">
         <seg>どうでしたか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150419T090243Z" creationid="140706inu" creationdate="20150419T090243Z">
-        <seg>怎么了吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T112902Z" creationid="140706inu" creationdate="20150419T090243Z">
+        <seg>感觉效果怎样？</seg>
       </tuv>
     </tu>
     <tu>
