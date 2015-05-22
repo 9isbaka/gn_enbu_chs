@@ -30736,8 +30736,8 @@
       <tuv lang="JA">
         <seg>\c人里までもう少しあるから ここの休憩所で休むといいと思います！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091458Z" creationid="UUZ" creationdate="20140908T133230Z">
-        <seg>\c到人类村落还有点距离 就在这个休憩处好好休息一下吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090125Z" creationid="UUZ" creationdate="20140908T133230Z">
+        <seg>\c到人类村落还有点距离 就在这个休息所好好休息一下吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30848,8 +30848,8 @@
       <tuv lang="JA">
         <seg>\c休憩所は有意義につかうんじゃよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T103000Z" creationid="妄想" creationdate="20150103T034800Z">
-        <seg>\c有好好地使用休憩处吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090125Z" creationid="妄想" creationdate="20150103T034800Z">
+        <seg>\c有好好地使用休息所吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -38936,8 +38936,8 @@
       <tuv lang="JA">
         <seg>あんたも一緒にお散歩する？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040311Z" creationid="妄想" creationdate="20150128T040311Z">
-        <seg>你也一起散步吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090626Z" creationid="妄想" creationdate="20150128T040311Z">
+        <seg>你也来一起散步吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41016,8 +41016,8 @@
       <tuv lang="JA">
         <seg>お散歩お散歩楽しいな〜。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040255Z" creationid="妄想" creationdate="20150128T040255Z">
-        <seg>散步真快乐~。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090616Z" creationid="妄想" creationdate="20150128T040255Z">
+        <seg>散步真开心~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42454,10 +42454,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>この先に休憩所がありますので 休んでいかれるといいですよ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090530Z" creationid="CJ" creationdate="20150522T090225Z">
+        <seg>这前面有个休息所，过去休息一下吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この先に休憩所があるから しっかりと人形を休ませてあげてね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T091202Z" creationid="UUZ" creationdate="20140908T132641Z">
-        <seg>前面就是休憩处，好好让人形休息一下吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090125Z" creationid="UUZ" creationdate="20140908T132641Z">
+        <seg>前面就是休息所，好好让人形休息一下吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42768,8 +42776,8 @@
       <tuv lang="JA">
         <seg>この結果も反転しないかな……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150128T040206Z" creationid="妄想" creationdate="20150128T040206Z">
-        <seg>这个结果也是反转的吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090605Z" creationid="妄想" creationdate="20150128T040206Z">
+        <seg>这个结果没法也反转吗…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62064,6 +62072,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人里内部・休憩所</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090225Z" creationid="CJ" creationdate="20150522T090225Z">
+        <seg>人里内部・休息所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人間……珍シイナ……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T163552Z" creationid="140706inu" creationdate="20150512T163552Z">
@@ -62954,24 +62970,32 @@
       <tuv lang="JA">
         <seg>休憩していきますか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T054345Z" creationid="UUZ" creationdate="20140908T054345Z">
-        <seg>要休憩一下吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090225Z" creationid="UUZ" creationdate="20140908T054345Z">
+        <seg>要休息一下吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>休憩所</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090225Z" creationid="CJ" creationdate="20150522T090225Z">
+        <seg>休息所</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>休憩所『憩いの場』</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T141403Z" creationid="UUZ" creationdate="20140908T141403Z">
-        <seg>休憩处『休息的地方』</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090125Z" creationid="UUZ" creationdate="20140908T141403Z">
+        <seg>休息所『休息的地方』</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>休憩所で聞いたんだけど 今中々手ごわい人形遣いが来てるらしいぜ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T100149Z" creationid="UUZ" creationdate="20140908T140956Z">
-        <seg>在休憩处听说的 好像出现了很难对付的人形使啊。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090125Z" creationid="UUZ" creationdate="20140908T140956Z">
+        <seg>在休息所听说的 好像出现了很难对付的人形使啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78074,7 +78098,7 @@
       <tuv lang="JA">
         <seg>疲れたところに休憩所。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T070419Z" creationid="妄想" creationdate="20150110T075336Z">
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090256Z" creationid="妄想" creationdate="20150110T075336Z">
         <seg>疲倦的时候正好有个休息所。</seg>
       </tuv>
     </tu>
@@ -78082,8 +78106,8 @@
       <tuv lang="JA">
         <seg>疲れた時は休憩所！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150515T090449Z" creationid="UUZ" creationdate="20140908T132054Z">
-        <seg>疲惫之时的休憩处！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090125Z" creationid="UUZ" creationdate="20140908T132054Z">
+        <seg>疲惫之时的休息所！</seg>
       </tuv>
     </tu>
     <tu>
