@@ -37704,8 +37704,8 @@
       <tuv lang="JA">
         <seg>あっちょうどいいところにっ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T030119Z" creationid="140706inu" creationdate="20150512T030119Z">
-        <seg>啊 慢着慢着 你来得正好！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113711Z" creationid="140706inu" creationdate="20150512T030119Z">
+        <seg>啊 你来得正好！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40464,8 +40464,8 @@
       <tuv lang="JA">
         <seg>おぬしが来たせいで魚が逃げたじゃないか！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T111156Z" creationid="140706inu" creationdate="20150512T111107Z">
-        <seg>你这小鬼一来鱼都要逃走了啊！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113938Z" creationid="140706inu" creationdate="20150512T111107Z">
+        <seg>你这小鬼一来鱼都逃走了啊！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40808,8 +40808,8 @@
       <tuv lang="JA">
         <seg>お使いサボってたのがバレた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T124654Z" creationid="140706inu" creationdate="20150512T124654Z">
-        <seg>当人形使翘班被发现了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T114014Z" creationid="140706inu" creationdate="20150512T124654Z">
+        <seg>翘班被发现了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -41048,8 +41048,8 @@
       <tuv lang="JA">
         <seg>お昼寝するかお人形遊びするか迷ってたら何時間も経っちゃった……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150508T085432Z" creationid="140706inu" creationdate="20150508T085432Z">
-        <seg>睡个午觉啦 和人形玩一玩啦 结果回过神来已经过了这么久……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113449Z" creationid="140706inu" creationdate="20150508T085432Z">
+        <seg>烦恼着是睡个午觉还是和人形玩一玩 结果回过神来已经过了这么久……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41920,8 +41920,8 @@
       <tuv lang="JA">
         <seg>ここの用事？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150509T104346Z" creationid="140706inu" creationdate="20150509T104346Z">
-        <seg>有何贵干？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113555Z" creationid="140706inu" creationdate="20150509T104346Z">
+        <seg>到此有何贵干？</seg>
       </tuv>
     </tu>
     <tu>
@@ -44384,8 +44384,8 @@
       <tuv lang="JA">
         <seg>ぜーっぜーっ 人形たちって元気ねぇ……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150508T083933Z" creationid="140706inu" creationdate="20150426T045330Z">
-        <seg>铛—铛— 人形们很精神哦……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113315Z" creationid="140706inu" creationdate="20150426T045330Z">
+        <seg>呼—呼— 人形们的精神真好哦……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62890,8 +62890,8 @@
       <tuv lang="JA">
         <seg>仏教になんか負けないんだから！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124516Z" creationid="土妹子" creationdate="20150216T124516Z">
-        <seg>所以不会输给佛教什么的！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T114130Z" creationid="土妹子" creationdate="20150216T124516Z">
+        <seg>才不会输给佛教什么的！</seg>
       </tuv>
     </tu>
     <tu>
@@ -65010,8 +65010,8 @@
       <tuv lang="JA">
         <seg>勝負に勝ったら見せてあげてもいいよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T071722Z" creationid="140706inu" creationdate="20150512T071709Z">
-        <seg>在对战中取胜的话就让你见识一下？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113854Z" creationid="140706inu" creationdate="20150512T071709Z">
+        <seg>在对战中取胜的话就让你见识一下也行哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -67922,8 +67922,8 @@
       <tuv lang="JA">
         <seg>太陽に突撃！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T151321Z" creationid="140706inu" creationdate="20150512T151321Z">
-        <seg>突袭太阳！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T114106Z" creationid="140706inu" creationdate="20150512T151321Z">
+        <seg>向着太阳突击！</seg>
       </tuv>
     </tu>
     <tu>
@@ -68322,8 +68322,8 @@
       <tuv lang="JA">
         <seg>妖精が人間に勝つ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150508T085023Z" creationid="140706inu" creationdate="20150508T085023Z">
-        <seg>妖精战胜人类！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113354Z" creationid="140706inu" creationdate="20150508T085023Z">
+        <seg>妖精将会战胜人类！</seg>
       </tuv>
     </tu>
     <tu>
@@ -73578,8 +73578,8 @@
       <tuv lang="JA">
         <seg>明日は私が勝つもんね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150508T085114Z" creationid="140706inu" creationdate="20150508T085114Z">
-        <seg>明天一定是我赢！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113420Z" creationid="140706inu" creationdate="20150508T085114Z">
+        <seg>未来一定是我赢！</seg>
       </tuv>
     </tu>
     <tu>
@@ -80650,8 +80650,8 @@
       <tuv lang="JA">
         <seg>私も君に用あるよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T023021Z" creationid="140706inu" creationdate="20150509T110133Z">
-        <seg>我也有一事相谈哦？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113601Z" creationid="140706inu" creationdate="20150509T110133Z">
+        <seg>我也有一事找您相谈哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -84930,8 +84930,8 @@
       <tuv lang="JA">
         <seg>迷う時間が一番無駄なのよねー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150508T085853Z" creationid="140706inu" creationdate="20150508T085853Z">
-        <seg>沉浸在慵懒的气氛里真是最浪费时间的了—。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T113511Z" creationid="140706inu" creationdate="20150508T085853Z">
+        <seg>烦恼的过程才是最浪费时间的了—。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85642,8 +85642,8 @@
       <tuv lang="JA">
         <seg>道教になんか負けないんだから！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150216T124533Z" creationid="土妹子" creationdate="20150216T124533Z">
-        <seg>所以不会输给道教什么的！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T114139Z" creationid="土妹子" creationdate="20150216T124533Z">
+        <seg>才不会输给道教什么的！</seg>
       </tuv>
     </tu>
     <tu>
