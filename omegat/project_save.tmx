@@ -30014,6 +30014,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\cなんでも人形の衣装の取り扱いも始めたとかで。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T190754Z" creationid="CJ" creationdate="20150522T190754Z">
+        <seg>\c好像是也开始贩卖人形用的服装了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\cなんでも技術を駆使して 体を見えなくできるのだとか・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T180531Z" creationid="土妹子" creationdate="20150106T093300Z">
@@ -33258,6 +33266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040848Z" creationid="UUZ" creationdate="20140908T082727Z">
         <seg>\p就应该回不到原来的地方了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\pさんも寄ってみてはどうですか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T190810Z" creationid="CJ" creationdate="20150522T190810Z">
+        <seg>\p也有空的时候去看看如何？</seg>
       </tuv>
     </tu>
     <tu>
@@ -42368,8 +42384,8 @@
       <tuv lang="JA">
         <seg>こっから先は行かせないよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T145327Z" creationid="土妹子" creationdate="20150108T145327Z">
-        <seg>这前面不能走了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T190855Z" creationid="土妹子" creationdate="20150108T145327Z">
+        <seg>不能让你再往这之前去了！</seg>
       </tuv>
     </tu>
     <tu>
