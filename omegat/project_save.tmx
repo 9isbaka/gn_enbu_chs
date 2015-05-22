@@ -40360,8 +40360,8 @@
       <tuv lang="JA">
         <seg>おじいちゃんと一緒に色々捕まえてるんだ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084905Z" creationid="妄想" creationdate="20150110T084905Z">
-        <seg>老爷爷和我们一起抓住各种各样的！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082348Z" creationid="妄想" creationdate="20150110T084905Z">
+        <seg>我和爷爷在一起抓住各种各样的！</seg>
       </tuv>
     </tu>
     <tu>
@@ -46984,6 +46984,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なめなめされたきゃこっちおいで！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082059Z" creationid="CJ" creationdate="20150522T082059Z">
+        <seg>想要被舔的话就到这边来！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なら また都合が良くなったら声を掛けてちょうだいね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T164854Z" creationid="土妹子" creationdate="20150109T164854Z">
@@ -47466,8 +47474,8 @@
       <tuv lang="JA">
         <seg>にんへんよあはひをしょうふひおー！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T074348Z" creationid="CJ" creationdate="20150522T074348Z">
-        <seg>拿变的任磊赖合窝队展吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T081739Z" creationid="CJ" creationdate="20150522T074348Z">
+        <seg>呜呜嗯嗯（那边的人类来和我对战吧）！</seg>
       </tuv>
     </tu>
     <tu>
@@ -81226,8 +81234,8 @@
       <tuv lang="JA">
         <seg>結構役に立つ人形なんじゃよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084657Z" creationid="妄想" creationdate="20150110T084657Z">
-        <seg>相当有用的人形？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082159Z" creationid="妄想" creationdate="20150110T084657Z">
+        <seg>这可是相当有用的人形哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -84850,8 +84858,8 @@
       <tuv lang="JA">
         <seg>追い込み漁とか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084715Z" creationid="妄想" creationdate="20150110T084715Z">
-        <seg>最后努力捕鱼啦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082241Z" creationid="妄想" creationdate="20150110T084715Z">
+        <seg>会捕鱼什么的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87514,8 +87522,8 @@
       <tuv lang="JA">
         <seg>餅はいかがです？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T084354Z" creationid="妄想" creationdate="20150110T084354Z">
-        <seg>糕点怎么样？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082127Z" creationid="妄想" creationdate="20150110T084354Z">
+        <seg>要来点年糕吗？</seg>
       </tuv>
     </tu>
     <tu>
