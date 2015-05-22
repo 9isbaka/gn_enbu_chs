@@ -30576,8 +30576,8 @@
       <tuv lang="JA">
         <seg>\c・・・来るのが遅いんじゃない？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T120716Z" creationid="土妹子" creationdate="20150109T120716Z">
-        <seg>\c来的不晚吗？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T130206Z" creationid="土妹子" creationdate="20150109T120716Z">
+        <seg>\c……你来的也太晚了吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -36744,8 +36744,8 @@
       <tuv lang="JA">
         <seg>☆相手が装飾品を持つ場合、威力が1.5倍、装飾品を持たない状態に</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T120333Z" creationid="土妹子" creationdate="20150101T061123Z">
-        <seg>☆当对手携带了装饰品时，技能变为威力1.5倍并打落装饰品</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T135713Z" creationid="土妹子" creationdate="20150101T061123Z">
+        <seg>☆当对手携带了装饰品时，技能变为威力１.５倍并打落装饰品</seg>
       </tuv>
     </tu>
     <tu>
@@ -41488,8 +41488,8 @@
       <tuv lang="JA">
         <seg>くろまくー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T120500Z" creationid="土妹子" creationdate="20150109T120500Z">
-        <seg>黑幕～。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T130144Z" creationid="土妹子" creationdate="20150109T120500Z">
+        <seg>黑幕——。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78634,8 +78634,8 @@
       <tuv lang="JA">
         <seg>相手が 装飾品を 持っていると 威力が １.５倍になり 装飾品を 燃やして 使えなくする。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T120437Z" creationid="土妹子" creationdate="20150101T070905Z">
-        <seg>当对手携带了装饰品时，技能威力变为1.5倍，并烧掉装饰品使其不能使用。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T135721Z" creationid="土妹子" creationdate="20150101T070905Z">
+        <seg>当对手携带了装饰品时，技能威力变为１.５倍，并烧掉装饰品使其不能使用。</seg>
       </tuv>
     </tu>
     <tu>
