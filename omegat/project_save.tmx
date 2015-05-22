@@ -28272,8 +28272,8 @@
       <tuv lang="JA">
         <seg>\bそれで\pさんをこちらまで お連れしたということですね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T074830Z" creationid="UUZ" creationdate="20140908T074830Z">
-        <seg>\b这就是为什么你把\p带到这里来吧。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T150801Z" creationid="UUZ" creationdate="20140908T074830Z">
+        <seg>\b所以你把\p带到这里来了啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30688,8 +30688,8 @@
       <tuv lang="JA">
         <seg>\c人形が特別なのか いや おまえが・・・なのか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035807Z" creationid="UUZ" creationdate="20140908T073851Z">
-        <seg>\c这人形是特别的？不对，难道是……你？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T150527Z" creationid="UUZ" creationdate="20140908T073851Z">
+        <seg>\c这人形是特别的？不对，难道特别的是……你？</seg>
       </tuv>
     </tu>
     <tu>
@@ -35216,8 +35216,8 @@
       <tuv lang="JA">
         <seg>……楽もできるしな。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T075644Z" creationid="UUZ" creationdate="20140908T075644Z">
-        <seg>……轻松点也是可以的。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T150809Z" creationid="UUZ" creationdate="20140908T075644Z">
+        <seg>……我也可以省事了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40512,8 +40512,8 @@
       <tuv lang="JA">
         <seg>おまえじゃ倒しきれないか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T072820Z" creationid="UUZ" creationdate="20140908T072820Z">
-        <seg>你没有把它完全打倒吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T150446Z" creationid="UUZ" creationdate="20140908T072820Z">
+        <seg>你还无法把它完全打倒吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -79906,8 +79906,8 @@
       <tuv lang="JA">
         <seg>私がパパッと解決してきてやるからさ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T084535Z" creationid="UUZ" creationdate="20140908T084535Z">
-        <seg>看我咔嚓咔嚓地把它解决掉吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T150924Z" creationid="UUZ" creationdate="20140908T084535Z">
+        <seg>看我咔嚓咔嚓地把异变解决掉吧！</seg>
       </tuv>
     </tu>
     <tu>
