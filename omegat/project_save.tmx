@@ -29264,8 +29264,8 @@
       <tuv lang="JA">
         <seg>\cさて\b レミィに呼ばれているのでしょう？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154940Z" creationid="土妹子" creationdate="20150105T154940Z">
-        <seg>\c那么\b，蕾咪还要找你哦？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T174931Z" creationid="土妹子" creationdate="20150105T154940Z">
+        <seg>\c那么\b，蕾咪也还要找你对吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -29640,8 +29640,8 @@
       <tuv lang="JA">
         <seg>\cそんなことより レミィのところへ行くのなら 先の扉からどうぞ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155716Z" creationid="土妹子" creationdate="20150105T155158Z">
-        <seg>\c先不提那些，要去找蕾咪的话，请从之前的门走。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T175218Z" creationid="土妹子" creationdate="20150105T155158Z">
+        <seg>\c先不提那些，要去找蕾咪的话，请从这前面前的门走。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29936,8 +29936,8 @@
       <tuv lang="JA">
         <seg>\cどうなってもかまわないと言うのであれば 私は止めないから。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155847Z" creationid="土妹子" creationdate="20150105T155847Z">
-        <seg>\c如果你说不管变得怎样都没关系，我是不会阻止的。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T175252Z" creationid="土妹子" creationdate="20150105T155847Z">
+        <seg>\c如果你说不管变得怎样都没关系，那我就不阻止了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29960,8 +29960,8 @@
       <tuv lang="JA">
         <seg>\cなぜ知っているのかって？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T154946Z" creationid="土妹子" creationdate="20150105T154946Z">
-        <seg>\c为什么会知道你？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T174946Z" creationid="土妹子" creationdate="20150105T154946Z">
+        <seg>\c为什么我会知道？</seg>
       </tuv>
     </tu>
     <tu>
@@ -31152,8 +31152,8 @@
       <tuv lang="JA">
         <seg>\c少し前に 新聞であなたがここに向かっていることを知って そわそわしてたのよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T155041Z" creationid="土妹子" creationdate="20150105T155036Z">
-        <seg>\c不久前从报纸上看到你朝这里来了，就觉得心神不宁了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T175200Z" creationid="土妹子" creationdate="20150105T155036Z">
+        <seg>\c不久前她从报纸上看到你朝这里来了，就开始坐立不安了。</seg>
       </tuv>
     </tu>
     <tu>
