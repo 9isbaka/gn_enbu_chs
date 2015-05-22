@@ -28352,8 +28352,8 @@
       <tuv lang="JA">
         <seg>\b人里に人形について調べている人がいたはずなので</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T042056Z" creationid="UUZ" creationdate="20140908T100825Z">
-        <seg>\b好像有人正在人类村落调查人形的相关事项，</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151502Z" creationid="UUZ" creationdate="20140908T100825Z">
+        <seg>\b应该有人正在人类村落调查人形的相关事项，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29968,8 +29968,8 @@
       <tuv lang="JA">
         <seg>\cなに気にすることはないぜ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140910T121554Z" creationid="UUZ" creationdate="20140908T092525Z">
-        <seg>\c我从来没有放在心上 Ze。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151326Z" creationid="UUZ" creationdate="20140908T092525Z">
+        <seg>\c不用在意啦 Ze。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35024,8 +35024,8 @@
       <tuv lang="JA">
         <seg>……いや。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T041138Z" creationid="UUZ" creationdate="20140908T085129Z">
-        <seg>……哎呀。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T150949Z" creationid="UUZ" creationdate="20140908T085129Z">
+        <seg>……也不。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47250,8 +47250,8 @@
       <tuv lang="JA">
         <seg>なんだがっかりだな。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T091859Z" creationid="UUZ" creationdate="20140908T091825Z">
-        <seg>怎么，很失望吗。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151219Z" creationid="UUZ" creationdate="20140908T091825Z">
+        <seg>什么呀，有点失望呀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49418,8 +49418,8 @@
       <tuv lang="JA">
         <seg>もう少しやれると思ったんだが・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T041744Z" creationid="UUZ" creationdate="20140908T091844Z">
-        <seg>我想我还能再多做一点，不过···。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151259Z" creationid="UUZ" creationdate="20140908T091844Z">
+        <seg>本以为你更能干一些的···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56794,8 +56794,8 @@
       <tuv lang="JA">
         <seg>ファイトですっ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121522Z" creationid="土妹子" creationdate="20150107T121522Z">
-        <seg>Fight！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151857Z" creationid="土妹子" creationdate="20150107T121522Z">
+        <seg>加油！</seg>
       </tuv>
     </tu>
     <tu>
@@ -71946,16 +71946,16 @@
       <tuv lang="JA">
         <seg>手加減なんてしてやらないから しっかり準備しろよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T091208Z" creationid="UUZ" creationdate="20140908T091208Z">
-        <seg>不要考虑手下留情之类的好好地准备吧。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151140Z" creationid="UUZ" creationdate="20140908T091208Z">
+        <seg>我不会手下留情的，所以好好地准备吧。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>手加減はしないから</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T090806Z" creationid="UUZ" creationdate="20140908T090806Z">
-        <seg>不要留手</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151114Z" creationid="UUZ" creationdate="20140908T090806Z">
+        <seg>我不会留手的</seg>
       </tuv>
     </tu>
     <tu>
@@ -81930,8 +81930,8 @@
       <tuv lang="JA">
         <seg>聞きましたよ \pさん！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T121427Z" creationid="土妹子" creationdate="20150107T121427Z">
-        <seg>听好了 \p！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T151838Z" creationid="土妹子" creationdate="20150107T121427Z">
+        <seg>听说了哦 \p！</seg>
       </tuv>
     </tu>
     <tu>
