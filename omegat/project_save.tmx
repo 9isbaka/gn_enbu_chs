@@ -38056,8 +38056,8 @@
       <tuv lang="JA">
         <seg>あなたも妖精と友達なの？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062024Z" creationid="妄想" creationdate="20150112T062024Z">
-        <seg>你也要和妖精做朋友吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082735Z" creationid="妄想" creationdate="20150112T062024Z">
+        <seg>你也和妖精是朋友吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -39944,8 +39944,8 @@
       <tuv lang="JA">
         <seg>うーん やっぱり捕まえたばかりじゃこんなものかー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T064044Z" creationid="妄想" creationdate="20150112T064044Z">
-        <seg>恩~果然还是抓住了刚刚那样的东西吗~。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083500Z" creationid="妄想" creationdate="20150112T064044Z">
+        <seg>恩~果然刚刚抓住的也就这种程度吗~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40010,6 +40010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T142011Z" creationid="土妹子" creationdate="20150108T142011Z">
         <seg>嗯～……我也没有想到呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>え この子達やられても一回休みするだけだし 妖精じゃないの？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082856Z" creationid="CJ" creationdate="20150522T082856Z">
+        <seg>哎？这些小家伙们即使被打倒了也只是等待复活而已，不就是妖精吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -42600,8 +42608,8 @@
       <tuv lang="JA">
         <seg>この子は技を忘れないのよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063337Z" creationid="妄想" creationdate="20150112T063337Z">
-        <seg>这孩子不会把技能忘记了吧。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083330Z" creationid="妄想" creationdate="20150112T063337Z">
+        <seg>这孩子不会忘记技能呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49442,8 +49450,8 @@
       <tuv lang="JA">
         <seg>もしかして本物より頭いい？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063421Z" creationid="妄想" creationdate="20150112T063421Z">
-        <seg>或许真身更加聪明？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083326Z" creationid="妄想" creationdate="20150112T063421Z">
+        <seg>或许比真身还更加聪明？</seg>
       </tuv>
     </tu>
     <tu>
@@ -59530,8 +59538,8 @@
       <tuv lang="JA">
         <seg>・・・ぴかーん！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T061921Z" creationid="妄想" creationdate="20150112T061921Z">
-        <seg>···闪亮！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082650Z" creationid="妄想" creationdate="20150112T061921Z">
+        <seg>···灵光一闪！</seg>
       </tuv>
     </tu>
     <tu>
@@ -59770,8 +59778,8 @@
       <tuv lang="JA">
         <seg>・・・閃いたこと忘れちゃった。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062005Z" creationid="妄想" creationdate="20150112T062005Z">
-        <seg>···忘记闪开了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082720Z" creationid="妄想" creationdate="20150112T062005Z">
+        <seg>···忘记刚才闪现了什么了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61594,8 +61602,8 @@
       <tuv lang="JA">
         <seg>人形の能力で音消してたんだった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062523Z" creationid="妄想" creationdate="20150112T062523Z">
-        <seg>用人形的能力消去了声音！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082958Z" creationid="妄想" creationdate="20150112T062523Z">
+        <seg>用人形的能力消去了声音来着！</seg>
       </tuv>
     </tu>
     <tu>
@@ -65706,8 +65714,8 @@
       <tuv lang="JA">
         <seg>吃驚したー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062926Z" creationid="妄想" creationdate="20150112T062926Z">
-        <seg>吃惊~。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083231Z" creationid="妄想" creationdate="20150112T062926Z">
+        <seg>吓我一跳~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68666,8 +68674,8 @@
       <tuv lang="JA">
         <seg>安心とはいっても あまり離れることは出来ないね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063842Z" creationid="妄想" creationdate="20150112T063654Z">
-        <seg>虽说不太放心，但是不能离开。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083402Z" creationid="妄想" creationdate="20150112T063654Z">
+        <seg>说是说可以放心，但还是不能离开太远啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70354,8 +70362,8 @@
       <tuv lang="JA">
         <seg>弱い私でも 人形と一緒なら戦える！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T061740Z" creationid="妄想" creationdate="20150112T061740Z">
-        <seg>软弱的我也要和人形一起战斗！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082603Z" creationid="妄想" creationdate="20150112T061740Z">
+        <seg>软弱的我要是和人形一起的话也能战斗！</seg>
       </tuv>
     </tu>
     <tu>
@@ -70394,8 +70402,8 @@
       <tuv lang="JA">
         <seg>強い人にはやっぱり勝てないわー……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T061810Z" creationid="妄想" creationdate="20150112T061810Z">
-        <seg>太强了，如果还是赢不了~...。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082624Z" creationid="妄想" creationdate="20150112T061810Z">
+        <seg>可是还是赢不了太强的人啊~...。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73210,8 +73218,8 @@
       <tuv lang="JA">
         <seg>新しいお人形さん 見つかった？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063906Z" creationid="妄想" creationdate="20150112T063906Z">
-        <seg>发现了新的人形吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083425Z" creationid="妄想" creationdate="20150112T063906Z">
+        <seg>新的人形发现了吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -80090,8 +80098,8 @@
       <tuv lang="JA">
         <seg>私のお気に入りで勝負よ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062547Z" creationid="妄想" creationdate="20150112T062547Z">
-        <seg>我喜欢胜负！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083019Z" creationid="妄想" creationdate="20150112T062547Z">
+        <seg>用我喜欢的人形来一战吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -80122,8 +80130,8 @@
       <tuv lang="JA">
         <seg>私のチルノ 冷たくて可愛いの！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T063256Z" creationid="妄想" creationdate="20150112T063157Z">
-        <seg>我的琪露诺酱冰凉很可爱！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083247Z" creationid="妄想" creationdate="20150112T063157Z">
+        <seg>我的琪露诺冰凉很可爱！</seg>
       </tuv>
     </tu>
     <tu>
@@ -86400,6 +86408,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>隙ありぃ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083046Z" creationid="CJ" creationdate="20150522T083046Z">
+        <seg>有破绽！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>障壁強化</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T154826Z" creationid="UUZ" creationdate="20140904T154826Z">
@@ -87650,8 +87666,8 @@
       <tuv lang="JA">
         <seg>驚いたなら力抜けてよー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150112T062843Z" creationid="妄想" creationdate="20150112T062843Z">
-        <seg>感到吃惊的话，力量会遗漏掉哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T083216Z" creationid="妄想" creationdate="20150112T062843Z">
+        <seg>既然都被吓到了，就瘫坐在地上啊~。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88332,6 +88348,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T071345Z" creationid="UUZ" creationdate="20140908T071345Z">
         <seg>！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>（パクパクパク）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082936Z" creationid="CJ" creationdate="20150522T082936Z">
+        <seg>（嘴型好像在说着什么）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>（パクパク）\b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T082945Z" creationid="CJ" creationdate="20150522T082945Z">
+        <seg>（嘴型好像在说着什么）\b</seg>
       </tuv>
     </tu>
     <tu>
