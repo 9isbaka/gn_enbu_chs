@@ -29688,8 +29688,8 @@
       <tuv lang="JA">
         <seg>\cたまにすごい音が聞こえるけど……なにかしらね？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T163126Z" creationid="UUZ" creationdate="20140908T163126Z">
-        <seg>\c偶尔会听到很厉害的声音……那到底是什么呢？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T100603Z" creationid="UUZ" creationdate="20140908T163126Z">
+        <seg>\c不过偶尔会传出很吓人的声响……到底是什么声音呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -29744,8 +29744,8 @@
       <tuv lang="JA">
         <seg>\cちゅーことは</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T123350Z" creationid="UUZ" creationdate="20140909T122104Z">
-        <seg>\c老鼠叫什么的</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T100220Z" creationid="UUZ" creationdate="20140909T122104Z">
+        <seg>\c意思是不是说</seg>
       </tuv>
     </tu>
     <tu>
@@ -37656,8 +37656,8 @@
       <tuv lang="JA">
         <seg>あたいら買い替えられてまうのん……？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T123426Z" creationid="UUZ" creationdate="20140909T122201Z">
-        <seg>值得买个新的桶来替换吗……？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T100251Z" creationid="UUZ" creationdate="20140909T122201Z">
+        <seg>一旦刮起风来我们就非得买新桶不可……？</seg>
       </tuv>
     </tu>
     <tu>
@@ -40568,8 +40568,8 @@
       <tuv lang="JA">
         <seg>おもち おいしいなりー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T121215Z" creationid="UUZ" creationdate="20140909T120422Z">
-        <seg>年糕 真好吃啊~。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T095624Z" creationid="UUZ" creationdate="20140909T120422Z">
+        <seg>黏乎乎的年糕 真好吃啊——。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49562,8 +49562,8 @@
       <tuv lang="JA">
         <seg>もっちもっち もっちもちー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T120440Z" creationid="UUZ" creationdate="20140824T161014Z">
-        <seg>年糕年糕年糕年糕~</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T095608Z" creationid="UUZ" creationdate="20140824T161014Z">
+        <seg>黏乎乎 黏乎乎——</seg>
       </tuv>
     </tu>
     <tu>
@@ -62090,8 +62090,8 @@
       <tuv lang="JA">
         <seg>人気のない道は気をつけなよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T121227Z" creationid="UUZ" creationdate="20140908T163203Z">
-        <seg>人气稀少的路上要小心啊。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T100353Z" creationid="UUZ" creationdate="20140908T163203Z">
+        <seg>在人迹稀少的小路上要时刻小心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68106,8 +68106,8 @@
       <tuv lang="JA">
         <seg>妖怪がたまにいるからね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T163212Z" creationid="UUZ" creationdate="20140908T163212Z">
-        <seg>偶尔会有妖怪的啊。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T100428Z" creationid="UUZ" creationdate="20140908T163212Z">
+        <seg>因为偶尔会碰上妖怪呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71522,8 +71522,8 @@
       <tuv lang="JA">
         <seg>慧音先生が子供に勉強を教えてあげているの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T163012Z" creationid="UUZ" creationdate="20140908T151536Z">
-        <seg>慧音老师教孩子学习的地方。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T100455Z" creationid="UUZ" creationdate="20140908T151536Z">
+        <seg>是慧音老师教孩子们学习的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87490,8 +87490,8 @@
       <tuv lang="JA">
         <seg>風が吹くと桶屋が儲かるっていうけど\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T123329Z" creationid="UUZ" creationdate="20140909T122017Z">
-        <seg>大风刮来做木桶的就大赚的说\b</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T100207Z" creationid="UUZ" creationdate="20140909T122017Z">
+        <seg>俗话说的大风刮起时桶匠赚翻天啊\b</seg>
       </tuv>
     </tu>
     <tu>
