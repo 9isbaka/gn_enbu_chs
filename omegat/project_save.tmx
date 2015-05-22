@@ -39744,8 +39744,8 @@
       <tuv lang="JA">
         <seg>うさうさウサギが現れた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152615Z" creationid="UUZ" creationdate="20150130T152615Z">
-        <seg>うさうさウサギが現れた！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092144Z" creationid="UUZ" creationdate="20150130T152615Z">
+        <seg>兔子出现了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40448,8 +40448,8 @@
       <tuv lang="JA">
         <seg>おとうとと一緒に遊んでるの！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T033329Z" creationid="UUZ" creationdate="20150130T152614Z">
-        <seg>和弟弟一起玩的！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092525Z" creationid="UUZ" creationdate="20150130T152614Z">
+        <seg>在和弟弟一起玩！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40472,8 +40472,16 @@
       <tuv lang="JA">
         <seg>おねいちゃんと一緒に遊んでるんだ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T033019Z" creationid="妄想" creationdate="20150203T033019Z">
-        <seg>与我一起好好的玩吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092507Z" creationid="妄想" creationdate="20150203T033019Z">
+        <seg>我在和姐姐一起玩！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>おねいちゃんのほうがもっと強いもん！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092516Z" creationid="CJ" creationdate="20150522T092516Z">
+        <seg>姐姐比我更强！</seg>
       </tuv>
     </tu>
     <tu>
@@ -43144,8 +43152,8 @@
       <tuv lang="JA">
         <seg>こんなかわいいウサギにひどい仕打ちうさ……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032612Z" creationid="妄想" creationdate="20150203T032612Z">
-        <seg>对这么可爱的兔子做出过分的事情....。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092201Z" creationid="妄想" creationdate="20150203T032612Z">
+        <seg>对这么可爱的兔子做出这么过分的事情....。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43576,8 +43584,8 @@
       <tuv lang="JA">
         <seg>さあ おらの人形たちよもう一仕事だべ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T034808Z" creationid="UUZ" creationdate="20150112T133030Z">
-        <seg>嗯 我所有的人形都在工作哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092636Z" creationid="UUZ" creationdate="20150112T133030Z">
+        <seg>嗯 我的人形们又有活要干了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44154,6 +44162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T135842Z" creationid="土妹子" creationdate="20150108T135842Z">
         <seg>我好高兴啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>すっごーい 超つよーい！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092718Z" creationid="CJ" creationdate="20150522T092718Z">
+        <seg>好厉害！超强！</seg>
       </tuv>
     </tu>
     <tu>
@@ -44928,8 +44944,8 @@
       <tuv lang="JA">
         <seg>その元気のままでおるんじゃよ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032909Z" creationid="妄想" creationdate="20150203T032909Z">
-        <seg>真是精神的样子。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092334Z" creationid="妄想" creationdate="20150203T032909Z">
+        <seg>要保持精神下去啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46504,8 +46520,8 @@
       <tuv lang="JA">
         <seg>とーりゃんせ とーりゃんせ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150112T133032Z" creationid="UUZ" creationdate="20150112T133032Z">
-        <seg>とーりゃんせ とーりゃんせ！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091900Z" creationid="UUZ" creationdate="20150112T133032Z">
+        <seg>要过吗 要过吗！</seg>
       </tuv>
     </tu>
     <tu>
@@ -49538,8 +49554,8 @@
       <tuv lang="JA">
         <seg>もっと強くなるんだからねっ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T033345Z" creationid="妄想" creationdate="20150203T033345Z">
-        <seg>变得更强吧！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092537Z" creationid="妄想" creationdate="20150203T033345Z">
+        <seg>我会变得更强的！</seg>
       </tuv>
     </tu>
     <tu>
@@ -63920,6 +63936,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>元気がいいのう〜 どれ一つ勝負としゃれ込もうじゃないか。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092308Z" creationid="CJ" creationdate="20150522T092308Z">
+        <seg>你精神真不错啊~怎样来和我比试一场吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>元気だけじゃ駄目なのね……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T090940Z" creationid="妄想" creationdate="20150203T024911Z">
@@ -65922,8 +65946,8 @@
       <tuv lang="JA">
         <seg>君の心配をしているんだけどなぁ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032712Z" creationid="妄想" creationdate="20150203T032712Z">
-        <seg>你在担心着啊。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092218Z" creationid="妄想" creationdate="20150203T032712Z">
+        <seg>我是在担心你啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83858,8 +83882,8 @@
       <tuv lang="JA">
         <seg>覚えてなさいよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T033353Z" creationid="妄想" creationdate="20150203T033353Z">
-        <seg>记住了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T092609Z" creationid="妄想" creationdate="20150203T033353Z">
+        <seg>给我记住了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -84874,8 +84898,8 @@
       <tuv lang="JA">
         <seg>迷った時は戻ることも大事だよね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T032339Z" creationid="妄想" creationdate="20150203T032339Z">
-        <seg>迷茫的时候回头看看也很重要。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T091937Z" creationid="妄想" creationdate="20150203T032339Z">
+        <seg>迷路的时候往回走也很重要的哦。</seg>
       </tuv>
     </tu>
     <tu>
