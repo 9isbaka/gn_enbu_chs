@@ -40800,8 +40800,8 @@
       <tuv lang="JA">
         <seg>お供えものが置いてある・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074650Z" creationid="妄想" creationdate="20150110T074650Z">
-        <seg>供奉的东西放在...。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T065936Z" creationid="妄想" creationdate="20150110T074650Z">
+        <seg>放着的是供奉的东西...。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60762,8 +60762,8 @@
       <tuv lang="JA">
         <seg>人形が沢山置いてある！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074603Z" creationid="妄想" creationdate="20150110T074603Z">
-        <seg>很多人形都被放置着！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T065829Z" creationid="妄想" creationdate="20150110T074603Z">
+        <seg>这里放着有很多人形！</seg>
       </tuv>
     </tu>
     <tu>
@@ -73500,14 +73500,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141224T161626Z" creationid="UUZ" creationdate="20141224T161606Z">
         <seg>四季映姬</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
-        <seg>春 夏 冬 中</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T074932Z" creationid="妄想" creationdate="20150110T074932Z">
-        <seg>春 夏 秋 冬</seg>
       </tuv>
     </tu>
     <tu>
