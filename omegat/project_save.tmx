@@ -28896,8 +28896,8 @@
       <tuv lang="JA">
         <seg>\cいざ せんせんふこくする！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053159Z" creationid="UUZ" creationdate="20140909T135317Z">
-        <seg>\c那么，战线宣言！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152844Z" creationid="UUZ" creationdate="20140909T135317Z">
+        <seg>\c那么，向你宣战！</seg>
       </tuv>
     </tu>
     <tu>
@@ -29664,8 +29664,8 @@
       <tuv lang="JA">
         <seg>\cたいした名物もない里ですが 外の世界の人には珍しいものも あるかもしれませんよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133403Z" creationid="UUZ" creationdate="20140909T133203Z">
-        <seg>\c虽然没有什么很出名的特产，但说不定会有外面世界的人认为很珍贵的东西哦。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152333Z" creationid="UUZ" creationdate="20140909T133203Z">
+        <seg>\c虽然没有什么很出名的特产，但说不定会有外面世界的人认为很稀奇的东西哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30096,8 +30096,8 @@
       <tuv lang="JA">
         <seg>\cふーん・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T050301Z" creationid="UUZ" creationdate="20140909T125655Z">
-        <seg>\c呼～\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152204Z" creationid="UUZ" creationdate="20140909T125655Z">
+        <seg>\c呵～\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -30384,8 +30384,8 @@
       <tuv lang="JA">
         <seg>\c・・・あたいがサイキョーじゃなくなっちゃうから 里に逃げたみんなを追っちゃダメだからな！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053333Z" creationid="UUZ" creationdate="20141228T100446Z">
-        <seg>\c……本小姐不是最强了的话，不许去追逃进村子的大家！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T153007Z" creationid="UUZ" creationdate="20141228T100446Z">
+        <seg>\c……本小姐不是最强的事会传开的，所以不许去追逃进村子的大家！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30702,6 +30702,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\c人形と一緒とはいえ いきなり一人で 山道を抜けるのは 大変でしょうから 使えそうなものを 探してきたんです！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152011Z" creationid="CJ" creationdate="20150522T152011Z">
+        <seg>\c虽然有人形在一起，突然要一个人穿过山道还是很困难的，我去找了一些有帮助的东西！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\c人形は印によって 能力が強化されています。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T120419Z" creationid="UUZ" creationdate="20140908T120419Z">
@@ -30864,8 +30872,8 @@
       <tuv lang="JA">
         <seg>\c何か分かり次第お伝えしますので しばらく里の見物でもして待っていてもらえませんか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133509Z" creationid="UUZ" creationdate="20140909T133125Z">
-        <seg>\c我已经知道的事情会逐一告诉你，所以能不能在村里稍微参观一下逗留一段时间呢？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152325Z" creationid="UUZ" creationdate="20140909T133125Z">
+        <seg>\c如果得知什么新情报会立刻告诉你，所以能不能在村里稍微参观一下逗留一段时间呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -43192,8 +43200,8 @@
       <tuv lang="JA">
         <seg>こんなところで会うなんて奇遇ですわね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T051128Z" creationid="土妹子" creationdate="20150105T051128Z">
-        <seg>在这种地方相遇可真是奇遇呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152444Z" creationid="土妹子" creationdate="20150105T051128Z">
+        <seg>在这种地方相遇可真是偶然呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46584,8 +46592,8 @@
       <tuv lang="JA">
         <seg>どうするの！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T134140Z" creationid="UUZ" creationdate="20140909T134124Z">
-        <seg>但怎么办才好！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152621Z" creationid="UUZ" creationdate="20140909T134124Z">
+        <seg>怎么办才好！</seg>
       </tuv>
     </tu>
     <tu>
@@ -59586,8 +59594,8 @@
       <tuv lang="JA">
         <seg>・・・ところで リグルが見つかったって人間って アイツ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T052847Z" creationid="UUZ" creationdate="20140909T134705Z">
-        <seg>……说起来，莉格露发现的人类是那家伙吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152630Z" creationid="UUZ" creationdate="20140909T134705Z">
+        <seg>……说起来，发现莉格露的人类是那家伙吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -63146,8 +63154,8 @@
       <tuv lang="JA">
         <seg>何か分かり次第お伝えしますので しばらく里の見物でもして待っていてもらえませんか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T133443Z" creationid="UUZ" creationdate="20140909T133443Z">
-        <seg>我已经知道的事情会慢慢告诉你，所以能不能在村里稍微参观一下逗留一段时间呢？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152401Z" creationid="UUZ" creationdate="20140909T133443Z">
+        <seg>如果得知什么新情报会立刻告诉你的，所以能不能在村里稍微参观一下逗留一段时间呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -83874,8 +83882,8 @@
       <tuv lang="JA">
         <seg>見つかったって！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T134128Z" creationid="UUZ" creationdate="20140909T134054Z">
-        <seg>虽说被发现了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152604Z" creationid="UUZ" creationdate="20140909T134054Z">
+        <seg>被发现了啊！</seg>
       </tuv>
     </tu>
     <tu>
@@ -84034,8 +84042,8 @@
       <tuv lang="JA">
         <seg>計画の邪魔をするやつは サイキョーのあたいがただじゃ置かないよ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T053147Z" creationid="UUZ" creationdate="20140909T135227Z">
-        <seg>你这阻碍计划的家伙，别不把最强的本小姐当回事啊！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T152835Z" creationid="UUZ" creationdate="20140909T135227Z">
+        <seg>你这阻碍计划的家伙，最强的本小姐不会轻饶的！</seg>
       </tuv>
     </tu>
     <tu>
