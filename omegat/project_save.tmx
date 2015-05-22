@@ -47282,8 +47282,8 @@
       <tuv lang="JA">
         <seg>なんてこと……もっと鍛えなければ……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150410T141949Z" creationid="UUZ" creationdate="20150315T084326Z">
-        <seg>不可能……要是更努力地锻炼的话……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T110916Z" creationid="UUZ" creationdate="20150315T084326Z">
+        <seg>怎么会……还要更努力地锻炼才行……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67772,6 +67772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022032Z" creationid="土妹子" creationdate="20141231T022032Z">
         <seg>天气预报</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>天狗に勝負を挑むなんて 命知らずだねぇ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T110958Z" creationid="CJ" creationdate="20150522T110958Z">
+        <seg>竟然敢向天狗挑战，真是不识好歹的家伙！</seg>
       </tuv>
     </tu>
     <tu>
