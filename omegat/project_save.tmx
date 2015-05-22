@@ -35312,8 +35312,8 @@
       <tuv lang="JA">
         <seg>←この先 大蝦蟇の池 迷うので注意されたし。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082635Z" creationid="妄想" creationdate="20150110T082635Z">
-        <seg>←前方 大蛤蟆之池 注意不要迷路了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T072907Z" creationid="妄想" creationdate="20150110T082635Z">
+        <seg>←前方 大蛤蟆之池 容易迷路请注意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35328,8 +35328,8 @@
       <tuv lang="JA">
         <seg>←玄武の沢　　　廃洋館→</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082155Z" creationid="妄想" creationdate="20150110T082155Z">
-        <seg>←玄武之沢           废洋馆→</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T072741Z" creationid="妄想" creationdate="20150110T082155Z">
+        <seg>←玄武之泽           废洋馆→</seg>
       </tuv>
     </tu>
     <tu>
@@ -35392,8 +35392,8 @@
       <tuv lang="JA">
         <seg>↓迷いの竹林</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082007Z" creationid="妄想" creationdate="20150110T082007Z">
-        <seg>↓迷失竹林</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T072722Z" creationid="妄想" creationdate="20150110T082007Z">
+        <seg>↓迷途竹林</seg>
       </tuv>
     </tu>
     <tu>
@@ -49498,8 +49498,8 @@
       <tuv lang="JA">
         <seg>もっと身軽な格好でお仕事したいですわ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T083446Z" creationid="妄想" creationdate="20150110T083446Z">
-        <seg>想找份更轻松的工作。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T073359Z" creationid="妄想" creationdate="20150110T083446Z">
+        <seg>想要件更便于行动的工作装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60306,8 +60306,8 @@
       <tuv lang="JA">
         <seg>中に入りたいなら 合言葉が必要よ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081251Z" creationid="妄想" creationdate="20150110T081251Z">
-        <seg>想要进去 必要要有口令。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T072450Z" creationid="妄想" creationdate="20150110T081251Z">
+        <seg>想要进去 必须要对口令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74562,8 +74562,8 @@
       <tuv lang="JA">
         <seg>棺が邪魔で寝れない！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T082719Z" creationid="妄想" creationdate="20150110T082719Z">
-        <seg>棺材妨碍导致睡不着！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T072932Z" creationid="妄想" creationdate="20150110T082719Z">
+        <seg>棺材妨碍导致没法睡觉！</seg>
       </tuv>
     </tu>
     <tu>
@@ -87066,8 +87066,8 @@
       <tuv lang="JA">
         <seg>青文字で表示される。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="妄想" changedate="20150110T081842Z" creationid="妄想" creationdate="20150110T081842Z">
-        <seg>以青色文字显示。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T072706Z" creationid="妄想" creationdate="20150110T081842Z">
+        <seg>以蓝色文字显示。</seg>
       </tuv>
     </tu>
     <tu>
