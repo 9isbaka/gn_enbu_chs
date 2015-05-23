@@ -41032,8 +41032,8 @@
       <tuv lang="JA">
         <seg>ありとあらゆるものを破壊する程度の能力を持つ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T135724Z" creationid="土妹子" creationdate="20150112T135724Z">
-        <seg>拥有破坏各种物品程度的能力。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T151711Z" creationid="土妹子" creationdate="20150112T135724Z">
+        <seg>拥有破坏任何东西程度的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50994,8 +50994,8 @@
       <tuv lang="JA">
         <seg>ふわふわ頭がチャームポイント。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T034102Z" creationid="土妹子" creationdate="20150110T034102Z">
-        <seg>轻飘飘的头是魅力点。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T150949Z" creationid="土妹子" creationdate="20150110T034102Z">
+        <seg>轻飘飘的发型是魅力点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71738,8 +71738,8 @@
       <tuv lang="JA">
         <seg>夢月の人形と合わせて一人前の実力と言う噂があるが 闘ったことがある者の証言では非常に強いとも言われる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150110T092743Z">
-        <seg>谣言说与梦月人形合在一起是一个人的实力 不过战斗过的人也有说非常强力之类的证言。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T151331Z" creationid="土妹子" creationdate="20150110T092743Z">
+        <seg>传闻说与梦月人形合在一起才是一个人的实力 不过战斗过的人也有说非常强力之类的证言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72460,6 +72460,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150925Z" creationid="UUZ" creationdate="20150102T150925Z">
         <seg>好奇心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>好戦的というわけでもなく 危険度も低い。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T151036Z" creationid="CJ" creationdate="20150523T151036Z">
+        <seg>并不好战 危险度低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74642,8 +74650,8 @@
       <tuv lang="JA">
         <seg>幻月の人形と合わせて一人前の実力と言う噂がある。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T092745Z" creationid="土妹子" creationdate="20150110T092709Z">
-        <seg>谣言说与幻月人形合在一起是一个人的实力。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T151153Z" creationid="土妹子" creationdate="20150110T092709Z">
+        <seg>传闻说与幻月人形合在一起才是一个人的实力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86770,8 +86778,8 @@
       <tuv lang="JA">
         <seg>耳が取れていることもある。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150115T140039Z" creationid="土妹子" creationdate="20150115T140039Z">
-        <seg>也有时耳朵会被抓住。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T151753Z" creationid="土妹子" creationdate="20150115T140039Z">
+        <seg>有时耳朵会取下来。</seg>
       </tuv>
     </tu>
     <tu>
