@@ -31848,8 +31848,8 @@
       <tuv lang="JA">
         <seg>\cだったら 今ここで全員と戦いなさいよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T161048Z">
-        <seg>\c那么 现在就在这里请和全员交战吧。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T073203Z" creationid="土妹子" creationdate="20150108T161048Z">
+        <seg>\c那么 现在就请和在这里的全员交战吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32896,8 +32896,8 @@
       <tuv lang="JA">
         <seg>\c人間は人間らしく大人しくしていればいいのに よくも邪魔ばっかりしてくれたわね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T161004Z">
-        <seg>\c人类明明有个人类的样子听话地呆着就好了 竟然光是来碍我的事！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T073112Z" creationid="土妹子" creationdate="20150108T161004Z">
+        <seg>\c人类明明有个人类的样子听话地呆着就好了 竟然总是来碍我的事！</seg>
       </tuv>
     </tu>
     <tu>
@@ -41456,8 +41456,8 @@
       <tuv lang="JA">
         <seg>いいって言うまで 誰も通しちゃだめって さとり様が言ってたって言われた気がするもの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T160135Z">
-        <seg>我记得觉大人说过直到说可以之前 谁都不能通行的。。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T072459Z" creationid="土妹子" creationdate="20150108T160135Z">
+        <seg>我记得觉大人说过 直到说可以之前 谁都不能通行的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42296,8 +42296,8 @@
       <tuv lang="JA">
         <seg>うーん・・・\bま ちゃんと戦ったし通しても大丈夫よね！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T160229Z">
-        <seg>嗯～……\b嘛 已经认真的战斗过了 通过也没关系啦！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T072937Z" creationid="土妹子" creationdate="20150108T160229Z">
+        <seg>嗯～……\b嘛 已经认真的战斗过了 让你通过也没关系了吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -47896,8 +47896,8 @@
       <tuv lang="JA">
         <seg>そんなにあたしたちの邪魔をしたいの？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T161025Z" creationid="土妹子" creationdate="20150108T161025Z">
-        <seg>就算这样还是要阻碍我们吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T073130Z" creationid="土妹子" creationdate="20150108T161025Z">
+        <seg>就这么想要阻碍我们吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -66274,8 +66274,8 @@
       <tuv lang="JA">
         <seg>人間の里ぶりね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160828Z" creationid="土妹子" creationdate="20150108T160828Z">
-        <seg>从人类村落后好久不见了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T073102Z" creationid="土妹子" creationdate="20150108T160828Z">
+        <seg>人类村落以来好久不见了。</seg>
       </tuv>
     </tu>
     <tu>
