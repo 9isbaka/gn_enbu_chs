@@ -54114,8 +54114,8 @@
       <tuv lang="JA">
         <seg>アーマーパージ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092115Z" creationid="土妹子" creationdate="20141231T092115Z">
-        <seg>爆甲</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162712Z" creationid="土妹子" creationdate="20141231T092115Z">
+        <seg>破甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -56554,8 +56554,8 @@
       <tuv lang="JA">
         <seg>スキルのダメージ以外のダメージを受けない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093928Z" creationid="土妹子" creationdate="20141231T093928Z">
-        <seg>不会受到技能伤害以外的伤害。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163820Z" creationid="土妹子" creationdate="20141231T093928Z">
+        <seg>不会受到攻击技能伤害以外的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56586,8 +56586,8 @@
       <tuv lang="JA">
         <seg>スキルの追加効果を受けない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094231Z" creationid="土妹子" creationdate="20141231T094231Z">
-        <seg>不会受到技能的追加效果。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164045Z" creationid="土妹子" creationdate="20141231T094231Z">
+        <seg>不会受到技能的追加效果影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56666,8 +56666,8 @@
       <tuv lang="JA">
         <seg>スキルを結界で阻んだ時 相手の集弾一段階低下させる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T092045Z">
-        <seg>结界阻挡了技能时 降低对手的集弹１段。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162451Z" creationid="土妹子" creationdate="20141231T092045Z">
+        <seg>结界阻挡对手技能时 降低对手的集弹１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58730,8 +58730,8 @@
       <tuv lang="JA">
         <seg>ダメージを受けると元に戻る。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093639Z" creationid="土妹子" creationdate="20141231T093639Z">
-        <seg>受到伤害就会变回去。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163442Z" creationid="土妹子" creationdate="20141231T093639Z">
+        <seg>受到伤害就会变回原状。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63730,8 +63730,8 @@
       <tuv lang="JA">
         <seg>一撃で戦闘不能にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093852Z" creationid="土妹子" creationdate="20141231T093852Z">
-        <seg>不会被一击打成战斗不能。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163800Z" creationid="土妹子" creationdate="20141231T093852Z">
+        <seg>不会被单回合击倒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64138,8 +64138,8 @@
       <tuv lang="JA">
         <seg>不退転</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094024Z" creationid="土妹子" creationdate="20141231T094024Z">
-        <seg>不退缩</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163856Z" creationid="土妹子" creationdate="20141231T094024Z">
+        <seg>毫不退缩</seg>
       </tuv>
     </tu>
     <tu>
@@ -64506,8 +64506,8 @@
       <tuv lang="JA">
         <seg>五分の意地</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031326Z" creationid="土妹子" creationdate="20141231T031326Z">
-        <seg>半寸的志气</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162046Z" creationid="土妹子" creationdate="20141231T031326Z">
+        <seg>寸身的志气</seg>
       </tuv>
     </tu>
     <tu>
@@ -67736,6 +67736,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>俊敏以外の 相手の能力変化を無視する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163138Z" creationid="140706inu" creationdate="20150523T163138Z">
+        <seg>无视对手除敏捷以外的所有能力变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>信じてくれ！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="妄想" changedate="20150203T035714Z" creationid="妄想" creationdate="20150203T035714Z">
@@ -68914,8 +68922,8 @@
       <tuv lang="JA">
         <seg>別の人形の姿に変身して 登場する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093633Z" creationid="土妹子" creationdate="20141231T093633Z">
-        <seg>变成其他人形的样子登场</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163431Z" creationid="土妹子" creationdate="20141231T093633Z">
+        <seg>登场时变成其它人形的样子</seg>
       </tuv>
     </tu>
     <tu>
@@ -70314,8 +70322,8 @@
       <tuv lang="JA">
         <seg>吸収スキルを受けた時 相手は回復せずその分のダメージを受ける。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T094130Z">
-        <seg>受到吸收技能时 对手不会回复并受到等量伤害。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164011Z" creationid="土妹子" creationdate="20141231T094130Z">
+        <seg>受到吸收技能攻击时 对手不会回复而是受到等量伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72218,8 +72226,8 @@
       <tuv lang="JA">
         <seg>天職の為政者</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093324Z" creationid="土妹子" creationdate="20141231T093324Z">
-        <seg>天职的政客</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163203Z" creationid="土妹子" creationdate="20141231T093324Z">
+        <seg>天生政客</seg>
       </tuv>
     </tu>
     <tu>
@@ -72930,8 +72938,8 @@
       <tuv lang="JA">
         <seg>威力９０以上のスキルで自身が戦闘不能になったとき 弾幕を撃ち返す。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T031433Z">
-        <seg>威力９０以上的技能使自身战斗不能时 发动反击弹幕。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162447Z" creationid="土妹子" creationdate="20141231T031433Z">
+        <seg>受到威力９０以上的技能攻击使自身战斗不能时 发动反击弹幕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72940,6 +72948,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150105T152704Z" creationid="UUZ" creationdate="20150105T152704Z">
         <seg>通过威力90以下的技能扩散传染病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>威力９５以上のスキルへ 弾幕を撃ち返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162026Z" creationid="140706inu" creationdate="20150523T162026Z">
+        <seg>受到威力９５以上的技能攻击时发动反击弹幕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>威力９５以下の スキルを介して 感染症を広げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162703Z" creationid="140706inu" creationdate="20150523T162703Z">
+        <seg>通过威力９５以下的技能扩散传染病。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75304,6 +75328,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>後攻になるかわりに 受けるダメージが０.９倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163309Z" creationid="140706inu" creationdate="20150523T163309Z">
+        <seg>必定后手攻击 同时受到的伤害变为０.９倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>後片付けするメイド長が大変なんですから。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T184141Z" creationid="妄想" creationdate="20150107T033400Z">
@@ -75402,8 +75434,8 @@
       <tuv lang="JA">
         <seg>心配性</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093015Z" creationid="土妹子" creationdate="20141231T093015Z">
-        <seg>担忧</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163033Z" creationid="土妹子" creationdate="20141231T093015Z">
+        <seg>过度担忧</seg>
       </tuv>
     </tu>
     <tu>
@@ -76506,8 +76538,8 @@
       <tuv lang="JA">
         <seg>手持ちに戻った時 状態異常を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T094007Z">
-        <seg>返回手中时 回复异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163840Z" creationid="土妹子" creationdate="20141231T094007Z">
+        <seg>返回手中时 解除异常状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76602,8 +76634,8 @@
       <tuv lang="JA">
         <seg>拘束技・アビリティから逃げられる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094111Z" creationid="土妹子" creationdate="20141231T094111Z">
-        <seg>也可以从拘束技和特性中逃脱。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163934Z" creationid="土妹子" creationdate="20141231T094111Z">
+        <seg>可无视拘束技・特性的影响逃脱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77818,8 +77850,8 @@
       <tuv lang="JA">
         <seg>散弾が１.５倍になるが スキルの命中が０.８倍になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T093424Z">
-        <seg>散弹变为１.５倍 但是技能命中变为０.８倍。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163317Z" creationid="土妹子" creationdate="20141231T093424Z">
+        <seg>散弹变为１.５倍 同时技能命中变为０.８倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80490,8 +80522,8 @@
       <tuv lang="JA">
         <seg>気勢崩し</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T092012Z" creationid="土妹子" creationdate="20141231T092012Z">
-        <seg>破坏气势</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162512Z" creationid="土妹子" creationdate="20141231T092012Z">
+        <seg>杀灭锐气</seg>
       </tuv>
     </tu>
     <tu>
@@ -82410,8 +82442,8 @@
       <tuv lang="JA">
         <seg>状態異常の時は回復しない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094635Z" creationid="土妹子" creationdate="20141231T094627Z">
-        <seg>状态异常时不会回复。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164140Z" creationid="土妹子" creationdate="20141231T094627Z">
+        <seg>陷入异常状态时不会回复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83448,6 +83480,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手からの集中スキルのダメージが半分になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164129Z" creationid="140706inu" creationdate="20150523T164129Z">
+        <seg>对手的集中技能攻击伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手が 最後に 使った スキルの ＳＰを ４だけ 減らす。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T113812Z" creationid="土妹子" creationdate="20150101T113812Z">
@@ -83964,6 +84004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093712Z" creationid="土妹子" creationdate="20141231T093712Z">
         <seg>能够无视对手场上的墙和替身进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>相手の場の壁・バリアオプションを無視して 攻撃できる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163628Z" creationid="140706inu" creationdate="20150523T163628Z">
+        <seg>无视对手场上的壁障・子机进行攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85954,8 +86002,8 @@
       <tuv lang="JA">
         <seg>精密射撃</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093533Z" creationid="土妹子" creationdate="20141231T093533Z">
-        <seg>精密射击</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163353Z" creationid="土妹子" creationdate="20141231T093533Z">
+        <seg>精准射击</seg>
       </tuv>
     </tu>
     <tu>
@@ -87114,8 +87162,8 @@
       <tuv lang="JA">
         <seg>自分がスキルを出す直前に そのスキルの属性になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T093618Z">
-        <seg>使出技能之前 自身先变为那个属性。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163411Z" creationid="土妹子" creationdate="20141231T093618Z">
+        <seg>使出技能之前 自身变为与技能同属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88394,8 +88442,8 @@
       <tuv lang="JA">
         <seg>薬毒変換</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094114Z" creationid="土妹子" creationdate="20141231T094114Z">
-        <seg>药毒变换</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163948Z" creationid="土妹子" creationdate="20141231T094114Z">
+        <seg>药毒互化</seg>
       </tuv>
     </tu>
     <tu>
@@ -88778,8 +88826,8 @@
       <tuv lang="JA">
         <seg>補助スキルを受けた時 その効果を相手に跳ね返す。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T094218Z">
-        <seg>受到辅助技能时 把它的效果反弹给对手。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164020Z" creationid="土妹子" creationdate="20141231T094218Z">
+        <seg>受到辅助技能攻击时 把它的效果反弹给对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91130,8 +91178,8 @@
       <tuv lang="JA">
         <seg>野良人形との戦闘から必ず逃げられる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094051Z" creationid="土妹子" creationdate="20141231T094044Z">
-        <seg>一定能从野生人形的战斗中逃脱。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163905Z" creationid="土妹子" creationdate="20141231T094044Z">
+        <seg>必定能从野生人形的战斗中逃脱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91954,8 +92002,8 @@
       <tuv lang="JA">
         <seg>集中スキルを受けた時 集防が一段階下がり 俊敏が一段階上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T092246Z">
-        <seg>受到集中技能时 集防下降１段而敏捷上升１段。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162722Z" creationid="土妹子" creationdate="20141231T092246Z">
+        <seg>受到集中技能攻击时 集防下降１段而敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91994,8 +92042,8 @@
       <tuv lang="JA">
         <seg>集弾が１.５倍になるが スキルの命中が０.８倍になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T093438Z">
-        <seg>集弹变为１.５倍 但是技能命中变为０.８倍。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163337Z" creationid="土妹子" creationdate="20141231T093438Z">
+        <seg>集弹变为１.５倍 同时技能命中变为０.８倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94234,8 +94282,8 @@
       <tuv lang="JA">
         <seg>２〜５回攻撃のスキルが 必ず５回当たる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093724Z" creationid="土妹子" creationdate="20141231T093724Z">
-        <seg>２～５次攻击的技能一定能打出５次。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163655Z" creationid="土妹子" creationdate="20141231T093724Z">
+        <seg>２～５次攻击的技能必定能打出５次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97114,8 +97162,8 @@
       <tuv lang="JA">
         <seg>ＨＰが半分になった時 符を使う。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093032Z" creationid="土妹子" creationdate="20141231T093032Z">
-        <seg>ＨＰ变为一半时就使用符。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163105Z" creationid="土妹子" creationdate="20141231T093032Z">
+        <seg>ＨＰ减少至一半时就使用符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97132,6 +97180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093340Z" creationid="土妹子" creationdate="20141231T093340Z">
         <seg>ＨＰ一半以下时，敏捷以外的能力值减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＨＰが半分以下の時 集弾と散弾が半分になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163230Z" creationid="140706inu" creationdate="20150523T163230Z">
+        <seg>ＨＰ减少到一半以下时 集弹和散弹减半。</seg>
       </tuv>
     </tu>
     <tu>
