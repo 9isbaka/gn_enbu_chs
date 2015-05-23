@@ -31128,8 +31128,8 @@
       <tuv lang="JA">
         <seg>\cお願いだから もうそっとしておいて。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T032902Z">
-        <seg>\c因为是你希望的 我今后会安静下去了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083543Z" creationid="土妹子" creationdate="20150109T032902Z">
+        <seg>\c求你了 让我一个人静静。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31608,8 +31608,8 @@
       <tuv lang="JA">
         <seg>\cそれこそ幻想郷以外の世界にすら・・・ね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035327Z" creationid="土妹子" creationdate="20150109T035327Z">
-        <seg>\c甚至那才正是幻想乡以外的世界……呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083903Z" creationid="土妹子" creationdate="20150109T035327Z">
+        <seg>\c甚至是在幻想乡以外的世界……呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35280,8 +35280,8 @@
       <tuv lang="JA">
         <seg>\pさん 解放戦線を解散させたって本当ですか！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150108T144114Z">
-        <seg>\p 你把解放战线解散了是真的吗！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T084328Z" creationid="土妹子" creationdate="20150108T144114Z">
+        <seg>\p 你使解放战线解散了是真的吗！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40552,8 +40552,8 @@
       <tuv lang="JA">
         <seg>あら いらっしゃい。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150106T093932Z" creationid="土妹子" creationdate="20150106T093932Z">
-        <seg>啊啦。欢迎光临。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T084407Z" creationid="土妹子" creationdate="20150106T093932Z">
+        <seg>啊啦 欢迎光临。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40808,8 +40808,8 @@
       <tuv lang="JA">
         <seg>あら 私と話したいだけですって？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T035632Z">
-        <seg>啊啦 你说只是想和我说话？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T084116Z" creationid="土妹子" creationdate="20150109T035632Z">
+        <seg>啊啦 你只是想和我说说话？</seg>
       </tuv>
     </tu>
     <tu>
@@ -44048,8 +44048,8 @@
       <tuv lang="JA">
         <seg>ここから先は 解放戦線の所有地よ！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T033005Z" creationid="土妹子" creationdate="20150109T033005Z">
-        <seg>这前面是解放战线的所属地！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083650Z" creationid="土妹子" creationdate="20150109T033005Z">
+        <seg>这前面是解放战线的所有地！</seg>
       </tuv>
     </tu>
     <tu>
@@ -45544,8 +45544,8 @@
       <tuv lang="JA">
         <seg>これ以上 何もしないから。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032913Z" creationid="土妹子" creationdate="20150109T032913Z">
-        <seg>之后什么也不会做了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083631Z" creationid="土妹子" creationdate="20150109T032913Z">
+        <seg>我不会再做任何事了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46216,8 +46216,8 @@
       <tuv lang="JA">
         <seg>さとり様の言うことはキチンと守らなきゃいけないのよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035718Z" creationid="土妹子" creationdate="20150109T035718Z">
-        <seg>觉大人说的是不认真守护这里可不行啊。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T084147Z" creationid="土妹子" creationdate="20150109T035718Z">
+        <seg>觉大人的吩咐不认真遵守可不行的哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51386,8 +51386,8 @@
       <tuv lang="JA">
         <seg>まあ 心当たりがない わけでもないかしら。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T034834Z">
-        <seg>嘛 我好像也并不是什么也没想到。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083851Z" creationid="土妹子" creationdate="20150109T034834Z">
+        <seg>嘛 虽然也不是完全没有头绪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51882,8 +51882,8 @@
       <tuv lang="JA">
         <seg>また足を運んでくるなんて もの珍しい人間もいるのね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T035500Z">
-        <seg>又特地来了吗 非常少见的人类也在呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T084045Z" creationid="土妹子" creationdate="20150109T035500Z">
+        <seg>又到这种地方来了 你真是非常少见的人类呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69658,8 +69658,8 @@
       <tuv lang="JA">
         <seg>原因なんてそこかしこにあるものだわ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T035027Z" creationid="土妹子" creationdate="20150109T035027Z">
-        <seg>原因什么的也是到处都有啊。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083919Z" creationid="土妹子" creationdate="20150109T035027Z">
+        <seg>原因什么的也在各处都会啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71490,8 +71490,8 @@
       <tuv lang="JA">
         <seg>外の世界のマスターさん。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T062445Z" creationid="土妹子" creationdate="20150109T035355Z">
-        <seg>外面的世界的达人。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083933Z" creationid="土妹子" creationdate="20150109T035355Z">
+        <seg>外面的世界的人形使。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80090,8 +80090,8 @@
       <tuv lang="JA">
         <seg>残念ながら 私にはわかりませんね……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T035820Z">
-        <seg>很可惜 我并不知道呢……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T084302Z" creationid="土妹子" creationdate="20150109T035820Z">
+        <seg>很可惜 我也不知道呢……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85322,8 +85322,8 @@
       <tuv lang="JA">
         <seg>私はお遊びに付き合って メディスンを焚きつけただけ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T034757Z" creationid="土妹子" creationdate="20150109T034757Z">
-        <seg>只是我随便玩玩给梅蒂馨留下了很深的印象而已。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T083824Z" creationid="土妹子" creationdate="20150109T034757Z">
+        <seg>只是我随便玩玩 煽动了一下梅蒂馨而已。</seg>
       </tuv>
     </tu>
     <tu>
