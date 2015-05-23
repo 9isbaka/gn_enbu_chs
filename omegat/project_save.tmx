@@ -31536,8 +31536,8 @@
       <tuv lang="JA">
         <seg>\cそうそう まだこっちにいるなら 君に渡しそびれた物があるんだ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T170038Z">
-        <seg>\c对了对了 既然还在这边的话 有个想给你但是没机会的东西。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105345Z" creationid="土妹子" creationdate="20150109T170038Z">
+        <seg>\c对了对了 既然还在这边的话 有个东西想给你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31592,8 +31592,8 @@
       <tuv lang="JA">
         <seg>\cそして継承は 継承元の人形の個体ランクを転生する人形に引き継ぐ方法ね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171925Z" creationid="土妹子" creationdate="20150109T171925Z">
-        <seg>\c然后继承则是将继承来源人形的个体等级继承给进行转生的人形的方法。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105848Z" creationid="土妹子" creationdate="20150109T171925Z">
+        <seg>\c然后继承则是将继承来源人形的个体等级 继承给进行转生的人形的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46184,8 +46184,8 @@
       <tuv lang="JA">
         <seg>さっさと行ってしまうものだから 渡せなかったのよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T170153Z">
-        <seg>因为你很快就走了 所以没能给你。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105505Z" creationid="土妹子" creationdate="20150109T170153Z">
+        <seg>大因为你很快就走了 所以当时没能给你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47808,8 +47808,8 @@
       <tuv lang="JA">
         <seg>それなりに複雑な話になるけど・・・興味ある？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171438Z" creationid="土妹子" creationdate="20150109T171438Z">
-        <seg>会变得相应地复杂的谈话呢……有兴趣吗？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105728Z" creationid="土妹子" creationdate="20150109T171438Z">
+        <seg>稍微有点复杂的内容……有兴趣吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -48856,8 +48856,8 @@
       <tuv lang="JA">
         <seg>でもあなたとちゃんと対戦できて良かったわ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T165113Z" creationid="土妹子" creationdate="20150109T165055Z">
-        <seg>不过能和你认真的对战太好了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105306Z" creationid="土妹子" creationdate="20150109T165055Z">
+        <seg>不过能和你好好地对战了一次太好了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63250,8 +63250,8 @@
       <tuv lang="JA">
         <seg>・・・その顔は覚えてなさそうね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T171232Z" creationid="土妹子" creationdate="20150109T171232Z">
-        <seg>……看你的脸似乎是想不起来了呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105626Z" creationid="土妹子" creationdate="20150109T171232Z">
+        <seg>……看你的表情似乎是想不起来了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66426,8 +66426,8 @@
       <tuv lang="JA">
         <seg>人騒がせな奴だわ 全く。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T170325Z" creationid="土妹子" creationdate="20150109T170325Z">
-        <seg>无故扰民的家伙。全都是。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105602Z" creationid="土妹子" creationdate="20150109T170325Z">
+        <seg>无故扰民的家伙 真是的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82938,8 +82938,8 @@
       <tuv lang="JA">
         <seg>異変を解決した\pに手を抜くのは さすがに良くなかったわね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T165046Z" creationid="土妹子" creationdate="20150109T165046Z">
-        <seg>对解决了异变的\p偷工减料地应付果然还是不太好呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105234Z" creationid="土妹子" creationdate="20150109T165046Z">
+        <seg>对解决了异变的\p保存实力果然还是不太好呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86842,8 +86842,8 @@
       <tuv lang="JA">
         <seg>聞いたとおりの実力なのね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T012228Z" creationid="土妹子" creationdate="20150110T012228Z">
-        <seg>和传说中一样的实力呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T110217Z" creationid="土妹子" creationdate="20150110T012228Z">
+        <seg>和传闻中一样的实力呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89826,8 +89826,8 @@
       <tuv lang="JA">
         <seg>転生させたい人形は手持ちに持つこと。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T172110Z" creationid="土妹子" creationdate="20150109T172110Z">
-        <seg>给想要转生的人形携带上。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T105907Z" creationid="土妹子" creationdate="20150109T172110Z">
+        <seg>把想要转生的人形带在身上。</seg>
       </tuv>
     </tu>
     <tu>
