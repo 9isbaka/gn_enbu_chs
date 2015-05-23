@@ -34224,8 +34224,8 @@
       <tuv lang="JA">
         <seg>\n使用できない文字が含まれているか、文字数が足りない、もしくは多すぎます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T145359Z" creationid="UUZ" creationdate="20140824T145359Z">
-        <seg>\n含有非法字符或者字数不足或字数过多。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164950Z" creationid="UUZ" creationdate="20140824T145359Z">
+        <seg>\n可能含有非法字符 或字数不足 或字数过多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50112,10 +50112,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>なんらかの地相の時 集防・散防が２倍になり 状態異常にならず 毎ターン 相手にダメージを 与える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164856Z" creationid="140706inu" creationdate="20150523T164856Z">
+        <seg>某些地相下集弾・集防・散弾・散防翻倍 不会陷入异常状态 同时每回合给予对手伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>なんらかの地相状態の時 集防・散防が２倍になり 状態異常にかからない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094845Z" creationid="土妹子" creationdate="20141231T094845Z">
         <seg>在某些地相状态时，集防和散防翻倍，并且不会受到异常状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>なんらかの気象の時 集弾・集防・散弾・散防が２倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164655Z" creationid="140706inu" creationdate="20150523T164655Z">
+        <seg>某些气象下集弾・集防・散弾・散防翻倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60866,8 +60882,8 @@
       <tuv lang="JA">
         <seg>ボックスの名前を10文字以内で入力し\n[Enter]を押してください。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T131945Z" creationid="UUZ" creationdate="20140824T145300Z">
-        <seg>请为箱子输入10个字以内的名称\n然后按[Enter]。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164937Z" creationid="UUZ" creationdate="20140824T145300Z">
+        <seg>请为箱子输入10字以内的名称\n然后按[Enter]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64274,8 +64290,8 @@
       <tuv lang="JA">
         <seg>主人公の名前を10文字以内で入力し\n[Enter]を押してください。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T131929Z" creationid="UUZ" creationdate="20140824T145038Z">
-        <seg>请为主人公输入10个字以内的姓名\n然后按[Enter]。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164920Z" creationid="UUZ" creationdate="20140824T145038Z">
+        <seg>请为主人公输入10字以内的名字\n然后按[Enter]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65378,8 +65394,8 @@
       <tuv lang="JA">
         <seg>人形のニックネームを10文字以内で入力し\n[Enter]を押してください。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T131939Z" creationid="UUZ" creationdate="20140824T145131Z">
-        <seg>请为人形输入10个字以的昵称\n然后按[Enter]。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164930Z" creationid="UUZ" creationdate="20140824T145131Z">
+        <seg>请为人形输入10字以内的昵称\n然后按[Enter]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71306,8 +71322,8 @@
       <tuv lang="JA">
         <seg>境界へと至る病</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094743Z" creationid="土妹子" creationdate="20141231T094743Z">
-        <seg>通往境界之病</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164741Z" creationid="土妹子" creationdate="20141231T094743Z">
+        <seg>直抵境界之病</seg>
       </tuv>
     </tu>
     <tu>
@@ -87780,6 +87796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T065327Z">
         <seg>消耗自身最大ＨＰ的一半 将自身的集弹上升到最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分の集中スキルのダメージが２倍になり 相手からの集中スキルのダメージが半分になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T164623Z" creationid="140706inu" creationdate="20150523T164623Z">
+        <seg>自己的集中技能威力翻倍 对手的集中技能威力减半。</seg>
       </tuv>
     </tu>
     <tu>
