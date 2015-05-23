@@ -32760,8 +32760,8 @@
       <tuv lang="JA">
         <seg>\c一人ですべてを探すのも大変なので あなたにぜひ協力してもらいたいのです。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150110T022204Z">
-        <seg>\c独自寻找所有东西太辛苦了 所以无论如何都希望你能伸出援手。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111659Z" creationid="土妹子" creationdate="20150110T022204Z">
+        <seg>\c独自寻找所有东西太困难了 所以非常希望你能伸出援手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33168,8 +33168,8 @@
       <tuv lang="JA">
         <seg>\c場所は・・・特定できないですね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T161201Z" creationid="土妹子" creationdate="20150110T022457Z">
-        <seg>\c地点……并没有特定的地点呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111911Z" creationid="土妹子" creationdate="20150110T022457Z">
+        <seg>\c地点……我也无法确定呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47912,8 +47912,8 @@
       <tuv lang="JA">
         <seg>それ相応のお礼は返すつもりです。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T162129Z" creationid="土妹子" creationdate="20150110T022244Z">
-        <seg>我会奉上和奔走之劳相称的礼物。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111750Z" creationid="土妹子" creationdate="20150110T022244Z">
+        <seg>我会奉上和奔走之劳相称的谢礼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48872,8 +48872,8 @@
       <tuv lang="JA">
         <seg>でもちょうど良かった。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T161701Z" creationid="土妹子" creationdate="20150110T022012Z">
-        <seg>不过也不错呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111631Z" creationid="土妹子" creationdate="20150110T022012Z">
+        <seg>不过正好呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52386,8 +52386,8 @@
       <tuv lang="JA">
         <seg>もちろんただとは言いませんよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T162013Z" creationid="土妹子" creationdate="20150110T022233Z">
-        <seg>这话当然不是说说而已。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111740Z" creationid="土妹子" creationdate="20150110T022233Z">
+        <seg>当然不会是让你白跑的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64306,8 +64306,8 @@
       <tuv lang="JA">
         <seg>久しぶりに館から音が聞こえてきて出てみたけど 反応がいまいちで期待はずれね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150110T021838Z">
-        <seg>隔了好久终于从洋馆里听到声音了出来看看 但是反应有点让期待落空了呢。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111451Z" creationid="土妹子" creationdate="20150110T021838Z">
+        <seg>有好久没听到过洋馆里有动静了于是出来看了一下 但是你的反应有点让我的期待落空了呢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69050,8 +69050,8 @@
       <tuv lang="JA">
         <seg>助かります。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T161103Z" creationid="土妹子" creationdate="20150110T022306Z">
-        <seg>帮大忙了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111843Z" creationid="土妹子" creationdate="20150110T022306Z">
+        <seg>那太好了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73258,8 +73258,8 @@
       <tuv lang="JA">
         <seg>実は人形にイタズラされてしまって 集めていた物を隠されてしまったの。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150110T022120Z">
-        <seg>实际上我遭到了人形的恶作剧 收集品被藏起来了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111641Z" creationid="土妹子" creationdate="20150110T022120Z">
+        <seg>实际上我遭到了人形的恶作剧 收集的东西被藏起来了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79458,8 +79458,8 @@
       <tuv lang="JA">
         <seg>楽しくない音ほど つまらないものはないわ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T021909Z" creationid="土妹子" creationdate="20150110T021909Z">
-        <seg>越是不高兴的声音就越无聊不是吗。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T111519Z" creationid="土妹子" creationdate="20150110T021909Z">
+        <seg>没有比不高兴的声音更无聊的东西了不是吗。</seg>
       </tuv>
     </tu>
     <tu>
