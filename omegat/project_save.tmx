@@ -37752,8 +37752,8 @@
       <tuv lang="JA">
         <seg>★天候発現「凪」</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T055219Z" creationid="土妹子" creationdate="20150101T055137Z">
-        <seg>★天气显现「微风」</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20150101T055137Z">
+        <seg>★天气显现「凪」</seg>
       </tuv>
     </tu>
     <tu>
@@ -39208,8 +39208,8 @@
       <tuv lang="JA">
         <seg>☆相手を混乱　濃霧時必中　凪時命中半減　成功した時凪・濃霧を解除</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T061924Z" creationid="土妹子" creationdate="20150101T061924Z">
-        <seg>☆使对手混乱　浓雾时必中；微风时威力减半；使用成功后解除微风或浓雾</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20150101T061924Z">
+        <seg>☆使对手混乱　浓雾时必中；凪时威力减半；使用成功后解除凪或浓雾</seg>
       </tuv>
     </tu>
     <tu>
@@ -64954,8 +64954,8 @@
       <tuv lang="JA">
         <seg>人形に持たせると凪の時間がいつもより長くなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T035241Z">
-        <seg>人形携带时 微风天气的持续时间变长。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="UUZ" creationdate="20140908T035241Z">
+        <seg>人形携带时 凪天气的持续时间变长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68794,8 +68794,8 @@
       <tuv lang="JA">
         <seg>凪のとき 効果が 上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T110231Z" creationid="土妹子" creationdate="20150101T110231Z">
-        <seg>微风时效果上升。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20150101T110231Z">
+        <seg>凪时效果上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76154,8 +76154,8 @@
       <tuv lang="JA">
         <seg>戦闘に出ると 気象が凪になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T021138Z" creationid="土妹子" creationdate="20141231T020918Z">
-        <seg>出场时气象变为微风。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T020918Z">
+        <seg>出场时气象变为凪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80538,8 +80538,8 @@
       <tuv lang="JA">
         <seg>気象を 凪に する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104125Z" creationid="土妹子" creationdate="20150101T104125Z">
-        <seg>使气象变为微风。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20150101T104125Z">
+        <seg>使气象变为凪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80578,8 +80578,8 @@
       <tuv lang="JA">
         <seg>気象発現「凪」</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T104116Z" creationid="UUZ" creationdate="20140906T124515Z">
-        <seg>气象显现「微风」</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="UUZ" creationdate="20140906T124515Z">
+        <seg>气象显现「凪」</seg>
       </tuv>
     </tu>
     <tu>
@@ -80610,32 +80610,32 @@
       <tuv lang="JA">
         <seg>気象：凪の時 必ず取り戻す。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022246Z" creationid="土妹子" creationdate="20141231T022246Z">
-        <seg>气象：微风时一定能回收。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T022246Z">
+        <seg>气象：凪时一定能回收。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>気象：凪の時 毎ターンＨＰが回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022013Z" creationid="土妹子" creationdate="20141231T022013Z">
-        <seg>气象：微风时每回合回复ＨＰ。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T022013Z">
+        <seg>气象：凪时每回合回复ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>気象：凪の時 状態異常にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022000Z" creationid="土妹子" creationdate="20141231T022000Z">
-        <seg>气象：微风时不会受到异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T022000Z">
+        <seg>气象：凪时不会受到异常状态。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>気象：凪の時 自分の散弾・散防が１.５倍になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150010Z" creationid="UUZ" creationdate="20150102T150010Z">
-        <seg>气象：微风时自身的散弹、散防变为１.５倍。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="UUZ" creationdate="20150102T150010Z">
+        <seg>气象：凪时自身的散弹、散防变为１.５倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80722,8 +80722,8 @@
       <tuv lang="JA">
         <seg>気質発現「凪」</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T020903Z" creationid="土妹子" creationdate="20141231T020903Z">
-        <seg>气质发现「微风」</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T020903Z">
+        <seg>气质发现「凪」</seg>
       </tuv>
     </tu>
     <tu>
