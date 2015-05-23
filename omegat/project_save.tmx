@@ -43048,8 +43048,8 @@
       <tuv lang="JA">
         <seg>お互いに すべての気象の 影響を受けない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022026Z" creationid="土妹子" creationdate="20141231T022026Z">
-        <seg>双方都不会受到所有的气象影响。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153728Z" creationid="土妹子" creationdate="20141231T022026Z">
+        <seg>双方都不会受到任何气象影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51938,8 +51938,8 @@
       <tuv lang="JA">
         <seg>また黄砂のダメージを受けない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T021133Z" creationid="土妹子" creationdate="20141231T021133Z">
-        <seg>另外不会受到黄砂的伤害。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153451Z" creationid="土妹子" creationdate="20141231T021133Z">
+        <seg>且不会受到黄砂的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58642,8 +58642,8 @@
       <tuv lang="JA">
         <seg>ターン終了時にＨＰが少し回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T020828Z" creationid="土妹子" creationdate="20141231T020828Z">
-        <seg>回合结束时稍微回复ＨＰ。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153347Z" creationid="土妹子" creationdate="20141231T020828Z">
+        <seg>回合结束时回复少许ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59474,8 +59474,8 @@
       <tuv lang="JA">
         <seg>ネガティブオーラ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023753Z" creationid="土妹子" creationdate="20141231T023753Z">
-        <seg>负之灵气</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160342Z" creationid="土妹子" creationdate="20141231T023753Z">
+        <seg>消极灵气</seg>
       </tuv>
     </tu>
     <tu>
@@ -64562,8 +64562,8 @@
       <tuv lang="JA">
         <seg>交代した時に状態異常を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T134944Z" creationid="UUZ" creationdate="20140904T134944Z">
-        <seg>交换下场时恢复异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153637Z" creationid="UUZ" creationdate="20140904T134944Z">
+        <seg>交换下场时解除异常状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67562,8 +67562,8 @@
       <tuv lang="JA">
         <seg>使った装飾品を取り戻すことがある。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T135709Z" creationid="UUZ" creationdate="20150130T135709Z">
-        <seg>有时能回收用过的装饰品。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153759Z" creationid="UUZ" creationdate="20150130T135709Z">
+        <seg>有几率回收用过的装饰品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67874,8 +67874,8 @@
       <tuv lang="JA">
         <seg>倹約家</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022225Z" creationid="土妹子" creationdate="20141231T022225Z">
-        <seg>节约家</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153749Z" creationid="土妹子" creationdate="20141231T022225Z">
+        <seg>节俭专家</seg>
       </tuv>
     </tu>
     <tu>
@@ -67906,16 +67906,16 @@
       <tuv lang="JA">
         <seg>停止状態からの復帰ターンが半分になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030444Z" creationid="土妹子" creationdate="20141231T030444Z">
-        <seg>从停止状态恢复的回合变为一半。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155501Z" creationid="土妹子" creationdate="20141231T030444Z">
+        <seg>解除停止状态所需回合数变为一半。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>停止状態が解けやすくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T133412Z" creationid="UUZ" creationdate="20140904T133412Z">
-        <seg>停止状态可以较快恢复。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153606Z" creationid="UUZ" creationdate="20140904T133412Z">
+        <seg>停止状态可以较快解除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68210,8 +68210,8 @@
       <tuv lang="JA">
         <seg>光・闇属性のスキルで受けるダメージを半減する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T024712Z" creationid="土妹子" creationdate="20141231T024712Z">
-        <seg>受到的光、暗属性技能伤害减半。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155042Z" creationid="土妹子" creationdate="20141231T024712Z">
+        <seg>受到的光・暗属性技能伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68690,8 +68690,8 @@
       <tuv lang="JA">
         <seg>冥属性のスキルを受けた時 集弾が一段階上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025054Z" creationid="土妹子" creationdate="20141231T025054Z">
-        <seg>受到冥属性技能时集弹上升１段。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160655Z" creationid="土妹子" creationdate="20141231T025054Z">
+        <seg>受到冥属性技能攻击时集弹上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70354,8 +70354,8 @@
       <tuv lang="JA">
         <seg>吹き荒ぶ萌黄</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022831Z" creationid="土妹子" creationdate="20141231T022831Z">
-        <seg>呼啸之萌黄</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153830Z" creationid="土妹子" creationdate="20141231T022831Z">
+        <seg>呼啸之葱绿</seg>
       </tuv>
     </tu>
     <tu>
@@ -71234,8 +71234,8 @@
       <tuv lang="JA">
         <seg>場に出た時 相手が結界を貫通するスキルを持っているかどうかわかる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030856Z" creationid="土妹子" creationdate="20141231T030856Z">
-        <seg>出场时能够得知对手是否有能够贯通结界的技能。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155734Z" creationid="土妹子" creationdate="20141231T030856Z">
+        <seg>出场时得知对手是否有能够贯通结界的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71258,8 +71258,8 @@
       <tuv lang="JA">
         <seg>場に出た時 相手の能力を見て集弾・散弾のどちらかを一段階上げる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T030820Z">
-        <seg>出场时观察对手的能力 集弹和散弹中的一方上升１段。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155808Z" creationid="土妹子" creationdate="20141231T030820Z">
+        <seg>针对对手的能力 出场时集弹或散弹上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71474,8 +71474,8 @@
       <tuv lang="JA">
         <seg>変毒為薬</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030413Z" creationid="土妹子" creationdate="20141231T030413Z">
-        <seg>变毒为药</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155428Z" creationid="土妹子" creationdate="20141231T030413Z">
+        <seg>化毒为药</seg>
       </tuv>
     </tu>
     <tu>
@@ -72954,8 +72954,8 @@
       <tuv lang="JA">
         <seg>威嚇射撃</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030545Z" creationid="土妹子" creationdate="20141231T030545Z">
-        <seg>威吓射击</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155541Z" creationid="土妹子" creationdate="20141231T030545Z">
+        <seg>警告射击</seg>
       </tuv>
     </tu>
     <tu>
@@ -73738,8 +73738,8 @@
       <tuv lang="JA">
         <seg>小休止</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150102T150026Z" creationid="UUZ" creationdate="20150102T150026Z">
-        <seg>小休止</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153704Z" creationid="UUZ" creationdate="20150102T150026Z">
+        <seg>稍作歇息</seg>
       </tuv>
     </tu>
     <tu>
@@ -74282,8 +74282,8 @@
       <tuv lang="JA">
         <seg>常識破り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025102Z" creationid="土妹子" creationdate="20141231T025102Z">
-        <seg>突破常识！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155133Z" creationid="土妹子" creationdate="20141231T025102Z">
+        <seg>突破常识</seg>
       </tuv>
     </tu>
     <tu>
@@ -74994,8 +74994,8 @@
       <tuv lang="JA">
         <seg>強気</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030637Z" creationid="土妹子" creationdate="20141231T030637Z">
-        <seg>强气</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160231Z" creationid="土妹子" creationdate="20141231T030637Z">
+        <seg>顽强</seg>
       </tuv>
     </tu>
     <tu>
@@ -75130,8 +75130,8 @@
       <tuv lang="JA">
         <seg>影縫い</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025142Z" creationid="土妹子" creationdate="20141231T025142Z">
-        <seg>影缝</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155257Z" creationid="土妹子" creationdate="20141231T025142Z">
+        <seg>钉影子</seg>
       </tuv>
     </tu>
     <tu>
@@ -78474,8 +78474,8 @@
       <tuv lang="JA">
         <seg>暗闇状態でも集弾が低下しない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030538Z" creationid="土妹子" creationdate="20141231T030538Z">
-        <seg>黑暗状态也不会降低集弹。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160846Z" creationid="土妹子" creationdate="20141231T030538Z">
+        <seg>黑暗状态下也不会降低集弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80218,8 +80218,8 @@
       <tuv lang="JA">
         <seg>毎ターン終了時に３割の確率で状態異常を回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030508Z" creationid="土妹子" creationdate="20141231T030508Z">
-        <seg>每回合结束时有３成几率回复异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160751Z" creationid="土妹子" creationdate="20141231T030508Z">
+        <seg>每回合结束时有３成几率解除异常状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80274,8 +80274,8 @@
       <tuv lang="JA">
         <seg>毒々しき青紫</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023004Z" creationid="土妹子" creationdate="20141231T023004Z">
-        <seg>毒性之青紫</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T154327Z" creationid="土妹子" creationdate="20141231T023004Z">
+        <seg>浸毒之青紫</seg>
       </tuv>
     </tu>
     <tu>
@@ -80306,24 +80306,24 @@
       <tuv lang="JA">
         <seg>毒・猛毒状態にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025822Z" creationid="土妹子" creationdate="20141231T025822Z">
-        <seg>不会进入毒、剧毒状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160659Z" creationid="土妹子" creationdate="20141231T025822Z">
+        <seg>不会进入毒・剧毒状态。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>毒・猛毒状態の時 毎ターンＨＰが回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030425Z" creationid="土妹子" creationdate="20141231T030425Z">
-        <seg>毒、剧毒状态时每回合回复ＨＰ。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160742Z" creationid="土妹子" creationdate="20141231T030425Z">
+        <seg>毒・剧毒状态时每回合回复ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>毒・猛毒状態の時 集弾が１.５倍になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030408Z" creationid="土妹子" creationdate="20141231T030408Z">
-        <seg>毒、剧毒状态时集弹变为１.５倍。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160730Z" creationid="土妹子" creationdate="20141231T030408Z">
+        <seg>毒・剧毒状态时集弹变为１.５倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80618,8 +80618,8 @@
       <tuv lang="JA">
         <seg>気象：凪の時 必ず取り戻す。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T022246Z">
-        <seg>气象：凪时一定能回收。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153806Z" creationid="土妹子" creationdate="20141231T022246Z">
+        <seg>气象：凪时必定能回收。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80634,8 +80634,8 @@
       <tuv lang="JA">
         <seg>気象：凪の時 状態異常にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="土妹子" creationdate="20141231T022000Z">
-        <seg>气象：凪时不会受到异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153718Z" creationid="土妹子" creationdate="20141231T022000Z">
+        <seg>气象：凪时不会陷入异常状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80658,8 +80658,8 @@
       <tuv lang="JA">
         <seg>気象：極光の時 ターン終了時に状態異常が回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T021422Z" creationid="土妹子" creationdate="20141231T021422Z">
-        <seg>气象：极光时每回合结束时回复异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153654Z" creationid="土妹子" creationdate="20141231T021422Z">
+        <seg>气象：极光时每回合结束时解除异常状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81770,8 +81770,8 @@
       <tuv lang="JA">
         <seg>火傷・大火傷状態にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T025846Z" creationid="土妹子" creationdate="20141231T025846Z">
-        <seg>不会进入烧伤、大烧伤状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160725Z" creationid="土妹子" creationdate="20141231T025846Z">
+        <seg>不会进入烧伤・大烧伤状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82338,16 +82338,16 @@
       <tuv lang="JA">
         <seg>状態異常になったとき相手を同じ状態異常にする。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140904T133207Z">
-        <seg>陷入异常状态时 对手陷入同样的异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153551Z" creationid="UUZ" creationdate="20140904T133207Z">
+        <seg>陷入异常状态时 令对手陷入同样的异常状态。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>状態異常になった時 相手も同じ 状態異常にする。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T030143Z">
-        <seg>受到异常状态时 对手也受到相同的异常状态。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155405Z" creationid="土妹子" creationdate="20141231T030143Z">
+        <seg>陷入异常状态时 令对手也陷入相同的异常状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82362,8 +82362,8 @@
       <tuv lang="JA">
         <seg>状態異常の時 俊敏が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20150111T100223Z">
-        <seg>进入异常状态时 敏捷上升。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160327Z" creationid="UUZ" creationdate="20150111T100223Z">
+        <seg>陷入异常状态时 敏捷上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82418,8 +82418,8 @@
       <tuv lang="JA">
         <seg>状態異常の時は発動しない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T084918Z" creationid="UUZ" creationdate="20140904T135133Z">
-        <seg>异常状态时不会发动。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153431Z" creationid="UUZ" creationdate="20140904T135133Z">
+        <seg>陷入异常状态时不会发动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82858,8 +82858,8 @@
       <tuv lang="JA">
         <seg>用量厳守</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023829Z" creationid="土妹子" creationdate="20141231T023829Z">
-        <seg>用量严守</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T154958Z" creationid="土妹子" creationdate="20141231T023829Z">
+        <seg>严守用量</seg>
       </tuv>
     </tu>
     <tu>
@@ -89954,8 +89954,8 @@
       <tuv lang="JA">
         <seg>轟く刈安</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022911Z" creationid="土妹子" creationdate="20141231T022911Z">
-        <seg>轰震之刈安</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T154315Z" creationid="土妹子" creationdate="20141231T022911Z">
+        <seg>轰鸣之刈安</seg>
       </tuv>
     </tu>
     <tu>
@@ -90570,8 +90570,8 @@
       <tuv lang="JA">
         <seg>連続回数スキルが必ず最大数あたる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T012546Z" creationid="UUZ" creationdate="20140904T134611Z">
-        <seg>连续攻击技能必然取最大次数。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153338Z" creationid="UUZ" creationdate="20140904T134611Z">
+        <seg>连续攻击技能必定达到最大次数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90898,8 +90898,8 @@
       <tuv lang="JA">
         <seg>達人の体捌き</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023912Z" creationid="土妹子" creationdate="20141231T023912Z">
-        <seg>达人的格挡</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155033Z" creationid="土妹子" creationdate="20141231T023912Z">
+        <seg>高人之格挡</seg>
       </tuv>
     </tu>
     <tu>
@@ -91642,8 +91642,8 @@
       <tuv lang="JA">
         <seg>闇を吸収し ＨＰが回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T022206Z" creationid="土妹子" creationdate="20141231T022206Z">
-        <seg>吸收暗属性回复ＨＰ。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T153742Z" creationid="土妹子" creationdate="20141231T022206Z">
+        <seg>吸收暗属性攻击并回复ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91652,6 +91652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T102826Z" creationid="土妹子" creationdate="20150110T102826Z">
         <seg>拥有操纵黑暗程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>闇・冥・毒属性のスキルを受けた時 ダメージを軽減し 自分の俊敏が一段階上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160510Z" creationid="140706inu" creationdate="20150523T160510Z">
+        <seg>受到暗・冥・毒属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92196,6 +92204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150119T115802Z" creationid="土妹子" creationdate="20150119T115802Z">
         <seg>拥有召雷程度的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>雷・光・幻属性のスキルを受けた時 ダメージを軽減し 自分の俊敏が一段階上がる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160445Z" creationid="140706inu" creationdate="20150523T160445Z">
+        <seg>受到雷・光・幻属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92762,8 +92778,8 @@
       <tuv lang="JA">
         <seg>音属性のスキルを受けた時 散弾が一段階上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T024735Z" creationid="土妹子" creationdate="20141231T024735Z">
-        <seg>受到音属性技能时散弹上升１段。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T160519Z" creationid="土妹子" creationdate="20141231T024735Z">
+        <seg>受到音属性技能攻击时散弹上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93682,8 +93698,8 @@
       <tuv lang="JA">
         <seg>鳴り響く縞</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T023345Z" creationid="土妹子" creationdate="20141231T023345Z">
-        <seg>鸣响之縞</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T154917Z" creationid="土妹子" creationdate="20141231T023345Z">
+        <seg>鸣响之声纹</seg>
       </tuv>
     </tu>
     <tu>
@@ -93706,8 +93722,8 @@
       <tuv lang="JA">
         <seg>麻痺状態でも敏捷が低下しない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T030301Z" creationid="土妹子" creationdate="20141231T030301Z">
-        <seg>麻痹状态也不会降低敏捷。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155418Z" creationid="土妹子" creationdate="20141231T030301Z">
+        <seg>陷入麻痹状态也不会降低敏捷。</seg>
       </tuv>
     </tu>
     <tu>
