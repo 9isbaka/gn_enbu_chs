@@ -88,8 +88,8 @@
       <tuv lang="JA">
         <seg>%s のHPが%d回復した！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 恢复了 %dHP！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164141Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 恢复了 %dＨＰ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="JA">
         <seg>%s をどうしますか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 要做什么？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163534Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 要怎么办？</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>要给哪个人形使用 %s？（B键取消）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>%s をどの人形に持たせますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163527Z" creationid="CJ" creationdate="20150525T163527Z">
+        <seg>%s 要让哪个人形携带？</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +208,8 @@
       <tuv lang="JA">
         <seg>%s を戻すことができない！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 没法回去！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164107Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>无法收回 %s！</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,31 +224,31 @@
       <tuv lang="JA">
         <seg>%s を預かった。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>寄存了 %s。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164018Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>取下了 %s。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%s を預かり %s を持たせた。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>寄存了 %s 携带了 %s。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164018Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>取下了 %s 携带了 %s。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%s を預かり、別の装飾品を持たせます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>寄存 %s 携带另一个饰品。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164018Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>取下 %s 携带另一个饰品。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%s を預かります。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164038Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>寄存了 %s。</seg>
       </tuv>
     </tu>
@@ -1872,8 +1880,8 @@
       <tuv lang="JA">
         <seg>%sを どこに習得しますか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sを どこに習得しますか？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164327Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>把%s 记忆在哪个位置？</seg>
       </tuv>
     </tu>
     <tu>
@@ -30256,8 +30264,8 @@
       <tuv lang="JA">
         <seg>Xボタンで選択中のスキルの情報を見ます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>Xボタンで選択中のスキルの情報を見ます。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164457Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>X键可以查看选中的技能的详情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44782,6 +44790,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>このスタイルにチェンジしますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164421Z" creationid="CJ" creationdate="20150525T164421Z">
+        <seg>确定要转换成这个形态吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>この世界のことなら なんでもお見通しなんだから。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T114848Z">
@@ -49448,16 +49464,16 @@
       <tuv lang="JA">
         <seg>どのスキルを忘れますか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>どのスキルを忘れますか？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164338Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>忘记哪个技能？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>どのスキルを習得しますか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>どのスキルを習得しますか？</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164309Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>学习哪个技能？</seg>
       </tuv>
     </tu>
     <tu>
@@ -57834,8 +57850,8 @@
       <tuv lang="JA">
         <seg>スキルカードで習得可能なスキルを習得します。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>スキルカードで習得可能なスキルを習得します。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164231Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>学习能通过技能卡习得的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58148,6 +58164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150512T181554Z" creationid="140706inu" creationdate="20150512T181554Z">
         <seg>头条新闻自己送上门来了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>スタイルは戻せません。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164355Z" creationid="CJ" creationdate="20150525T164355Z">
+        <seg>形态转换不可逆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63002,8 +63026,8 @@
       <tuv lang="JA">
         <seg>レベルで習得可能になったスキルを習得します。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>レベルで習得可能になったスキルを習得します。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164236Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>学习随等级提升而习得的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64284,6 +64308,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143358Z" creationid="UUZ" creationdate="20140906T143358Z">
         <seg>山中洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>並び替え先を選んでください。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163559Z" creationid="CJ" creationdate="20150525T163559Z">
+        <seg>请选择和哪里替换。</seg>
       </tuv>
     </tu>
     <tu>
