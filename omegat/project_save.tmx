@@ -34176,8 +34176,8 @@
       <tuv lang="JA">
         <seg>\n交換すると元に戻る。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153713Z" creationid="土妹子" creationdate="20150102T153713Z">
-        <seg>\n交换后还原。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115304Z" creationid="土妹子" creationdate="20150102T153713Z">
+        <seg>\n交换后能力还原。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34320,8 +34320,8 @@
       <tuv lang="JA">
         <seg>\n持たせるとスキルが命中した時に相手を怯ませる事がある。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T151531Z">
-        <seg>\n携带后 技能命中对手时有可能造成害怕。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114020Z" creationid="土妹子" creationdate="20150101T151531Z">
+        <seg>\n携带后 技能命中对手时有可能令对手害怕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34456,16 +34456,16 @@
       <tuv lang="JA">
         <seg>\n持たせると交換出来なくなった時にその効果を無効化する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T152043Z">
-        <seg>\n携带后 在不能交换时把那个效果无效化。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114510Z" creationid="土妹子" creationdate="20150101T152043Z">
+        <seg>\n携带后 被对手限制交换时令限制无效化。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n持たせると人形のＨＰが戦闘の間少しずつ回復する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151758Z" creationid="土妹子" creationdate="20150101T151758Z">
-        <seg>\n携带的人形在战斗中可以慢慢回复ＨＰ。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114129Z" creationid="土妹子" creationdate="20150101T151758Z">
+        <seg>\n携带后人形在战斗中可以慢慢回复ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34568,8 +34568,8 @@
       <tuv lang="JA">
         <seg>\n持たせると戦闘不能になる様なダメージを受けてもＨＰ１で耐える事がある。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T151417Z">
-        <seg>\n携带时 就算受到致命伤害也有可能以１ＨＰ忍住。。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T113428Z" creationid="土妹子" creationdate="20150101T151417Z">
+        <seg>\n携带时 就算受到致命伤害也有可能保留１ＨＰ忍耐攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34784,8 +34784,8 @@
       <tuv lang="JA">
         <seg>\n毒属性以外に持たせるとダメージを受ける。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151923Z" creationid="土妹子" creationdate="20150101T151923Z">
-        <seg>\n毒属性以外携带的话会受伤害。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114214Z" creationid="土妹子" creationdate="20150101T151923Z">
+        <seg>\n毒属性以外的人形携带则会受伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35152,8 +35152,8 @@
       <tuv lang="JA">
         <seg>\oサニー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T062017Z" creationid="土妹子" creationdate="20150108T031008Z">
-        <seg>\o桑尼</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="土妹子" creationdate="20150108T031008Z">
+        <seg>\o桑妮</seg>
       </tuv>
     </tu>
     <tu>
@@ -37568,8 +37568,8 @@
       <tuv lang="JA">
         <seg>←魔法の森　  →人間の里</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150513T115402Z" creationid="妄想" creationdate="20150110T074031Z">
-        <seg>←魔法之森　  →人类村落</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115836Z" creationid="妄想" creationdate="20150110T074031Z">
+        <seg>←魔法森林　  →人类村落</seg>
       </tuv>
     </tu>
     <tu>
@@ -37784,8 +37784,8 @@
       <tuv lang="JA">
         <seg>★戦闘不能になるスキルを受けてもHP1で耐える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T095700Z">
-        <seg>★受到造成战斗不能的技能时 也能以１ＨＰ忍住。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T113509Z" creationid="土妹子" creationdate="20141231T095700Z">
+        <seg>★受到造成战斗不能的技能时 也能保留１ＨＰ忍耐攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47216,8 +47216,8 @@
       <tuv lang="JA">
         <seg>そうよ サニー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T183843Z" creationid="CJ" creationdate="20150522T183843Z">
-        <seg>就是啊桑尼。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="CJ" creationdate="20150522T183843Z">
+        <seg>就是啊桑妮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48752,8 +48752,8 @@
       <tuv lang="JA">
         <seg>で いつもどおりにやられちゃったんだけど サニー？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T062017Z" creationid="土妹子" creationdate="20150109T161021Z">
-        <seg>不过 就和一直以来一样的被干掉了哦桑尼？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="土妹子" creationdate="20150109T161021Z">
+        <seg>不过 就和一直以来一样的被干掉了哦桑妮？</seg>
       </tuv>
     </tu>
     <tu>
@@ -48920,8 +48920,8 @@
       <tuv lang="JA">
         <seg>でも作戦を決行したのはサニーじゃない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T062017Z" creationid="土妹子" creationdate="20150109T161049Z">
-        <seg>不过决定进行作战的不是桑尼吗。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="土妹子" creationdate="20150109T161049Z">
+        <seg>不过决定进行作战的不是桑妮吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49520,8 +49520,8 @@
       <tuv lang="JA">
         <seg>どんな人形も封印する事のできる最高性能の糸。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T042023Z" creationid="UUZ" creationdate="20140908T041614Z">
-        <seg>什么人形都可以封印的最高性能的丝线。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115756Z" creationid="UUZ" creationdate="20140908T041614Z">
+        <seg>任何人形都能封印的最高性能的丝线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55978,32 +55978,32 @@
       <tuv lang="JA">
         <seg>サニー</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T140037Z" creationid="UUZ" creationdate="20140904T140037Z">
-        <seg>桑尼</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="UUZ" creationdate="20140904T140037Z">
+        <seg>桑妮</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>サニーも楽しみだって。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T184037Z" creationid="土妹子" creationdate="20150108T030636Z">
-        <seg>桑尼也说她很期待。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="土妹子" creationdate="20150108T030636Z">
+        <seg>桑妮也说她很期待。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>サニーミルク</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144532Z" creationid="UUZ" creationdate="20140906T144532Z">
-        <seg>桑尼米尔克</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="UUZ" creationdate="20140906T144532Z">
+        <seg>桑妮米尔克</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>サニーミルクの力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T062017Z" creationid="土妹子" creationdate="20150115T141844Z">
-        <seg>拥有桑尼米尔克的力量的人形。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="土妹子" creationdate="20150115T141844Z">
+        <seg>拥有桑妮米尔克的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58634,8 +58634,8 @@
       <tuv lang="JA">
         <seg>タリスマン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T151243Z" creationid="UUZ" creationdate="20140908T024240Z">
-        <seg>小护身符</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T113350Z" creationid="UUZ" creationdate="20140908T024240Z">
+        <seg>辟邪法宝</seg>
       </tuv>
     </tu>
     <tu>
@@ -60850,8 +60850,8 @@
       <tuv lang="JA">
         <seg>ホントよね サニー。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T062017Z" creationid="土妹子" creationdate="20150109T160538Z">
-        <seg>真的呢 桑尼。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120742Z" creationid="土妹子" creationdate="20150109T160538Z">
+        <seg>真的呢 桑妮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61194,8 +61194,8 @@
       <tuv lang="JA">
         <seg>マジックリング</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T024902Z" creationid="UUZ" creationdate="20140908T024902Z">
-        <seg>魔术戒指</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114006Z" creationid="UUZ" creationdate="20140908T024902Z">
+        <seg>魔法戒指</seg>
       </tuv>
     </tu>
     <tu>
@@ -64690,8 +64690,8 @@
       <tuv lang="JA">
         <seg>人型の木札。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T152022Z" creationid="UUZ" creationdate="20140908T033148Z">
-        <seg>人形的木牌。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114225Z" creationid="UUZ" creationdate="20140908T033148Z">
+        <seg>人形的木符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67762,8 +67762,8 @@
       <tuv lang="JA">
         <seg>便利な携行食糧。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T032349Z" creationid="UUZ" creationdate="20140908T032349Z">
-        <seg>方便携带的粮食。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114112Z" creationid="UUZ" creationdate="20140908T032349Z">
+        <seg>便携食粮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70914,8 +70914,8 @@
       <tuv lang="JA">
         <seg>土色をした髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140735Z" creationid="UUZ" creationdate="20140908T035630Z">
-        <seg>做成土色的发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114811Z" creationid="UUZ" creationdate="20140908T035630Z">
+        <seg>染成土色的发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71162,8 +71162,8 @@
       <tuv lang="JA">
         <seg>地霊殿への道</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155327Z" creationid="土妹子" creationdate="20150102T155327Z">
-        <seg>前往地灵殿的道路</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120208Z" creationid="土妹子" creationdate="20150102T155327Z">
+        <seg>通往地灵殿之路</seg>
       </tuv>
     </tu>
     <tu>
@@ -72450,8 +72450,8 @@
       <tuv lang="JA">
         <seg>契約の糸より人形を封印しやすくなったかなり性能のよい糸。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T041441Z">
-        <seg>比契约之丝更容易封印人形 性能很好的的丝线。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115708Z" creationid="UUZ" creationdate="20140908T041441Z">
+        <seg>比契约之丝更容易封印人形 性能极佳的丝线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73650,8 +73650,8 @@
       <tuv lang="JA">
         <seg>封印の糸より人形を封印しやすくなった少し性能の良い糸。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T041421Z">
-        <seg>比封印之丝更容易封印人形 性能略好的丝线。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115722Z" creationid="UUZ" creationdate="20140908T041421Z">
+        <seg>比封印之丝更容易封印人形 性能稍好的丝线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74906,8 +74906,8 @@
       <tuv lang="JA">
         <seg>廃洋館</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T142735Z" creationid="UUZ" creationdate="20140906T142735Z">
-        <seg>废洋馆</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120058Z" creationid="UUZ" creationdate="20140906T142735Z">
+        <seg>废弃洋馆</seg>
       </tuv>
     </tu>
     <tu>
@@ -76410,8 +76410,8 @@
       <tuv lang="JA">
         <seg>戦闘中５ターンの間 味方の能力を下げられなくする。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150102T153829Z">
-        <seg>战斗中５回合间 我方的能力不会被下降。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115633Z" creationid="土妹子" creationdate="20150102T153829Z">
+        <seg>战斗中５回合间 我方的能力不会被降低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77266,8 +77266,16 @@
       <tuv lang="JA">
         <seg>持たせると相手より後に行動した時にスキルの命中率が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T024152Z">
-        <seg>携带后 比对手后行动时技能的命中率上升。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T112853Z" creationid="UUZ" creationdate="20140908T024152Z">
+        <seg>携带后 在对手之后行动时技能的命中率上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>持たせると相手より後に行動する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114045Z" creationid="140706inu" creationdate="20150525T114045Z">
+        <seg>携带后必定在对手之后行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77442,8 +77450,8 @@
       <tuv lang="JA">
         <seg>持っていると属性相性で無効の 相手のスキルが当たるようになる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20150105T161550Z">
-        <seg>携带后 因为属性相性无效的对手技能会变得能够命中。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114601Z" creationid="UUZ" creationdate="20150105T161550Z">
+        <seg>携带后 对手因为属性相性无效的技能也能够命中自己。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81024,6 +81032,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>氷の洞窟</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120040Z" creationid="140706inu" creationdate="20150525T120040Z">
+        <seg>冰之洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>氷の洞窟,korinodokutsu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155042Z" creationid="UUZ" creationdate="20140824T154952Z">
@@ -81786,8 +81802,8 @@
       <tuv lang="JA">
         <seg>澄んだ黄色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035758Z" creationid="UUZ" creationdate="20140908T035758Z">
-        <seg>清澈的黄色发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114911Z" creationid="UUZ" creationdate="20140908T035758Z">
+        <seg>光亮的黄色发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82282,8 +82298,8 @@
       <tuv lang="JA">
         <seg>燃えるような赤色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035444Z" creationid="UUZ" creationdate="20140908T035444Z">
-        <seg>燃烧般的红色发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114716Z" creationid="UUZ" creationdate="20140908T035444Z">
+        <seg>如火焰般炽红的发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86152,6 +86168,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>紅魔館</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T120048Z" creationid="140706inu" creationdate="20150525T120048Z">
+        <seg>红魔馆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>紅魔館,komakan</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140824T155047Z" creationid="UUZ" creationdate="20140824T155047Z">
@@ -86274,8 +86298,8 @@
       <tuv lang="JA">
         <seg>紫がかった黒色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140913T010511Z" creationid="UUZ" creationdate="20140908T035949Z">
-        <seg>紫黑色的发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115036Z" creationid="UUZ" creationdate="20140908T035949Z">
+        <seg>泛紫的黑色发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86578,8 +86602,8 @@
       <tuv lang="JA">
         <seg>緋色の髪飾り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152119Z" creationid="UUZ" creationdate="20140906T152058Z">
-        <seg>绯色发饰</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114606Z" creationid="UUZ" creationdate="20140906T152058Z">
+        <seg>绯色的发饰</seg>
       </tuv>
     </tu>
     <tu>
@@ -86618,8 +86642,8 @@
       <tuv lang="JA">
         <seg>縞模様の髪飾り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152157Z" creationid="UUZ" creationdate="20140906T152157Z">
-        <seg>条纹发饰</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115138Z" creationid="UUZ" creationdate="20140906T152157Z">
+        <seg>条纹的发饰</seg>
       </tuv>
     </tu>
     <tu>
@@ -88282,8 +88306,8 @@
       <tuv lang="JA">
         <seg>草の様な緑色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T140716Z" creationid="UUZ" creationdate="20140908T035557Z">
-        <seg>样子像草的绿色发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114759Z" creationid="UUZ" creationdate="20140908T035557Z">
+        <seg>草叶式样的绿色发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88666,8 +88690,8 @@
       <tuv lang="JA">
         <seg>虹色の髪飾り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152128Z" creationid="UUZ" creationdate="20140906T152128Z">
-        <seg>虹色发饰</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114924Z" creationid="UUZ" creationdate="20140906T152128Z">
+        <seg>虹色的发饰</seg>
       </tuv>
     </tu>
     <tu>
@@ -89474,8 +89498,8 @@
       <tuv lang="JA">
         <seg>諏訪子から貰ったお守り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T145418Z" creationid="土妹子" creationdate="20150102T145418Z">
-        <seg>诹访子给的护身符。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115259Z" creationid="土妹子" creationdate="20150102T145418Z">
+        <seg>诹访子赐予的护身符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90482,8 +90506,8 @@
       <tuv lang="JA">
         <seg>透明感のある琥珀色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040220Z" creationid="UUZ" creationdate="20140908T040149Z">
-        <seg>有透明感的琥珀色发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115123Z" creationid="UUZ" creationdate="20140908T040149Z">
+        <seg>带着透明感的琥珀色发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91530,8 +91554,8 @@
       <tuv lang="JA">
         <seg>鋼色の髪飾り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152114Z" creationid="UUZ" creationdate="20140906T152114Z">
-        <seg>钢色发饰</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114826Z" creationid="UUZ" creationdate="20140906T152114Z">
+        <seg>钢色的发饰</seg>
       </tuv>
     </tu>
     <tu>
@@ -91724,6 +91748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T091912Z" creationid="UUZ" creationdate="20140906T091912Z">
         <seg>间歇泉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>間欠泉地下センター</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115926Z" creationid="140706inu" creationdate="20150525T115926Z">
+        <seg>间歇泉地下中心</seg>
       </tuv>
     </tu>
     <tu>
@@ -92738,8 +92770,8 @@
       <tuv lang="JA">
         <seg>青味を帯びた暗い紫色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T040126Z" creationid="UUZ" creationdate="20140908T040126Z">
-        <seg>青色带有暗紫色的发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T115105Z" creationid="UUZ" creationdate="20140908T040126Z">
+        <seg>泛青的暗紫色发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92786,8 +92818,8 @@
       <tuv lang="JA">
         <seg>青銅製の鏡。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T025217Z" creationid="UUZ" creationdate="20140908T022336Z">
-        <seg>青铜制作的镜子。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T112452Z" creationid="UUZ" creationdate="20140908T022336Z">
+        <seg>青铜制的镜子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93906,8 +93938,8 @@
       <tuv lang="JA">
         <seg>黄色の髪飾り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T152126Z" creationid="UUZ" creationdate="20140906T152126Z">
-        <seg>黄色发饰</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114829Z" creationid="UUZ" creationdate="20140906T152126Z">
+        <seg>黄色的发饰</seg>
       </tuv>
     </tu>
     <tu>
@@ -93954,8 +93986,8 @@
       <tuv lang="JA">
         <seg>黒一色の髪飾り。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035924Z" creationid="UUZ" creationdate="20140908T035924Z">
-        <seg>全黑的发饰。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114940Z" creationid="UUZ" creationdate="20140908T035924Z">
+        <seg>纯黑的发饰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93994,8 +94026,8 @@
       <tuv lang="JA">
         <seg>黒色の髪飾り</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T035954Z" creationid="UUZ" creationdate="20140906T152130Z">
-        <seg>黑色发饰</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T114946Z" creationid="UUZ" creationdate="20140906T152130Z">
+        <seg>黑色的发饰</seg>
       </tuv>
     </tu>
     <tu>
