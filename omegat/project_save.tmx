@@ -30302,6 +30302,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>\bあなたに話す必要があって？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150525T105437Z" creationid="土妹子" creationdate="20150525T105437Z">
+        <seg>\b有和你说的必要吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>\bいい所でしょう！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T042716Z" creationid="土妹子" creationdate="20150108T042716Z">
@@ -32274,6 +32282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150107T113028Z">
         <seg>\c虽然只是一点薄礼 请你收下这个吧。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>\cまぁ いいわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150525T105455Z" creationid="土妹子" creationdate="20150525T105455Z">
+        <seg>嘛，也罢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45546,6 +45562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150109T032913Z" creationid="土妹子" creationdate="20150109T032913Z">
         <seg>之后什么也不会做了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>これ以上 好き勝手させないから。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150525T105505Z" creationid="土妹子" creationdate="20150525T105505Z">
+        <seg>不会再让你继续为所欲为了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67256,6 +67280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何の義理もないあなたに。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150525T105447Z" creationid="土妹子" creationdate="20150525T105447Z">
+        <seg>我对你没有任何义务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何よ まさか弱いとか思ってないわよね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150109T113625Z">
@@ -79740,6 +79772,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T132053Z" creationid="UUZ" creationdate="20140907T132053Z">
         <seg>正直者的大谎言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>正直驚いたわ。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150525T105431Z" creationid="土妹子" creationdate="20150525T105431Z">
+        <seg>真是吃了一惊啊。</seg>
       </tuv>
     </tu>
     <tu>
