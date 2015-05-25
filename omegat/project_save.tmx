@@ -42776,8 +42776,8 @@
       <tuv lang="JA">
         <seg>おてんば</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T165447Z" creationid="土妹子" creationdate="20150102T165447Z">
-        <seg>野丫头</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T152837Z" creationid="土妹子" creationdate="20150102T165447Z">
+        <seg>活泼的</seg>
       </tuv>
     </tu>
     <tu>
@@ -55688,6 +55688,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>コサヤ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T153537Z" creationid="CJ" creationdate="20150525T153537Z">
+        <seg>小夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>コスプレよ この服。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150417T132123Z" creationid="140706inu" creationdate="20150417T132123Z">
@@ -58978,8 +58986,8 @@
       <tuv lang="JA">
         <seg>ツァトゥ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150130T152604Z" creationid="UUZ" creationdate="20150130T152604Z">
-        <seg>ツァトゥ</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T153340Z" creationid="UUZ" creationdate="20150130T152604Z">
+        <seg>扎图</seg>
       </tuv>
     </tu>
     <tu>
@@ -62226,8 +62234,8 @@
       <tuv lang="JA">
         <seg>ユリネ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T155605Z" creationid="土妹子" creationdate="20150104T155605Z">
-        <seg>百合根</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T153758Z" creationid="土妹子" creationdate="20150104T155605Z">
+        <seg>尤利妮</seg>
       </tuv>
     </tu>
     <tu>
@@ -62242,8 +62250,8 @@
       <tuv lang="JA">
         <seg>ヨウイチ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150104T154743Z" creationid="土妹子" creationdate="20150104T154743Z">
-        <seg>要一</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T153650Z" creationid="土妹子" creationdate="20150104T154743Z">
+        <seg>阳一</seg>
       </tuv>
     </tu>
     <tu>
@@ -86714,8 +86722,8 @@
       <tuv lang="JA">
         <seg>翁の</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164607Z" creationid="土妹子" creationdate="20150102T164607Z">
-        <seg>老爷爷的</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T153715Z" creationid="土妹子" creationdate="20150102T164607Z">
+        <seg>老爷爷</seg>
       </tuv>
     </tu>
     <tu>
