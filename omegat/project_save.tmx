@@ -528,32 +528,32 @@
       <tuv lang="JA">
         <seg>%sの フィールドバリアの\n効果が 切れた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s的 Ｆ屏障\n效果结束了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161814Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s的 Field屏障\n效果结束了！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sの フィールドバリアは\n壊れた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s的 Ｆ屏障\n坏掉了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161816Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s的 Field屏障\n坏掉了！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sの フィールドプロテクトの\n効果が 切れた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s的 Ｆ保护\n效果结束了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161813Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s的 Field保护\n效果结束了！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sの フィールドプロテクトは\n壊れた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s的 Ｆ保护\n坏掉了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161815Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s的 Field保护\n坏掉了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,8 +1104,8 @@
       <tuv lang="JA">
         <seg>%sは かんざしの効果で\n%sを 出すことが できなかった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sは かんざしの効果で\n%sを 出すことが できなかった！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162407Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s因为发簪的效果\n不能使用 %s！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,16 +1192,16 @@
       <tuv lang="JA">
         <seg>%sは フィールドバリアを展開して\n拡散スキルに強くなった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 展开了Ｆ屏障\n对扩散技能的抗性加强了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161818Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 展开了Field屏障\n对扩散技能的抗性加强了！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sは フィールドプロテクトを展開して\n集中スキルに強くなった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 展开了Ｆ保护\n对集中技能的抗性加强了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161817Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 展开了Field保护\n对集中技能的抗性加强了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="JA">
         <seg>%sターン目</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sターン目</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162027Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>第%s回合</seg>
       </tuv>
     </tu>
     <tu>
@@ -50402,8 +50402,8 @@
       <tuv lang="JA">
         <seg>の封印を解いた・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T101333Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>的封印解开了・</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162254Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>的封印解开了……</seg>
       </tuv>
     </tu>
     <tu>
@@ -50532,6 +50532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T074857Z" creationid="土妹子" creationdate="20150107T074857Z">
         <seg>请小心别走散了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>はこれ以上人形を持てない！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162154Z" creationid="CJ" creationdate="20150525T162154Z">
+        <seg>无法再持有更多人形！</seg>
       </tuv>
     </tu>
     <tu>
@@ -54538,8 +54546,8 @@
       <tuv lang="JA">
         <seg>エラーが発生しました。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>エラーが発生しました。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162114Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>发生了错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64724,6 +64732,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150411T134547Z" creationid="140706inu" creationdate="20150411T134547Z">
         <seg>乖乖把人形留下—！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人形が 仲間になった！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162129Z" creationid="CJ" creationdate="20150525T162129Z">
+        <seg>人形成为了同伴！</seg>
       </tuv>
     </tu>
     <tu>
@@ -76906,8 +76922,8 @@
       <tuv lang="JA">
         <seg>持たせるとフィールドプロテクト・バリアの持続ターン数が延びる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150101T152452Z">
-        <seg>携带后 Ｆ保护和屏障的持续回合数增加。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161913Z" creationid="土妹子" creationdate="20150101T152452Z">
+        <seg>携带后 Field保护和屏障的持续回合数增加。</seg>
       </tuv>
     </tu>
     <tu>
