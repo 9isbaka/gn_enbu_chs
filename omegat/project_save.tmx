@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>%s をどの人形に使いますか？</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163435Z" creationid="CJ" creationdate="20150525T163435Z">
+        <seg>%s 使用哪个人形？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>%s をどの人形に使いますか？(Bでキャンセル)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -840,16 +848,16 @@
       <tuv lang="JA">
         <seg>%sは %sで\n体力が 削られた……</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sは %sで\n体力が 削られた……</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162446Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s被 %s\n削减了体力……</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sは %sで\n体力で 体力が削られた……</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sは %sで\n体力で 体力が削られた……</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162940Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 被%s\n削减了体力……</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +888,8 @@
       <tuv lang="JA">
         <seg>%sは %sに\nご退場を 願った！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s向 %s\n请求了退场！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162524Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 使%s\n退场了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +904,8 @@
       <tuv lang="JA">
         <seg>%sは %sに\n従った！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sは %sに\n従った！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162743Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s \n服从于%s了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +968,8 @@
       <tuv lang="JA">
         <seg>%sは %sを\n奪って 使った！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sは %sを\n奪って 使った！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163206Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s \n夺取了%s 并使用了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1016,8 @@
       <tuv lang="JA">
         <seg>%sは %sを使ったが\n効果が なかった……</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%sは %sを使ったが\n効果が なかった……</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162511Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 使用了%s\n但是没有効果……</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,16 +1776,16 @@
       <tuv lang="JA">
         <seg>%sは\n%sに拘束された！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s被\n%s 拘束了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163011Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s\n被%s 拘束了！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sは\n%sを なくしてしまった！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 失去了\n%s！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T162951Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s \n失去了%s！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>%s种</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(Bでキャンセル)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163445Z" creationid="CJ" creationdate="20150525T163445Z">
+        <seg>(按B取消)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30222,6 +30238,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Xで人形/装飾品を切り替えます。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163326Z" creationid="CJ" creationdate="20150525T163326Z">
+        <seg>用X切换人形/装饰品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>Xボタンで人形の能力を見ることができます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -46424,8 +46448,8 @@
       <tuv lang="JA">
         <seg>しない</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>しない</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163223Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>否</seg>
       </tuv>
     </tu>
     <tu>
@@ -46784,8 +46808,8 @@
       <tuv lang="JA">
         <seg>する</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>する</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163227Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>是</seg>
       </tuv>
     </tu>
     <tu>
@@ -53400,10 +53424,26 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>を預かった。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163408Z" creationid="CJ" creationdate="20150525T163352Z">
+        <seg>取下了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>を預かった。 </seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>寄存了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>を預かり</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163358Z" creationid="CJ" creationdate="20150525T163342Z">
+        <seg>取下</seg>
       </tuv>
     </tu>
     <tu>
@@ -55274,8 +55314,8 @@
       <tuv lang="JA">
         <seg>キャラ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>キャラ</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163219Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>角色</seg>
       </tuv>
     </tu>
     <tu>
@@ -65792,6 +65832,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>人形を選択してください。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163255Z" creationid="CJ" creationdate="20150525T163255Z">
+        <seg>请选择人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>人形を選択してください。Xで人形/装飾品を切り替えます。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -69530,8 +69578,8 @@
       <tuv lang="JA">
         <seg>半分</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>半分</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163244Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>一半</seg>
       </tuv>
     </tu>
     <tu>
@@ -86834,8 +86882,8 @@
       <tuv lang="JA">
         <seg>習得できない</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>不能学会</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T163419Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>无法学会</seg>
       </tuv>
     </tu>
     <tu>
