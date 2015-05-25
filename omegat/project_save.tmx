@@ -2024,8 +2024,8 @@
       <tuv lang="JA">
         <seg>(LRでアクション変更)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164558Z" creationid="CJ" creationdate="20150525T164558Z">
-        <seg>(LR键可变更动作)</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T165558Z" creationid="CJ" creationdate="20150525T164558Z">
+        <seg>(ＬＲ键可变更动作)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30280,8 +30280,8 @@
       <tuv lang="JA">
         <seg>Xボタンで選択中のスキルの情報を見ます。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164457Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>X键可以查看选中的技能的详情。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T165549Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>Ｘ键可以查看选中的技能的详情。</seg>
       </tuv>
     </tu>
     <tu>
