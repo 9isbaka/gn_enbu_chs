@@ -35056,24 +35056,24 @@
       <tuv lang="JA">
         <seg>\n１００歩進む間人形を寄せ付けなくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133808Z" creationid="土妹子" creationdate="20150101T133749Z">
-        <seg>\n前进１００步期间不会被人形靠近。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T105317Z" creationid="土妹子" creationdate="20150101T133749Z">
+        <seg>\n使用后行走１００步以内人形不会靠近。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n２００歩進む間人形を寄せ付けなくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133812Z" creationid="土妹子" creationdate="20150101T133755Z">
-        <seg>\n前进２００步期间不会被人形靠近。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T105339Z" creationid="土妹子" creationdate="20150101T133755Z">
+        <seg>\n使用后行走２００步以内人形不会靠近。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>\n２５０歩進む間人形を寄せ付けなくなる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T133814Z" creationid="土妹子" creationdate="20150101T133801Z">
-        <seg>\n前进２５０步期间不会被人形靠近。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T105351Z" creationid="土妹子" creationdate="20150101T133801Z">
+        <seg>\n使用后行走２５０步以内人形不会靠近。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40112,8 +40112,8 @@
       <tuv lang="JA">
         <seg>あなたに探していただきたいのは 桃のかんざし・戌笛・申の腰掛・四条流庖丁道 この４点です。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150522T161143Z" creationid="土妹子" creationdate="20150110T022414Z">
-        <seg>需要你帮忙寻找的是桃钗、戌笛、申之凳子、四条流庖丁道这４件物品。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T104537Z" creationid="土妹子" creationdate="20150110T022414Z">
+        <seg>需要你帮忙寻找的是桃钗、戌笛、猿之凳、四条流庖丁道这４件物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62002,8 +62002,8 @@
       <tuv lang="JA">
         <seg>モルガナイト</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T021400Z" creationid="UUZ" creationdate="20140908T021400Z">
-        <seg>红绿柱石</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T105151Z" creationid="UUZ" creationdate="20140908T021400Z">
+        <seg>摩根石</seg>
       </tuv>
     </tu>
     <tu>
@@ -82962,8 +82962,8 @@
       <tuv lang="JA">
         <seg>申の腰掛</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T154941Z" creationid="土妹子" creationdate="20150102T154941Z">
-        <seg>申之凳子</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T104514Z" creationid="土妹子" creationdate="20150102T154941Z">
+        <seg>猿之凳</seg>
       </tuv>
     </tu>
     <tu>
@@ -89706,8 +89706,8 @@
       <tuv lang="JA">
         <seg>貨幣としては使えない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T141509Z" creationid="UUZ" creationdate="20140907T141509Z">
-        <seg>不能当钱用。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150525T105413Z" creationid="UUZ" creationdate="20140907T141509Z">
+        <seg>并不能作为货币使用。</seg>
       </tuv>
     </tu>
     <tu>
