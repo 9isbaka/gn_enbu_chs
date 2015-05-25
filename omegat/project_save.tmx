@@ -1048,8 +1048,8 @@
       <tuv lang="JA">
         <seg>%sは %sターン後に\n破滅が 訪れる！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s在 %s回合后\n将受到破灭的降临！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T160121Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s在 %s回合后\n将会迎来破灭！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1496,8 @@
       <tuv lang="JA">
         <seg>%sは 毒を 吸い取った！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 吸取到了毒！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155721Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 吸出了毒！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,8 +1560,8 @@
       <tuv lang="JA">
         <seg>%sは 白百合の舞の\n効果で 回復した！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>因为白百合之舞\n%s 受到了回复！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155904Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>因为白百合之舞的效果\n%s 得到了回复！</seg>
       </tuv>
     </tu>
     <tu>
@@ -46320,8 +46320,8 @@
       <tuv lang="JA">
         <seg>しかし スキルは 失敗した。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>但是使用失败了。\n</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155601Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>但是技能失败了。\n</seg>
       </tuv>
     </tu>
     <tu>
@@ -61234,8 +61234,8 @@
       <tuv lang="JA">
         <seg>マップグラフィック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>地图图形</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155420Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>地图作画</seg>
       </tuv>
     </tu>
     <tu>
@@ -70842,8 +70842,8 @@
       <tuv lang="JA">
         <seg>回復</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>恢复</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155651Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>回复</seg>
       </tuv>
     </tu>
     <tu>
@@ -76524,6 +76524,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T171950Z" creationid="妄想" creationdate="20150104T144835Z">
         <seg>折返回去也是前进方向的选择之一哦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>戻れ！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T160022Z" creationid="CJ" creationdate="20150525T160022Z">
+        <seg>回来吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -83418,8 +83426,8 @@
       <tuv lang="JA">
         <seg>白百合の舞は 失敗した……</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>白百合の舞は 失敗した……</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155856Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>白百合之舞 失败了……</seg>
       </tuv>
     </tu>
     <tu>
@@ -88880,6 +88888,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>行け！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155818Z" creationid="CJ" creationdate="20150525T155818Z">
+        <seg>上吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>行け！ %s！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
@@ -92402,8 +92418,8 @@
       <tuv lang="JA">
         <seg>雰囲気が 重くなり\nお互いに 装飾品を 使えない！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>雾气变重了\n双方都不能使用装饰品了！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155803Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>氛围变沉重了\n双方都不能使用装饰品了！</seg>
       </tuv>
     </tu>
     <tu>
