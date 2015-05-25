@@ -320,8 +320,8 @@
       <tuv lang="JA">
         <seg>%sに パワースポットが 現れた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>在%s 出现了Ｐ点！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161239Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>在%s 出现了灵能地点！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,16 +1176,16 @@
       <tuv lang="JA">
         <seg>%sは パワースポットの\n恩恵を 受けた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 受到了\nＰ点的恩惠！</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161239Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 受到了\n灵能地点的恩惠！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sは パワースポットの\n瘴気に 当てられた……</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s被 Ｐ点的\n瘴气命中了……</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161239Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s被 灵能地点的\n瘴气命中了……</seg>
       </tuv>
     </tu>
     <tu>
@@ -60146,8 +60146,8 @@
       <tuv lang="JA">
         <seg>パワースポット</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065208Z" creationid="UUZ" creationdate="20140904T151840Z">
-        <seg>Ｐ点</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T161239Z" creationid="UUZ" creationdate="20140904T151840Z">
+        <seg>灵能地点</seg>
       </tuv>
     </tu>
     <tu>
