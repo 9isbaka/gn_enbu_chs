@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66172,6 +66172,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T194350Z" creationid="妄想" creationdate="20150110T035717Z">
         <seg>人类的食物太好吃了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>人間でここまでたどり着ける者がいたとはね……。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150525T105333Z" creationid="土妹子" creationdate="20150525T105333Z">
+        <seg>人类竟然会有能来到这里的家伙呢……。</seg>
       </tuv>
     </tu>
     <tu>
