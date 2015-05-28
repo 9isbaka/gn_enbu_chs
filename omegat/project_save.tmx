@@ -67800,6 +67800,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>使うと 自分が 戦闘不能に なる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T121824Z" creationid="土妹子" creationdate="20150528T121824Z">
+        <seg>使用后自身会陷入战斗不能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>使うと 自分が 瀕死に なる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063714Z" creationid="土妹子" creationdate="20150101T063714Z">
@@ -73196,6 +73204,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T170722Z" creationid="土妹子" creationdate="20150101T093456Z">
         <seg>防御高威力攻击之时使对手受伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>威力を１.５倍で 相手が だそうとする スキルを 先に出す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T121922Z" creationid="土妹子" creationdate="20150528T121922Z">
+        <seg>以１.５倍威力抢先使出对手要使用的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84264,6 +84280,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の ＨＰに 関係なく 戦闘不能に する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T121804Z" creationid="土妹子" creationdate="20150528T121804Z">
+        <seg>无关对手的ＨＰ，直接使其战斗不能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の ＨＰに 関係なく 瀕死に する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T063423Z" creationid="土妹子" creationdate="20150101T063423Z">
@@ -87500,6 +87524,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T065250Z" creationid="土妹子" creationdate="20150101T065250Z">
         <seg>只能在自身停止的状态时使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分が 状態異常で スキルを 使うと 威力が 倍になる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T121855Z" creationid="土妹子" creationdate="20150528T121855Z">
+        <seg>自身状态异常时使用这个技能威力翻倍。</seg>
       </tuv>
     </tu>
     <tu>
