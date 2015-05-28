@@ -67624,6 +67624,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>何らかの 気象の時 威力を ２倍にし 気象を 解除する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T123106Z" creationid="土妹子" creationdate="20150528T123106Z">
+        <seg>在某些天气下使用威力翻倍 并解除天气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>何らかの地相の時 威力を ２倍にし 地相を 解除する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T171827Z" creationid="140706inu" creationdate="20150523T171827Z">
@@ -72796,6 +72804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T162201Z" creationid="UUZ" creationdate="20140904T161852Z">
         <seg>巨浪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>好調ビッグウェーブ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T122616Z" creationid="土妹子" creationdate="20150528T122616Z">
+        <seg>状态绝佳的巨浪</seg>
       </tuv>
     </tu>
     <tu>
@@ -78084,6 +78100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T093109Z">
         <seg>使用攻击技能时 有３成几率使对手中毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>攻撃後 拘束スキルや トラップを 吹き飛ばせる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T123005Z" creationid="土妹子" creationdate="20150528T123005Z">
+        <seg>攻击后吹飞拘束技和陷阱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84360,6 +84384,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>相手の俊敏を 下げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T122626Z" creationid="土妹子" creationdate="20150528T122626Z">
+        <seg>使对手的敏捷下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>相手の命中を下げたり 自分の集弾力を上げたり！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T115143Z" creationid="UUZ" creationdate="20140908T145943Z">
@@ -87976,6 +88008,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分の 痛烈補正を 大きく 上げる。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T123228Z" creationid="土妹子" creationdate="20150528T123228Z">
+        <seg>大幅提升自身的痛烈补正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分の 能力が 上がっている ほど 威力が 上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131724Z" creationid="土妹子" creationdate="20150101T131724Z">
@@ -88228,6 +88268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T174131Z" creationid="140706inu" creationdate="20150523T174131Z">
         <seg>以自身陷入濒死状态为代价 对对手造成等于自身ＨＰ的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分は 戦闘不能になるが 控えから 出てくる 人形の 状態異常と ＨＰを 全回復する。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T122707Z" creationid="土妹子" creationdate="20150528T122707Z">
+        <seg>使自身陷入战斗不能，完全回复接下来出场的人形的状态异常和ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
