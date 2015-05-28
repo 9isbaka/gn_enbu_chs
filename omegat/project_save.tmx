@@ -71760,6 +71760,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>変化スキルを 相手に 跳ね返す。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T123727Z" creationid="土妹子" creationdate="20150528T123727Z">
+        <seg>变化技反弹给对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>変化技を 相手に 跳ね返す。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120046Z" creationid="土妹子" creationdate="20150101T120046Z">
@@ -87736,6 +87744,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>自分と 相手の 集弾と 散弾の 能力変化を 入れ替える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T123743Z" creationid="土妹子" creationdate="20150528T123743Z">
+        <seg>交换自身和对手的集弹和散弹的能力变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>自分と 相手の 集弾と 散弾を たして 半分に わける。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120359Z" creationid="土妹子" creationdate="20150101T120359Z">
@@ -87748,6 +87764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120154Z" creationid="土妹子" creationdate="20150101T120154Z">
         <seg>交换自身和对手的集弹和散弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>自分と 相手の 集防と 散防の 能力変化を 入れ替える。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150528T123753Z" creationid="土妹子" creationdate="20150528T123753Z">
+        <seg>交换自身和对手的集防和散防的能力变化。</seg>
       </tuv>
     </tu>
     <tu>
