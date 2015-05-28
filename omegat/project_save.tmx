@@ -1985,7 +1985,7 @@
         <seg>%s円</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T165305Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%元</seg>
+        <seg>%s元</seg>
       </tuv>
     </tu>
     <tu>
@@ -69747,7 +69747,7 @@
         <seg>半分にすると多少軽くなります。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T144841Z" creationid="140706inu" creationdate="20150512T183310Z">
-        <seg>描画周期设为原值的一半会稍微减轻计算机负荷。</seg>
+        <seg>设为原值的一半会稍微减轻计算机负荷。</seg>
       </tuv>
     </tu>
     <tu>
