@@ -35488,8 +35488,8 @@
       <tuv lang="JA">
         <seg>\pさんは元の場所に戻れないはずなんです。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T040848Z" creationid="UUZ" creationdate="20140908T082727Z">
-        <seg>\p就应该回不到原来的地方了。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150530T070322Z" creationid="UUZ" creationdate="20140908T082727Z">
+        <seg>\p就回不到原来的地方了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73442,8 +73442,8 @@
       <tuv lang="JA">
         <seg>孫が人形遣いになりたいって言い始めてのう……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T122628Z" creationid="UUZ" creationdate="20140908T155630Z">
-        <seg>孙子开始闹着要做人形使了……。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150530T070250Z" creationid="UUZ" creationdate="20140908T155630Z">
+        <seg>孙女开始闹着要做人形使了……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81338,16 +81338,16 @@
       <tuv lang="JA">
         <seg>水面は静かに揺らめいている・・・</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140908T042758Z">
-        <seg>水面正在静静的摇曳·</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150530T065600Z" creationid="UUZ" creationdate="20140908T042758Z">
+        <seg>水面正在静静的摇曳……</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>水面は静かに揺らめいている・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140908T042712Z">
-        <seg>水面静静的摇曳·\b</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150530T065503Z" creationid="UUZ" creationdate="20140908T042712Z">
+        <seg>水面静静的摇曳……\b</seg>
       </tuv>
     </tu>
     <tu>
