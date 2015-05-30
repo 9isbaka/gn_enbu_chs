@@ -1584,8 +1584,8 @@
       <tuv lang="JA">
         <seg>%sは 白百合の舞の\n効果で 回復した！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155904Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>因为白百合之舞的效果\n%s 得到了回复！</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T155844Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>因白百合之舞的效果\n%s 得到了回复！</seg>
       </tuv>
     </tu>
     <tu>
@@ -76826,8 +76826,8 @@
       <tuv lang="JA">
         <seg>所持金</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164719Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>所持现金</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T155927Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>现金</seg>
       </tuv>
     </tu>
     <tu>
