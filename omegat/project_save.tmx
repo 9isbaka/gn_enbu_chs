@@ -63970,8 +63970,8 @@
       <tuv lang="JA">
         <seg>一撃で戦闘不能にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163800Z" creationid="土妹子" creationdate="20141231T093852Z">
-        <seg>不会被单回合击倒。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150530T171540Z" creationid="土妹子" creationdate="20141231T093852Z">
+        <seg>不会被一击必杀。</seg>
       </tuv>
     </tu>
     <tu>
