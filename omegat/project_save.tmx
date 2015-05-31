@@ -63962,8 +63962,8 @@
       <tuv lang="JA">
         <seg>一撃で戦闘不能にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150530T171540Z" creationid="土妹子" creationdate="20141231T093852Z">
-        <seg>不会被一击必杀。</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T010557Z" creationid="土妹子" creationdate="20141231T093852Z">
+        <seg>满血时不会被一击打倒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78090,8 +78090,8 @@
       <tuv lang="JA">
         <seg>攻め上手</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093808Z" creationid="土妹子" creationdate="20141231T093808Z">
-        <seg>擅长进攻</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T010333Z" creationid="土妹子" creationdate="20141231T093808Z">
+        <seg>熟练进攻</seg>
       </tuv>
     </tu>
     <tu>
