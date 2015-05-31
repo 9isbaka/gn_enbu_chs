@@ -63962,8 +63962,8 @@
       <tuv lang="JA">
         <seg>一撃で戦闘不能にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T010716Z" creationid="土妹子" creationdate="20141231T093852Z">
-        <seg>双方都不能使用\n一击必杀的技能了！不会被一击打倒。</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T034610Z" creationid="土妹子" creationdate="20141231T093852Z">
+        <seg>满血时不会被一击打倒。</seg>
       </tuv>
     </tu>
     <tu>
