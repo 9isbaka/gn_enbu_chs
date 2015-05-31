@@ -61106,8 +61106,8 @@
       <tuv lang="JA">
         <seg>ボルトアタック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130644Z" creationid="UUZ" creationdate="20140904T150430Z">
-        <seg>电击</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T020908Z" creationid="UUZ" creationdate="20140904T150430Z">
+        <seg>伏特攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -90882,8 +90882,8 @@
       <tuv lang="JA">
         <seg>逆境の一手</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T144906Z" creationid="UUZ" creationdate="20140904T144906Z">
-        <seg>逆境一击</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T020722Z" creationid="UUZ" creationdate="20140904T144906Z">
+        <seg>逆境的一击</seg>
       </tuv>
     </tu>
     <tu>
