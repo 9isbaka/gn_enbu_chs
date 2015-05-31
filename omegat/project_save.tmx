@@ -39632,8 +39632,8 @@
       <tuv lang="JA">
         <seg>「死ぬまで 借りてくぜ」。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T182835Z" creationid="土妹子" creationdate="20150101T115457Z">
-        <seg>「就借到我死为止了ｄａZE」。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T114625Z" creationid="土妹子" creationdate="20150101T115457Z">
+        <seg>「就借到我死为止了」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62178,16 +62178,16 @@
       <tuv lang="JA">
         <seg>モブ戦</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133447Z" creationid="土妹子" creationdate="20141230T133447Z">
-        <seg>暴徒战</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T114626Z" creationid="土妹子" creationdate="20141230T133447Z">
+        <seg>路人战</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>モブ戦勝利</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133938Z" creationid="土妹子" creationdate="20141230T133938Z">
-        <seg>暴徒战胜利</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T114626Z" creationid="土妹子" creationdate="20141230T133938Z">
+        <seg>路人战胜利</seg>
       </tuv>
     </tu>
     <tu>
