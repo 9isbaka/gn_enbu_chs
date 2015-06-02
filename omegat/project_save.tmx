@@ -1584,8 +1584,8 @@
       <tuv lang="JA">
         <seg>%sは 白百合の舞の\n効果で 回復した！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T155904Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>因为白百合之舞的效果\n%s 得到了回复！</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T155844Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>因白百合之舞的效果\n%s 得到了回复！</seg>
       </tuv>
     </tu>
     <tu>
@@ -32785,7 +32785,7 @@
         <seg>\c・・・少し抜けてるところもありますがね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150107T033813Z">
-        <seg>\c·虽然稍稍也有些不太靠谱的地方。</seg>
+        <seg>\c···虽然稍稍也有些不太靠谱的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33497,7 +33497,7 @@
         <seg>\c拡散・・・拡散技は人形のステータスの散弾に関係する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T081741Z">
-        <seg>\c扩散·扩散技受人形属性中的散弹影响。</seg>
+        <seg>\c扩散···扩散技受人形属性中的散弹影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34009,7 +34009,7 @@
         <seg>\c虫のいい話だと重々承知なんだが 永遠亭に行って事件を解決してきてもらえないだろうか？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150106T133045Z">
-        <seg>\c我知道这很自私 不过能不能请你去永远亭解决事件呢？？</seg>
+        <seg>\c我知道这很自私 不过能不能请你去永远亭解决事件呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -34025,7 +34025,7 @@
         <seg>\c解放戦線が里に出没したと聞いてやってきたのですが・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140909T144555Z">
-        <seg>\c虽然听说了解放战线在村里出没的消息·\b</seg>
+        <seg>\c虽然听说了解放战线在村里出没的消息···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -39632,8 +39632,8 @@
       <tuv lang="JA">
         <seg>「死ぬまで 借りてくぜ」。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T182835Z" creationid="土妹子" creationdate="20150101T115457Z">
-        <seg>「就借到我死为止了ｄａZE」。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T114625Z" creationid="土妹子" creationdate="20150101T115457Z">
+        <seg>「就借到我死为止了」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41846,6 +41846,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>いつもの</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154612Z" creationid="UUZ" creationdate="20150530T154612Z">
+        <seg>日常服装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>いつもは寝て……あ いや なんでも……。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T114803Z" creationid="UUZ" creationdate="20140908T144548Z">
@@ -42089,7 +42097,7 @@
         <seg>いらないの・・・？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20141230T125416Z">
-        <seg>不需要吗·？</seg>
+        <seg>不需要吗···？</seg>
       </tuv>
     </tu>
     <tu>
@@ -42457,7 +42465,7 @@
         <seg>うーん・・・やはり妖精はかわいいね。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T073820Z">
-        <seg>恩·还是妖精可爱啊。</seg>
+        <seg>恩···还是妖精可爱啊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44265,7 +44273,7 @@
         <seg>ここで使うことはできない・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140908T042851Z">
-        <seg>这里不能使用这个·</seg>
+        <seg>这里不能使用这个···</seg>
       </tuv>
     </tu>
     <tu>
@@ -45353,7 +45361,7 @@
         <seg>この辺 妖精が多くていたずらが絶えないの・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T034800Z">
-        <seg>这附近的妖精好多恶作剧不断啊·。</seg>
+        <seg>这附近的妖精好多恶作剧不断啊···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49766,14 +49774,6 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>なし</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>无</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>なし
 燃え滾る朱</seg>
       </tuv>
@@ -50258,8 +50258,8 @@
       <tuv lang="JA">
         <seg>なんらかの地相の時 集防・散防が２倍になり 状態異常にならず 毎ターン 相手にダメージを 与える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="140706inu" creationdate="20150523T164856Z">
-        <seg>某些地相下集弾·集防·散弾·散防翻倍 不会陷入异常状态 同时每回合给予对手伤害。</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T034256Z" creationid="140706inu" creationdate="20150523T164856Z">
+        <seg>任意地相下集弾·集防·散弾·散防翻倍 不会陷入异常状态 同时每回合给予对手伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50274,8 +50274,8 @@
       <tuv lang="JA">
         <seg>なんらかの気象の時 集弾・集防・散弾・散防が２倍になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="140706inu" creationdate="20150523T164655Z">
-        <seg>某些气象下集弾·集防·散弾·散防翻倍。</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T034239Z" creationid="140706inu" creationdate="20150523T164655Z">
+        <seg>任意气象下集弾·集防·散弾·散防翻倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50899,7 +50899,7 @@
         <seg>ふぇぇ・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T034729Z">
-        <seg>哈啊啊·\b</seg>
+        <seg>哈啊啊···\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -51795,7 +51795,7 @@
         <seg>またあの人がなにかやってるのかな・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T075857Z">
-        <seg>又是那个人做了什么的吗·</seg>
+        <seg>又是那个人做了什么的吗···</seg>
       </tuv>
     </tu>
     <tu>
@@ -52411,7 +52411,7 @@
         <seg>もう少しやれると思ったんだが・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140908T091844Z">
-        <seg>本以为你更能干一些的·。</seg>
+        <seg>本以为你更能干一些的···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54226,8 +54226,8 @@
       <tuv lang="JA">
         <seg>アンノウンフレア</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115845Z" creationid="UUZ" creationdate="20140907T130751Z">
-        <seg>未知的闪焰</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T031617Z" creationid="UUZ" creationdate="20140907T130751Z">
+        <seg>未知的耀斑</seg>
       </tuv>
     </tu>
     <tu>
@@ -54794,8 +54794,8 @@
       <tuv lang="JA">
         <seg>エンカレッジ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T131733Z" creationid="UUZ" creationdate="20140907T135224Z">
-        <seg>鼓舞</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T032116Z" creationid="UUZ" creationdate="20140907T135224Z">
+        <seg>鼓励</seg>
       </tuv>
     </tu>
     <tu>
@@ -55234,8 +55234,8 @@
       <tuv lang="JA">
         <seg>カラー１</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>カラー１</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T152122Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>配色１</seg>
       </tuv>
     </tu>
     <tu>
@@ -59770,8 +59770,8 @@
       <tuv lang="JA">
         <seg>ハイトーンクラッシュ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T130555Z" creationid="UUZ" creationdate="20140907T134607Z">
-        <seg>高频崩毁</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T011057Z" creationid="UUZ" creationdate="20140907T134607Z">
+        <seg>高频冲击</seg>
       </tuv>
     </tu>
     <tu>
@@ -60538,8 +60538,8 @@
       <tuv lang="JA">
         <seg>ファイアジャベリン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T155429Z" creationid="UUZ" creationdate="20140904T155429Z">
-        <seg>火焰标枪</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T024612Z" creationid="UUZ" creationdate="20140904T155429Z">
+        <seg>火之枪</seg>
       </tuv>
     </tu>
     <tu>
@@ -61106,8 +61106,8 @@
       <tuv lang="JA">
         <seg>ボルトアタック</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130644Z" creationid="UUZ" creationdate="20140904T150430Z">
-        <seg>电击</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T020908Z" creationid="UUZ" creationdate="20140904T150430Z">
+        <seg>伏特攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -61178,8 +61178,8 @@
       <tuv lang="JA">
         <seg>ポゼッション</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T120734Z" creationid="UUZ" creationdate="20140907T132150Z">
-        <seg>定位</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T031909Z" creationid="UUZ" creationdate="20140907T132150Z">
+        <seg>凭依</seg>
       </tuv>
     </tu>
     <tu>
@@ -62178,16 +62178,16 @@
       <tuv lang="JA">
         <seg>モブ戦</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133447Z" creationid="土妹子" creationdate="20141230T133447Z">
-        <seg>暴徒战</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T114626Z" creationid="土妹子" creationdate="20141230T133447Z">
+        <seg>路人战</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>モブ戦勝利</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141230T133938Z" creationid="土妹子" creationdate="20141230T133938Z">
-        <seg>暴徒战胜利</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T114626Z" creationid="土妹子" creationdate="20141230T133938Z">
+        <seg>路人战胜利</seg>
       </tuv>
     </tu>
     <tu>
@@ -62466,8 +62466,8 @@
       <tuv lang="JA">
         <seg>ライジングサン</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T070335Z" creationid="UUZ" creationdate="20140904T155609Z">
-        <seg>升阳</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T022011Z" creationid="UUZ" creationdate="20140904T155609Z">
+        <seg>太阳升起</seg>
       </tuv>
     </tu>
     <tu>
@@ -62506,8 +62506,8 @@
       <tuv lang="JA">
         <seg>ライトニングチャージ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T105030Z" creationid="UUZ" creationdate="20140906T130219Z">
-        <seg>闪电充电</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T024710Z" creationid="UUZ" creationdate="20140906T130219Z">
+        <seg>闪光充电</seg>
       </tuv>
     </tu>
     <tu>
@@ -63403,7 +63403,7 @@
         <seg>・・・あぁん？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150108T081249Z">
-        <seg>·啊啊？</seg>
+        <seg>···啊啊？</seg>
       </tuv>
     </tu>
     <tu>
@@ -63435,7 +63435,7 @@
         <seg>・・・いや 他意はないよ？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T073835Z">
-        <seg>·没有其他意思哦？</seg>
+        <seg>···没有其他意思哦？</seg>
       </tuv>
     </tu>
     <tu>
@@ -63563,7 +63563,7 @@
         <seg>・・・ぴかーん！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150112T061921Z">
-        <seg>·灵光一闪！</seg>
+        <seg>···灵光一闪！</seg>
       </tuv>
     </tu>
     <tu>
@@ -63595,7 +63595,7 @@
         <seg>・・・まぁ 人形放って本人たちで殴り合ってること多いけど。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150108T085159Z">
-        <seg>·嘛 虽然常常是把人形晾在一边 本人们相互殴打起来。</seg>
+        <seg>···嘛 虽然常常是把人形晾在一边 本人们相互殴打起来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63659,7 +63659,7 @@
         <seg>・・・ダム？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150107T022123Z">
-        <seg>·水库？</seg>
+        <seg>···水库？</seg>
       </tuv>
     </tu>
     <tu>
@@ -63667,7 +63667,7 @@
         <seg>・・・・・・\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140908T062132Z">
-        <seg>·\b</seg>
+        <seg>······\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -63731,7 +63731,7 @@
         <seg>・・・命蓮茶でも飲んで一服しよう。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T022604Z">
-        <seg>·喝一杯命莲茶休息一下吧。</seg>
+        <seg>···喝一杯命莲茶休息一下吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63803,7 +63803,7 @@
         <seg>・・・閃いたこと忘れちゃった。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150112T062005Z">
-        <seg>·忘记刚才闪现了什么了。</seg>
+        <seg>···忘记刚才闪现了什么了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63962,16 +63962,16 @@
       <tuv lang="JA">
         <seg>一撃で戦闘不能にならない。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163800Z" creationid="土妹子" creationdate="20141231T093852Z">
-        <seg>不会被单回合击倒。</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T035633Z" creationid="土妹子" creationdate="20141231T093852Z">
+        <seg>不会被一击打倒。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>一斉射撃</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T134340Z" creationid="UUZ" creationdate="20140904T134340Z">
-        <seg>齐射</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T010144Z" creationid="UUZ" creationdate="20140904T134340Z">
+        <seg>一齐射击</seg>
       </tuv>
     </tu>
     <tu>
@@ -64955,7 +64955,7 @@
         <seg>人形が沢山置いてある！</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T065829Z" creationid="妄想" creationdate="20150110T074603Z">
-        <seg>这里放着有很多人形！</seg>
+        <seg>这里放着很多人形！</seg>
       </tuv>
     </tu>
     <tu>
@@ -65955,7 +65955,7 @@
         <seg>人形を操るのがお得意とか・・・。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140909T132240Z">
-        <seg>说是很擅长操纵人形之类的·。</seg>
+        <seg>说是很擅长操纵人形之类的···。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67131,7 +67131,7 @@
         <seg>今日もいい天気だね〜・・・一戦やっとく？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150128T040355Z">
-        <seg>今天天气真不错呢~·来战一场？</seg>
+        <seg>今天天气真不错呢~····来战一场？</seg>
       </tuv>
     </tu>
     <tu>
@@ -70314,8 +70314,8 @@
       <tuv lang="JA">
         <seg>叫喚</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T132356Z" creationid="UUZ" creationdate="20140907T140347Z">
-        <seg>哀嚎</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T033531Z" creationid="UUZ" creationdate="20140907T140347Z">
+        <seg>叫唤</seg>
       </tuv>
     </tu>
     <tu>
@@ -71026,8 +71026,8 @@
       <tuv lang="JA">
         <seg>四神の加護</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151201Z" creationid="UUZ" creationdate="20140904T151201Z">
-        <seg>四神加护</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T021104Z" creationid="UUZ" creationdate="20140904T151201Z">
+        <seg>四神的加护</seg>
       </tuv>
     </tu>
     <tu>
@@ -72530,8 +72530,8 @@
       <tuv lang="JA">
         <seg>天神の加護</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T151156Z" creationid="UUZ" creationdate="20140904T151156Z">
-        <seg>天神加护</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T021056Z" creationid="UUZ" creationdate="20140904T151156Z">
+        <seg>天神的加护</seg>
       </tuv>
     </tu>
     <tu>
@@ -72554,8 +72554,8 @@
       <tuv lang="JA">
         <seg>天職の為政者</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163203Z" creationid="土妹子" creationdate="20141231T093324Z">
-        <seg>天生政客</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T005840Z" creationid="土妹子" creationdate="20141231T093324Z">
+        <seg>天职的为政者</seg>
       </tuv>
     </tu>
     <tu>
@@ -73322,8 +73322,8 @@
       <tuv lang="JA">
         <seg>威嚇射撃</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155541Z" creationid="土妹子" creationdate="20141231T030545Z">
-        <seg>警告射击</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T012526Z" creationid="土妹子" creationdate="20141231T030545Z">
+        <seg>威吓射击</seg>
       </tuv>
     </tu>
     <tu>
@@ -74754,8 +74754,8 @@
       <tuv lang="JA">
         <seg>幻惑の花粉</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095327Z" creationid="UUZ" creationdate="20140906T095327Z">
-        <seg>幻惑花粉</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T023509Z" creationid="UUZ" creationdate="20140906T095327Z">
+        <seg>幻惑的花粉</seg>
       </tuv>
     </tu>
     <tu>
@@ -74788,6 +74788,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>幻想人形劇団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想人形演舞 ver1.33</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154617Z" creationid="UUZ" creationdate="20150530T154617Z">
+        <seg>幻想人形演舞 ver1.33</seg>
       </tuv>
     </tu>
     <tu>
@@ -74860,6 +74868,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T145941Z" creationid="UUZ" creationdate="20140906T145941Z">
         <seg>幻想人类男青年2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想少女</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154626Z" creationid="UUZ" creationdate="20150530T154626Z">
+        <seg>幻想少女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>幻想郷</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154623Z" creationid="UUZ" creationdate="20150530T154623Z">
+        <seg>幻想乡</seg>
       </tuv>
     </tu>
     <tu>
@@ -75450,8 +75474,8 @@
       <tuv lang="JA">
         <seg>弾幕オーケストラ</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T134850Z" creationid="UUZ" creationdate="20140907T134850Z">
-        <seg>弹幕乐团</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T032053Z" creationid="UUZ" creationdate="20140907T134850Z">
+        <seg>弹幕交响曲</seg>
       </tuv>
     </tu>
     <tu>
@@ -75514,8 +75538,8 @@
       <tuv lang="JA">
         <seg>影縫い</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T155257Z" creationid="土妹子" creationdate="20141231T025142Z">
-        <seg>钉影子</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T012322Z" creationid="土妹子" creationdate="20141231T025142Z">
+        <seg>影缝</seg>
       </tuv>
     </tu>
     <tu>
@@ -76282,8 +76306,8 @@
       <tuv lang="JA">
         <seg>悲哀の旋律</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135158Z" creationid="UUZ" creationdate="20140907T135158Z">
-        <seg>悲哀旋律</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T032106Z" creationid="UUZ" creationdate="20140907T135158Z">
+        <seg>悲哀的旋律</seg>
       </tuv>
     </tu>
     <tu>
@@ -76794,8 +76818,8 @@
       <tuv lang="JA">
         <seg>所持金</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164719Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>所持现金</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T155927Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>现金</seg>
       </tuv>
     </tu>
     <tu>
@@ -78066,8 +78090,8 @@
       <tuv lang="JA">
         <seg>攻め上手</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093808Z" creationid="土妹子" creationdate="20141231T093808Z">
-        <seg>擅长进攻</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T010333Z" creationid="土妹子" creationdate="20141231T093808Z">
+        <seg>熟练进攻</seg>
       </tuv>
     </tu>
     <tu>
@@ -78554,8 +78578,8 @@
       <tuv lang="JA">
         <seg>早目</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T031216Z" creationid="土妹子" creationdate="20141231T031216Z">
-        <seg>锐利目光</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T012919Z" creationid="土妹子" creationdate="20141231T031216Z">
+        <seg>眼尖</seg>
       </tuv>
     </tu>
     <tu>
@@ -80914,8 +80938,8 @@
       <tuv lang="JA">
         <seg>気勢崩し</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T162512Z" creationid="土妹子" creationdate="20141231T092012Z">
-        <seg>杀灭锐气</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T014256Z" creationid="土妹子" creationdate="20141231T092012Z">
+        <seg>气势崩溃</seg>
       </tuv>
     </tu>
     <tu>
@@ -82404,6 +82428,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150108T160347Z" creationid="土妹子" creationdate="20150108T160347Z">
         <seg>看起来平安到达了呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>無印</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154549Z" creationid="UUZ" creationdate="20150530T154549Z">
+        <seg>无印</seg>
       </tuv>
     </tu>
     <tu>
@@ -84122,8 +84154,8 @@
       <tuv lang="JA">
         <seg>相手の 弾を 使って 攻撃する。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T115255Z" creationid="土妹子" creationdate="20150101T115255Z">
-        <seg>使用对手的弹进行攻击。</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T031134Z" creationid="土妹子" creationdate="20150101T115255Z">
+        <seg>使用对手的集弹进行攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88954,8 +88986,8 @@
       <tuv lang="JA">
         <seg>薬毒変換</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150523T163948Z" creationid="土妹子" creationdate="20141231T094114Z">
-        <seg>药毒互化</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150531T011034Z" creationid="土妹子" creationdate="20141231T094114Z">
+        <seg>药毒变换</seg>
       </tuv>
     </tu>
     <tu>
@@ -89266,8 +89298,8 @@
       <tuv lang="JA">
         <seg>衣装１</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>衣装１</seg>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T152232Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>服装１</seg>
       </tuv>
     </tu>
     <tu>
@@ -90330,8 +90362,8 @@
       <tuv lang="JA">
         <seg>足止め</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T152136Z" creationid="UUZ" creationdate="20140904T152136Z">
-        <seg>禁足</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T021501Z" creationid="UUZ" creationdate="20140904T152136Z">
+        <seg>禁闭</seg>
       </tuv>
     </tu>
     <tu>
@@ -90850,8 +90882,8 @@
       <tuv lang="JA">
         <seg>逆境の一手</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T144906Z" creationid="UUZ" creationdate="20140904T144906Z">
-        <seg>逆境一击</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T020722Z" creationid="UUZ" creationdate="20140904T144906Z">
+        <seg>逆境的一击</seg>
       </tuv>
     </tu>
     <tu>
@@ -91626,8 +91658,8 @@
       <tuv lang="JA">
         <seg>酔っぱらい</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T093254Z" creationid="土妹子" creationdate="20141231T093254Z">
-        <seg>撒酒疯</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T005220Z" creationid="土妹子" creationdate="20141231T093254Z">
+        <seg>醉鬼</seg>
       </tuv>
     </tu>
     <tu>
@@ -92563,7 +92595,7 @@
         <seg>集中・・・集中技は人形のステータスの集弾に関係する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="妄想" creationdate="20150110T081455Z">
-        <seg>集中·集中技受人形属性中的集弹影响。</seg>
+        <seg>集中···集中技受人形属性中的集弹影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92979,7 +93011,7 @@
         <seg>霊夢さんを怒らせると・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140908T112505Z">
-        <seg>惹灵梦生气的话·</seg>
+        <seg>惹灵梦生气的话···</seg>
       </tuv>
     </tu>
     <tu>
@@ -93570,8 +93602,8 @@
       <tuv lang="JA">
         <seg>風神の加護</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T123220Z" creationid="UUZ" creationdate="20140906T123220Z">
-        <seg>风神加护</seg>
+      <tuv lang="ZH-CN" changeid="rimururu" changedate="20150531T024337Z" creationid="UUZ" creationdate="20140906T123220Z">
+        <seg>风神的加护</seg>
       </tuv>
     </tu>
     <tu>
@@ -93580,6 +93612,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>因为风神加护 %s的 人形变快了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>風見幽香</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154640Z" creationid="UUZ" creationdate="20150530T154640Z">
+        <seg>风见幽香</seg>
       </tuv>
     </tu>
     <tu>
@@ -95220,6 +95260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>６</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>６３基本ルール</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150530T154646Z" creationid="UUZ" creationdate="20150530T154646Z">
+        <seg>６３基本规则</seg>
       </tuv>
     </tu>
     <tu>
