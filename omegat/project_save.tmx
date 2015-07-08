@@ -33472,8 +33472,8 @@
       <tuv lang="JA">
         <seg>\c悪いが少し待っていてくれんか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140909T143347Z">
-        <seg>\c不好意思 能请你稍微等一下吗。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T143902Z" creationid="UUZ" creationdate="20140909T143347Z">
+        <seg>\c抱歉啊 能稍微等会儿不。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44512,8 +44512,8 @@
       <tuv lang="JA">
         <seg>ここは先は通すなって言われてるから駄目だよ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T112120Z" creationid="土妹子" creationdate="20150105T111843Z">
-        <seg>这里的前面在说可以通过之前是不可以去的。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T143326Z" creationid="土妹子" creationdate="20150105T111843Z">
+        <seg>这里被指定为禁止通行所以不能让你过去哦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49296,8 +49296,8 @@
       <tuv lang="JA">
         <seg>どいてくれって？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T152503Z" creationid="UUZ" creationdate="20140909T143247Z">
-        <seg>挡路了吗？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T143938Z" creationid="UUZ" creationdate="20140909T143247Z">
+        <seg>你说让个道？</seg>
       </tuv>
     </tu>
     <tu>
@@ -52400,8 +52400,8 @@
       <tuv lang="JA">
         <seg>もう少しで動きそうなんだ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054138Z" creationid="UUZ" creationdate="20140909T143512Z">
-        <seg>再有一会似乎就可以动了。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T143706Z" creationid="UUZ" creationdate="20140909T143512Z">
+        <seg>应该马上就能抬起来了。</seg>
       </tuv>
     </tu>
     <tu>
