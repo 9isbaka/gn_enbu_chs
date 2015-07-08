@@ -33304,8 +33304,8 @@
       <tuv lang="JA">
         <seg>\c妖怪が占拠してるって噂もあるし……まず行くことはないかな。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150521T163856Z" creationid="UUZ" creationdate="20140908T123206Z">
-        <seg>\c也有被妖怪占据着的谣言……都不会有人去的吧。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T125858Z" creationid="UUZ" creationdate="20140908T123206Z">
+        <seg>\c还有传言说那里被妖怪占据着……根本不会有人去的吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41392,8 +41392,8 @@
       <tuv lang="JA">
         <seg>あんまり危険な事はさせたくないんじゃが……。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150521T122555Z" creationid="UUZ" creationdate="20140908T155825Z">
-        <seg>真不想让他冒这种危险 可是……。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T130018Z" creationid="UUZ" creationdate="20140908T155825Z">
+        <seg>真不想让她冒这种危险 可是……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55416,8 +55416,8 @@
       <tuv lang="JA">
         <seg>キミも 人形について学んでいくといい。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140908T123517Z" creationid="UUZ" creationdate="20140908T123517Z">
-        <seg>你最好也跟着学习一下关于人形的东西。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T125927Z" creationid="UUZ" creationdate="20140908T123517Z">
+        <seg>你也跟着学习一下人形的相关知识吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79000,8 +79000,8 @@
       <tuv lang="JA">
         <seg>最近 人形のトラブルが多いから 授業の内容を変えているんだ。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T123346Z">
-        <seg>因为最近关于人形的问题也多起来了 我正准备改变上课的内容。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T125953Z" creationid="UUZ" creationdate="20140908T123346Z">
+        <seg>因为最近关于人形的问题变多了 我正准备改变上课的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89224,8 +89224,8 @@
       <tuv lang="JA">
         <seg>行くのが大変だし色々危険で……\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T122914Z">
-        <seg>走过去太辛苦了 路上还有各种各样的危险……\b</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T125833Z" creationid="UUZ" creationdate="20140908T122914Z">
+        <seg>要走过去太辛苦了 路上还有各种各样的危险……\b</seg>
       </tuv>
     </tu>
     <tu>
