@@ -31552,8 +31552,8 @@
       <tuv lang="JA">
         <seg>\cすごいじゃないですか！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T144849Z" creationid="UUZ" creationdate="20140909T144832Z">
-        <seg>\c不是很厉害吗！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T165141Z" creationid="UUZ" creationdate="20140909T144832Z">
+        <seg>\c这不是很厉害吗！</seg>
       </tuv>
     </tu>
     <tu>
@@ -34024,8 +34024,8 @@
       <tuv lang="JA">
         <seg>\c解放戦線が里に出没したと聞いてやってきたのですが・・・\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150528T133256Z" creationid="UUZ" creationdate="20140909T144555Z">
-        <seg>\c虽然听说了解放战线在村里出没的消息···\b</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T165243Z" creationid="UUZ" creationdate="20140909T144555Z">
+        <seg>\c虽然听到解放战线在村里出没的消息就赶来了……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -50584,8 +50584,8 @@
       <tuv lang="JA">
         <seg>はぁはぁ……\b</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154224Z" creationid="UUZ" creationdate="20140909T144332Z">
-        <seg>呼…呼…\b</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T165122Z" creationid="UUZ" creationdate="20140909T144332Z">
+        <seg>呼……呼……\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -76056,8 +76056,8 @@
       <tuv lang="JA">
         <seg>思った通り あなたは人形遣いの才をお持ちなのですね。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140909T144939Z">
-        <seg>如我所料 你拥有成为人形使的才能呢。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T165158Z" creationid="UUZ" creationdate="20140909T144939Z">
+        <seg>正如我所料 你有成为人形使的资质呢。</seg>
       </tuv>
     </tu>
     <tu>
