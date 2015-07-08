@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -41472,8 +41472,8 @@
       <tuv lang="JA">
         <seg>あー・・・もしかして外から来たのか。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T035533Z" creationid="UUZ" creationdate="20140908T071443Z">
-        <seg>啊～……难道是从外界来的吗。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T095439Z" creationid="UUZ" creationdate="20140908T071443Z">
+        <seg>啊—……莫非是从外界来的吗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43336,8 +43336,8 @@
       <tuv lang="JA">
         <seg>お前 人形が出てきたのになんで何もしないんだよ？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="UUZ" creationdate="20140908T071344Z">
-        <seg>说你呢！明明有人形出现了 什么也不做吗？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T095408Z" creationid="UUZ" creationdate="20140908T071344Z">
+        <seg>说你呢！明明有人形出现了 为什么还傻站着啊？</seg>
       </tuv>
     </tu>
     <tu>
