@@ -45680,8 +45680,8 @@
       <tuv lang="JA">
         <seg>これをあなたにお願いしたいのです。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154350Z" creationid="UUZ" creationdate="20140909T150319Z">
-        <seg>这个希望拜托给你。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T171743Z" creationid="UUZ" creationdate="20140909T150319Z">
+        <seg>希望能把这个托付给你。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47784,8 +47784,8 @@
       <tuv lang="JA">
         <seg>それがいいと思います！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150105T054659Z" creationid="土妹子" creationdate="20150105T054659Z">
-        <seg>我认为这样很好！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T170307Z" creationid="土妹子" creationdate="20150105T054659Z">
+        <seg>这真是太好了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -85360,8 +85360,8 @@
       <tuv lang="JA">
         <seg>私が調べるにしても 時間は掛かってしまいますし。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20150105T054749Z">
-        <seg>我就算要调查的话 也需要大量的时间。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T171242Z" creationid="土妹子" creationdate="20150105T054749Z">
+        <seg>我要亲自调查的话  会耗费大量的时间。</seg>
       </tuv>
     </tu>
     <tu>
