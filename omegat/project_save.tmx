@@ -35504,8 +35504,8 @@
       <tuv lang="JA">
         <seg>\pさん自身で 人形について調べてみてませんか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150522T154302Z" creationid="UUZ" creationdate="20140909T145244Z">
-        <seg>\p你可以试着自己调查一下人形吗？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T165413Z" creationid="UUZ" creationdate="20140909T145244Z">
+        <seg>\p要不要试试自己来调查人形的资料呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -49376,8 +49376,8 @@
       <tuv lang="JA">
         <seg>どうでしょう。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T145113Z" creationid="UUZ" creationdate="20140909T145113Z">
-        <seg>怎么样。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150708T165336Z" creationid="UUZ" creationdate="20140909T145113Z">
+        <seg>这样如何。</seg>
       </tuv>
     </tu>
     <tu>
