@@ -1984,8 +1984,8 @@
       <tuv lang="JA">
         <seg>%s円</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T165305Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s元</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T052555Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 元 </seg>
       </tuv>
     </tu>
     <tu>
@@ -34344,8 +34344,8 @@
       <tuv lang="JA">
         <seg>\n再インストール・パッチの再適用をお試しください。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164802Z" creationid="CJ" creationdate="20150525T164802Z">
-        <seg>\n请尝试再次安装、打补丁。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T051800Z" creationid="CJ" creationdate="20150525T164802Z">
+        <seg>\n请尝试再次安装或打补丁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41720,8 +41720,8 @@
       <tuv lang="JA">
         <seg>いくつ捨てますか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164814Z" creationid="CJ" creationdate="20150525T164814Z">
-        <seg>要舍弃多少？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T052140Z" creationid="CJ" creationdate="20150525T164814Z">
+        <seg>要扔掉多少个？</seg>
       </tuv>
     </tu>
     <tu>
@@ -68392,8 +68392,8 @@
       <tuv lang="JA">
         <seg>優先度:%d</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>优先度:%d</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T051734Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>优先度：%d</seg>
       </tuv>
     </tu>
     <tu>
@@ -70800,8 +70800,8 @@
       <tuv lang="JA">
         <seg>命中:%d</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>命中:%d</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T051738Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>命中：%d</seg>
       </tuv>
     </tu>
     <tu>
@@ -73232,8 +73232,8 @@
       <tuv lang="JA">
         <seg>威力:%d</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>威力:%d</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T051748Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>威力：%d</seg>
       </tuv>
     </tu>
     <tu>
@@ -95328,8 +95328,8 @@
       <tuv lang="JA">
         <seg>：</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>：</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T052550Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>:</seg>
       </tuv>
     </tu>
     <tu>
@@ -101640,8 +101640,8 @@
       <tuv lang="JA">
         <seg>ＳＰ:%d</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>ＳＰ:%d</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T052005Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>ＳＰ：%d</seg>
       </tuv>
     </tu>
     <tu>
