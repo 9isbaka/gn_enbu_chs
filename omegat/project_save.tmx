@@ -15664,8 +15664,8 @@
       <tuv lang="JA">
         <seg>Elis</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T160205Z" creationid="UUZ" creationdate="20141228T095425Z">
-        <seg>Elis（伊莉丝）</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T072952Z" creationid="UUZ" creationdate="20141228T095425Z">
+        <seg>Elis（依莉丝）</seg>
       </tuv>
     </tu>
     <tu>
@@ -54720,16 +54720,16 @@
       <tuv lang="JA">
         <seg>エリス</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150802T025014Z" creationid="UUZ" creationdate="20140904T135344Z">
-        <seg>伊莉丝</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T072807Z" creationid="UUZ" creationdate="20140904T135344Z">
+        <seg>依莉丝</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>エリスの力を持つ人形。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T030745Z" creationid="土妹子" creationdate="20150110T030745Z">
-        <seg>拥有伊莉丝的力量的人形。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T072826Z" creationid="土妹子" creationdate="20150110T030745Z">
+        <seg>拥有依莉丝的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94208,8 +94208,8 @@
       <tuv lang="JA">
         <seg>魔界で死の天使の力を自由に振っていることが多い。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150110T031045Z" creationid="土妹子" creationdate="20150110T031045Z">
-        <seg>经常在魔界自由发挥死之天使的力量。</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T072913Z" creationid="土妹子" creationdate="20150110T031045Z">
+        <seg>经常在魔界随性地发挥死亡天使的力量。</seg>
       </tuv>
     </tu>
     <tu>
