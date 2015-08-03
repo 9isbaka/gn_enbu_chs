@@ -1768,16 +1768,16 @@
       <tuv lang="JA">
         <seg>%sは 黒いチョーカーで\n持ちこたえた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 戴上了\n黑项链！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T051753Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 戴着黑项链\n忍耐了攻击！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>%sは 黒いリングで\n持ちこたえた！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>%s 戴上了\n黑戒指！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150803T051814Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>%s 戴着黑戒指\n忍耐了攻击！</seg>
       </tuv>
     </tu>
     <tu>
