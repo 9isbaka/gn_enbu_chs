@@ -2145,7 +2145,7 @@
         <seg>006:玄武・河童</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133738Z">
-        <seg>006:玄武·河童</seg>
+        <seg>006:玄武 · 河童</seg>
       </tuv>
     </tu>
     <tu>
@@ -2169,7 +2169,7 @@
         <seg>009:向日葵・無縁塚他</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133822Z">
-        <seg>009:向日葵·无缘塚等</seg>
+        <seg>009:向日葵 · 无缘塚等</seg>
       </tuv>
     </tu>
     <tu>
@@ -2177,7 +2177,7 @@
         <seg>011:廃村・天狗の里</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133833Z">
-        <seg>011:废村·天狗之里</seg>
+        <seg>011:废村 · 天狗之里</seg>
       </tuv>
     </tu>
     <tu>
@@ -2185,7 +2185,7 @@
         <seg>012:命蓮寺・大祀廟</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133852Z">
-        <seg>012:命莲寺·大祀庙</seg>
+        <seg>012:命莲寺 · 大祀庙</seg>
       </tuv>
     </tu>
     <tu>
@@ -2233,7 +2233,7 @@
         <seg>018:阿求邸・龍神像</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133944Z">
-        <seg>018:阿求邸·龙神像</seg>
+        <seg>018:阿求邸 · 龙神像</seg>
       </tuv>
     </tu>
     <tu>
@@ -2241,7 +2241,7 @@
         <seg>019:人里内部・休憩所</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133944Z">
-        <seg>019:人里内部·休憩所</seg>
+        <seg>019:人里内部 · 休憩所</seg>
       </tuv>
     </tu>
     <tu>
@@ -2257,7 +2257,7 @@
         <seg>020:人里内部・屋敷</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20141229T155411Z" creationid="UUZ" creationdate="20141209T133944Z">
-        <seg>020:人里内部·屋敷</seg>
+        <seg>020:人里内部 · 屋敷</seg>
       </tuv>
     </tu>
     <tu>
@@ -2265,7 +2265,7 @@
         <seg>021:ミズナラの木・バス内</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T155724Z" creationid="UUZ" creationdate="20141209T133945Z">
-        <seg>021:水楢树·巴士车内</seg>
+        <seg>021:水楢树 · 巴士车内</seg>
       </tuv>
     </tu>
     <tu>
@@ -29505,7 +29505,7 @@
         <seg>On-Jin～音人～\\nザ・マッチメイカァズ2nd</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>On-Jin～音人～\\nザ·マッチメイカァズ2nd</seg>
+        <seg>On-Jin～音人～\\nザ · マッチメイカァズ2nd</seg>
       </tuv>
     </tu>
     <tu>
@@ -32657,7 +32657,7 @@
         <seg>\c・・・そのついでなのですが</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150210Z" creationid="UUZ" creationdate="20140909T150210Z">
-        <seg>\c ·  ·  · 顺便就好</seg>
+        <seg>\c………顺便就好</seg>
       </tuv>
     </tu>
     <tu>
@@ -37705,7 +37705,7 @@
         <seg>↑香霖堂・魔法の森</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T112939Z" creationid="土妹子" creationdate="20150105T112145Z">
-        <seg>↑香霖堂·魔法之森</seg>
+        <seg>↑香霖堂 · 魔法之森</seg>
       </tuv>
     </tu>
     <tu>
@@ -38982,10 +38982,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>☆溜め·敵怯み·急所1</seg>
+        <seg>☆溜め · 敵怯み · 急所1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142248Z" creationid="UUZ" creationdate="20140904T142019Z">
-        <seg>☆积存·敌胆怯·要害1</seg>
+        <seg>☆积存 · 敌胆怯 · 要害1</seg>
       </tuv>
     </tu>
     <tu>
@@ -48297,7 +48297,7 @@
         <seg>たまにでいいですから・・・ね？</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T150949Z" creationid="UUZ" creationdate="20140909T150949Z">
-        <seg>偶尔就可以了 ·  ·  · 吧？</seg>
+        <seg>偶尔就可以了………吧？</seg>
       </tuv>
     </tu>
     <tu>
@@ -48625,7 +48625,7 @@
         <seg>ちょっとしたお礼にしかならないと思うけど・・・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T161838Z" creationid="UUZ" creationdate="20140909T161838Z">
-        <seg>虽说是小小的谢礼，不过 ·  ·  · </seg>
+        <seg>虽说是小小的谢礼，不过………</seg>
       </tuv>
     </tu>
     <tu>
@@ -50257,7 +50257,7 @@
         <seg>なんらかの地相の時 集防・散防が２倍になり 状態異常にならず 毎ターン 相手にダメージを 与える。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="140706inu" creationdate="20150523T164856Z">
-        <seg>任意地相下集弾·集防·散弾·散防翻倍 不会陷入异常状态 同时每回合给予对手伤害。</seg>
+        <seg>任意地相下集弾 · 集防 · 散弾 · 散防翻倍 不会陷入异常状态 同时每回合给予对手伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50273,7 +50273,7 @@
         <seg>なんらかの気象の時 集弾・集防・散弾・散防が２倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="140706inu" creationdate="20150523T164655Z">
-        <seg>任意气象下集弾·集防·散弾·散防翻倍。</seg>
+        <seg>任意气象下集弾 · 集防 · 散弾 · 散防翻倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53646,7 +53646,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>ア·テンポ</seg>
+        <seg>ア · テンポ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T135736Z" creationid="UUZ" creationdate="20140907T135736Z">
         <seg>节奏还原</seg>
@@ -54153,7 +54153,7 @@
         <seg>アリス・マーガトロイドの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150110T102218Z">
-        <seg>拥有爱丽丝·玛格特洛依德的力量的人形。</seg>
+        <seg>拥有爱丽丝 · 玛格特洛依德的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55142,7 +55142,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>カナ·アナベラル</seg>
+        <seg>カナ · アナベラル</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T143855Z" creationid="UUZ" creationdate="20140906T143855Z">
         <seg>卡娜 · 安娜贝拉尔</seg>
@@ -55169,7 +55169,7 @@
         <seg>カナ・アナベラル</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154552Z">
-        <seg>卡娜·安娜贝拉尔</seg>
+        <seg>卡娜 · 安娜贝拉尔</seg>
       </tuv>
     </tu>
     <tu>
@@ -55177,7 +55177,7 @@
         <seg>カナ・アナベラルの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150110T034959Z">
-        <seg>拥有卡娜·安娜贝拉尔的力量的人形。</seg>
+        <seg>拥有卡娜 · 安娜贝拉尔的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55793,7 +55793,7 @@
         <seg>ゲームデータが不正です。\n再インストール・パッチの再適用をお試しください。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>ゲームデータが不正です。\n再インストール·パッチの再適用をお試しください。</seg>
+        <seg>ゲームデータが不正です。\n再インストール · パッチの再適用をお試しください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56302,7 +56302,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>ザ·リッパー</seg>
+        <seg>ザ · リッパー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T121911Z" creationid="UUZ" creationdate="20140906T121911Z">
         <seg>开膛手</seg>
@@ -59361,7 +59361,7 @@
         <seg>データ入力・他</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>数据输入·其他</seg>
+        <seg>数据输入 · 其他</seg>
       </tuv>
     </tu>
     <tu>
@@ -59985,7 +59985,7 @@
         <seg>バトル！メディスン・メランコリー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150107T015735Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>バトル！メディスン·メランコリー</seg>
+        <seg>バトル！メディスン · メランコリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -60174,7 +60174,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>パチュリー·ノーレッジ</seg>
+        <seg>パチュリー · ノーレッジ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144118Z" creationid="UUZ" creationdate="20140906T144118Z">
         <seg>帕秋莉 · 诺蕾姬</seg>
@@ -60201,7 +60201,7 @@
         <seg>パチュリー・ノーレッジ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154556Z">
-        <seg>帕秋莉·诺蕾姬</seg>
+        <seg>帕秋莉 · 诺蕾姬</seg>
       </tuv>
     </tu>
     <tu>
@@ -60209,7 +60209,7 @@
         <seg>パチュリー・ノーレッジの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150112T131806Z">
-        <seg>拥有帕秋莉·诺蕾姬力量的人形。</seg>
+        <seg>拥有帕秋莉 · 诺蕾姬力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60774,7 +60774,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>フランドール·スカーレット</seg>
+        <seg>フランドール · スカーレット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144133Z" creationid="UUZ" creationdate="20140906T144133Z">
         <seg>芙兰朵露 · 斯卡蕾特</seg>
@@ -60785,7 +60785,7 @@
         <seg>フランドール・スカーレット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154558Z">
-        <seg>芙兰朵露·斯卡蕾特</seg>
+        <seg>芙兰朵露 · 斯卡蕾特</seg>
       </tuv>
     </tu>
     <tu>
@@ -60793,7 +60793,7 @@
         <seg>フランドール・スカーレットの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150112T135652Z">
-        <seg>拥有芙兰朵露·斯卡雷特的力量的人形。</seg>
+        <seg>拥有芙兰朵露 · 斯卡雷特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61310,7 +61310,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>マエリベリー·ハーン</seg>
+        <seg>マエリベリー · ハーン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144340Z" creationid="UUZ" creationdate="20140906T144340Z">
         <seg>玛艾露贝莉 · 赫恩</seg>
@@ -61321,7 +61321,7 @@
         <seg>マエリベリー・ハーン</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154619Z">
-        <seg>玛艾露贝莉·赫恩</seg>
+        <seg>玛艾露贝莉 · 赫恩</seg>
       </tuv>
     </tu>
     <tu>
@@ -61329,7 +61329,7 @@
         <seg>マエリベリー・ハーンの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150113T135221Z">
-        <seg>拥有玛艾里贝莉·哈恩的力量的人形。</seg>
+        <seg>拥有玛艾里贝莉 · 哈恩的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61598,7 +61598,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>ミスティア·ローレライ</seg>
+        <seg>ミスティア · ローレライ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144426Z" creationid="UUZ" creationdate="20140906T144426Z">
         <seg>米斯蒂娅 · 萝蕾拉</seg>
@@ -61617,7 +61617,7 @@
         <seg>ミスティア・ローレライ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154621Z">
-        <seg>米斯蒂娅·萝蕾拉</seg>
+        <seg>米斯蒂娅 · 萝蕾拉</seg>
       </tuv>
     </tu>
     <tu>
@@ -61625,7 +61625,7 @@
         <seg>ミスティア・ローレライの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150113T144235Z">
-        <seg>拥有米丝蒂娅·萝蕾拉的力量的人形。</seg>
+        <seg>拥有米丝蒂娅 · 萝蕾拉的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62014,7 +62014,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>メディスン·メランコリー</seg>
+        <seg>メディスン · メランコリー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144600Z" creationid="UUZ" creationdate="20140906T144600Z">
         <seg>梅蒂欣 · 梅兰可莉</seg>
@@ -62025,7 +62025,7 @@
         <seg>メディスン・メランコリー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154625Z">
-        <seg>梅蒂欣·梅兰可莉</seg>
+        <seg>梅蒂欣 · 梅兰可莉</seg>
       </tuv>
     </tu>
     <tu>
@@ -62033,7 +62033,7 @@
         <seg>メディスン・メランコリーの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150116T021127Z">
-        <seg>拥有梅蒂欣·梅兰可莉的力量的人形。</seg>
+        <seg>拥有梅蒂欣 · 梅兰可莉的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62094,10 +62094,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>メルラン·プリズムリバー</seg>
+        <seg>メルラン · プリズムリバー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144220Z" creationid="UUZ" creationdate="20140906T144220Z">
-        <seg>梅露兰·普莉兹姆利巴</seg>
+        <seg>梅露兰 · 普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -62105,7 +62105,7 @@
         <seg>メルラン・プリズムリバー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154606Z">
-        <seg>梅露兰·普莉兹姆利巴</seg>
+        <seg>梅露兰 · 普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -62113,7 +62113,7 @@
         <seg>メルラン・プリズムリバーの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150112T143106Z">
-        <seg>拥有梅露兰·普利兹姆利巴的力量的人形。</seg>
+        <seg>拥有梅露兰 · 普利兹姆利巴的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62606,7 +62606,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>リグル·ナイトバグ</seg>
+        <seg>リグル · ナイトバグ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144436Z" creationid="UUZ" creationdate="20140906T144412Z">
         <seg>莉格露 · 奈特巴格</seg>
@@ -62617,7 +62617,7 @@
         <seg>リグル・ナイトバグ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154620Z">
-        <seg>莉格露·奈特巴格</seg>
+        <seg>莉格露 · 奈特巴格</seg>
       </tuv>
     </tu>
     <tu>
@@ -62625,7 +62625,7 @@
         <seg>リグル・ナイトバグの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150113T143444Z">
-        <seg>拥有莉格露·奈特巴格的力量的人形。</seg>
+        <seg>拥有莉格露 · 奈特巴格的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62774,10 +62774,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>リリカ·プリズムリバー</seg>
+        <seg>リリカ · プリズムリバー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144215Z" creationid="UUZ" creationdate="20140906T144215Z">
-        <seg>莉莉卡·普莉兹姆利巴</seg>
+        <seg>莉莉卡 · 普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -62785,7 +62785,7 @@
         <seg>リリカ・プリズムリバー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154602Z">
-        <seg>莉莉卡·普莉兹姆利巴</seg>
+        <seg>莉莉卡 · 普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -62793,7 +62793,7 @@
         <seg>リリカ・プリズムリバーの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150112T142720Z">
-        <seg>拥有莉莉卡·普利兹姆利巴的力量的人形。</seg>
+        <seg>拥有莉莉卡 · 普利兹姆利巴的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62926,10 +62926,10 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>ルナサ·プリズムリバー</seg>
+        <seg>ルナサ · プリズムリバー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144226Z" creationid="UUZ" creationdate="20140906T144226Z">
-        <seg>露娜萨·普莉兹姆利巴</seg>
+        <seg>露娜萨 · 普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -62937,7 +62937,7 @@
         <seg>ルナサ・プリズムリバー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154616Z">
-        <seg>露娜萨·普莉兹姆利巴</seg>
+        <seg>露娜萨 · 普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -62945,7 +62945,7 @@
         <seg>ルナサ・プリズムリバーの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150113T062652Z">
-        <seg>拥有露娜萨·普利兹姆利巴的力量的人形。</seg>
+        <seg>拥有露娜萨 · 普利兹姆利巴的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63094,7 +63094,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>レティ·ホワイトロック</seg>
+        <seg>レティ · ホワイトロック</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144147Z" creationid="UUZ" creationdate="20140906T144147Z">
         <seg>蕾蒂 · 霍瓦特洛克</seg>
@@ -63105,7 +63105,7 @@
         <seg>レティ・ホワイトロック</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154600Z">
-        <seg>蕾蒂·霍瓦特洛克</seg>
+        <seg>蕾蒂 · 霍瓦特洛克</seg>
       </tuv>
     </tu>
     <tu>
@@ -63113,7 +63113,7 @@
         <seg>レティ・ホワイトロックの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150112T140002Z">
-        <seg>拥有蕾蒂·霍瓦特洛克的力量的人形。</seg>
+        <seg>拥有蕾蒂 · 霍瓦特洛克的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63158,7 +63158,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>レミリア·スカーレット</seg>
+        <seg>レミリア · スカーレット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144127Z" creationid="UUZ" creationdate="20140906T144127Z">
         <seg>蕾米莉亚 · 斯卡蕾特</seg>
@@ -63185,7 +63185,7 @@
         <seg>レミリア・スカーレット</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154557Z">
-        <seg>蕾米莉亚·斯卡蕾特</seg>
+        <seg>蕾米莉亚 · 斯卡蕾特</seg>
       </tuv>
     </tu>
     <tu>
@@ -63193,7 +63193,7 @@
         <seg>レミリア・スカーレットの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150112T135405Z">
-        <seg>拥有蕾米莉亚·斯卡雷特的力量的人形。</seg>
+        <seg>拥有蕾米莉亚 · 斯卡雷特的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63369,7 +63369,7 @@
         <seg>・</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>·</seg>
+        <seg> · </seg>
       </tuv>
     </tu>
     <tu>
@@ -63377,7 +63377,7 @@
         <seg>・\\w</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>·\\w</seg>
+        <seg> · \\w</seg>
       </tuv>
     </tu>
     <tu>
@@ -63513,7 +63513,7 @@
         <seg>・・・それじゃあ、私は行くわ。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140909T154746Z" creationid="UUZ" creationdate="20140909T154746Z">
-        <seg> ·  ·  · 那么就这样，我就要走了。</seg>
+        <seg>………那么就这样，我就要走了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63833,7 +63833,7 @@
         <seg>・手持ちの人形３体以上 ・人形のレベル50制限\\n・同種同スタイルの人形禁止 ・装飾品の重複禁止\\n・選出可能人形３体</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>·携带人形３只以上 ·人形等级限５０级\\n·禁用同种同形态人形·禁用重复装饰品\\n·可选人形３只</seg>
+        <seg> · 携带人形３只以上 ·人形等级限５０级\\n · 禁用同种同形态人形 · 禁用重复装饰品\\n · 可选人形３只</seg>
       </tuv>
     </tu>
     <tu>
@@ -63841,7 +63841,7 @@
         <seg>・手持ちの人形３体以上 ・人形のレベル50制限\\n・同種同スタイルの人形禁止 ・装飾品の重複禁止\\n・選出可能人形３～６体</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>·携带人形３只以上 ·人形等级限５０级\\n·禁用同种同形态人形·禁用重复装饰品\\n·可选人形３~６只</seg>
+        <seg> · 携带人形３只以上 ·人形等级限５０级\\n · 禁用同种同形态人形 · 禁用重复装饰品\\n · 可选人形３~６只</seg>
       </tuv>
     </tu>
     <tu>
@@ -63849,7 +63849,7 @@
         <seg>・手持ちの人形３体以上 ・選出可能人形３～６体\\n・その他制限なし</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>·携带人形３只以上 ·可选人形３～６只\\n·没有其他限制</seg>
+        <seg> · 携带人形３只以上 ·可选人形３～６只\\n · 没有其他限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -64006,7 +64006,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>一符·炎</seg>
+        <seg>一符 · 炎</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T092940Z" creationid="UUZ" creationdate="20140904T161814Z">
         <seg>一符 · 炎</seg>
@@ -64017,7 +64017,7 @@
         <seg>一符・炎</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110614Z">
-        <seg>一符·炎</seg>
+        <seg>一符 · 炎</seg>
       </tuv>
     </tu>
     <tu>
@@ -64086,7 +64086,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>七符·雷</seg>
+        <seg>七符 · 雷</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T130942Z" creationid="UUZ" creationdate="20140906T130942Z">
         <seg>七符 · 雷</seg>
@@ -64097,7 +64097,7 @@
         <seg>七符・雷</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110831Z">
-        <seg>七符·雷</seg>
+        <seg>七符 · 雷</seg>
       </tuv>
     </tu>
     <tu>
@@ -64174,7 +64174,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>三符·自然</seg>
+        <seg>三符 · 自然</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T095849Z" creationid="UUZ" creationdate="20140906T095849Z">
         <seg>三符 · 自然</seg>
@@ -64185,7 +64185,7 @@
         <seg>三符・自然</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110634Z">
-        <seg>三符·自然</seg>
+        <seg>三符 · 自然</seg>
       </tuv>
     </tu>
     <tu>
@@ -64598,7 +64598,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>九符·闇</seg>
+        <seg>九符 · 闇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T140311Z" creationid="UUZ" creationdate="20140906T140311Z">
         <seg>九符 · 暗</seg>
@@ -64609,7 +64609,7 @@
         <seg>九符・闇</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110946Z">
-        <seg>九符·暗</seg>
+        <seg>九符 · 暗</seg>
       </tuv>
     </tu>
     <tu>
@@ -64617,7 +64617,7 @@
         <seg>九符・闇。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153649Z" creationid="土妹子" creationdate="20150102T153649Z">
-        <seg>九符·暗。</seg>
+        <seg>九符 · 暗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64718,7 +64718,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>二符·水</seg>
+        <seg>二符 · 水</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T092935Z" creationid="UUZ" creationdate="20140906T092935Z">
         <seg>二符 · 水</seg>
@@ -64729,7 +64729,7 @@
         <seg>二符・水</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110623Z">
-        <seg>二符·水</seg>
+        <seg>二符 · 水</seg>
       </tuv>
     </tu>
     <tu>
@@ -64737,7 +64737,7 @@
         <seg>二符￥水</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150101T133403Z">
-        <seg>二符·水</seg>
+        <seg>二符 · 水</seg>
       </tuv>
     </tu>
     <tu>
@@ -64766,7 +64766,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>五符·鋼鉄</seg>
+        <seg>五符 · 鋼鉄</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T122230Z" creationid="UUZ" creationdate="20140906T122230Z">
         <seg>五符 · 钢铁</seg>
@@ -64777,7 +64777,7 @@
         <seg>五符・鋼鉄</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110706Z">
-        <seg>五符·钢铁</seg>
+        <seg>五符 · 钢铁</seg>
       </tuv>
     </tu>
     <tu>
@@ -64785,7 +64785,7 @@
         <seg>五符・鋼鉄。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153642Z" creationid="土妹子" creationdate="20150102T153642Z">
-        <seg>五符·钢铁。</seg>
+        <seg>五符 · 钢铁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65289,7 +65289,7 @@
         <seg>人形に持たせると毒・猛毒を回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140908T010226Z">
-        <seg>人形携带时可以从毒·剧毒状态中恢复。</seg>
+        <seg>人形携带时可以从毒 · 剧毒状态中恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65345,7 +65345,7 @@
         <seg>人形に持たせると火傷・大火傷を回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140908T011654Z">
-        <seg>人形携带时可以从烧伤·大烧伤状态中恢复。</seg>
+        <seg>人形携带时可以从烧伤 · 大烧伤状态中恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66409,7 +66409,7 @@
         <seg>人里内部・休憩所</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="CJ" creationdate="20150522T090225Z">
-        <seg>人里内部·休息所</seg>
+        <seg>人里内部 · 休息所</seg>
       </tuv>
     </tu>
     <tu>
@@ -67337,7 +67337,7 @@
         <seg>企画・頒布</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>企划·颁布</seg>
+        <seg>企划 · 颁布</seg>
       </tuv>
     </tu>
     <tu>
@@ -68553,7 +68553,7 @@
         <seg>光・闇属性のスキルで受けるダメージを半減する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20141231T024712Z">
-        <seg>受到的光·暗属性技能伤害减半。</seg>
+        <seg>受到的光 · 暗属性技能伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68774,7 +68774,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>八符·光</seg>
+        <seg>八符 · 光</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T133520Z" creationid="UUZ" creationdate="20140906T133520Z">
         <seg>八符 · 光</seg>
@@ -68785,7 +68785,7 @@
         <seg>八符・光</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110941Z">
-        <seg>八符·光</seg>
+        <seg>八符 · 光</seg>
       </tuv>
     </tu>
     <tu>
@@ -68862,7 +68862,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>六符·風</seg>
+        <seg>六符 · 風</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T124857Z" creationid="UUZ" creationdate="20140906T124857Z">
         <seg>六符 · 风</seg>
@@ -68873,7 +68873,7 @@
         <seg>六符・風</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110825Z">
-        <seg>六符·风</seg>
+        <seg>六符 · 风</seg>
       </tuv>
     </tu>
     <tu>
@@ -68881,7 +68881,7 @@
         <seg>六符・風。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153645Z" creationid="土妹子" creationdate="20150102T153645Z">
-        <seg>六符·风。</seg>
+        <seg>六符 · 风。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69606,7 +69606,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>十一符·毒</seg>
+        <seg>十一符 · 毒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T141459Z" creationid="UUZ" creationdate="20140906T141459Z">
         <seg>十一符 · 毒</seg>
@@ -69617,12 +69617,12 @@
         <seg>十一符・毒</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110958Z">
-        <seg>十一符·毒</seg>
+        <seg>十一符 · 毒</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>十三符·幻</seg>
+        <seg>十三符 · 幻</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T133858Z" creationid="UUZ" creationdate="20140907T133858Z">
         <seg>十三符 · 幻</seg>
@@ -69633,12 +69633,12 @@
         <seg>十三符・幻</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T141046Z">
-        <seg>十三符·幻</seg>
+        <seg>十三符 · 幻</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>十二符·闘</seg>
+        <seg>十二符 · 闘</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T124103Z" creationid="UUZ" creationdate="20140907T124103Z">
         <seg>十二符 · 斗</seg>
@@ -69649,7 +69649,7 @@
         <seg>十二符・闘</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T141052Z">
-        <seg>十二符·斗</seg>
+        <seg>十二符 · 斗</seg>
       </tuv>
     </tu>
     <tu>
@@ -69657,7 +69657,7 @@
         <seg>十二符・闘。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T153653Z" creationid="土妹子" creationdate="20150102T153653Z">
-        <seg>十二符·斗。</seg>
+        <seg>十二符 · 斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69686,7 +69686,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>十四符·音</seg>
+        <seg>十四符 · 音</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T140839Z" creationid="UUZ" creationdate="20140907T140839Z">
         <seg>十四符 · 音</seg>
@@ -69697,7 +69697,7 @@
         <seg>十四符・音</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T140957Z">
-        <seg>十四符·音</seg>
+        <seg>十四符 · 音</seg>
       </tuv>
     </tu>
     <tu>
@@ -69718,7 +69718,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>十符·冥</seg>
+        <seg>十符 · 冥</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140907T120441Z" creationid="UUZ" creationdate="20140907T120441Z">
         <seg>十符 · 冥</seg>
@@ -69729,7 +69729,7 @@
         <seg>十符・冥</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T141127Z">
-        <seg>十符·冥</seg>
+        <seg>十符 · 冥</seg>
       </tuv>
     </tu>
     <tu>
@@ -71006,7 +71006,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>四季映姫·ヤマザナドゥ</seg>
+        <seg>四季映姫 · ヤマザナドゥ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144613Z" creationid="UUZ" creationdate="20140906T144613Z">
         <seg>四季映姫 · 亚玛萨那度</seg>
@@ -71017,7 +71017,7 @@
         <seg>四季映姫・ヤマザナドゥ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154626Z">
-        <seg>四季映姬·亚玛萨那度</seg>
+        <seg>四季映姬 · 亚玛萨那度</seg>
       </tuv>
     </tu>
     <tu>
@@ -71025,7 +71025,7 @@
         <seg>四季映姫・ヤマザナドゥの力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150116T143738Z">
-        <seg>拥有四季映姬·亚玛萨那度的力量的人形。</seg>
+        <seg>拥有四季映姬 · 亚玛萨那度的力量的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71054,7 +71054,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>四符·大地</seg>
+        <seg>四符 · 大地</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T113848Z" creationid="UUZ" creationdate="20140906T113848Z">
         <seg>四符 · 大地</seg>
@@ -71065,7 +71065,7 @@
         <seg>四符・大地</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T110644Z">
-        <seg>四符·大地</seg>
+        <seg>四符 · 大地</seg>
       </tuv>
     </tu>
     <tu>
@@ -75089,7 +75089,7 @@
         <seg>幻月・夢月</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20141230T115655Z">
-        <seg>幻月·梦月</seg>
+        <seg>幻月 · 梦月</seg>
       </tuv>
     </tu>
     <tu>
@@ -77041,7 +77041,7 @@
         <seg>拘束技・アビリティから逃げられる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20141231T094111Z">
-        <seg>可无视拘束技·特性的影响逃脱。</seg>
+        <seg>可无视拘束技 · 特性的影响逃脱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80729,7 +80729,7 @@
         <seg>毒 猛毒状態の 相手には 威力が ２倍に なる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150101T111537Z">
-        <seg>对毒·剧毒状态的对手威力翻倍。</seg>
+        <seg>对毒 · 剧毒状态的对手威力翻倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80769,7 +80769,7 @@
         <seg>毒・猛毒状態にならない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20141231T025822Z">
-        <seg>不会进入毒·剧毒状态。</seg>
+        <seg>不会进入毒 · 剧毒状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80777,7 +80777,7 @@
         <seg>毒・猛毒状態の時 毎ターンＨＰが回復する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20141231T030425Z">
-        <seg>毒·剧毒状态时每回合回复ＨＰ。</seg>
+        <seg>毒 · 剧毒状态时每回合回复ＨＰ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80785,7 +80785,7 @@
         <seg>毒・猛毒状態の時 集弾が１.５倍になる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20141231T030408Z">
-        <seg>毒·剧毒状态时集弹变为１.５倍。</seg>
+        <seg>毒 · 剧毒状态时集弹变为１.５倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82249,7 +82249,7 @@
         <seg>火傷・大火傷状態にならない。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20141231T025846Z">
-        <seg>不会进入烧伤·大烧伤状态。</seg>
+        <seg>不会进入烧伤 · 大烧伤状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84489,7 +84489,7 @@
         <seg>相手の場の壁・バリアオプションを無視して 攻撃できる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="140706inu" creationdate="20150523T163628Z">
-        <seg>无视对手场上的壁障·子机进行攻击。</seg>
+        <seg>无视对手场上的壁障 · 子机进行攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85273,7 +85273,7 @@
         <seg>私がここの主 レミリア・スカーレット。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150106T055440Z">
-        <seg>我是这里的主人　蕾米莉亚·斯卡雷特。</seg>
+        <seg>我是这里的主人　蕾米莉亚 · 斯卡雷特。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91886,7 +91886,7 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>鈴仙·優曇華院·イナバ</seg>
+        <seg>鈴仙 · 優曇華院 · イナバ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144453Z" creationid="UUZ" creationdate="20140906T144453Z">
         <seg>铃仙 · 优昙华院 · 因幡</seg>
@@ -91897,7 +91897,7 @@
         <seg>鈴仙・優曇華院・イナバ</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="UUZ" creationdate="20140907T154623Z">
-        <seg>铃仙·优昙华院·因幡</seg>
+        <seg>铃仙 · 优昙华院 · 因幡</seg>
       </tuv>
     </tu>
     <tu>
@@ -91905,7 +91905,7 @@
         <seg>鈴仙・優曇華院・イナバの能力を持つ人形。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="土妹子" creationdate="20150115T135803Z">
-        <seg>拥有铃仙·优昙华院·因幡的能力的人形。</seg>
+        <seg>拥有铃仙 · 优昙华院 · 因幡的能力的人形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92305,7 +92305,7 @@
         <seg>闇・冥・毒属性のスキルを受けた時 ダメージを軽減し 自分の俊敏が一段階上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="140706inu" creationdate="20150523T160510Z">
-        <seg>受到暗·冥·毒属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
+        <seg>受到暗 · 冥 · 毒属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92609,7 +92609,7 @@
         <seg>集中・・・集中技は人形のステータスの集弾に関係する。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="妄想" creationdate="20150110T081455Z">
-        <seg>集中·集中技受人形属性中的集弹影响。</seg>
+        <seg>集中 · 集中技受人形属性中的集弹影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92857,7 +92857,7 @@
         <seg>雷・光・幻属性のスキルを受けた時 ダメージを軽減し 自分の俊敏が一段階上がる。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="140706inu" creationdate="20150523T160445Z">
-        <seg>受到雷·光·幻属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
+        <seg>受到雷、光、幻属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
