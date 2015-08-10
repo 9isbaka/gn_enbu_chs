@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38974,18 +38974,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>☆溜め 溜めてる間 ほとんどのスキル無効 　防御結界無効</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062519Z" creationid="土妹子" creationdate="20150101T062511Z">
-        <seg>☆蓄力　蓄力时大部分技能无效　无视防御结界</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>☆溜め · 敵怯み · 急所1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140904T142248Z" creationid="UUZ" creationdate="20140904T142019Z">
         <seg>☆积存 · 敌胆怯 · 要害1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>☆溜め 溜めてる間 ほとんどのスキル無効 　防御結界無効</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T062519Z" creationid="土妹子" creationdate="20150101T062511Z">
+        <seg>☆蓄力　蓄力时大部分技能无效　无视防御结界</seg>
       </tuv>
     </tu>
     <tu>
@@ -62086,18 +62086,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
-        <seg>メルラン リリカの人形と常に一緒。</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T062720Z" creationid="土妹子" creationdate="20150113T062720Z">
-        <seg>经常和梅露兰、莉莉卡人形在一起。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
         <seg>メルラン · プリズムリバー</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144220Z" creationid="UUZ" creationdate="20140906T144220Z">
         <seg>梅露兰 · 普莉兹姆利巴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>メルラン リリカの人形と常に一緒。</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150113T062720Z" creationid="土妹子" creationdate="20150113T062720Z">
+        <seg>经常和梅露兰、莉莉卡人形在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62712,32 +62712,32 @@
       <tuv lang="JA">
         <seg>リプレイがありません！</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T165236Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>没有replay！</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150810T014310Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>没有战斗录像！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>リプレイを保存しない</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164913Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>不保存replay</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150810T014310Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>不保存战斗录像</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>リプレイを保存する</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T164906Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>保存replay</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150810T014341Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>保存战斗录像</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>リプレイを見る</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T165251Z" creationid="土妹子" creationdate="20150107T015735Z">
-        <seg>观看replay</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150810T014310Z" creationid="土妹子" creationdate="20150107T015735Z">
+        <seg>观看战斗录像</seg>
       </tuv>
     </tu>
     <tu>
@@ -62910,6 +62910,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>ルナサ · プリズムリバー</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144226Z" creationid="UUZ" creationdate="20140906T144226Z">
+        <seg>露娜萨 · 普莉兹姆利巴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>ルナサ メルランの人形と常に一緒。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143050Z" creationid="土妹子" creationdate="20150112T143050Z">
@@ -62922,14 +62930,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="土妹子" changedate="20150112T143142Z" creationid="土妹子" creationdate="20150112T143142Z">
         <seg>经常和露娜萨、莉莉卡人形在一起。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="JA">
-        <seg>ルナサ · プリズムリバー</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20140906T144226Z" creationid="UUZ" creationdate="20140906T144226Z">
-        <seg>露娜萨 · 普莉兹姆利巴</seg>
       </tuv>
     </tu>
     <tu>
@@ -64378,6 +64378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="CJ" changedate="20150525T165136Z" creationid="土妹子" creationdate="20150107T015735Z">
         <seg>不明的错误！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>不正な人形がいます！</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150810T014035Z" creationid="140706inu" creationdate="20150810T014035Z">
+        <seg>存在非法人形！</seg>
       </tuv>
     </tu>
     <tu>
