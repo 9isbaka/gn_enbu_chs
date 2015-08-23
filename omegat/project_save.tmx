@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="JA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33584,8 +33584,8 @@
       <tuv lang="JA">
         <seg>\c本来は私が助力を頼まれたんだが 少々たてこんでいてな・・・。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150720T003046Z" creationid="土妹子" creationdate="20150106T132827Z">
-        <seg>\c本来是拜托我去帮忙的 可我最近有些忙脱不开身……</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150823T103350Z" creationid="土妹子" creationdate="20150106T132827Z">
+        <seg>\c本来是拜托我去帮忙的 可我最近有些忙脱不开身……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34008,8 +34008,8 @@
       <tuv lang="JA">
         <seg>\c虫のいい話だと重々承知なんだが 永遠亭に行って事件を解決してきてもらえないだろうか？</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150720T003320Z" creationid="土妹子" creationdate="20150106T133045Z">
-        <seg>\c我知道这实在是无理取闹 不过能否请你去永远亭解决事件呢？</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150823T103340Z" creationid="土妹子" creationdate="20150106T133045Z">
+        <seg>\c我知道这实在是很无理的要求 不过能否请你去永远亭解决事件呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -63320,8 +63320,8 @@
       <tuv lang="JA">
         <seg>ワルガキの</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150102T164817Z" creationid="土妹子" creationdate="20150102T164817Z">
-        <seg>坏小孩的</seg>
+      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150823T103147Z" creationid="土妹子" creationdate="20150102T164817Z">
+        <seg>坏小子</seg>
       </tuv>
     </tu>
     <tu>
