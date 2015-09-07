@@ -50256,8 +50256,8 @@
       <tuv lang="JA">
         <seg>なんらかの地相の時 集防・散防が２倍になり 状態異常にならず 毎ターン 相手にダメージを 与える。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="140706inu" creationdate="20150523T164856Z">
-        <seg>任意地相下集弾 · 集防 · 散弾 · 散防翻倍 不会陷入异常状态 同时每回合给予对手伤害。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T092053Z" creationid="140706inu" creationdate="20150523T164856Z">
+        <seg>任意地相下 集防 · 散防翻倍 不会陷入异常状态 同时每回合给予对手伤害。</seg>
       </tuv>
     </tu>
     <tu>
