@@ -38128,8 +38128,8 @@
       <tuv lang="JA">
         <seg>★相手の集弾・散弾1段階低下させ、交代する</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T142509Z">
-        <seg>★对手的集弹、散弹降低１段 之后自身交换</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093652Z" creationid="土妹子" creationdate="20141231T142509Z">
+        <seg>★对手的集弹 · 散弹降低１段 之后自身交换</seg>
       </tuv>
     </tu>
     <tu>
@@ -38360,8 +38360,8 @@
       <tuv lang="JA">
         <seg>★自分と相手の集弾・散弾ランクを入れ替える</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101114Z" creationid="土妹子" creationdate="20141231T101114Z">
-        <seg>★交换自身和对手的集弹、散弹能力等级</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093456Z" creationid="土妹子" creationdate="20141231T101114Z">
+        <seg>★交换自身和对手的集弹 · 散弹能力等级</seg>
       </tuv>
     </tu>
     <tu>
@@ -38376,8 +38376,8 @@
       <tuv lang="JA">
         <seg>★自分と相手の集防・散防ランクを入れ替える</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101146Z" creationid="土妹子" creationdate="20141231T101146Z">
-        <seg>★交换自身和对手的集防、散防能力等级</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093502Z" creationid="土妹子" creationdate="20141231T101146Z">
+        <seg>★交换自身和对手的集防 · 散防能力等级</seg>
       </tuv>
     </tu>
     <tu>
@@ -38512,24 +38512,24 @@
       <tuv lang="JA">
         <seg>★自分の散弾・俊敏1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101648Z" creationid="土妹子" creationdate="20141231T101648Z">
-        <seg>★自身的散弹、敏捷上升１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093520Z" creationid="土妹子" creationdate="20141231T101648Z">
+        <seg>★自身的散弹 · 敏捷上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の散弾・散防1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101635Z" creationid="土妹子" creationdate="20141231T101635Z">
-        <seg>★自身的散弹、散防上升一段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093514Z" creationid="土妹子" creationdate="20141231T101635Z">
+        <seg>★自身的散弹 · 散防上升一段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の散弾・散防・俊敏1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T101621Z" creationid="土妹子" creationdate="20141231T101621Z">
-        <seg>★自身的散弹、散防、敏捷上升１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093508Z" creationid="土妹子" creationdate="20141231T101621Z">
+        <seg>★自身的散弹 · 散防 · 敏捷上升１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -38624,56 +38624,56 @@
       <tuv lang="JA">
         <seg>★自分の集弾・俊敏1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111530Z" creationid="土妹子" creationdate="20141231T111530Z">
-        <seg>★自身的集弹、敏捷上升１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093601Z" creationid="土妹子" creationdate="20141231T111530Z">
+        <seg>★自身的集弹 · 敏捷上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の集弾・命中1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111544Z" creationid="土妹子" creationdate="20141231T111544Z">
-        <seg>★自身的集弹、命中上升１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093610Z" creationid="土妹子" creationdate="20141231T111544Z">
+        <seg>★自身的集弹 · 命中上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の集弾・散弾ランクを1段階上昇させる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111301Z" creationid="土妹子" creationdate="20141231T111301Z">
-        <seg>★自身的集弹、散弹上升１段。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093543Z" creationid="土妹子" creationdate="20141231T111301Z">
+        <seg>★自身的集弹 · 散弹上升１段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の集弾・散弾・俊敏2段上昇、集防・散防１段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T111249Z">
-        <seg>★自身的集弹、散弹、敏捷上升２段 集防、散防下降１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093539Z" creationid="土妹子" creationdate="20141231T111249Z">
+        <seg>★自身的集弹 · 散弹 · 敏捷上升２段 集防 · 散防下降１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の集弾・集防1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111342Z" creationid="土妹子" creationdate="20141231T111342Z">
-        <seg>★自身的集弹、集防上升１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093551Z" creationid="土妹子" creationdate="20141231T111342Z">
+        <seg>★自身的集弹 · 集防上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の集弾・集防1段上昇、俊敏１段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T111358Z">
-        <seg>★自身的集弹、集防上升１段 敏捷下降１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093559Z" creationid="土妹子" creationdate="20141231T111358Z">
+        <seg>★自身的集弹 · 集防上升１段 敏捷下降１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分の集弾・集防・命中1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111329Z" creationid="土妹子" creationdate="20141231T111329Z">
-        <seg>★自身的集弹、集防、命中上升１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093548Z" creationid="土妹子" creationdate="20141231T111329Z">
+        <seg>★自身的集弹 · 集防、命中上升１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -38704,16 +38704,16 @@
       <tuv lang="JA">
         <seg>★自分の集防・散防1段上昇</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T111651Z" creationid="土妹子" creationdate="20141231T111651Z">
-        <seg>★自身的集防、散防上升１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093634Z" creationid="土妹子" creationdate="20141231T111651Z">
+        <seg>★自身的集防 · 散防上升１段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>★自分は戦闘不能になる　相手の集弾・散弾2段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T121611Z">
-        <seg>★自身陷入战斗不能 使对手的集弹、散弹下降２段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093646Z" creationid="土妹子" creationdate="20141231T121611Z">
+        <seg>★自身陷入战斗不能 使对手的集弹 · 散弹下降２段</seg>
       </tuv>
     </tu>
     <tu>
@@ -39544,8 +39544,8 @@
       <tuv lang="JA">
         <seg>☆自分の集弾・集防1段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060551Z" creationid="土妹子" creationdate="20150101T060551Z">
-        <seg>☆自身的集弹、集防下降１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093844Z" creationid="土妹子" creationdate="20150101T060551Z">
+        <seg>☆自身的集弹 · 集防下降１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -39568,8 +39568,8 @@
       <tuv lang="JA">
         <seg>☆自分の集防・散防1段低下</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20150101T060607Z" creationid="土妹子" creationdate="20150101T060607Z">
-        <seg>☆自身的集防、散防下降１段</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093905Z" creationid="土妹子" creationdate="20150101T060607Z">
+        <seg>☆自身的集防 · 散防下降１段</seg>
       </tuv>
     </tu>
     <tu>
@@ -73296,8 +73296,8 @@
       <tuv lang="JA">
         <seg>威力８０以上のスキルを受けた時 相手の俊敏を一段階低下させる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="UUZ" changedate="20150523T041553Z" creationid="土妹子" creationdate="20141231T091836Z">
-        <seg>受到威力80以上的技能时 降低对手的敏捷１段。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093352Z" creationid="土妹子" creationdate="20141231T091836Z">
+        <seg>受到威力８０以上的技能时 降低对手的敏捷１段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82824,8 +82824,8 @@
       <tuv lang="JA">
         <seg>状態変化・状態異常・ステータス低下スキルに対して 回避率が上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="土妹子" changedate="20141231T094612Z" creationid="土妹子" creationdate="20141231T094606Z">
-        <seg>对状态变化、状态异常、能力低下技能的回避率上升。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T093447Z" creationid="土妹子" creationdate="20141231T094606Z">
+        <seg>对状态变化 · 状态异常 · 能力低下技能的回避率上升。</seg>
       </tuv>
     </tu>
     <tu>
