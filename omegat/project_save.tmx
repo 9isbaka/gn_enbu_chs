@@ -81112,8 +81112,8 @@
       <tuv lang="JA">
         <seg>気象：凪の時 自分の散弾・散防が１.５倍になる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="CJ" changedate="20150523T145217Z" creationid="UUZ" creationdate="20150102T150010Z">
-        <seg>气象：凪时自身的散弹、散防变为１.５倍。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T092716Z" creationid="UUZ" creationdate="20150102T150010Z">
+        <seg>气象：凪时自身的散弹 · 散防变为１.５倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92864,8 +92864,8 @@
       <tuv lang="JA">
         <seg>雷・光・幻属性のスキルを受けた時 ダメージを軽減し 自分の俊敏が一段階上がる。</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="140706inu" changedate="20150712T113021Z" creationid="140706inu" creationdate="20150523T160445Z">
-        <seg>受到雷、光、幻属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
+      <tuv lang="ZH-CN" changeid="CJ" changedate="20150907T092959Z" creationid="140706inu" creationdate="20150523T160445Z">
+        <seg>受到雷 · 光 · 幻属性攻击时 伤害减轻且自身敏捷上升１段。</seg>
       </tuv>
     </tu>
     <tu>
