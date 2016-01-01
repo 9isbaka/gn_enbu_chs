@@ -134,18 +134,18 @@
         <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
     </filter>
     <filter className="org.omegat.filters2.text.csv.GeneralCSVFilter" enabled="true">
-        <files sourceFilenameMask="*.csv" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.csv" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS" targetEncoding="GBK"/>
     </filter>
     <filter className="org.omegat.filters4.gnenbu.dbs.GnenbuDollDataFilter" enabled="true">
-        <files sourceFilenameMask="*.dbs" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.dbs" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS" targetEncoding="GBK"/>
     </filter>
     <filter className="org.omegat.filters4.gnenbu.dod.GnenbuOperatorFilter" enabled="true">
-        <files sourceFilenameMask="*.dod" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.dod" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS" targetEncoding="GBK"/>
     </filter>
     <filter className="org.omegat.filters4.gnenbu.sbs.GnenbuSkillDataFilter" enabled="true">
-        <files sourceFilenameMask="*.sbs" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.sbs" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS" targetEncoding="GBK"/>
     </filter>
     <filter className="org.omegat.filters4.gnenbu.mad.GnenbuMapDataFilter" enabled="true">
-        <files sourceFilenameMask="*.mad" targetFilenamePattern="${filename}"/>
+        <files sourceFilenameMask="*.mad" targetFilenamePattern="${filename}" sourceEncoding="Shift-JIS" targetEncoding="GBK"/>
     </filter>
 </filters>
